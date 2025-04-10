@@ -35,3 +35,59 @@ width=50%"/>
 |Versión|Fecha|Autor|Descripción de modificación|
 |:-:|:-:|:-:|-|
 |1.0|09/04/2025|Guerrero, Peña, Pilares, Salvador, Sanchez|Creación del documento de trabajo en formato markdown|
+
+## Project Report Collaboration Insights
+
+URL del repositorio para el reporte del proyecto: https://integradis-opensource.github.io/LandingPage/
+
+**TB1**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nelson Guerrero||
+|María Peña||
+|María Pilares||
+|Rodrigo Salvador||
+|Luciana Sanchez||
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización Integradis.
+
+**Github Collaboration Insights**
+
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
+
+Los integrantes son:
+
+* Nelson Guerrero ()
+* María Peña ()
+* María Pilares (mariapilares)
+* Rodrigo Salvador (Rodrigojsr12)
+* Luciana Sanchez ()
+
+Se explican las ramas más prominentes:
+
+**main**: Es representada por el color ---. Se trata de la rama principal del proyecto y se actualiza para cada entregable.
+**develop**: Es representada por el color ---. Se trata de la rama principal para el proceso del desarrollo del proyecto.
+**feature-product-design**: Es representado por el color ---. Incluye el contenido de user flows y wireframes.
+**feature-sprint1**: Es representada por el color ---. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
+
+![Branch_Graph]()
+
+Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo. 
+
+**TB1**
+
+![Commit_Graph]()
+![Commit_Graph_Individual1]()
+![Commit_Graph_Individual2]()
+![Commit_Graph_Individual3]()
+
+![Pull_Graphs]()
+
+## Student Outcomes
+|Criterio especifico|Acciones realizadas|Conclusiones|
+|-|:-|-|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nelson Guerrero** <br> TB1: En esta entrega se realizaron . <br> **María Peña** <br> TB1: Realizó . <br> **María Pilares** <br> TB1: Para el trabajo se hizo uso de github para documentar el trabajo de modo que se aprendió a utilizar conventional commits y gitflow de modo que se pueda tener una correcta comunicación escrita en lo que corresponde a la documentación del proyecto, además de aprender a utiizar el lenguaje markdown para comunicarlo mediante github en un archivo README.md <br> **Rodrigo Salvador** <br> TB1: En el informe . |El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nelson Guerrero** <br> TB1: Se llevó a cabo . <br> **María Peña** <br> TB1: Encargado de realizar. <br> **María Pilares** <br> TB1: A lo hora de realizar el trabajo . <br> **Rodrigo Salvador** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario . |Como equipo pudimos establecer medios de comunicación para poder entregar un trabajo completo ante el obstáculo que suponen los cortos períodos de tiempo para la entrega del proyecto. De la misma manera, se comunicaron los resultados obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa. |
