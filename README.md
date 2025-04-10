@@ -185,9 +185,75 @@ La plataforma organiza la vida productiva del ganado en módulos clave: registro
 
 Gracias a la integración de datos históricos y actualizados en tiempo real, AgroTrace permite tomar decisiones informadas que mejoran la productividad, reducen pérdidas por descuidos y fortalecen la competitividad del pequeño ganadero en los mercados más exigentes. De esta forma, se transforma la gestión tradicional en una ganadería inteligente, eficiente y sostenible.
 
-**Misión:** Revolucionar la gestión ganadera en América Latina mediante una plataforma digital accesible y fácil de usar, que permita a pequeños y medianos ganaderos optimizar sus procesos, mejorar su productividad, asegurar la trazabilidad de sus animales y tomar decisiones informadas que fortalezcan su rentabilidad y calidad de vida.
+**Misión:** Revolucionar la gestión y trazabilidad del ganado en pequeños y medianos hatos ganaderos de Latinoamérica, a través de una plataforma digital accesible que optimice los procesos productivos y sanitarios.
 
-**Visión:** Ser la solución digital líder en el sector ganadero latinoamericano, empoderando a miles de productores rurales con tecnología simple, inteligente y eficiente, que transforme la forma en que se cuida, produce y comercializa el ganado, impulsando un campo más justo, moderno y sostenible.
+**Visión:** AgroTrace se proyecta como la plataforma más destacada del sector ganadero en cuanto al registro y control de animales durante los próximos tres años.
+La startup busca consolidarse como un modelo de negocio sostenible, confiable y comprometido con la mejora continua de la productividad rural mediante el uso de tecnología simple y efectiva.
 
+##### Logotipo de la Startup:
+![logotipo_start]()
+##### Logotipo del servicio
+![logotipo_servicio]()
+
+<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
+
+||Perfiles de los integrantes del equipo|
+| :--------| :--------: |
+| Mi nombre es **Nelson Fabrizio Guerrero Tomas**. Tengo .|<img src="" alt="" width="250px" />
+| Mi nombre es **Maria Fernanda Peña Riofrio**, tengo .|![](linkfoto)|
+Mi nombre es **Maria Pilares Pocohuanca** tengo .|![](linkfoto)|
+Mi nombre es **Rodrigo Jesus Salvador Rodriguez**, soy.|![](linkfoto)|
+Mi nombre es **Luciana Celeste Sanchez Silva**, soy.|![](linkfoto)|
+
+<div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
+<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
+
+###### What (Qué)
+###### ¿Cuál es el problema?
+
+
+
+###### When (Cuando)
+###### ¿Cuándo sucede el problema?
+
+
+###### Where (Dónde)
+###### ¿A dónde se dirige?
+
+
+###### ¿Dónde surge el problema?
+
+
+###### Who (Quién)
+###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
+
+
+###### Why (Por qué)
+###### ¿Cuál es la causa del problema?
+
+
+##### ¿Cuáles son las 2H?
+###### How (Cómo)
+###### ¿Cómo se utilizará el producto?
+
+
+###### ¿Cómo lograremos desarrollar la correcta gestión de cultivos de champiñones dentro de la plataforma?
+
+
+###### How (Cómo)
+###### ¿Cómo se utilizará el producto?
+
+
+###### How much (Cuánto)
+###### ¿Cuál es la magnitud del problema?
+
+
+###### ¿Qué porcentaje del personal de la industria champiñonera se verá beneficiado por el servicio?
+
+
+<div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
+<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
+
+###### **Problem Statement:** 
 
 
