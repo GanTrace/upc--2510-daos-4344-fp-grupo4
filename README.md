@@ -61,10 +61,10 @@ Github también presenta un timeline de las ramas principales y los procesos de 
 Los integrantes son:
 
 * Nelson Guerrero ()
-* María Peña ()
+* María Peña (mariafep)
 * María Pilares (mariapilares)
 * Rodrigo Salvador (Rodrigojsr12)
-* Luciana Sanchez ()
+* Luciana Sanchez (Luccsss)
 
 Se explican las ramas más prominentes:
 
