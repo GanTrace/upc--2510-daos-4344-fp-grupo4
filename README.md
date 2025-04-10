@@ -38,7 +38,7 @@ width=50%"/>
 
 ## Project Report Collaboration Insights
 
-URL del repositorio para el reporte del proyecto: https://integradis-opensource.github.io/LandingPage/
+URL del repositorio para el reporte del proyecto: 
 
 **TB1**
 
