@@ -248,7 +248,7 @@ Mi nombre es **Luciana Celeste Sanchez Silva**, soy.|![](linkfoto)|
 ###### ¿Cuál es la magnitud del problema?
 
 
-###### ¿Qué porcentaje del personal de la industria champiñonera se verá beneficiado por el servicio?
+###### ¿Qué porcentaje del personal de la industria se verá beneficiado por el servicio?
 
 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
