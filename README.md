@@ -238,7 +238,7 @@ La falta de acceso a herramientas tecnológicas adaptadas al contexto rural, el 
 ##### ¿Cuáles son las 2H?
 ###### How (Cómo)
 ###### ¿Cómo se utilizará el producto?
-AgroTrace será una plataforma web accesible desde celular o computadora, en la que los ganaderos podrán registrar fácilmente los datos de cada animal, recibir alertas sanitarias, controlar ingresos y gastos, acceder a reportes, y consultar contenido educativo. Todo de forma intuitiva, aún sin conocimientos técnicos.
+(nombre del producto) será una plataforma web accesible desde celular o computadora, en la que los ganaderos podrán registrar fácilmente los datos de cada animal, recibir alertas sanitarias, controlar ingresos y gastos, acceder a reportes, y consultar contenido educativo. Todo de forma intuitiva, aún sin conocimientos técnicos.
 
 ###### ¿Cómo lograremos desarrollar una gestión eficiente dentro de la plataforma?
 A través del diseño de una interfaz sencilla, modular y adaptable, que permita registrar y visualizar información clave del ganado. Se integrarán funcionalidades como alertas automáticas, reportes descargables y acceso offline. Además, se ofrecerá capacitación mediante la “Academia Ganadera” para fomentar el uso adecuado de la plataforma.
@@ -256,7 +256,7 @@ Se estima que un 40% a 60% de los ganaderos familiares y asociaciones ganaderas 
 
 ###### **Problem Statement:** 
 
-El propósito de AgroTrace es brindar a pequeños y medianos ganaderos una plataforma digital simple y accesible que les permita registrar, organizar y supervisar la información clave de su hato ganadero, optimizando los procesos sanitarios, reproductivos y económicos que muchas veces se gestionan de forma manual y desordenada.
+El propósito de (nombre del producto) es brindar a pequeños y medianos ganaderos una plataforma digital simple y accesible que les permita registrar, organizar y supervisar la información clave de su hato ganadero, optimizando los procesos sanitarios, reproductivos y económicos que muchas veces se gestionan de forma manual y desordenada.
 
 Actualmente, la mayoría de ganaderos lleva un control limitado o inexistente de su ganado, usando cuadernos físicos o herramientas digitales improvisadas. Esta dependencia de métodos tradicionales conlleva a errores en los registros, omisión de vacunas o tratamientos, pérdida de datos y baja trazabilidad, afectando directamente la productividad, el cumplimiento de normativas y la posibilidad de comercializar a mejores precios.
 
@@ -281,10 +281,10 @@ La falta de herramientas adecuadas impide que los productores tomen decisiones i
 
 ###### **User Assumptions:**
 ###### **¿Quién es el usuario?**   
-Los usuarios principales de AgroTrace son pequeños y medianos ganaderos, así como técnicos agropecuarios que brindan asesoría directa en el campo. En una segunda etapa, la plataforma también podría ser utilizada por asociaciones ganaderas, cooperativas y entidades públicas que trabajan con productores rurales en programas de formalización, sanidad y trazabilidad.
+Los usuarios principales de (nombre del producto) son pequeños y medianos ganaderos, así como técnicos agropecuarios que brindan asesoría directa en el campo. En una segunda etapa, la plataforma también podría ser utilizada por asociaciones ganaderas, cooperativas y entidades públicas que trabajan con productores rurales en programas de formalización, sanidad y trazabilidad.
 
 ###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
-Uno de los principales problemas que AgroTrace busca resolver es la desorganización en el manejo de la información ganadera, así como la pérdida de datos clave por el uso de registros manuales. Actualmente, muchos productores no tienen una forma clara de hacer seguimiento a vacunas, partos, tratamientos, ni control económico, lo que afecta su rentabilidad y cumplimiento de requisitos de mercado.
+Uno de los principales problemas que (nombre del producto) busca resolver es la desorganización en el manejo de la información ganadera, así como la pérdida de datos clave por el uso de registros manuales. Actualmente, muchos productores no tienen una forma clara de hacer seguimiento a vacunas, partos, tratamientos, ni control económico, lo que afecta su rentabilidad y cumplimiento de requisitos de mercado.
 
 ###### **¿Qué características son importantes?**
 Las características más valoradas por el usuario incluyen: el registro individual de cada animal (edad, raza, salud, productividad), alertas automáticas para vacunas y tratamientos, reportes económicos simples, historial completo de cada animal, y el acceso a contenido educativo práctico en video o audio. La facilidad de uso, incluso sin conexión a internet, es clave para la adopción en zonas rurales.
@@ -296,24 +296,24 @@ El producto se integra directamente en las actividades cotidianas del ganadero, 
 El producto se usa cada vez que el productor necesita registrar un nuevo animal, aplicar un tratamiento, ingresar un parto, controlar ingresos o revisar la productividad. También se utiliza para evaluar datos históricos del hato y tomar decisiones estratégicas, como vender, separar animales o planificar la reproducción. La plataforma está diseñada para ser usada desde el celular o computadora, en el campo o en casa.
 
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
-AgroTrace debe tener una interfaz visualmente amigable, intuitiva y fácil de usar, pensada para usuarios con poca experiencia tecnológica. Debe comportarse de forma estable y segura, protegiendo los datos personales del productor y su información ganadera. El diseño debe transmitir confianza, ruralidad tecnológica y eficiencia, y ofrecer una experiencia cálida, sin tecnicismos innecesarios.
+(nombre del producto) debe tener una interfaz visualmente amigable, intuitiva y fácil de usar, pensada para usuarios con poca experiencia tecnológica. Debe comportarse de forma estable y segura, protegiendo los datos personales del productor y su información ganadera. El diseño debe transmitir confianza, ruralidad tecnológica y eficiencia, y ofrecer una experiencia cálida, sin tecnicismos innecesarios.
 
 ###### **Feature Assumptions:**
 
 **Creemos que** la plataforma debe contar con una interfaz intuitiva, accesible desde dispositivos móviles y computadoras, que permitirá a los ganaderos usarla fácilmente incluso si no tienen experiencia tecnológica previa.
 
-**Creemos que** AgroTrace debe incluir un sistema de alertas personalizables que notifique al usuario sobre vacunas, tratamientos sanitarios, partos y fechas clave, ayudando a prevenir pérdidas por descuidos.
+**Creemos que** (nombre del producto) debe incluir un sistema de alertas personalizables que notifique al usuario sobre vacunas, tratamientos sanitarios, partos y fechas clave, ayudando a prevenir pérdidas por descuidos.
 
 **Creemos que** la plataforma debe permitir el registro detallado de cada animal (peso, salud, reproducción, ingresos y egresos), lo que facilitará el análisis histórico del desempeño productivo y económico.
 
-**Creemos que** AgroTrace debe contar con un módulo de reportes y gráficos visuales para que los ganaderos puedan entender rápidamente la evolución de su hato, tomar decisiones informadas y demostrar trazabilidad ante compradores o autoridades.
+**Creemos que** (nombre del producto) debe contar con un módulo de reportes y gráficos visuales para que los ganaderos puedan entender rápidamente la evolución de su hato, tomar decisiones informadas y demostrar trazabilidad ante compradores o autoridades.
 
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
 * **Hypothesis Statement 01:**
     
-    **Creemos que** los pequeños y medianos ganaderos estarán dispuestos a adoptar AgroTrace para registrar digitalmente la información sanitaria, productiva y económica de su hato ganadero.
+    **Creemos que** los pequeños y medianos ganaderos estarán dispuestos a adoptar (nombre del producto) para registrar digitalmente la información sanitaria, productiva y económica de su ganadero.
   
     **Sabremos** que hemos tenido éxito.
     
@@ -333,11 +333,11 @@ AgroTrace debe tener una interfaz visualmente amigable, intuitiva y fácil de us
     
     **Sabremos** que hemos tenido éxito.
     
-    **Cuando** al menos un 60% de los ganaderos indiquen haber tomado decisiones de venta, reproducción o tratamiento basadas en la información provista por AgroTrace.
+    **Cuando** al menos un 60% de los ganaderos indiquen haber tomado decisiones de venta, reproducción o tratamiento basadas en la información provista por (nombre del producto).
 
 * **Hypothesis Statement 04:**
     
-    **Creemos que** el uso de AgroTrace reducirá los errores de registro comunes en los métodos tradicionales (cuadernos, hojas de cálculo) y mejorará la organización de la información ganadera.
+    **Creemos que** el uso de (nombre del producto) reducirá los errores de registro comunes en los métodos tradicionales (cuadernos, hojas de cálculo) y mejorará la organización de la información ganadera.
     
     **Sabremos** que hemos tenido éxito.
     
@@ -346,3 +346,8 @@ AgroTrace debe tener una interfaz visualmente amigable, intuitiva y fácil de us
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
 
+El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño centrado en el usuario (UX) y la metodología Lean, destinada a facilitar la creación y evolución de productos de forma ágil y eficiente. Su finalidad es ofrecer una estructura organizada que promueva la colaboración entre equipos multidisciplinarios. A continuación, se muestra el Lean UX Canvas desarrollado por el equipo mediante el uso de la plataforma digital **Mural**:
+
+![(nombre del producto)_Lean Canvas]()
+
+Enlace para acceder al [Canvas]( )
