@@ -348,6 +348,6 @@ AgroDigital debe tener una interfaz visualmente amigable, intuitiva y fácil de 
 
 El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño centrado en el usuario (UX) y la metodología Lean, destinada a facilitar la creación y evolución de productos de forma ágil y eficiente. Su finalidad es ofrecer una estructura organizada que promueva la colaboración entre equipos multidisciplinarios. A continuación, se muestra el Lean UX Canvas desarrollado por el equipo mediante el uso de la plataforma digital **Mural**:
 
-![AgroDigital_Lean Canvas](Imagenes/LeanUXCanvas.png)
+![AgroDigital_Lean Canvas](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/LeanUXCanvas.png)
 
 Enlace para acceder al [Canvas](https://app.mural.co/t/gantrace0893/m/gantrace0893/1744306574834/552a13a829bb727c323c017d591c372115eb601a?sender=u10ba1755a935234d144c5633)
