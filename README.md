@@ -175,5 +175,21 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
 
+<div id='1.'><h2>Capítulo I: Introducción</h2></div>
 
+<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+
+<div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
+
+AgroTrace es una startup enfocada en brindar soluciones tecnológicas accesibles y efectivas para los pequeños y medianos ganaderos de Latinoamérica. A través de una plataforma web intuitiva, AgroTrace digitaliza la gestión del ganado, permitiendo llevar un control preciso sobre cada animal, su salud, productividad y trazabilidad, todo desde un celular o computadora.
+
+La plataforma organiza la vida productiva del ganado en módulos clave: registro individual de animales (raza, edad, reproducción), calendario sanitario con alertas automáticas para vacunas y tratamientos, control económico (registro de leche, peso, ingresos y gastos), historial completo para cumplir con las exigencias de trazabilidad, y una academia ganadera con contenido educativo práctico.
+
+Gracias a la integración de datos históricos y actualizados en tiempo real, AgroTrace permite tomar decisiones informadas que mejoran la productividad, reducen pérdidas por descuidos y fortalecen la competitividad del pequeño ganadero en los mercados más exigentes. De esta forma, se transforma la gestión tradicional en una ganadería inteligente, eficiente y sostenible.
+
+**Misión:** Revolucionar la gestión y trazabilidad del ganado en pequeños y medianos hatos ganaderos de Latinoamérica, a través de una plataforma digital accesible que optimice los procesos productivos y sanitarios.
+
+**Visión:** AgroDigital se proyecta como la plataforma más destacada del sector ganadero en cuanto al registro y control de animales durante los próximos tres años.
+La startup busca consolidarse como un modelo de negocio sostenible, confiable y comprometido con la mejora continua de la productividad rural mediante el uso de tecnología simple y efectiva.
 
