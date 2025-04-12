@@ -37,4 +37,53 @@ width=50%"/>
 |1.0|09/04/2025|Guerrero, Peña, Pilares, Salvador, Sanchez|Creación del documento de trabajo en formato markdown|
 |1.1|10/04/2025|Salvador|Desarrollo del capítulo 1 del documento en formato markdown|
 
+## Project Report Collaboration Insights
+
+URL del repositorio para el reporte del proyecto: 
+
+**TB1**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nelson Guerrero||
+|María Peña||
+|María Pilares||
+|Rodrigo Salvador||
+|Luciana Sanchez||
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
+
+**Github Collaboration Insights**
+
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
+
+Los integrantes son:
+
+* Nelson Guerrero (Nelsoondev)
+* María Peña (mariafep)
+* María Pilares (mariapilares)
+* Rodrigo Salvador (Rodrigojsr12)
+* Luciana Sanchez (Luccsss)
+
+Se explican las ramas más prominentes:
+
+**main**: Es representada por el color ---. Se trata de la rama principal del proyecto y se actualiza para cada entregable.
+**develop**: Es representada por el color ---. Se trata de la rama principal para el proceso del desarrollo del proyecto.
+**feature-product-design**: Es representado por el color ---. Incluye el contenido de user flows y wireframes.
+**feature-sprint1**: Es representada por el color ---. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
+
+![Branch_Graph]()
+
+Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo. 
+
+**TB1**
+
+![Commit_Graph]()
+![Commit_Graph_Individual1]()
+![Commit_Graph_Individual2]()
+![Commit_Graph_Individual3]()
+
+![Pull_Graphs]()
 
