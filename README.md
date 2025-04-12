@@ -193,3 +193,13 @@ Gracias a la integración de datos históricos y actualizados en tiempo real, Ag
 **Visión:** AgroDigital se proyecta como la plataforma más destacada del sector ganadero en cuanto al registro y control de animales durante los próximos tres años.
 La startup busca consolidarse como un modelo de negocio sostenible, confiable y comprometido con la mejora continua de la productividad rural mediante el uso de tecnología simple y efectiva.
 
+<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
+
+||Perfiles de los integrantes del equipo|
+| :--------| :--------: |
+| Mi nombre es **Nelson Fabrizio Guerrero Tomas**. Tengo .|<img src="" alt="" width="250px" />
+| Mi nombre es **Maria Fernanda Peña Riofrio**, tengo .|![](linkfoto)|
+Mi nombre es **Maria Pilares Pocohuanca** tengo .|![](linkfoto)|
+Mi nombre es **Rodrigo Jesus Salvador Rodriguez**, soy.|![](linkfoto)|
+Mi nombre es **Luciana Celeste Sanchez Silva**, soy.|![](linkfoto)|
+
