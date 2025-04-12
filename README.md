@@ -262,3 +262,20 @@ La falta de herramientas adecuadas impide que los productores tomen decisiones i
 
 ¿Cómo podríamos digitalizar y automatizar la gestión de información del ganado para que los pequeños productores puedan optimizar sus procesos sin depender de registros manuales ni perder datos relevantes?
 
+<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
+
+###### **Business Assumptions:**
+1.  **Creemos que nuestros usuarios necesitan**  una forma más eficiente y confiable de registrar y monitorear la información relacionada con la salud, productividad y trazabilidad del ganado.
+2.  **Estas necesidades se pueden satisfacer** mediante el desarrollo de una plataforma web accesible que permita registrar datos clave del hato ganadero, emitir alertas automáticas y generar reportes útiles para la toma de decisiones.
+3.  **Nuestros clientes iniciales serán** pequeños y medianos ganaderos que cuenten con un teléfono móvil o una computadora, así como técnicos agropecuarios que brindan asistencia directa en el campo.
+4.  **El valor más importante que un cliente quiere de nuestros servicios es** llevar un control ordenado y automatizado del ganado, evitar pérdidas por descuidos y cumplir con los requisitos de trazabilidad para vender mejor.
+5.  **El cliente también va a obtener** beneficios adicionales como alertas sanitarias, reportes económicos, acceso a historial de cada animal, y contenido dentro de la plataforma.
+6.  **Vamos a obtener la mayoría de los clientes mediante** alianzas con asociaciones ganaderas, programas rurales de desarrollo y campañas digitales dirigidas a zonas con alta actividad ganadera.
+7.  **Vamos a obtener ingresos mediante** un modelo de suscripción mensual con planes diferenciados según el tamaño del hato ganadero, así como licencias institucionales para asociaciones o entidades del agro.
+8.  **Nuestra competencia en el mercado serán** aplicaciones de gestión ganadera con modelos genéricos, hojas de cálculo digitales, o métodos tradicionales como cuadernos de registro.
+9.  **Vamos a tener ventaja frente a nuestra competencia debido a** que ofrecemos una solución específica para el contexto rural, fácil de usar, con enfoque educativo y con funciones diseñadas especialmente para pequeños y medianos productores.
+10.  **El mayor riesgo del servicio es** que algunos ganaderos, por factores culturales o falta de experiencia digital, no se adapten fácilmente al uso de una plataforma tecnológica para la gestión de su ganado.
+11.  **Lo resolveremos realizando** capacitaciones virtuales, diseñando una interfaz intuitiva, integrando tutoriales paso a paso, y promoviendo el uso de la Academia Ganadera como soporte educativo.
+
+
+
