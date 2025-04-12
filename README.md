@@ -350,4 +350,16 @@ El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño cent
 
 Enlace para acceder al [Canvas](https://app.mural.co/t/gantrace0893/m/gantrace0893/1744306574834/552a13a829bb727c323c017d591c372115eb601a?sender=u10ba1755a935234d144c5633)
 
+<div id='1.3.'><h3> 1.3. Segmento objetivo.</h3></div>
 
+Según el Ministerio de Desarrollo Agrario y Riego (MIDAGRI, 2023), el Perú cuenta con más de 5 millones de cabezas de ganado vacuno, siendo la ganadería una de las actividades más relevantes en regiones como Cajamarca, Puno, Cusco y La Libertad. El valor bruto de la producción ganadera en el país supera los 3 mil millones de soles anuales, y más del 65 % de las unidades ganaderas son gestionadas por pequeños y medianos productores, quienes muchas veces carecen de acceso a herramientas tecnológicas para el manejo eficiente de sus hatos.
+A pesar del avance en otros sectores agropecuarios, la ganadería peruana aún depende, en su mayoría, de métodos manuales para el registro de eventos como vacunaciones, nacimientos, control de peso, alimentación y reproducción. Esta falta de sistematización impide una adecuada trazabilidad y toma de decisiones estratégicas en el negocio ganadero.
+Frente al crecimiento de la demanda mundial de alimentos en un 70 % para el año 2050 (FAO, 2021), se vuelve necesario implementar tecnologías digitales en el sector ganadero. GanTrace propone automatizar y centralizar la gestión del ganado mediante una plataforma accesible, capaz de registrar datos en tiempo real y proyectar indicadores clave de desempeño. Esto no solo elevaría la rentabilidad y eficiencia de las unidades ganaderas, sino que también aumentaría la competitividad del país frente a mercados de exportación de carne y leche.
+Empresas formales como Gloria S.A., Laive, o cooperativas ganaderas como COLPA de Cajamarca, podrían convertirse en usuarios potenciales, al igual que asociaciones de pequeños productores que buscan digitalizar sus procesos y facilitar su acceso a créditos, certificaciones sanitarias o mercados más exigentes.
+
+<div id='1.3.1.'><h4> 1.3.1 Stakeholders.</h4></div>
+
+* **Stakelholder Internos:** Equipo GanTrace y resto de integrantes del equipo de desarrollo.
+* **Stakelholder Externos:** Técnicos ganaderos, veterinarios y responsables de campo en unidades ganaderas, Administradores de cooperativas o asociaciones ganaderas, estudiantes de medicina veterinaria y carreras agropecuarias.
+
+![Stakeholders Externos](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Stakeholders.png)
