@@ -307,3 +307,37 @@ AgroDigital debe tener una interfaz visualmente amigable, intuitiva y fácil de 
 **Creemos que** AgroDigital debe contar con un módulo de reportes y gráficos visuales para que los ganaderos puedan entender rápidamente la evolución de su hato, tomar decisiones informadas y demostrar trazabilidad ante compradores o autoridades.
 
 
+<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+
+* **Hypothesis Statement 01:**
+    
+    **Creemos que** los pequeños y medianos ganaderos estarán dispuestos a adoptar AgroDigital para registrar digitalmente la información sanitaria, productiva y económica de su ganadero.
+  
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando** al menos el 50% de los usuarios registrados usen activamente la plataforma durante el primer trimestre posterior al lanzamiento.
+  
+* **Hypothesis Statement 02:**
+    
+    **Creemos que** la inclusión de alertas automáticas sobre vacunas, partos y tratamientos sanitarios ayudará a los ganaderos a reducir los descuidos y pérdidas relacionadas con la salud del ganado.
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando** al menos un 40% de los usuarios reporten haber evitado incidentes sanitarios importantes gracias a las alertas emitidas por la plataforma.
+
+* **Hypothesis Statement 03:**
+    
+    **Creemos que** el acceso a reportes visuales y al historial individual de los animales permitirá a los usuarios tomar mejores decisiones económicas y reproductivas.
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando** al menos un 60% de los ganaderos indiquen haber tomado decisiones de venta, reproducción o tratamiento basadas en la información provista por (nombre del producto).
+
+* **Hypothesis Statement 04:**
+    
+    **Creemos que** el uso de AgroDigital reducirá los errores de registro comunes en los métodos tradicionales (cuadernos, hojas de cálculo) y mejorará la organización de la información ganadera.
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando** se identifique una disminución del 50% en errores de registro (omisiones, datos incompletos o duplicados) tras tres meses de uso continuo de la plataforma.
+
