@@ -296,4 +296,14 @@ El producto se usa cada vez que el productor necesita registrar un nuevo animal,
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
 AgroDigital debe tener una interfaz visualmente amigable, intuitiva y fácil de usar, pensada para usuarios con poca experiencia tecnológica. Debe comportarse de forma estable y segura, protegiendo los datos personales del productor y su información ganadera. El diseño debe transmitir confianza, ruralidad tecnológica y eficiencia, y ofrecer una experiencia cálida, sin tecnicismos innecesarios.
 
+###### **Feature Assumptions:**
+
+**Creemos que** la plataforma debe contar con una interfaz intuitiva, accesible desde dispositivos móviles y computadoras, que permitirá a los ganaderos usarla fácilmente incluso si no tienen experiencia tecnológica previa.
+
+**Creemos que** AgroDigital debe incluir un sistema de alertas personalizables que notifique al usuario sobre vacunas, tratamientos sanitarios, partos y fechas clave, ayudando a prevenir pérdidas por descuidos.
+
+**Creemos que** la plataforma debe permitir el registro detallado de cada animal (peso, salud, reproducción, ingresos y egresos), lo que facilitará el análisis histórico del desempeño productivo y económico.
+
+**Creemos que** AgroDigital debe contar con un módulo de reportes y gráficos visuales para que los ganaderos puedan entender rápidamente la evolución de su hato, tomar decisiones informadas y demostrar trazabilidad ante compradores o autoridades.
+
 
