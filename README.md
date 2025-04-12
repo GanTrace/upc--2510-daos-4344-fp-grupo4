@@ -203,3 +203,48 @@ Mi nombre es **Maria Pilares Pocohuanca** tengo .|![](linkfoto)|
 Mi nombre es **Rodrigo Jesus Salvador Rodriguez**, soy.|![](linkfoto)|
 Mi nombre es **Luciana Celeste Sanchez Silva**, soy.|![](linkfoto)|
 
+<div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
+<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
+
+###### What (Qué)
+###### ¿Cuál es el problema?
+Pequeños y medianos ganaderos no gestionan adecuadamente la información de su ganado. Usan métodos manuales (cuadernos, hojas sueltas) para llevar registros de salud, vacunas, productividad y reproducción, lo que genera errores, olvidos y baja eficiencia. Esto dificulta la trazabilidad, impide cumplir con normativas y limita el acceso a mejores precios en el mercado.
+
+
+###### When (Cuando)
+###### ¿Cuándo sucede el problema?
+El problema ocurre de forma constante durante todo el ciclo de vida del ganado: desde el nacimiento, pasando por los controles sanitarios y reproductivos, hasta la venta o comercialización. La falta de control impacta día a día en la operación del productor.
+
+###### Where (Dónde)
+###### ¿A dónde se dirige?
+El problema surge principalmente en zonas rurales de América Latina, donde se concentra una gran parte de la producción ganadera de pequeña y mediana escala.
+
+###### ¿Dónde surge el problema?
+Se dirige a convertirse en una problemática estructural que limita el crecimiento de la ganadería rural, afectando la competitividad y sostenibilidad del sector en los mercados nacionales e internacionales.
+
+###### Who (Quién)
+###### ¿Quiénes están involucrados?
+Están involucrados pequeños y medianos ganaderos, asociaciones ganaderas, técnicos agropecuarios y entidades públicas que promueven la trazabilidad y formalización del sector.
+
+###### ¿Quién lo utilizará?
+Principalmente ganaderos que buscan mejorar la productividad, el control y la trazabilidad de su ganado, así como técnicos que los asesoran en el campo.
+
+###### Why (Por qué)
+###### ¿Cuál es la causa del problema?
+La falta de acceso a herramientas tecnológicas adaptadas al contexto rural, el desconocimiento sobre la importancia de la trazabilidad y el escaso acompañamiento técnico hacen que muchos productores mantengan métodos manuales e ineficientes para el control de su ganado.
+
+
+##### ¿Cuáles son las 2H?
+###### How (Cómo)
+###### ¿Cómo se utilizará el producto?
+AgroDigital será una plataforma web accesible desde celular o computadora, en la que los ganaderos podrán registrar fácilmente los datos de cada animal, recibir alertas sanitarias, controlar ingresos y gastos, acceder a reportes, y consultar contenido educativo. Todo de forma intuitiva, aún sin conocimientos técnicos.
+
+###### ¿Cómo lograremos desarrollar una gestión eficiente dentro de la plataforma?
+A través del diseño de una interfaz sencilla, modular y adaptable, que permita registrar y visualizar información clave del ganado. Se integrarán funcionalidades como alertas automáticas, reportes descargables y acceso offline. Además, se ofrecerá capacitación mediante la “Academia Ganadera” para fomentar el uso adecuado de la plataforma.
+
+###### How much (Cuánto)
+###### ¿Cuál es la magnitud del problema?
+Según datos de organismos agrícolas en la región, más del 70% de los pequeños ganaderos no cuentan con sistemas de registro adecuados. Esto repercute directamente en la pérdida de animales, baja productividad, incumplimiento de normas sanitarias y dificultades para acceder a mercados formales.
+
+###### ¿Qué porcentaje del personal de la industria se verá beneficiado por el servicio?
+Se estima que un 40% a 60% de los ganaderos familiares y asociaciones ganaderas podrían beneficiarse del uso de AgroDigital, especialmente en regiones rurales donde el acceso a tecnología aún es limitado pero creciente.
