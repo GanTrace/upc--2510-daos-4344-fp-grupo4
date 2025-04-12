@@ -29,3 +29,12 @@ width=50%"/>
 
 <h5 style="text-align: center"> Ciclo 2025-010 </h5>
 
+## Registro de versiones del informe
+
+
+|Versión|Fecha|Autor|Descripción de modificación|
+|:-:|:-:|:-:|-|
+|1.0|09/04/2025|Guerrero, Peña, Pilares, Salvador, Sanchez|Creación del documento de trabajo en formato markdown|
+|1.1|10/04/2025|Salvador|Desarrollo del capítulo 1 del documento en formato markdown|
+
+
