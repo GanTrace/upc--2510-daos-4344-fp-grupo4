@@ -248,3 +248,17 @@ Según datos de organismos agrícolas en la región, más del 70% de los pequeñ
 
 ###### ¿Qué porcentaje del personal de la industria se verá beneficiado por el servicio?
 Se estima que un 40% a 60% de los ganaderos familiares y asociaciones ganaderas podrían beneficiarse del uso de AgroDigital, especialmente en regiones rurales donde el acceso a tecnología aún es limitado pero creciente.
+
+<div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
+<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
+
+###### **Problem Statement:** 
+
+El propósito de AgroDigital es brindar a pequeños y medianos ganaderos una plataforma digital simple y accesible que les permita registrar, organizar y supervisar la información clave de su hato ganadero, optimizando los procesos sanitarios, reproductivos y económicos que muchas veces se gestionan de forma manual y desordenada.
+
+Actualmente, la mayoría de ganaderos lleva un control limitado o inexistente de su ganado, usando cuadernos físicos o herramientas digitales improvisadas. Esta dependencia de métodos tradicionales conlleva a errores en los registros, omisión de vacunas o tratamientos, pérdida de datos y baja trazabilidad, afectando directamente la productividad, el cumplimiento de normativas y la posibilidad de comercializar a mejores precios.
+
+La falta de herramientas adecuadas impide que los productores tomen decisiones informadas y sostenibles, limitando su crecimiento y competitividad en el sector.
+
+¿Cómo podríamos digitalizar y automatizar la gestión de información del ganado para que los pequeños productores puedan optimizar sus procesos sin depender de registros manuales ni perder datos relevantes?
+
