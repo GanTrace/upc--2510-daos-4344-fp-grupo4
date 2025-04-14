@@ -134,7 +134,7 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 3.2. [User Stories.](#3.2.)<br>
 3.3. [Impact Mapping.](#3.3.)<br>
 3.4. [Product Backlog.](#3.4.)<br>
-4. [**Capítulo IV: Product Design.**](#4.)<br> #Luciana
+4. [**Capítulo IV: Product Design.**](#4.)<br>
 4.1. [Style Guidelines.](#4.1.)<br>
 4.1.1. [General Style Guidelines.](#4.1.1.)<br>
 4.1.2. [Web Style Guidelines.](#4.1.2.)<br>
@@ -151,7 +151,7 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 4.4.1. [Web Applications Wireframes.](#4.4.1.)<br>
 4.4.2. [Web Applications Wireflow Diagrams.](#4.4.2.)<br>
 4.4.3. [Web Applications Mock-ups.](#4.4.3.)<br>
-4.4.4. [Web Applications User Flow Diagrams.](#4.4.4.)<br> #Luciana
+4.4.4. [Web Applications User Flow Diagrams.](#4.4.4.)<br>
 4.5. [Web Applications Prototyping.](#4.5.)<br>
 4.6. [Domain-Driven Software Architecture.](#4.6.)<br>
 4.6.1. [Software Architecture Context Diagram.](#4.6.1.)<br>
@@ -370,3 +370,27 @@ Empresas formales como Gloria S.A., Laive, o cooperativas ganaderas como COLPA d
 * **Stakelholder Externos:** Técnicos ganaderos, veterinarios y responsables de campo en unidades ganaderas, Administradores de cooperativas o asociaciones ganaderas, estudiantes de medicina veterinaria y carreras agropecuarias.
 
 ![Stakeholders Externos](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Stakeholders.png)
+
+<!-- capitulos 2 y 3 -->
+
+<div id='4.'><h2>Capítulo IV: Product Design</h2></div>
+<div id='4.1.'><h3>Style Guidelines</h3></div>
+
+<div id='4.1.1.'><h4>General Style Guidelines</h4></div>
+
+<div id='4.1.2.'><h4>Web Style Guidelines</h4></div>
+
+<div id='4.2.'><h3>Information Architecture</h3></div>
+<div id='4.2.1.'><h4>Organization Systems</h4></div>
+<div id='4.2.2.'><h4>Labeling Systems</h4></div>
+<div id='4.2.3.'><h4>SEO Tags and Meta Tags</h4></div>
+<div id='4.2.4.'><h4>Searching Systems</h4></div>
+<div id='4.2.5.'><h4>Navigation Systems</h4></div>
+<div id='4.3.'><h3>Landing Page UI Design</h3></div>
+<div id='4.3.1.'><h4>Landing Page Wireframe</h4></div>
+<div id='4.3.2.'><h4>Landing Page Mock-up</h4></div>
+<div id='4.4.'><h3>Web Applications UX/UI Design</h3></div>
+<div id='4.4.1.'><h4>Web Applications Wireframes</h4></div>
+<div id='4.4.2.'><h4>Web Applications Wireflow Diagrams</h4></div>
+<div id='4.4.3.'><h4>Web Applications Mock-ups</h4></div>
+<div id='4.4.4.'><h4>Web Applications User Flow Diagrams</h4></div>
