@@ -19,13 +19,18 @@ width=50%"/>
 
 
 ## Team members:
-| Nombre |Código|
-|:-------:|:----------:|
-|Guerrero Tomas, Nelson Fabrizio|U202222745|
-|Peña Riofrio, María Fernanda|U202113279|
-|Pilares Pocohuanca, María|U202215528|
-|Salvador Rodriguez, Rodrigo Jesus|U202213646|
-|Sanchez Silva, Luciana Celeste|U202215979|
+
+<div align="center">
+
+| Nombre                                      | Código     |
+|:--------------------------------------------:|:----------:|
+| Guerrero Tomas, Nelson Fabrizio             | U202222745 |
+| Peña Riofrio, María Fernanda                | U202113279 |
+| Pilares Pocohuanca, María                   | U202215528 |
+| Salvador Rodriguez, Rodrigo Jesus            | U202213646 |
+| Sanchez Silva, Luciana Celeste              | U202215979 |
+
+</div>
 
 <h5 style="text-align: center"> Ciclo 2025-010 </h5>
 
@@ -36,6 +41,7 @@ width=50%"/>
 |:-:|:-:|:-:|-|
 |1.0|09/04/2025|Guerrero, Peña, Pilares, Salvador, Sanchez|Creación del documento de trabajo en formato markdown|
 |1.1|10/04/2025|Salvador|Desarrollo del capítulo 1 del documento en formato markdown|
+|1.2|13/04/2025|Sanchez L.|Desarrollo del capítulo 4.1 del documento en formato markdown al 4.4|
 
 ## Project Report Collaboration Insights
 
@@ -45,14 +51,16 @@ URL del repositorio para el reporte del proyecto:
 
 Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
+<div align="center">
+
 |Integrante|Tareas Asignadas|
 |-|-|
 |Nelson Guerrero||
 |María Peña||
 |María Pilares||
 |Rodrigo Salvador||
-|Luciana Sanchez||
-
+|Luciana Sanchez|Desarrollo del capítulo 4.1 del documento en formato markdown al 4.4|
+</div>
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
 
 **Github Collaboration Insights**
@@ -69,10 +77,10 @@ Los integrantes son:
 
 Se explican las ramas más prominentes:
 
-**main**: Es representada por el color ---. Se trata de la rama principal del proyecto y se actualiza para cada entregable.
-**develop**: Es representada por el color ---. Se trata de la rama principal para el proceso del desarrollo del proyecto.
-**feature-product-design**: Es representado por el color ---. Incluye el contenido de user flows y wireframes.
-**feature-sprint1**: Es representada por el color ---. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
+- **main**: Es representada por el color ---. Se trata de la rama principal del proyecto y se actualiza para cada entregable.
+- **develop**: Es representada por el color ---. Se trata de la rama principal para el proceso del desarrollo del proyecto.
+- **feature-product-design**: Es representado por el color ---. Incluye el contenido de user flows y wireframes.
+- **feature-sprint1**: Es representada por el color ---. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
 
 ![Branch_Graph]()
 
@@ -90,9 +98,8 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nelson Guerrero** <br> TB1: En esta entrega se realizaron . <br> **María Peña** <br> TB1: Realizó . <br> **María Pilares** <br> TB1: Para el trabajo se hizo . <br> **Rodrigo Salvador** <br> TB1: En el informe . <br> **Luciana Sanchez** <br> TB1: Para el trabajo se hizo .|El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nelson Guerrero** <br> TB1: Se llevó a cabo . <br> **María Peña** <br> TB1: Encargado de realizar. <br> **María Pilares** <br> TB1: A lo hora de realizar el trabajo . <br> **Rodrigo Salvador** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario . <br> **Luciana Sanchez** <br> TB1: Para  . |Como equipo pudimos establecer medios de comunicación para poder entregar un trabajo completo ante el obstáculo que suponen los cortos períodos de tiempo para la entrega del proyecto. De la misma manera, se comunicaron los resultados obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa. |
-
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nelson Guerrero** <br> TB1: En esta entrega se realizaron . <br> **María Peña** <br> TB1: Realizó . <br> **María Pilares** <br> TB1: Para el trabajo se hizo . <br> **Rodrigo Salvador** <br> TB1: En el informe . <br> **Luciana Sanchez** <br> TB1: Para el trabajo se definen las reglas de diseño y organización de un sitio web, incluyendo su estilo visual, estructura de contenido y navegación. |El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nelson Guerrero** <br> TB1: Se llevó a cabo . <br> **María Peña** <br> TB1: Encargado de realizar. <br> **María Pilares** <br> TB1: A lo hora de realizar el trabajo . <br> **Rodrigo Salvador** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario . <br> **Luciana Sanchez** <br> TB1: Para el entregable fue necesario definir las reglas del estilo visual de nuestro producto. |Como equipo pudimos establecer medios de comunicación para poder entregar un trabajo completo ante el obstáculo que suponen los cortos períodos de tiempo para la entrega del proyecto. De la misma manera, se comunicaron los resultados obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa. |
 
 
 ## Contenido
@@ -127,7 +134,7 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 3.2. [User Stories.](#3.2.)<br>
 3.3. [Impact Mapping.](#3.3.)<br>
 3.4. [Product Backlog.](#3.4.)<br>
-4. [**Capítulo IV: Product Design.**](#4.)<br>
+4. [**Capítulo IV: Product Design.**](#4.)<br> #Luciana
 4.1. [Style Guidelines.](#4.1.)<br>
 4.1.1. [General Style Guidelines.](#4.1.1.)<br>
 4.1.2. [Web Style Guidelines.](#4.1.2.)<br>
@@ -144,7 +151,7 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 4.4.1. [Web Applications Wireframes.](#4.4.1.)<br>
 4.4.2. [Web Applications Wireflow Diagrams.](#4.4.2.)<br>
 4.4.3. [Web Applications Mock-ups.](#4.4.3.)<br>
-4.4.4. [Web Applications User Flow Diagrams.](#4.4.4.)<br>
+4.4.4. [Web Applications User Flow Diagrams.](#4.4.4.)<br> #Luciana
 4.5. [Web Applications Prototyping.](#4.5.)<br>
 4.6. [Domain-Driven Software Architecture.](#4.6.)<br>
 4.6.1. [Software Architecture Context Diagram.](#4.6.1.)<br>
@@ -201,7 +208,7 @@ La startup busca consolidarse como un modelo de negocio sostenible, confiable y 
 | Mi nombre es **Maria Fernanda Peña Riofrio**, tengo .|![](linkfoto)|
 Mi nombre es **Maria Pilares Pocohuanca** tengo .|![](linkfoto)|
 Mi nombre es **Rodrigo Jesus Salvador Rodriguez**, soy.|![](linkfoto)|
-Mi nombre es **Luciana Celeste Sanchez Silva**, soy.|![](linkfoto)|
+Mi nombre es **Luciana Celeste Sanchez Silva**, tengo 19 años y vivo en Lima. En la actualidad, me encuentro estudiando el 5to ciclo de la carrera de ingeniería de software en la UPC debido a que desde una edad temprana tuve una fascinación relacionada con el uso de la tecnología y la programación. En mi tiempo libre trato de crecer y expandir mi conocimiento en todas las áreas posibles. De igual forma, me gusta nadar, escuchar música y tocar la guitarra. Me comprometo a colaborar en todo momento con la elaboración de esta startup, y llegar a un trabajo sobresaliente. Mis habilidades son: responsabilidad, resolución de problemas, y disciplina.|![](Imagenes\perfilEstudiantes_Luciana.jpg)|
 
 <div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
