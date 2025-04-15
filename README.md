@@ -204,7 +204,7 @@ La startup busca consolidarse como un modelo de negocio sostenible, confiable y 
 
 |Biografía del los integrantes del equipo |Perfiles de los integrantes del equipo|
 | :--------| :--------: |
-| Mi nombre es **Nelson Fabrizio Guerrero Tomas**. Tengo .|<img src="" alt="" width="250px" />
+| Mi nombre es **Nelson Fabrizio Guerrero Tomas**. tengo 20 años y vivo en Lima. Estoy estudiando en la universidad Peruana de Ciencias .|<img src="" alt="" width="250px" />
 | Mi nombre es **Maria Fernanda Peña Riofrio**, tengo .|![](linkfoto)|
 Mi nombre es **Maria Pilares Pocohuanca** tengo .|![](linkfoto)|
 Mi nombre es **Rodrigo Jesus Salvador Rodriguez**, soy.|![](linkfoto)|
