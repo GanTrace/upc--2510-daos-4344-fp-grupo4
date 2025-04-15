@@ -388,6 +388,30 @@ Los colores resultan ser fundamental para transmitir la identidad visual de la m
 
 Además, la selección de colores debe estar alineada con los valores de innovación, simplicidad y eficiencia, transmitiendo al usuario una sensación de claridad y profesionalismo sin perder la conexión con el entorno agrícola.
 
+Colores principales:
+
+ <div align="center">
+
+|Código HEX|Color|
+|-|-|
+|#925930|<img src="Imagenes\PaletaColores\925930.png" alt="925930" width="200px">|
+|#79B267|<img src="Imagenes\PaletaColores\79B267.png" alt="79B267" width="200px">|
+|#f5f0e6|<img src="Imagenes\PaletaColores\f5f0e6.png" alt="f5f0e6" width="200px">|
+
+</div>
+
+ Colores secundarios:
+
+ <div align="center">
+
+|Código HEX|Color|
+|-|-|
+|#A3794F|<img src="Imagenes\PaletaColores\A3794F.png" alt="#A3794F" width="200px">|
+|#A3C4A8|<img src="Imagenes\PaletaColores\A3C4A8.png" alt="A3C4A8" width="200px">|
+|#d1bfa5|<img src="Imagenes\PaletaColores\d1bfa5.png" alt="d1bfa5" width="200px">|
+
+
+</div>
 <div id='4.1.2.'><h4>Web Style Guidelines</h4></div>
 
 <div id='4.2.'><h3>Information Architecture</h3></div>
