@@ -208,7 +208,7 @@ La startup busca consolidarse como un modelo de negocio sostenible, confiable y 
 | Mi nombre es **Maria Fernanda Peña Riofrio**, tengo .|![](linkfoto)|
 Mi nombre es **Maria Pilares Pocohuanca** tengo .|![](linkfoto)|
 Mi nombre es **Rodrigo Jesus Salvador Rodriguez**, soy.|![](linkfoto)|
-Mi nombre es **Luciana Celeste Sanchez Silva**, tengo 19 años y vivo en Lima. En la actualidad, me encuentro estudiando el 5to ciclo de la carrera de ingeniería de software en la UPC debido a que desde una edad temprana tuve una fascinación relacionada con el uso de la tecnología y la programación. En mi tiempo libre trato de crecer y expandir mi conocimiento en todas las áreas posibles. De igual forma, me gusta nadar, escuchar música y tocar la guitarra. Me comprometo a colaborar en todo momento con la elaboración de esta startup, y llegar a un trabajo sobresaliente. Mis habilidades son: responsabilidad, resolución de problemas, y disciplina.|<img src="Imagenes\perfilEstudiantes_Luciana.jpg" alt="" width="250px" />|
+Mi nombre es **Luciana Celeste Sanchez Silva**, tengo 19 años y vivo en Lima. En la actualidad, me encuentro estudiando el 5to ciclo de la carrera de ingeniería de software en la UPC debido a que desde una edad temprana tuve una fascinación relacionada con el uso de la tecnología y la programación. En mi tiempo libre trato de crecer y expandir mi conocimiento en todas las áreas posibles. De igual forma, me gusta nadar, escuchar música y tocar la guitarra. Me comprometo a colaborar en todo momento con la elaboración de esta startup, y llegar a un trabajo sobresaliente. Mis habilidades son: responsabilidad, resolución de problemas, y disciplina.|<img src="Imagenes\estudiantesPerfil\perfilEstudiantes_Luciana.jpg" alt="" width="250px" />|
 
 <div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
@@ -388,8 +388,7 @@ Los colores resultan ser fundamental para transmitir la identidad visual de la m
 
 Además, la selección de colores debe estar alineada con los valores de innovación, simplicidad y eficiencia, transmitiendo al usuario una sensación de claridad y profesionalismo sin perder la conexión con el entorno agrícola.
 
-Colores principales:
-
+<h5> Colores principales:</h5>
  <div align="center">
 
 |Código HEX|Color|
@@ -397,11 +396,9 @@ Colores principales:
 |#925930|<img src="Imagenes\PaletaColores\925930.png" alt="925930" width="200px">|
 |#79B267|<img src="Imagenes\PaletaColores\79B267.png" alt="79B267" width="200px">|
 |#f5f0e6|<img src="Imagenes\PaletaColores\f5f0e6.png" alt="f5f0e6" width="200px">|
-
 </div>
 
- Colores secundarios:
-
+<h5> Colores secundarios:</h5>
  <div align="center">
 
 |Código HEX|Color|
@@ -409,22 +406,66 @@ Colores principales:
 |#A3794F|<img src="Imagenes\PaletaColores\A3794F.png" alt="#A3794F" width="200px">|
 |#A3C4A8|<img src="Imagenes\PaletaColores\A3C4A8.png" alt="A3C4A8" width="200px">|
 |#d1bfa5|<img src="Imagenes\PaletaColores\d1bfa5.png" alt="d1bfa5" width="200px">|
-
-
 </div>
-<div id='4.1.2.'><h4>Web Style Guidelines</h4></div>
 
+<h5>Typography</h5>
+La combinación de Tajawal y Work Sans aporta una estética moderna y accesible que conecta tanto con el origen humano del campo como con la eficiencia del mundo digital. Tajawal, con su estilo limpio pero con un sutil toque cultural, transmite cercanía y adaptabilidad, ideal para un sector que valora la conexión entre la tradición agrícola y la innovación tecnológica. Por su parte, Work Sans añade una estructura profesional y contemporánea, optimizada para la lectura en plataformas digitales.
+
+Juntas comunican una marca que se dedica al agro digital con un enfoque en la inclusión, sostenibilidad e innovación, logrando un balance perfecto entre raíces locales y visión global.
+<div align="center">
+<img src="Imagenes\tipografia\Tajawal.png" alt="Tajawal" width="350px" >
+ 
+
+<img src="Imagenes\tipografia\WorkSans.png" alt="WorkSans" width="350px">
+</div>
+<h5>Icons</h5>
+Se ha seleccionado el set de íconos Circum Icons diseñado por Klarr Agency. Este set, disponible en Iconify.design, ofrece una estética limpia, redondeada y moderna, ideal para reflejar los valores de accesibilidad, innovación y cercanía del sector agropecuario digital.
+
+Los íconos utilizados mantienen una línea uniforme y amigable, facilitando la navegación y mejorando la experiencia de usuario.
+
+<div align="center" > <img src="Imagenes\iconosMuestra.png" alt="iconosMuestra" width="650px"> </div>
+<div id='4.1.2.'><h4>Web Style Guidelines</h4></div>
+El Web Style Guide de AgroTrace nos ayudó a mostrar una identidad visual coherente y accesible en toda la plataforma. Definimos colores, tipografías y elementos de diseño inspirados en el entorno rural para transmitir confianza, tecnología cercana y facilidad de uso.
+
+Nuestra paleta refleja valores como sostenibilidad y cercanía, mientras que las tipografías priorizan la legibilidad. Esta guía fortalece la presencia visual de AgroTrace y mejora la experiencia del usuario.
+
+Se incluyen imágenes que ilustran los principales lineamientos: colores, fuentes, espaciado y componentes clave, garantizando una interfaz clara y funcional.
 <div id='4.2.'><h3>Information Architecture</h3></div>
 <div id='4.2.1.'><h4>Organization Systems</h4></div>
+En esta sección, se han aplicado sistemas de organización adaptados a las necesidades de los pequeños y medianos ganaderos, facilitando el acceso y comprensión de la información ganadera. La organización visual del contenido ha sido implementada de las siguientes formas:
+
+- Jerárquica (visual hierarchy): Para destacar módulos clave como el registro de animales, alertas sanitarias y reportes económicos, asegurando que los usuarios identifiquen rápidamente las funciones más relevantes para su gestión diaria.
+
+- Organización secuencial (step-by-step): Aplicada en procesos que requieren seguimiento cronológico, como el registro de eventos sanitarios, partos o tratamientos, permitiendo al usuario llevar un control ordenado y lógico del historial del ganado.
+
+Además, se categorizó el contenido según las funcionalidades de la plataforma: módulos de gestión (sanidad, reproducción, economía), tipo de usuario (ganadero, técnico, asociación), y acceso a recursos educativos (videos, guías, alertas). Estas estructuras permiten una navegación intuitiva y adaptada al entorno rural.
 <div id='4.2.2.'><h4>Labeling Systems</h4></div>
+Se han definido cuidadosamente los sistemas de etiquetado y categorización para asegurar que los usuarios naveguen de forma intuitiva y eficiente en la plataforma, implementando lo siguiente:
+
+- Jerarquía visual: Aplicada en la estructura de módulos clave como "Sanidad", "Reproducción" y "Economía", destacando primero los datos más relevantes (por ejemplo, alertas de salud o gastos recientes). Esto permite a los usuarios tomar decisiones informadas rápidamente.
+
+- Organización secuencial: Utilizada en procesos como el registro de eventos ganaderos (partos, tratamientos, vacunaciones), donde los pasos siguen una lógica temporal clara y guiada. Esto ayuda a evitar errores en la carga de datos y mejora la experiencia del usuario.
+
+- Organización matricial: Empleada en los paneles de reportes y análisis, donde los usuarios pueden comparar indicadores entre animales, hatos o periodos de tiempo, con etiquetas claras que facilitan la interpretación visual.
+
+Estos esquemas de etiquetado se han diseñado con base en el lenguaje y jerga ganadera, utilizando términos familiares como “Peso al destete” o “Última monta”, para que cualquier usuario, independientemente de su nivel técnico, pueda comprender y usar la plataforma sin dificultad.
+
 <div id='4.2.3.'><h4>SEO Tags and Meta Tags</h4></div>
+
 <div id='4.2.4.'><h4>Searching Systems</h4></div>
+
 <div id='4.2.5.'><h4>Navigation Systems</h4></div>
+
 <div id='4.3.'><h3>Landing Page UI Design</h3></div>
 <div id='4.3.1.'><h4>Landing Page Wireframe</h4></div>
+
 <div id='4.3.2.'><h4>Landing Page Mock-up</h4></div>
+
 <div id='4.4.'><h3>Web Applications UX/UI Design</h3></div>
 <div id='4.4.1.'><h4>Web Applications Wireframes</h4></div>
+
 <div id='4.4.2.'><h4>Web Applications Wireflow Diagrams</h4></div>
+
 <div id='4.4.3.'><h4>Web Applications Mock-ups</h4></div>
+
 <div id='4.4.4.'><h4>Web Applications User Flow Diagrams</h4></div>
