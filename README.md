@@ -202,13 +202,13 @@ La startup busca consolidarse como un modelo de negocio sostenible, confiable y 
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
-||Perfiles de los integrantes del equipo|
+|Biografía del los integrantes del equipo |Perfiles de los integrantes del equipo|
 | :--------| :--------: |
 | Mi nombre es **Nelson Fabrizio Guerrero Tomas**. Tengo .|<img src="" alt="" width="250px" />
 | Mi nombre es **Maria Fernanda Peña Riofrio**, tengo .|![](linkfoto)|
 Mi nombre es **Maria Pilares Pocohuanca** tengo .|![](linkfoto)|
 Mi nombre es **Rodrigo Jesus Salvador Rodriguez**, soy.|![](linkfoto)|
-Mi nombre es **Luciana Celeste Sanchez Silva**, tengo 19 años y vivo en Lima. En la actualidad, me encuentro estudiando el 5to ciclo de la carrera de ingeniería de software en la UPC debido a que desde una edad temprana tuve una fascinación relacionada con el uso de la tecnología y la programación. En mi tiempo libre trato de crecer y expandir mi conocimiento en todas las áreas posibles. De igual forma, me gusta nadar, escuchar música y tocar la guitarra. Me comprometo a colaborar en todo momento con la elaboración de esta startup, y llegar a un trabajo sobresaliente. Mis habilidades son: responsabilidad, resolución de problemas, y disciplina.|![](Imagenes\perfilEstudiantes_Luciana.jpg)|
+Mi nombre es **Luciana Celeste Sanchez Silva**, tengo 19 años y vivo en Lima. En la actualidad, me encuentro estudiando el 5to ciclo de la carrera de ingeniería de software en la UPC debido a que desde una edad temprana tuve una fascinación relacionada con el uso de la tecnología y la programación. En mi tiempo libre trato de crecer y expandir mi conocimiento en todas las áreas posibles. De igual forma, me gusta nadar, escuchar música y tocar la guitarra. Me comprometo a colaborar en todo momento con la elaboración de esta startup, y llegar a un trabajo sobresaliente. Mis habilidades son: responsabilidad, resolución de problemas, y disciplina.|<img src="Imagenes\perfilEstudiantes_Luciana.jpg" alt="" width="250px" />|
 
 <div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
@@ -376,7 +376,17 @@ Empresas formales como Gloria S.A., Laive, o cooperativas ganaderas como COLPA d
 <div id='4.'><h2>Capítulo IV: Product Design</h2></div>
 <div id='4.1.'><h3>Style Guidelines</h3></div>
 
+Estas directrices de estilo establecen los principios visuales y de diseño que deben seguirse al desarrollar la interfaz de usuario (UI) de AgroTrace. El objetivo es crear una experiencia digital clara, accesible e intuitiva que responda a las necesidades de pequeños y medianos ganaderos en Latinoamérica.
+
+El concepto visual se centra en transmitir confianza, simplicidad y eficiencia rural. A través del uso de una paleta de colores naturales (verdes, marrones suaves y tonos tierra), combinada con tipografías limpias y legibles, AgroTrace busca generar una atmósfera amigable y funcional que conecte con el entorno productivo del usuario.
+
+El diseño debe priorizar la facilidad de uso, incluso para personas con poca experiencia tecnológica, reforzando así la inclusión digital en el campo. La interfaz debe permitir una navegación fluida desde cualquier dispositivo, y ofrecer información clara y accesible para fomentar la toma de decisiones informadas. Este enfoque visual fortalece la misión de AgroTrace de modernizar la gestión ganadera con herramientas tecnológicas simples pero poderosas.
+
 <div id='4.1.1.'><h4>General Style Guidelines</h4></div>
+
+Los colores resultan ser fundamental para transmitir la identidad visual de la marca. En este sector, la paleta cromática seleccionada fue inspirada en la naturaleza y el entorno rural, utilizando tonos tierra, verdes orgánicos y acentos neutros. Colores que reflejan sostenibilidad, confianza y cercanía con el campo.
+
+Además, la selección de colores debe estar alineada con los valores de innovación, simplicidad y eficiencia, transmitiendo al usuario una sensación de claridad y profesionalismo sin perder la conexión con el entorno agrícola.
 
 <div id='4.1.2.'><h4>Web Style Guidelines</h4></div>
 
