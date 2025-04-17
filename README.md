@@ -345,7 +345,7 @@ AgroDigital debe tener una interfaz visualmente amigable, intuitiva y fácil de 
     
     **Sabremos** que hemos tenido éxito.
     
-    **Cuando** al menos un 60% de los ganaderos indiquen haber tomado decisiones de venta, reproducción o tratamiento basadas en la información provista por (nombre del producto).
+    **Cuando** al menos un 60% de los ganaderos indiquen haber tomado decisiones de venta, reproducción o tratamiento basadas en la información provista por AgroDigital.
 
 * **Hypothesis Statement 04:**
     
