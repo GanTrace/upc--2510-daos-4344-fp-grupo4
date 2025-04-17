@@ -40,8 +40,10 @@ width=50%"/>
 |Versión|Fecha|Autor|Descripción de modificación|
 |:-:|:-:|:-:|-|
 |1.0|09/04/2025|Guerrero, Peña, Pilares, Salvador, Sanchez|Creación del documento de trabajo en formato markdown|
-|1.1|10/04/2025|Salvador|Desarrollo del capítulo 1 del documento en formato markdown|
+|1.1|10/04/2025|Salvador R.|Desarrollo del capítulo 1 completo del documento en formato markdown|
 |1.2|13/04/2025|Sanchez L.|Desarrollo del capítulo 4.1 del documento en formato markdown al 4.4|
+|1.3|17/04/2025|Salvador R.|Creación del logo de la startup y el servicio/producto|
+|1.4|17/04/2025|Salvador R.|Actualización de la información de la startup profile|
 
 ## Project Report Collaboration Insights
 
