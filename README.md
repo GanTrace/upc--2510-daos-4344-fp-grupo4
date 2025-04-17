@@ -231,10 +231,10 @@ El problema ocurre de forma constante durante todo el ciclo de vida del ganado: 
 
 ###### Where (Dónde)
 ###### ¿A dónde se dirige?
-El problema surge principalmente en zonas rurales de América Latina, donde se concentra una gran parte de la producción ganadera de pequeña y mediana escala.
+Se dirige a convertirse en una problemática estructural que limita el crecimiento de la ganadería rural, afectando la competitividad y sostenibilidad del sector en los mercados nacionales e internacionales.
 
 ###### ¿Dónde surge el problema?
-Se dirige a convertirse en una problemática estructural que limita el crecimiento de la ganadería rural, afectando la competitividad y sostenibilidad del sector en los mercados nacionales e internacionales.
+El problema surge principalmente en zonas rurales de América Latina, donde se concentra una gran parte de la producción ganadera de pequeña y mediana escala.
 
 ###### Who (Quién)
 ###### ¿Quiénes están involucrados?
