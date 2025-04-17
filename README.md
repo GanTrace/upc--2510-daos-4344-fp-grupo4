@@ -376,7 +376,7 @@ Empresas formales como Gloria S.A., Laive, o cooperativas ganaderas como COLPA d
 * **Stakelholder Internos:** Equipo GanTrace y resto de integrantes del equipo de desarrollo.
 * **Stakelholder Externos:** Técnicos ganaderos, veterinarios y responsables de campo en unidades ganaderas, Administradores de cooperativas o asociaciones ganaderas, estudiantes de medicina veterinaria y carreras agropecuarias.
 
-![Stakeholders Externos](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Stakeholders.png)
+![Stakeholders Externos](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Stakeholders.jpg)
 
 <!-- capitulos 2 y 3 -->
 
