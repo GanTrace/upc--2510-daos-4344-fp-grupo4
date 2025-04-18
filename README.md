@@ -399,6 +399,22 @@ Enlace para acceder al [Miro](https://miro.com/app/board/uXjVIA6IBtM=/?share_lin
 
 Enlace para acceder al [Miro](https://miro.com/app/board/uXjVIA6IBtM=/?share_link_id=517790232719)
 
+<div id='3.2.'><h3> 3.2. User Stories.</h3></div>
+
+Las user stories son una forma de convertir el lenguaje informal de los clientes del producto a un requisito de software que debe ser considerado en el desarrollo del sistema. Una user story construida adecuadamente explica al desarrollador la naturaleza de la funcionalidad que construyen, su razón de ser, y el valor que esta genera para el usuario. Para el producto Greenhouse, Integradis presenta un conjunto de user stories para el desarrollo de la Landing Page, la aplicación web y user stories técnicas.
+
+|Epic/User Story ID| Título | Descripción | Criterios de aceptación |Relacionado con (Epic ID)|
+|-|-|:-|:-|:-|
+|EP01|Contacto con Soporte|**Como** visitante de la landing page **Quiero** contactar al equipo de la aplicación AgroDigital **Para** resolver dudas o solicitar información.|No corresponde|No corresponde|
+|EP02|Información relacionada con la aplicación|**Como** visitante de la landing page **Quiero** entender los beneficios y funcionalidad clave de Agrodigital **Para** tener un alcance sobre el propósito del producto|No corresponde|No corresponde|
+|EP03|Establecer vínculo entre la landing page y la aplicación|**Como** visitante de la landing page **Quiero** acceder rápidamente a la aplicación web **Para** comenzar a disfrutar de los beneficios y funcionalidades que AgroDigital ofrece |No corresponde|No corresponde| 
+|EP04|Gestión Básica de Animales|**Como** ganadero **Quiero** registrar y actualizar información básica de cada animal **Para** mantener un inventario digitalizado y accesible desde cualquier dispositivoa|No corresponde|No corresponde|
+|EP05|Registro de Eventos Clave|**Como** ganadero **Quiero** anotar manualmente eventos importantes (vacunas, partos, enfermedades) **Para** tener un historial completo que me ayude a tomar decisiones sanitarias y reproductivas|No corresponde|No corresponde|
+|EP06|Control Económico|**Como** ganadero **Quiero** registrar ingresos por ventas y gastos **Para** calcular la rentabilidad de mi hato ganadero y optimizar recursos|No corresponde|No corresponde|
+|EP07|Historial Clínico|**Como** veterinario **Quiero** acceder y registrar detalles médicos de cada animal **Para** garantizar un seguimiento preciso y personalizado de su salud|No corresponde|No corresponde|
+|EP08|Gestión de Visitas|**Como** veterinario **Quiero** programar visitas a fincas y asignar tareas específicas a los ganaderos **Para** optimizar el tiempo y asegurar que se cumplan los protocolos sanitarios|No corresponde|No corresponde|
+|EP09|Reportes Básicos|**Como** veterinario **Quiero** generar informes sanitarios (ej: tratamientos pendientes) **Para** cumplir con normativas y compartir datos con asociaciones ganaderas.|No corresponde|No corresponde|
+
 
 <div id='4.'><h2>Capítulo IV: Product Design</h2></div>
 <div id='4.1.'><h3>Style Guidelines</h3></div>
