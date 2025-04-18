@@ -559,9 +559,13 @@ Los sistemas de navegación deben estar diseñados para ser intuitivos, adaptado
 
 <div id='4.5.'><h3>Web Applications Prototyping</h3></div>
 <div id='4.6.'><h3>Domain-Driven Software Architecture</h3></div>
+Se presenta tres niveles del modelo C4 trabajado con structurizr para el proyecto con el que veremos un mejor enfoque de lo que se está desarrollando
 <div id='4.6.1'><h4>Software Architecture Context Diagram</h4></div>
+<img src="Imagenes/diagramas/structurizr-101335-AgroDigitalSytemContext.png" alt="" width="470">
 <div id='4.6.2'><h4>Software Architecture Container Diagrams</h4></div>
+<img src="Imagenes/diagramas/structurizr-101335-AgroDigitalContainer.png" alt="" width="470">
 <div id='4.6.3'><h4>Software Architecture Components Diagrams</h4></div>
+<img src="Imagenes/diagramas/structurizr-101335-AgroDigitalComponents.png" alt="" width="470">
 <div id='4.7.'><h3>Software Object-Oriented Design</h3></div>
 <div id='4.7.1'><h4>Class Diagrams</h4></div>
 <div id='4.7.2'><h4>Class Dictionary</h4></div>
