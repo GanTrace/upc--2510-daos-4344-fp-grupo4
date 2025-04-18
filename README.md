@@ -378,32 +378,7 @@ Empresas formales como Gloria S.A., Laive, o cooperativas ganaderas como COLPA d
 
 ![Stakeholders Externos](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Stakeholders.jpg)
 
-<!-- capitulo 2 -->
-
-
-
-
-
-<!-- capitulo 3 -->
-<div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
-
-<div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
-
-Para la realizar el To-be Scenario Mapping el equipo determinó como se vería el flujo de trabajo luego de que nuestra solución, AgroDigital, haya sido implementada para ambos segmentos objetivos. El objetivo del presente artefacto es comparar y mejorar los aspectos negativos identificados en el As-is Scenario.
-
-* Ganaderos:
-
-![To-Be Ganaderos](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/To-Be_ScenarioMapping_Ganaderos.jpg)
-
-Enlace para acceder al [Miro](https://miro.com/app/board/uXjVIA6IBtM=/?share_link_id=675535190073)
-
-* Veterinarios de Granja:
-
-![Greenhouse As-Is_To-Be - To-Be Veterinarios](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/To-Be_ScenarioMapping_Veterinarios.jpg)
-
-Enlace para acceder al [Miro](https://miro.com/app/board/uXjVIA6IBtM=/?share_link_id=675535190073)
-
-
+<!-- capitulos 2 y 3 -->
 
 <div id='4.'><h2>Capítulo IV: Product Design</h2></div>
 <div id='4.1.'><h3>Style Guidelines</h3></div>
@@ -483,10 +458,54 @@ Se han definido cuidadosamente los sistemas de etiquetado y categorización para
 Estos esquemas de etiquetado se han diseñado con base en el lenguaje y jerga ganadera, utilizando términos familiares como “Peso al destete” o “Última monta”, para que cualquier usuario, independientemente de su nivel técnico, pueda comprender y usar la plataforma sin dificultad.
 
 <div id='4.2.3.'><h4>SEO Tags and Meta Tags</h4></div>
+<h5 align="center">Landing Page</h5>
+
+- **Title:** AgroDigital - Plataforma Digital para la Gestión del Ganado  
+- **Description:** AgroDigital es una plataforma accesible que permite a los ganaderos pequeños y medianos gestionar la salud, reproducción, y productividad de su ganado, optimizando procesos con tecnología innovadora.
+- **Keywords:** gestión ganadera, plataforma ganaderos, AgroDigital, trazabilidad ganadera, ganadería digital, salud animal, control de ganado, plataforma para ganaderos, tecnología rural, organizador de ganado.
+- **Author:** GanTrace
+
+<h5 align="center">Aplication Web</h5>
+
+- **Title:** AgroDigital - Gestión Completa del Ganado para Pequeños y Medianos Productores
+- **Description:** Accede a AgroDigital, la plataforma web que digitaliza la gestión del ganado, con módulos de salud, productividad y trazabilidad para optimizar los procesos ganaderos.
+- **Keywords:** plataforma ganadera, software para ganaderos, AgroDigital, gestión de ganado, salud animal, trazabilidad, control de ganado, aplicaciones para ganaderos, ganadería inteligente, ganadería digital, control de ganado.
+- **Author:** GanTrace
 
 <div id='4.2.4.'><h4>Searching Systems</h4></div>
+El sistema de búsqueda en AgroDigital debe ser intuitivo y eficiente para que los usuarios puedan encontrar rápidamente la información relacionada con su ganado. A continuación, se detallan las opciones de búsqueda y los filtros disponibles: 
+
+- **Barra de busqueda por ganado:** Los usuarios podrán buscar información sobre un animal específico usando filtros como número de identificación, raza, edad, fecha de nacimiento, estado de salud, entre otros.
+- **Barra de busqueda por evento:** Los usuarios podrán buscar eventos específicos relacionados con el ganado, tales como vacunaciones, tratamientos, partos, inspecciones sanitarias, entre otros.
+- **Filtro por categorias:** Los usuarios podrán filtrar por diferentes módulos como Sanidad, Reproducción o Economía, mejorando la accesibilidad a la información relevante.
+- **Opciones de Ordenación:** Los resultados se pueden ordenar por criterios como relevancia
 
 <div id='4.2.5.'><h4>Navigation Systems</h4></div>
+Los sistemas de navegación deben estar diseñados para ser intuitivos, adaptados al contexto rural de los usuarios y fáciles de usar, incluso para aquellos con poca experiencia en tecnología. Aquí se detallan algunos de los aspectos a tener en cuenta:
+
+<h5 >Menú Principal:</h5>
+
+- Inicio: Acceso rápido a la página principal donde se visualizan las estadísticas más recientes del ganado.
+- Registro de Ganado: Sección para registrar nuevos animales y sus detalles.
+- Historial: Consulta de eventos pasados, como vacunas, tratamientos y eventos reproductivos.
+- Reportes: Generación de informes económicos y sanitarios del ganado.
+- Academia Ganadera: Acceso a contenido educativo y tutoriales sobre el cuidado del ganado.
+
+<h5>Menú Secundario:</h5>
+
+- Alertas: Notificaciones automáticas sobre eventos de salud, vacunación o reproducción.
+- Soporte: Acceso a preguntas frecuentes, tutoriales y asistencia técnica.
+
+<h5>Menú para Iniciar Sesión (Login):</h5>
+
+- El diseño del menú debe ser limpio y directo para que los usuarios puedan acceder fácilmente a lo que necesitan, especialmente si no están familiarizados con la tecnología.
+- Opción para nuevos usuarios que aún no tienen cuenta en AgroDigital
+- Página de ayuda, preguntas frecuentes (FAQ), contacto para asistencia técnica.
+
+<h5>Navegación por Categorías:</h5>
+
+- Los usuarios podrán navegar por categorías de ganado, tipos de eventos o fechas, todo con una jerarquía visual clara que facilite el acceso a la información relevante.
+- Este diseño asegura que AgroDigital sea accesible y fácil de usar para los ganaderos, maximizando su eficiencia en el uso de la plataforma.
 
 <div id='4.3.'><h3>Landing Page UI Design</h3></div>
 <div id='4.3.1.'><h4>Landing Page Wireframe</h4></div>
