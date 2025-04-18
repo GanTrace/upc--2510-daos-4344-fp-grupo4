@@ -378,7 +378,32 @@ Empresas formales como Gloria S.A., Laive, o cooperativas ganaderas como COLPA d
 
 ![Stakeholders Externos](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Stakeholders.jpg)
 
-<!-- capitulos 2 y 3 -->
+<!-- capitulo 2 -->
+
+
+
+
+
+<!-- capitulo 3 -->
+<div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
+
+<div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
+
+Para la realizar el To-be Scenario Mapping el equipo determinó como se vería el flujo de trabajo luego de que nuestra solución, AgroDigital, haya sido implementada para ambos segmentos objetivos. El objetivo del presente artefacto es comparar y mejorar los aspectos negativos identificados en el As-is Scenario.
+
+* Ganaderos:
+
+![To-Be Ganaderos](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/To-Be_ScenarioMapping_Ganaderos.jpg)
+
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVIA6IBtM=/?share_link_id=675535190073)
+
+* Veterinarios de Granja:
+
+![Greenhouse As-Is_To-Be - To-Be Veterinarios](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/To-Be_ScenarioMapping_Veterinarios.jpg)
+
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVIA6IBtM=/?share_link_id=675535190073)
+
+
 
 <div id='4.'><h2>Capítulo IV: Product Design</h2></div>
 <div id='4.1.'><h3>Style Guidelines</h3></div>
