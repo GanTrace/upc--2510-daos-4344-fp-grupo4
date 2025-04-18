@@ -385,8 +385,7 @@ Empresas formales como Gloria S.A., Laive, o cooperativas ganaderas como COLPA d
 
 <div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
 
-Para la realizar el To-be Scenario Mapping el equipo determinó como se vería el flujo de trabajo luego de que nuestra solución, Greenhouse, haya sido implementada para ambos segmentos objetivos. El objetivo del presente artefacto es comparar y mejorar los aspectos negativos identificados en el As-is Scenario.
-
+Para la realizar el To-be Scenario Mapping el equipo determinó como se vería el flujo de trabajo luego de que nuestra solución, AgroDigital, haya sido implementada para ambos segmentos objetivos.
 * Ganadero:
 
 ![To-Be Ganadero](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/To-Be_ScenarioMapping_Ganaderos.jpg)
@@ -401,7 +400,7 @@ Enlace para acceder al [Miro](https://miro.com/app/board/uXjVIA6IBtM=/?share_lin
 
 <div id='3.2.'><h3> 3.2. User Stories.</h3></div>
 
-Las user stories son una forma de convertir el lenguaje informal de los clientes del producto a un requisito de software que debe ser considerado en el desarrollo del sistema. Una user story construida adecuadamente explica al desarrollador la naturaleza de la funcionalidad que construyen, su razón de ser, y el valor que esta genera para el usuario. Para el producto Greenhouse, Integradis presenta un conjunto de user stories para el desarrollo de la Landing Page, la aplicación web y user stories técnicas.
+Las user stories son una forma de convertir el lenguaje informal de los clientes del producto a un requisito de software que debe ser considerado en el desarrollo del sistema. Una user story construida adecuadamente explica al desarrollador la naturaleza de la funcionalidad que construyen, su razón de ser, y el valor que esta genera para el usuario. Para el producto AgroDigital, GanTrace presenta un conjunto de user stories para el desarrollo de la Landing Page, la aplicación web y user stories técnicas.
 
 |Epic/User Story ID| Título | Descripción | Criterios de aceptación |Relacionado con (Epic ID)|
 |-|-|:-|:-|:-|
