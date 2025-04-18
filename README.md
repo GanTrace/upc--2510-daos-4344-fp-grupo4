@@ -211,8 +211,9 @@ La startup busca consolidarse como un modelo de negocio sostenible, confiable y 
 
 |Biografía del los integrantes del equipo |Perfiles de los integrantes del equipo|
 | :--------| :--------: |
-| Mi nombre es **Nelson Fabrizio Guerrero Tomas**. tengo 20 años y vivo en Lima. Estoy estudiando en la universidad Peruana de Ciencias .|<img src="" alt="" width="250px" /> 
-| Mi nombre es **Maria Fernanda Peña Riofrio**, tengo 21 años, estudio el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona responsable y me gusta ayudar a las demás personas, esto sera evidenciado en el transcuros del proyecto ayudando a mis demás compañeros de equipo. En mis tiempos libres me gusta mucho leer, escuchar música e investigar sobre temas de mi interes.| <img src="Imagenes/estudiantesPerfil/perfilEstudiantes_Mafer.jpg" alt="" width="250px" /> |  
+| Mi nombre es **Nelson Fabrizio Guerrero Tomas**. tengo 20 años y vivo en Lima. Estoy estudiando en la universidad Peruana de Ciencias .|<img src="" alt="" width="250px" />
+| 
+Mi nombre es **Maria Fernanda Peña Riofrio**, tengo 21 años, estudio el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona responsable y me gusta ayudar a las demás personas, esto sera evidenciado en el transcuros del proyecto ayudando a mis demás compañeros de equipo. En mis tiempos libres me gusta mucho leer, escuchar música e investigar sobre temas de mi interes.| <img src="Imagenes/estudiantesPerfil/perfilEstudiantes_Mafer.jpg" alt="" width="250px" /> |  
 Mi nombre es **Maria Pilares Pocohuanca** tengo .|![](linkfoto)|
 Mi nombre es **Rodrigo Jesus Salvador Rodriguez**, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y puntual en todo tipo de aspectos, esto lo voy a ver reflejado en este proyecto, como miembro de este equipo me comprometo a seguir las indicaciones al pie de la letra, seguir recomendaciones y apoyar siempre a mis compañeros para presentar el mejor proyecto grupal.|<img src="Imagenes\estudiantesPerfil\perfilEstudiantes_Rodrigo.png" alt="" width="250px" />|
 Mi nombre es **Luciana Celeste Sanchez Silva**, tengo 19 años y vivo en Lima. En la actualidad, me encuentro estudiando el 5to ciclo de la carrera de ingeniería de software en la UPC debido a que desde una edad temprana tuve una fascinación relacionada con el uso de la tecnología y la programación. En mi tiempo libre trato de crecer y expandir mi conocimiento en todas las áreas posibles. De igual forma, me gusta nadar, escuchar música y tocar la guitarra. Me comprometo a colaborar en todo momento con la elaboración de esta startup, y llegar a un trabajo sobresaliente. Mis habilidades son: responsabilidad, resolución de problemas, y disciplina.|<img src="Imagenes\estudiantesPerfil\perfilEstudiantes_Luciana.jpg" alt="" width="250px" />|
@@ -413,13 +414,6 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 |EP07|Historial Clínico|**Como** veterinario **Quiero** acceder y registrar detalles médicos de cada animal **Para** garantizar un seguimiento preciso y personalizado de su salud|No corresponde|No corresponde|
 |EP08|Gestión de Visitas|**Como** veterinario **Quiero** programar visitas a fincas y asignar tareas específicas a los ganaderos **Para** optimizar el tiempo y asegurar que se cumplan los protocolos sanitarios|No corresponde|No corresponde|
 |EP09|Reportes Básicos|**Como** veterinario **Quiero** generar informes sanitarios (ej: tratamientos pendientes) **Para** cumplir con normativas y compartir datos con asociaciones ganaderas.|No corresponde|No corresponde|
-|US01|Contactar a la startup|**Como** visitante de la landing page **Quiero** proporcionar mi correo electrónico **Para** que los desarrolladores reciban mis comentarios, dudas e inquietudes relacionadas con la aplicación|**Escenario 1: Enviar mensaje al equipo de desarrollo** <br> **Dado que** el usuario tenga una consulta y/o comentario relacionado con la aplicación <br> **Cuando** redacte un mensaje y adjunte una dirección de correo electrónico para contactar al equipo de desarrollo <br> **Entonces** el sistema remitirá la consulta a los desarrolladores|EP01|
-|US02|Obtener información de la aplicación|**Como** visitante de la landing page **Quiero** quiero obtener información relacionada con el producto ofrecido **Para** conocer los beneficios que puedo adquirir mediante el uso de la aplicación |**Escenario 1: Visualizar información** <br> **Dado que** el visitante se encuentre dentro de la landing page <br> **Cuando** navegue a través de todas las secciones de la página <br> **Entonces** podrá encontrar información clara y concisa que me permita entender de inmediato el propósito principal del software |EP02|
-|US03|Acceder a la aplicación desde la landing page|**Como** visitante de la landing page **Quiero** poder acceder a la aplicación directamente desde la landing page **Para** comenzar a utilizar las funcionalidades ofrecidas en la aplicación| **Escenario 1: Usuario ingresa a aplicación** <br> **Dado que** el usuario desee comenzar a utilizar la aplicación <br> **Cuando** ingrese a la landing page y seleccione la opción que permite el acceso al software elaborado <br> **Entonces** deberá ser redirigido a la página desplegada <br> **Escenario 2: Fallo en el acceso a la aplicación** <br> **Dado que** el usuario desee comenzar a utilizar la aplicación <br> **Cuando** ingrese a la landing page y seleccione la opción que permite el acceso al software elaborado y ocurra un error en el proceso de redirección o el servidor de la aplicación no responde **Entonces** el usuario deberá obtener el mensaje de error generado. |EP03|
-|US04|Registrar nuevo animal|**Como** ganadero **Quiero** agregar animales al sistema **Para** tener un inventario digital|**Escenario 1: Registro exitoso** <br> **Dado que** el usuario completa los campos obligatorios (ID, raza, nacimiento) <br> **Cuando** haga clic en "Guardar" <br> **Entonces** el animal aparecerá en mi listado. <br> **Escenario 2: Registro Fallido** <br> **Dado que** el usuario dejó el campo "ID" vacío <br> **Cuando** intente guardar <br> **Entonces** el sistema mostrará "Campo obligatorio" en rojo y no guardará los datos|EP04|
-|US05|Buscar animal por ID|**Como** ganadero **Quiero** encontrar un animal específico **Para** consultar su información|**Escenario 1: Búsqueda exitosa** <br> **Dado que** el ganadero ingresó el ID existente <br> **Cuando**  haga clic en "Buscar" <br> **Entonces** el sistema mostrará la ficha completa del animal <br> **Escenario 2: Búsqueda sin resultados** <br> **Dado que** ingresó un ID inexistente <br> **Cuando** haga clic en "Buscar" <br> **Entonces** el sistema mostrará "No se encontraron coincidencias" |EP04|
-
-
 
 
 <div id='4.'><h2>Capítulo IV: Product Design</h2></div>
@@ -562,3 +556,14 @@ Los sistemas de navegación deben estar diseñados para ser intuitivos, adaptado
 <div id='4.4.3.'><h4>Web Applications Mock-ups</h4></div>
 
 <div id='4.4.4.'><h4>Web Applications User Flow Diagrams</h4></div>
+
+<div id='4.5.'><h3>Web Applications Prototyping</h3></div>
+<div id='4.6.'><h3>Domain-Driven Software Architecture</h3></div>
+<div id='4.6.1'><h4>Software Architecture Context Diagram</h4></div>
+<div id='4.6.2'><h4>Software Architecture Container Diagrams</h4></div>
+<div id='4.6.3'><h4>Software Architecture Components Diagrams</h4></div>
+<div id='4.7.'><h3>Software Object-Oriented Design</h3></div>
+<div id='4.7.1'><h4>Class Diagrams</h4></div>
+<div id='4.7.2'><h4>Class Dictionary</h4></div>
+<div id='4.8'><h3>Database Design</h3></div>
+<div id='4.8.1'><h4>Database Diagram</h4></div>
