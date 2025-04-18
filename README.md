@@ -191,11 +191,11 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 
 <div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
 
-AgroTrace es una startup enfocada en brindar soluciones tecnológicas accesibles y efectivas para los pequeños y medianos ganaderos de Latinoamérica. A través de una plataforma web intuitiva, AgroTrace digitaliza la gestión del ganado, permitiendo llevar un control preciso sobre cada animal, su salud, productividad y trazabilidad, todo desde un celular o computadora.
+GanTrace es una startup enfocada en brindar soluciones tecnológicas accesibles y efectivas para los pequeños y medianos ganaderos de Latinoamérica. A través de una plataforma web intuitiva, GanTrace digitaliza la gestión del ganado, permitiendo llevar un control preciso sobre cada animal, su salud, productividad y trazabilidad, todo desde un celular o computadora.
 
 La plataforma organiza la vida productiva del ganado en módulos clave: registro individual de animales (raza, edad, reproducción), calendario sanitario con alertas automáticas para vacunas y tratamientos, control económico (registro de leche, peso, ingresos y gastos), historial completo para cumplir con las exigencias de trazabilidad, y una academia ganadera con contenido educativo práctico.
 
-Gracias a la integración de datos históricos y actualizados en tiempo real, AgroTrace permite tomar decisiones informadas que mejoran la productividad, reducen pérdidas por descuidos y fortalecen la competitividad del pequeño ganadero en los mercados más exigentes. De esta forma, se transforma la gestión tradicional en una ganadería inteligente, eficiente y sostenible.
+Gracias a la integración de datos históricos y actualizados en tiempo real, GanTrace permite tomar decisiones informadas que mejoran la productividad, reducen pérdidas por descuidos y fortalecen la competitividad del pequeño ganadero en los mercados más exigentes. De esta forma, se transforma la gestión tradicional en una ganadería inteligente, eficiente y sostenible.
 
 **Misión:** Revolucionar la gestión y trazabilidad del ganado en pequeños y medianos hatos ganaderos de Latinoamérica, a través de una plataforma digital accesible que optimice los procesos productivos y sanitarios.
 
