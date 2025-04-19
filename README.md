@@ -475,7 +475,7 @@ Realizar un análisis competitivo es fundamental para identificar las oportunida
             <td>Plataforma web, app móvil y colaboración con ONGs rurales.</td>
             <td>Venta directa en su sitio web y app stores.</td>
             <td>Distribución mediante cooperativas agrícolas.</td>
-            <td></td>        
+            <td>Venta directa y partners estratégicos en EE.UU. y Europa.</td>        
         </tr>
         <tr>
             <td rowspan="4" class="sub">ANÁLISIS SWOT</td>
