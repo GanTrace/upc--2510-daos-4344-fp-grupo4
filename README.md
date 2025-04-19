@@ -388,6 +388,128 @@ Empresas formales como Gloria S.A., Laive, o cooperativas ganaderas como COLPA d
 
 Realizar un análisis competitivo es fundamental para identificar las oportunidades y amenazas en el mercado, así como para posicionar estratégicamente a GanTrace. Este proceso permite entender cómo los competidores satisfacen las necesidades del cliente, qué brechas existen y cómo nuestra solución puede destacar mediante ventajas diferenciadoras. Además, ayuda a diseñar estrategias de marketing, precios y distribución más efectivas, asegurando una propuesta de valor única y sostenible.
 
+<html>
+<head>
+    <title>Tabla HTML</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            text-align: left;
+            padding: 10px 25px 8px 25px;
+            text-align: center;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <table >
+        <tr>
+           <td colspan="6" class="sub">  <h1>Competitive Analysis Landscape</h1></td>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="2" class="sub">¿Por qué llevar acabo este análisis?</td>
+            <td colspan="4" class="sub"><h3>¿Quiénes son nuestros principales competidores?</h3></td>
+        </tr>
+        <tr>
+            <td colspan="4">Gracias al análisis de la competencia perteneciente al mercado, se logra comprender el entorno competitivo 
+                en el que operará nuestro producto. Ello proporciona una visión detallada de quienes son nuestros competidores 
+                directos e indirectos, trazar estrategia a través de información recopilada sobre  su posicionamiento actual en el mercado.</td>
+        </tr>
+        <tr>
+            <td rowspan="3" class="sub">PERFIL</td>
+            <td rowspan="2" class="sub">Overview</td>
+            <td> a <img src=https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/c8412e74-a9bb-4e9e-b49e-d5faa094d456> </td>
+            <td> b <img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/3a4b2b57-bfad-4d96-83dc-59fb6819a945"> </td>
+            <td> c <img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/2a1a6055-a109-4916-b109-1640b2aad4f0"> </td>
+            <td> d <img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/168e05dc-b992-4707-86bb-7dba446d5eac"> </td> 
+        </tr>
+        <tr>
+            <td>Plataforma web y móvil diseñada para pequeños y medianos ganaderos en Latinoamérica, enfocada en trazabilidad, gestión sanitaria y educación.</td>
+            <td>Aplicación móvil y web para gestión de hatos ganaderos, enfocada en registro sanitario y productividad.</td>
+            <td>Plataforma multifuncional para gestión agrícola y ganadera, con módulos de cultivo, inventario y finanzas.</td>
+            <td></td>      
+        </tr>
+        <tr>
+            <td class="sub">Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
+            <td>Enfocado a la ganadería y la trazabilidad individual el hato a precios accesibles para los ganaderos</td>
+            <td>Integración con dispositivos IoT. Reportes automatizados para exportación a autoridades sanitarias.</td>
+            <td>Versatilidad: integra cultivos y ganado en una sola plataforma. Análisis predictivo basado en clima y mercado.</td>
+            <td></td>      
+        </tr>
+        <tr>
+            <td rowspan="2" class="sub">PERFIL DEL MARKETING</td>
+            <td class="sub" >Mercado Objetivo</td>
+            <td>Pequeños productores (5-100 cabezas de ganado) y técnicos agropecuarios.</td>
+            <td>Medianos y grandes ganaderos con acceso a tecnología avanzada.</td>
+            <td>Agricultores y ganaderos diversificados en zonas semiurbanas.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="sub">Estrategias de Marketing</td>
+            <td>Alianzas con asociaciones ganaderas y programas gubernamentales. Talleres presenciales en zonas rurales.</td>
+            <td>Alianzas con empresas de insumos veterinarios. Publicidad en ferias ganaderas y redes sociales especializadas.</td>
+            <td>Contenido educativo en YouTube y webinars. Descuentos por volumen para cooperativas.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="3" class="sub">PERFIL DEL PRODUCTO</td>
+            <td class="sub">Productos & Servicios</td>
+            <td>Plataforma móvil y web para gestión de hatos ganaderos</td>
+            <td>Plataforma móvil y web para gestión de hatos ganaderos.</td>
+            <td>Plataforma multifuncional para gestión agrícola y ganadera.</td>
+            <td>Herramienta global para gestión agrícola y ganadera, con énfasis en mercados formales.</td>
+        </tr>
+        <tr>
+            <td class="sub">Precios & Costos</td>
+            <td>Basico: $10/mes Premium: $25/mes y Empresarial: $50/mes</td>
+            <td>Básico: $20/mes Premium: $100/mes.</td>
+            <td>Solo ganado: $15/mes Full agro: $50/mes.</td>
+            <td>Básico: $30/mes Empresarial: $200/mes.</td>
+        </tr>
+        <tr>
+            <td class="sub">Canales de distribución (web/móvil)</td>
+            <td>Plataforma web, app móvil y colaboración con ONGs rurales.</td>
+            <td>Venta directa en su sitio web y app stores.</td>
+            <td>Distribución mediante cooperativas agrícolas.</td>
+            <td></td>        
+        </tr>
+        <tr>
+            <td rowspan="4" class="sub">ANÁLISIS SWOT</td>
+            <td class="sub">Fortalezas</td>
+            <td>Diseño accesible para baja conectividad. Costos accesibles y planes de acuerdo al tamaño de la finca.</td>
+            <td>Tecnología IoT innovadora. Cumplimiento normativo automático.</td>
+            <td>Solución integral para agro. Precios accesibles.</td>
+            <td>Enfoque en mercados globales. Datos en tiempo real de mercados.</td>
+        </tr>
+        <tr>
+            <td class="sub">Debilidades</td>
+            <td>Dependencia de alianzas para distribución. </td>
+            <td>Alto costo para pequeños productores. Interfaz compleja para usuarios rurales.</td>
+            <td>Funcionalidades ganaderas menos desarrolladas. Falta de enfoque en trazabilidad sanitaria.</td>
+            <td>Precios elevados para Latinoamérica. Poca adaptación a necesidades locales.</td>  
+        </tr>
+        <tr>
+            <td class="sub">Oportunidades</td>
+            <td>Demanda creciente de trazabilidad en exportaciones.Subsidios gubernamentales para digitalización rural.</td>
+            <td>Expansión a mercados formales (exportación). Alianzas con gobiernos para subsidios.</td>
+            <td>Crecimiento de la agricultura de precisión. Demanda de análisis predictivo.</td>
+            <td>Expansión a Latinoamérica con socios locales. Demanda de trazabilidad para exportación.</td> 
+        </tr>
+        <tr>
+            <td class="sub">Amenazas</td>
+            <td>Competidores globales con más recursos. Resistencia a adoptar tecnología en productores tradicionales.</td>
+            <td>Competencia con soluciones low-cost. Resistencia al cambio en ganaderos tradicionales.</td>
+            <td>Especialización de competidores como GanTrace. Saturación de plataformas multifuncionales.</td>
+            <td>Competencia de startups regionales. Barreras culturales y idiomáticas.</td>          
+        </tr>
+    </table>
+</body>
+</html>
+
 <!-- capitulo 3 -->
 <div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
 
