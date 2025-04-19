@@ -553,13 +553,13 @@ Los sistemas de navegación deben estar diseñados para ser intuitivos, adaptado
 El wireframe de la landing page de AgroDigital actúa como una guía visual preliminar que organiza los elementos esenciales de la página sin entrar en detalles gráficos. Este esquema muestra la distribución de secciones clave como el encabezado con el logo y menú de navegación, una propuesta de valor centrada en la digitalización ganadera, testimonios de usuarios reales del campo, y llamadas a la acción destacadas que invitan a conocer la aplicación. El objetivo es garantizar una experiencia intuitiva para el visitante y facilitar su conversión en usuario activo de la plataforma. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=26-132&t=qT7oJSn8VnYsfiTX-1)
 
 <div style="text-align: center;">
-  <img src="Imagenes\Uidesigns\AgroDigitalLandingPWireframe.png" alt="LandingPageWireframe" width="470">
+  <img src="Imagenes\Uidesigns\AgroDigitalLandingPWireframe.png" alt="LandingPageWireframe" width="500">
 </div>
 <div id='4.3.2.'><h4>Landing Page Mock-up</h4></div>
 
 El mock-up de la landing page de AgroDigital representa una versión detallada y cercana al diseño final, integrando colores, tipografías e imágenes que reflejan la identidad visual de la plataforma. Este diseño ofrece una vista realista de cómo se presentará la página a los usuarios, destacando una estética moderna, accesible y alineada con el sector agroindustrial ganadero. Además, refuerza la importancia de mantener coherencia visual y claridad en la propuesta de valor, transmitiendo confianza, profesionalismo y compromiso con la innovación tecnológica en el campo. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=0-1&t=qT7oJSn8VnYsfiTX-1)
 <div style="text-align: center;">
-  <img src="Imagenes\Uidesigns\AgroDigitalMockUp.png" alt="LandingPageMockUp" width="470">
+  <img src="Imagenes\Uidesigns\AgroDigitalMockUp.png" alt="LandingPageMockUp" width="500">
 </div>
 <div id='4.4.'><h3>Web Applications UX/UI Design</h3></div>
 <div id='4.4.1.'><h4>Web Applications Wireframes</h4></div>
@@ -568,13 +568,13 @@ Los wireframes de la aplicación web de AgroDigital representan la estructura y 
 
 
 <div style="text-align: center;">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 1.png" alt="LandingPageMockUp" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 2.png" alt="LandingPageMockUp" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 3.png" alt="LandingPageMockUp" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 4.png" alt="LandingPageMockUp" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 5.png" alt="LandingPageMockUp" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 6.png" alt="LandingPageMockUp" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 7.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 1.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 2.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 3.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 4.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 5.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 6.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 7.png" alt="" width="500">
 </div>
 <div id='4.4.2.'><h4>Web Applications Wireflow Diagrams</h4></div>
 
@@ -583,14 +583,18 @@ Los wireframes de la aplicación web de AgroDigital representan la estructura y 
 En esta sección se presentan y explican los mock-ups de la aplicación web de AgroDigital, orientada al sector ganadero. Se evidencia la aplicación de principios clave de diseño visual, accesibilidad, arquitectura de información y el Design System desarrollado para este producto digital. Cada mock-up refleja cómo estos conceptos se integran en una interfaz pensada para facilitar la trazabilidad, el control sanitario y la gestión eficiente del ganado. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=21-575&t=qT7oJSn8VnYsfiTX-1)
 
 <img src="Imagenes\Uidesigns\appWeb\MockUp1.png" alt="LandingPageMockUp" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp2.png" alt="LandingPageMockUp" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp3.png" alt="LandingPageMockUp" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp4.png" alt="LandingPageMockUp" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp5.png" alt="LandingPageMockUp" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp6.png" alt="LandingPageMockUp" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp7.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp2.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp3.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp4.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp5.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp6.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp7.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp8.png" alt="" width="500">
 <div id='4.4.4.'><h4>Web Applications User Flow Diagrams</h4></div>
 
+A continuación un diagrama que representa los user goals de AgroDigital:
+
+  <img src="Imagenes\Uidesigns\appWeb\AgroDigital.png" alt="User Flow Diagrams" width="500">
 <div id='4.5.'><h3>Web Applications Prototyping</h3></div>
 <div id='4.6.'><h3>Domain-Driven Software Architecture</h3></div>
 Se presenta tres niveles del modelo C4 trabajado con structurizr para el proyecto con el que veremos un mejor enfoque de lo que se está desarrollando
