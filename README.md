@@ -44,6 +44,7 @@ width=50%"/>
 |1.2|13/04/2025|Sanchez L.|Desarrollo del capítulo 4.1 del documento en formato markdown al 4.4|
 |1.3|17/04/2025|Salvador R.|Creación del logo de la startup y el servicio/producto|
 |1.4|17/04/2025|Salvador R.|Actualización de la información de la startup profile|
+|1.5|19/04/2025|Sanchez L.|Actualización del ui design, incluyendo landing page y web application|
 
 ## Project Report Collaboration Insights
 
@@ -61,7 +62,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |María Peña||
 |María Pilares| Desarrollo del capítulo 2, desde el punto 2.1 al 2.3.1 |
 |Rodrigo Salvador|Desarrollo del capítulo 1 al 1.3, creación de los logos, landing page y capítulo 3|
-|Luciana Sanchez|Desarrollo del capítulo 4.1 del documento en formato markdown al 4.4|
+|Luciana Sanchez|Desarrollo del capítulo 4.1 del documento en formato markdown al 4.4. Incluyendo diseño del landing page y web application|
 </div>
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
 
