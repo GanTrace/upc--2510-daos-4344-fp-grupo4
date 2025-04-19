@@ -431,14 +431,14 @@ Realizar un análisis competitivo es fundamental para identificar las oportunida
             <td>Plataforma web y móvil diseñada para pequeños y medianos ganaderos en Latinoamérica, enfocada en trazabilidad, gestión sanitaria y educación.</td>
             <td>Aplicación móvil y web para gestión de hatos ganaderos, enfocada en registro sanitario y productividad.</td>
             <td>Plataforma multifuncional para gestión agrícola y ganadera, con módulos de cultivo, inventario y finanzas.</td>
-            <td></td>      
+            <td>Herramienta global para gestión agrícola, con funcionalidades básicas de ganadería.</td>      
         </tr>
         <tr>
             <td class="sub">Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
             <td>Enfocado a la ganadería y la trazabilidad individual el hato a precios accesibles para los ganaderos</td>
             <td>Integración con dispositivos IoT. Reportes automatizados para exportación a autoridades sanitarias.</td>
             <td>Versatilidad: integra cultivos y ganado en una sola plataforma. Análisis predictivo basado en clima y mercado.</td>
-            <td></td>      
+            <td>Reconocimiento de marca internacional. Integración con mercados globales de commodities.</td>      
         </tr>
         <tr>
             <td rowspan="2" class="sub">PERFIL DEL MARKETING</td>
@@ -446,14 +446,14 @@ Realizar un análisis competitivo es fundamental para identificar las oportunida
             <td>Pequeños productores (5-100 cabezas de ganado) y técnicos agropecuarios.</td>
             <td>Medianos y grandes ganaderos con acceso a tecnología avanzada.</td>
             <td>Agricultores y ganaderos diversificados en zonas semiurbanas.</td>
-            <td></td>
+            <td>Grandes empresas agroindustriales con enfoque exportador.</td>
         </tr>
         <tr>
             <td class="sub">Estrategias de Marketing</td>
             <td>Alianzas con asociaciones ganaderas y programas gubernamentales. Talleres presenciales en zonas rurales.</td>
             <td>Alianzas con empresas de insumos veterinarios. Publicidad en ferias ganaderas y redes sociales especializadas.</td>
             <td>Contenido educativo en YouTube y webinars. Descuentos por volumen para cooperativas.</td>
-            <td></td>
+            <td>Campañas en medios internacionales (The Economist, Bloomberg).Acuerdos con distribuidores de maquinaria agrícola.</td>
         </tr>
         <tr>
             <td rowspan="3" class="sub">PERFIL DEL PRODUCTO</td>
