@@ -422,10 +422,10 @@ Realizar un análisis competitivo es fundamental para identificar las oportunida
         <tr>
             <td rowspan="3" class="sub">PERFIL</td>
             <td rowspan="2" class="sub">Overview</td>
-            <td> a <img src=https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/c8412e74-a9bb-4e9e-b49e-d5faa094d456> </td>
-            <td> b <img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/3a4b2b57-bfad-4d96-83dc-59fb6819a945"> </td>
-            <td> c <img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/2a1a6055-a109-4916-b109-1640b2aad4f0"> </td>
-            <td> d <img src="https://github.com/upc-pre-202302-si730-sw51-integradis/LandingPage/assets/105735491/168e05dc-b992-4707-86bb-7dba446d5eac"> </td> 
+            <td> GanTracer <img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/AgroDigital_Logo.png"> </td>
+            <td> Livestock Manager <img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/competidor%201.png"> </td>
+            <td> AgriTrack <img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/competidor%202.png"> </td>
+            <td> FarmLogs <img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/competidor%203.png"> </td> 
         </tr>
         <tr>
             <td>Plataforma web y móvil diseñada para pequeños y medianos ganaderos en Latinoamérica, enfocada en trazabilidad, gestión sanitaria y educación.</td>
