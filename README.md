@@ -380,6 +380,13 @@ Empresas formales como Gloria S.A., Laive, o cooperativas ganaderas como COLPA d
 ![Stakeholders Externos](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Stakeholders.jpg)
 
 <!-- capitulo 2 -->
+<div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis.</h2></div>
+
+<div id='2.1.'><h3> 2.1. Competidores.</h3></div>
+
+<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo.</h4></div>
+
+Realizar un análisis competitivo es fundamental para identificar las oportunidades y amenazas en el mercado, así como para posicionar estratégicamente a GanTrace. Este proceso permite entender cómo los competidores satisfacen las necesidades del cliente, qué brechas existen y cómo nuestra solución puede destacar mediante ventajas diferenciadoras. Además, ayuda a diseñar estrategias de marketing, precios y distribución más efectivas, asegurando una propuesta de valor única y sostenible.
 
 <!-- capitulo 3 -->
 <div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
