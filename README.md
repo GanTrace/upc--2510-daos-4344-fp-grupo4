@@ -544,13 +544,9 @@ Los sistemas de navegación deben estar diseñados para ser intuitivos, adaptado
 
 <div id='4.3.'><h3>Landing Page UI Design</h3></div>
 <div id='4.3.1.'><h4>Landing Page Wireframe</h4></div>
-<div style="text-align: center;">
-  <img src="Imagenes\Uidesigns\AgroDigitalLandingPWireframe.png" alt="LandingPageWireframe" width="470">
-</div>
+
 <div id='4.3.2.'><h4>Landing Page Mock-up</h4></div>
-<div style="text-align: center;">
-  <img src="Imagenes\Uidesigns\AgroDigitalMockUp.png" alt="LandingPageMockUp" width="470">
-</div>
+
 <div id='4.4.'><h3>Web Applications UX/UI Design</h3></div>
 <div id='4.4.1.'><h4>Web Applications Wireframes</h4></div>
 
@@ -593,3 +589,6 @@ Diccionario de clases usado para el desarrollo de AgroDigital
 
 <div id='4.8'><h3>Database Design</h3></div>
 <div id='4.8.1'><h4>Database Diagram</h4></div>
+<img src="Imagenes/diagramas/AgroDigital_Database_Diagram-2025-04-18_21-58.png" alt="" width="470">
+
+Link del diagrama en [Vertabello](https://my.vertabelo.com/doc/HkMfD4RBQlSQgfXH9BeNvzXrga6xjzzb)
