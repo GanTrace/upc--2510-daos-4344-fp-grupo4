@@ -559,18 +559,24 @@ Los sistemas de navegación deben estar diseñados para ser intuitivos, adaptado
 <div id='4.4.'><h3>Web Applications UX/UI Design</h3></div>
 <div id='4.4.1.'><h4>Web Applications Wireframes</h4></div>
 <div style="text-align: center;">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 1.png" alt="LandingPageMockUp" width="470">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 2.png" alt="LandingPageMockUp" width="470">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 3.png" alt="LandingPageMockUp" width="470">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 4.png" alt="LandingPageMockUp" width="470">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 5.png" alt="LandingPageMockUp" width="470">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 6.png" alt="LandingPageMockUp" width="470">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 7.png" alt="LandingPageMockUp" width="470">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 1.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 2.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 3.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 4.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 5.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 6.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 7.png" alt="LandingPageMockUp" width="500">
 </div>
 <div id='4.4.2.'><h4>Web Applications Wireflow Diagrams</h4></div>
 
 <div id='4.4.3.'><h4>Web Applications Mock-ups</h4></div>
-
+<img src="Imagenes\Uidesigns\appWeb\MockUp1.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp2.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp3.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp4.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp5.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp6.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp7.png" alt="LandingPageMockUp" width="500">
 <div id='4.4.4.'><h4>Web Applications User Flow Diagrams</h4></div>
 
 <div id='4.5.'><h3>Web Applications Prototyping</h3></div>
