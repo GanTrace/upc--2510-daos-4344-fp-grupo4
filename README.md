@@ -567,6 +567,25 @@ Se presenta tres niveles del modelo C4 trabajado con structurizr para el proyect
 <img src="Imagenes/diagramas/structurizr-101335-AgroDigitalComponents.png" alt="" width="470">
 <div id='4.7.'><h3>Software Object-Oriented Design</h3></div>
 <div id='4.7.1'><h4>Class Diagrams</h4></div>
+<img src="Imagenes/diagramas/Class Diagram.png" alt="" width="470"> 
+
+Link del diagrama en [Lucidchart](https://lucid.app/lucidchart/0a62f2c2-3118-4a1d-8828-580a70e3321e/edit?viewport_loc=-3835%2C-5934%2C4252%2C1417%2C0_0&invitationId=inv_d46d805a-ec6c-4f2f-b48f-024381f58440)
 <div id='4.7.2'><h4>Class Dictionary</h4></div>
+Diccionario de clases usado para el desarrollo de AgroDigital
+
+- **Animal:** Clase que representa un animal en el sistema, con atributos como especie, raza, edad y peso.
+- **HistorialDeCitas:** Clase que registra las citas veterinarias asociadas a un animal, incluyendo motivo y observaciones.
+- **Diagnostico:** Clase que almacena diagnósticos médicos generados a partir de citas veterinarias.
+- **Sanidad:** Clase que gestiona tratamientos o vacunas aplicados a un animal (fecha, tipo y descripción).
+- **Factura:** Clase que registra transacciones financieras (monto total, fecha y estado).
+- **MetodoPago:** Clase que define los métodos de pago disponibles (tarjeta, transferencia, etc.).
+- **Pago:** Clase que almacena los pagos realizados, asociados a una factura y un método.
+- **Academia:** Clase que gestiona cursos o materiales de capacitación (título, descripción y URL).
+- **Almacen:** Clase que representa un almacén físico (nombre, ubicación).
+- **Insumo:** Clase que gestiona productos en inventario (nombre, tipo, cantidad y fechas clave).
+- **Proveedor:** Clase que almacena información de proveedores de insumos (nombre y contacto).
+- **Usuario:** Clase que representa a los usuarios del sistema (nombre, correo y rol).
+
+
 <div id='4.8'><h3>Database Design</h3></div>
 <div id='4.8.1'><h4>Database Diagram</h4></div>
