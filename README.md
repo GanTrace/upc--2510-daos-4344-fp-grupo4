@@ -59,7 +59,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |-|-|
 |Nelson Guerrero||
 |María Peña||
-|María Pilares||
+|María Pilares| Desarrollo del capítulo 2, desde el punto 2.1 al 2.3.1 |
 |Rodrigo Salvador|Desarrollo del capítulo 1 al 1.3, creación de los logos, landing page y capítulo 3|
 |Luciana Sanchez|Desarrollo del capítulo 4.1 del documento en formato markdown al 4.4|
 </div>
