@@ -544,9 +544,13 @@ Los sistemas de navegación deben estar diseñados para ser intuitivos, adaptado
 
 <div id='4.3.'><h3>Landing Page UI Design</h3></div>
 <div id='4.3.1.'><h4>Landing Page Wireframe</h4></div>
-
+<div style="text-align: center;">
+  <img src="Imagenes\Uidesigns\AgroDigitalLandingPWireframe.png" alt="LandingPageWireframe" width="470">
+</div>
 <div id='4.3.2.'><h4>Landing Page Mock-up</h4></div>
-
+<div style="text-align: center;">
+  <img src="Imagenes\Uidesigns\AgroDigitalMockUp.png" alt="LandingPageMockUp" width="470">
+</div>
 <div id='4.4.'><h3>Web Applications UX/UI Design</h3></div>
 <div id='4.4.1.'><h4>Web Applications Wireframes</h4></div>
 
