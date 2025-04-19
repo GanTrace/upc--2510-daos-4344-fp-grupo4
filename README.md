@@ -470,7 +470,7 @@ Se ha seleccionado el set de íconos Circum Icons diseñado por Klarr Agency. Es
 
 Los íconos utilizados mantienen una línea uniforme y amigable, facilitando la navegación y mejorando la experiencia de usuario.
 
-<div align="center" > <img src="Imagenes\iconosMuestra.png" alt="iconosMuestra" width="650px"> </div>
+<div align="center" > <img src="Imagenes/Uidesigns/iconosMuestra.png" alt="iconosMuestra" width="700px"> </div>
 <div id='4.1.2.'><h4>Web Style Guidelines</h4></div>
 El Web Style Guide de AgroTrace nos ayudó a mostrar una identidad visual coherente y accesible en toda la plataforma. Definimos colores, tipografías y elementos de diseño inspirados en el entorno rural para transmitir confianza, tecnología cercana y facilidad de uso.
 
@@ -575,14 +575,33 @@ Los wireframes de la aplicación web de AgroDigital representan la estructura y 
   <img src="Imagenes\Uidesigns\appWeb\Wireframe - 5.png" alt="" width="500">
   <img src="Imagenes\Uidesigns\appWeb\Wireframe - 6.png" alt="" width="500">
   <img src="Imagenes\Uidesigns\appWeb\Wireframe - 7.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 8.png" alt="" width="500">
 </div>
 <div id='4.4.2.'><h4>Web Applications Wireflow Diagrams</h4></div>
+
+En esta sección se presentan los Wireflows para cada objetivo del usuario. Para ello se consideró los User Persona correspondientes. Cada diagrama muestra el flujo de interacción.
+
+- **Registro y Perfil del ganadero** El presente user flow corresponde con el formulario de registro que solicita el ingreso de la información del usuario.
+
+ <img src="Imagenes\Uidesigns\wireflow1.png" alt="" width="600">
+
+- **Gestión de Usuario** El presente user flow corresponde con la gestión de usuario, en el cual el usuario puede iniciar sesión, registrarse e interatuar con las funciones elementales de la aplicación.
+
+ <img src="Imagenes\Uidesigns\wireflow2.png" alt="" width="600">
+
+ - **Agregar un animal** El presente user flow corresponde con la agregación de un animal al registro de ganado, especificando sus detalles.
+
+<img src="Imagenes\Uidesigns\wireflow3.png" alt="" width="600">
+
+ - **Control Ganado y Finanzas** El presente user flow corresponde con el control de los animales, registro de finanzas del ganadero y cuadros estadísticos del ganado.
+
+<img src="Imagenes\Uidesigns\wireflow4.png" alt="" width="600">
 
 <div id='4.4.3.'><h4>Web Applications Mock-ups</h4></div>
 
 En esta sección se presentan y explican los mock-ups de la aplicación web de AgroDigital, orientada al sector ganadero. Se evidencia la aplicación de principios clave de diseño visual, accesibilidad, arquitectura de información y el Design System desarrollado para este producto digital. Cada mock-up refleja cómo estos conceptos se integran en una interfaz pensada para facilitar la trazabilidad, el control sanitario y la gestión eficiente del ganado. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=21-575&t=qT7oJSn8VnYsfiTX-1)
 
-<img src="Imagenes\Uidesigns\appWeb\MockUp1.png" alt="LandingPageMockUp" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp1.png" alt="" width="500">
   <img src="Imagenes\Uidesigns\appWeb\MockUp2.png" alt="" width="500">
   <img src="Imagenes\Uidesigns\appWeb\MockUp3.png" alt="" width="500">
   <img src="Imagenes\Uidesigns\appWeb\MockUp4.png" alt="" width="500">
@@ -591,8 +610,7 @@ En esta sección se presentan y explican los mock-ups de la aplicación web de A
   <img src="Imagenes\Uidesigns\appWeb\MockUp7.png" alt="" width="500">
   <img src="Imagenes\Uidesigns\appWeb\MockUp8.png" alt="" width="500">
 <div id='4.4.4.'><h4>Web Applications User Flow Diagrams</h4></div>
-
-A continuación un diagrama que representa los user goals de AgroDigital:
+  A continuación un diagrama que representa los user goals de AgroDigital:
 
   <img src="Imagenes\Uidesigns\appWeb\AgroDigital.png" alt="User Flow Diagrams" width="500">
 <div id='4.5.'><h3>Web Applications Prototyping</h3></div>
