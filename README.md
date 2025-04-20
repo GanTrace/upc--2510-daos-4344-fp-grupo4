@@ -937,4 +937,39 @@ Este enfoque garantiza que los criterios de aceptación sean:
 
 Para implementar la landing page, se requieren los siguientes elementos previos: una cuenta de usuario personal, una organización creada y un repositorio configurado donde se alojarán los archivos del proyecto. Una vez cumplidos estos prerrequisitos fundamentales, se podrá proceder con el despliegue efectivo de la página. A continuación se detalla el proceso paso a paso:
 
+1. **Estructura de directorios:**
 
+   - Generar una carpeta denominada "docs" como contenedor principal del proyecto.
+
+2. **Organización de archivos:**
+
+   - Garantizar que el archivo principal siga la nomenclatura estándar "index.html"
+
+   - Incluir la hoja de estilos con el nombre "style.css"
+
+   - Crear un directorio "img" para almacenar todos los recursos gráficos
+
+3. **Sincronización con el repositorio:**
+
+   - Subir los archivos mediante un commit siguiendo las convenciones establecidas
+
+4. **Configuración en GitHub:**
+
+   - Acceder a Settings > Pages
+
+   - Seleccionar la rama de despliegue (comúnmente "main" o "master")
+
+   - Especificar "/docs" como directorio fuente
+
+5. **Publicación:**
+
+   - Esperar la verificación automática por parte de GitHub
+
+   - Obtener el enlace generado para visualizar la Landing Page en producción
+
+
+![Github_pages]()
+
+Enlace para acceder a la [landing page]()
+
+<!-- **Front End Web Application deployment** -->
