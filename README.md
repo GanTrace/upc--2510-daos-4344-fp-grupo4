@@ -561,10 +561,32 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 
 <div id='3.3.'><h3> 3.3. Impact Mapping.</h3></div>
 
-![AgroDigital Impact map]()
+![AgroDigital Impact map](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Impact%20%20Map.png)
 
 
 Enlace para acceder al [UXPressia](https://uxpressia.com/w/vszcw/i/NfjHK?tagId=noTag)
+
+<div id='3.4.'><h3> 3.4. Product Backlog.</h3></div>
+
+| # Orden | User Story ID | Título | Descripción| Story Points |
+|:-:|:-:|-|:-|:-:|
+|1|US03|Acceder a la aplicación desde la landing page|**Como** visitante de la landing page **Quiero** poder acceder a la aplicación directamente desde la landing page **Para** comenzar a utilizar las funcionalidades ofrecidas|5|
+|2|US02|Obtener información de la aplicación|**Como** visitante de la landing page **Quiero** quiero obtener información relacionada con el producto ofrecido **Para** conocer los beneficios que puedo adquirir|5|
+|3|US01|Contactar a la startup|**Como** visitante de la landing page **Quiero** proporcionar mi correo electrónico **Para** que los desarrolladores reciban mis comentarios, dudas e inquietudes relacionadas con la aplicación|5|
+|4|US06|Iniciar sesión|**Como** ganadero o veterinario **Quiero** iniciar sesión **Para** acceder a los beneficios que ofrece la aplicación AgroDigital|5|
+|5|US04|Registrar nuevo animal|**Como** ganadero **Quiero** agregar animales al sistema **Para** tener un inventario digital|3|
+|6|US05|Buscar animal por ID|**Como** ganadero **Quiero** encontrar un animal específico **Para** consultar su información|3|
+|7|US07|Registrar vacunación|**Como** ganadero **Quiero** anotar vacunas aplicadas **Para** mantener un historial sanitario|3|
+|8|US08|Registrar venta|**Como** ganadero **Quiero** anotar la venta de un animal **Para** controlar ingresos|3|
+|9|US09|Actualizar peso animal|**Como** ganadero **Quiero** actualizar el peso de mis animales **Para** llevar un control de su crecimiento|1|
+|10|US10|Agregar diagnóstico|**Como** veterinario **Quiero** registrar diagnósticos **Para** documentar tratamientos|3|
+|11|US11|Filtrar animales enfermos|**Como** veterinario **Quiero** filtrar animales con problemas de salud **Para** priorizar atenciones|3|
+|12|US12|Programar visita|**Como** veterinario **Quiero** agendar visitas a fincas **Para** organizar mi trabajo|1|
+|13|US13|Asignar tarea|**Como** veterinario **Quiero** delegar actividades a ganaderos **Para** seguimiento remoto|3|
+|14|US14|Ver estadísticas|**Como** veterinario **Quiero** ver porcentajes de animales tratados **Para** evaluar salud|1|
+|15|US15|Registrar tratamiento veterinario|**Como** veterinario **Quiero** documentar medicamentos aplicados a un animal **Para** mantener un historial clínico preciso|3|
+
+
 
 <div id='4.'><h2>Capítulo IV: Product Design</h2></div>
 <div id='4.1.'><h3>Style Guidelines</h3></div>
