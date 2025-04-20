@@ -627,6 +627,21 @@ Preguntas complementarias (para ambos segmentos):
 - ¿Qué es lo que más valora en una herramienta digital: rapidez, facilidad de uso, seguridad de datos u otro aspecto?
 
 
+Preguntas principales (comunes):
+
+- ¿Cómo lleva actualmente el registro de su ganado (peso, salud, vacunas)?
+
+- ¿Qué desafíos ha enfrentado por llevar registros manuales?
+
+- ¿Qué tan cómodo se siente utilizando un celular o computadora?
+
+- ¿Le sería útil recibir alertas de vacunación o reproducción?
+
+- ¿Ha perdido información relevante alguna vez?
+
+- ¿Qué contenido educativo le interesaría tener en una app?
+
+- ¿Qué canales digitales usa actualmente (WhatsApp, redes sociales, etc.)?
 
 
 <!--EDITANDO -->
