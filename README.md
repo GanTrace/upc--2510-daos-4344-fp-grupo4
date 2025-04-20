@@ -893,3 +893,39 @@ Los mensajes de confirmación seguirán las directrices de Conventional Commits,
 
  `git commit -m "<type>[optional scope]:<title>" -m"<description">`
 
+<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
+
+1. Cerrar todos los elementos HTML: Por ejemplo, `<h>Esto es un título.</h>`
+2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad.
+3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
+4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido. Por ejemplo: `<img src="abc.img" alt="image name" style="width:64px;height:64px">`
+
+**CSS:** Entre las prácticas empleadas se mencionan:
+
+1. Los identificadores de clases deben ser concisos y descriptivos por sí mismos.
+2. Separar los nombres de las clases y ID con un guión, por ejemplo: `#video-id` y `.hero-shadow{}`
+3. Evitar especificar la unidad de medida luego de usar el valor 0, por ejemplo: `margin: 0` en lugar de `margin: 0px`.
+4. Cada selector y declaración CSS debe ubicarse en líneas independientes para facilitar su lectura y mantenimiento.
+
+**Gherkin:** Es un lenguaje especializado diseñado para abordar un desafío específico: facilitar la comunicación efectiva entre los equipos de negocio y técnicos al implementar Behavior Driven Development (BDD). Para optimizar su uso, se implementaron las siguientes prácticas:
+
+1. **Organización visual**: Se emplearon saltos de línea estratégicos para estructurar claramente los diferentes escenarios y mejorar su legibilidad.
+
+2. **Palabras clave**: Se utilizaron los términos fundamentales "Given", "When", "Then" y "And" para:
+
+- Establecer el contexto inicial.
+
+- Describir las acciones principales.
+
+- Definir los resultados esperados.
+
+- Agregar condiciones complementarias cuando fuera necesario.
+
+Este enfoque garantiza que los criterios de aceptación sean:
+✓ Claros para todos los stakeholders
+✓ Fáciles de mantener
+✓ Alienados con los requisitos del negocio
+
+<div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
