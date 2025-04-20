@@ -559,6 +559,12 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 |US14|Ver estadísticas|**Como** veterinario **Quiero** ver porcentajes de animales tratados **Para** evaluar salud|**Escenario 1: Estadísticas calculadas** <br> **Dado que** hay cierta cantidad de animales vacunados <br> **Cuando** acceda a "Estadísticas" <br> **Entonces** veré los porcentajes de la cantidad de animales vacunados y pendientes <br> **Escenario 2: Sin datos disponibles** <br> **Dado que** no hay animales registrados <br> **Cuando** acceda a "Estadísticas" <br> **Entonces** veré "No hay datos para mostrar"|EP09|
 |US15|Registrar tratamiento veterinario|**Como** veterinario **Quiero** documentar medicamentos aplicados a un animal **Para** mantener un historial clínico preciso|**Escenario 1: Tratamiento registrado** <br> **Dado que** selecciono un animal y completo con el medicamento y/o tratamiento <br> **Cuando** guarde el registro <br> **Entonces** el sistema lo agregará al historial del animal <br> **Escenario 2: Datos incompletos** <br> **Dado que** no ingreso la dosis requerida <br> **Cuando** intente guardar <br> **Entonces** el sistema mostrará "La dosis es obligatoria" y no guardará|EP07|
 
+<div id='3.3.'><h3> 3.3. Impact Mapping.</h3></div>
+
+![AgroDigital Impact map]()
+
+
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/vszcw/i/NfjHK?tagId=noTag)
 
 <div id='4.'><h2>Capítulo IV: Product Design</h2></div>
 <div id='4.1.'><h3>Style Guidelines</h3></div>
