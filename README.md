@@ -387,6 +387,8 @@ Empresas formales como Gloria S.A., Laive, o cooperativas ganaderas como COLPA d
 
 <div id='2.1.'><h3> 2.1. Competidores.</h3></div>
 
+Entender el entorno competitivo es crucial para el éxito de cualquier negocio. En esta sección analizaremos detalladamente quiénes son nuestros competidores, tanto directos como indirectos y examinaremos las estrategias que utilizan como también sus fortalezas y debilidades.
+
 <div id='2.1.1.'><h4> 2.1.1. Análisis competitivo.</h4></div>
 
 Realizar un análisis competitivo es fundamental para identificar las oportunidades y amenazas en el mercado, así como para posicionar estratégicamente a GanTrace. Este proceso permite entender cómo los competidores satisfacen las necesidades del cliente, qué brechas existen y cómo nuestra solución puede destacar mediante ventajas diferenciadoras. Además, ayuda a diseñar estrategias de marketing, precios y distribución más efectivas, asegurando una propuesta de valor única y sostenible.
