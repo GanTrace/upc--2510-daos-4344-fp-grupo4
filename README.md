@@ -532,7 +532,9 @@ Por otro lado, estas son nuestras tácticas específicas:
 - Versiones por región con lenguaje local y soporte contextualizado.
 - Participación en ferias rurales y jornadas agropecuarias.
 
+<div id='2.2.'><h3> 2.2. Entrevistas. </h3></div>
 
+Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro público objetivo, estas deben tener una estructura clara y concisa, preguntas específicas para que cumplan su objetivo que es la recolección de datos e información de los entrevistados.
 
 
 <!--EDITANDO -->
