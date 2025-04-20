@@ -101,8 +101,8 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nelson Guerrero** <br> TB1: En esta entrega se realizaron . <br> **María Peña** <br> TB1: Realizó . <br> **María Pilares** <br> TB1: Para la primera entrega, comuniqué por escrito de manera clara y efectiva el análisis de los competidores, el diseño de las entrevistas y la creación de user personas. <br> **Rodrigo Salvador** <br> TB1: En el informe . <br> **Luciana Sanchez** <br> TB1: Para el trabajo se definen las reglas de diseño y organización de un sitio web, incluyendo su estilo visual, estructura de contenido y navegación. |El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nelson Guerrero** <br> TB1: Se llevó a cabo . <br> **María Peña** <br> TB1: Encargado de realizar. <br> **María Pilares** <br> TB1: A lo hora de realizar el trabajo comunique activamente mis avances y desarrollo del proyecto a mi equipo de trabajo. <br> **Rodrigo Salvador** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario . <br> **Luciana Sanchez** <br> TB1: Para el entregable fue necesario definir las reglas del estilo visual de nuestro producto. |Como equipo pudimos establecer medios de comunicación para poder entregar un trabajo completo ante el obstáculo que suponen los cortos períodos de tiempo para la entrega del proyecto. De la misma manera, se comunicaron los resultados obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa. |
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nelson Guerrero** <br> TB1: En esta entrega se realizaron . <br> **María Peña** <br> TB1: Realizó . <br> **María Pilares** <br> TB1: Para la primera entrega, comuniqué por escrito de manera clara y efectiva el análisis de los competidores, el diseño de las entrevistas y la creación de user personas. <br> **Rodrigo Salvador** <br> TB1: En el informe me he encargo de la realización del capítulo 1, el desarrollo de los puntos importantes de la startup profile, los lean ux y los segmentos objetivos. Además de la resolución del capítulo 3, en donde se definieron las user stories que se desarrollarán en el proyecto. <br> **Luciana Sanchez** <br> TB1: Para el trabajo se definen las reglas de diseño y organización de un sitio web, incluyendo su estilo visual, estructura de contenido y navegación. |El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nelson Guerrero** <br> TB1: Se llevó a cabo . <br> **María Peña** <br> TB1: Encargado de realizar. <br> **María Pilares** <br> TB1: A lo hora de realizar el trabajo comunique activamente mis avances y desarrollo del proyecto a mi equipo de trabajo. <br> **Rodrigo Salvador** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario la comunicación con todos los miembros de mi equipo, para una mejor organización y distribución del trabajo en grupo, dividiéndonos de forma equitativa el trabajo y apoyándonos cuando sea necesario <br> **Luciana Sanchez** <br> TB1: Para el entregable fue necesario definir las reglas del estilo visual de nuestro producto. |Como equipo pudimos establecer medios de comunicación para poder entregar un trabajo completo ante el obstáculo que suponen los cortos períodos de tiempo para la entrega del proyecto. De la misma manera, se comunicaron los resultados obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa. |
 
 
 ## Contenido
@@ -783,19 +783,31 @@ En esta sección se presentan y explican los mock-ups de la aplicación web de A
   <img src="Imagenes\Uidesigns\appWeb\AgroDigital.png" alt="User Flow Diagrams" width="500">
 <div id='4.5.'><h3>Web Applications Prototyping</h3></div>
 <div id='4.6.'><h3>Domain-Driven Software Architecture</h3></div>
-Se presenta tres niveles del modelo C4 trabajado con structurizr para el proyecto con el que veremos un mejor enfoque de lo que se está desarrollando
-<div id='4.6.1'><h4>Software Architecture Context Diagram</h4></div>
+El Domain Driven Design (DDD) busca crear un entendimiento compartido del dominio del negocio, facilitando la colaboración entre desarrolladores y expertos del dominio mediante un lenguaje común. Este enfoque va más allá del simple uso de terminología especializada, incorporando patrones de diseño, metodologías estructuradas y representaciones arquitectónicas que permiten alinear estrechamente el software con las necesidades reales del negocio, fortaleciendo así la conexión entre solución técnica y conocimiento del dominio para lograr sistemas más efectivos y adaptados a la problemática empresarial.
+
+Se presenta tres niveles del modelo C4 trabajado con structurizr para el proyecto con el que veremos un mejor enfoque de lo que se está desarrollando.
+
+<div id='4.6.1.'><h4>Software Architecture Context Diagram</h4></div>
+
 <img src="Imagenes/diagramas/structurizr-101335-AgroDigitalSytemContext.png" alt="" width="470">
-<div id='4.6.2'><h4>Software Architecture Container Diagrams</h4></div>
+
+<div id='4.6.2.'><h4>Software Architecture Container Diagrams</h4></div>
+
 <img src="Imagenes/diagramas/structurizr-101335-AgroDigitalContainer.png" alt="" width="470">
-<div id='4.6.3'><h4>Software Architecture Components Diagrams</h4></div>
+
+<div id='4.6.3.'><h4>Software Architecture Components Diagrams</h4></div>
+
 <img src="Imagenes/diagramas/structurizr-101335-AgroDigitalComponents.png" alt="" width="470">
+
 <div id='4.7.'><h3>Software Object-Oriented Design</h3></div>
-<div id='4.7.1'><h4>Class Diagrams</h4></div>
+
+<div id='4.7.1.'><h4>Class Diagrams</h4></div>
+
 <img src="Imagenes/diagramas/Class Diagram.png" alt="" width="470"> 
 
 Link del diagrama en [Lucidchart](https://lucid.app/lucidchart/0a62f2c2-3118-4a1d-8828-580a70e3321e/edit?viewport_loc=-3835%2C-5934%2C4252%2C1417%2C0_0&invitationId=inv_d46d805a-ec6c-4f2f-b48f-024381f58440)
-<div id='4.7.2'><h4>Class Dictionary</h4></div>
+
+<div id='4.7.2.'><h4>Class Dictionary</h4></div>
 Diccionario de clases usado para el desarrollo de AgroDigital
 
 - **Animal:** Clase que representa un animal en el sistema, con atributos como especie, raza, edad y peso.
@@ -812,8 +824,10 @@ Diccionario de clases usado para el desarrollo de AgroDigital
 - **Usuario:** Clase que representa a los usuarios del sistema (nombre, correo y rol).
 
 
-<div id='4.8'><h3>Database Design</h3></div>
-<div id='4.8.1'><h4>Database Diagram</h4></div>
+<div id='4.8.'><h3>Database Design</h3></div>
+Para este proyecto se optó por MySQL como sistema gestor de bases de datos debido a su escalabilidad, interfaz intuitiva y compatibilidad con los conocimientos previos del equipo en Microsoft SQL Server. Esta solución permite adaptar la capacidad de almacenamiento y procesamiento según las demandas evolutivas del negocio, garantizando un crecimiento acorde a los requerimientos del sistema.
+
+<div id='4.8.1.'><h4>Database Diagram</h4></div>
 <img src="Imagenes/diagramas/AgroDigital_Database_Diagram-2025-04-18_21-58.png" alt="" width="470">
 
 Link del diagrama en [Vertabello](https://my.vertabelo.com/doc/HkMfD4RBQlSQgfXH9BeNvzXrga6xjzzb)
