@@ -548,6 +548,40 @@ Objetivo: Identificar frustraciones, necesidades, dispositivos disponibles, grad
 
 Formato: Entrevistas semiestructuradas, de 25-30 minutos, registradas en video con consentimiento.
 
+Preguntas dirigidas al personal de **Ganaderos**.
+
+Preguntas principales:
+
+- ¿Podría indicarnos su nombre completo y su edad?
+
+- ¿Cuánto tiempo lleva dedicado a la ganadería? ¿Qué tipo de ganado maneja actualmente?
+
+- ¿Cuál es el tamaño aproximado de su ganado? ¿Y cuántas personas trabajan en su unidad ganadera?
+
+- ¿Qué herramientas utiliza actualmente para llevar el control de sus animales y sus actividades?
+
+- ¿Lleva algún registro sobre la salud, alimentación o reproducción de su ganado? ¿Cómo lo hace?
+
+- ¿Cuáles son las principales dificultades que enfrenta en la gestión diaria del ganado?
+
+- ¿Cómo monitorea actualmente la productividad y salud de su ganado?
+
+- ¿Qué tan importante considera llevar un control digital del historial veterinario y productivo de cada animal?
+
+- ¿Ha enfrentado problemas por no tener registros claros (por ejemplo, en ventas, enfermedades o reproducción)?
+
+- ¿Confía en herramientas digitales o ha probado alguna aplicación para el manejo ganadero?
+
+- ¿Cuánto tiempo promedio dedica al registro manual de datos (si lo realiza)?
+
+- ¿Qué tipo de información considera más importante tener a la mano sobre su ganado?
+
+- ¿Estaría dispuesto a usar una aplicación móvil/web para llevar el control del ganado si fuera sencilla y funcional?
+
+- ¿Qué funcionalidades le gustaría que tenga esta herramienta (alertas, historial médico, reproductivo, reportes, etc.)?
+  
+- ¿Qué beneficios espera al adoptar una herramienta digital para su ganadería?
+
 
 <!--EDITANDO -->
 
