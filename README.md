@@ -536,6 +536,18 @@ Por otro lado, estas son nuestras tácticas específicas:
 
 Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro público objetivo, estas deben tener una estructura clara y concisa, preguntas específicas para que cumplan su objetivo que es la recolección de datos e información de los entrevistados.
 
+<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas. </h4></div>
+
+Objetivo: Identificar frustraciones, necesidades, dispositivos disponibles, grado de digitalización y percepción sobre el registro de información ganadera.
+
+###### Segmentos entrevistados:
+
+- Ganaderos
+
+- Veterinarios
+
+Formato: Entrevistas semiestructuradas, de 25-30 minutos, registradas en video con consentimiento.
+
 
 <!--EDITANDO -->
 
