@@ -589,7 +589,7 @@ Enlace para acceder al [UXPressia](https://uxpressia.com/w/vszcw/i/NfjHK?tagId=n
 
 
 <div id='4.'><h2>Capítulo IV: Product Design</h2></div>
-<div id='4.1.'><h3>Style Guidelines</h3></div>
+<div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
 
 Estas directrices de estilo establecen los principios visuales y de diseño que deben seguirse al desarrollar la interfaz de usuario (UI) de AgroTrace. El objetivo es crear una experiencia digital clara, accesible e intuitiva que responda a las necesidades de pequeños y medianos ganaderos en Latinoamérica.
 
@@ -597,7 +597,7 @@ El concepto visual se centra en transmitir confianza, simplicidad y eficiencia r
 
 El diseño debe priorizar la facilidad de uso, incluso para personas con poca experiencia tecnológica, reforzando así la inclusión digital en el campo. La interfaz debe permitir una navegación fluida desde cualquier dispositivo, y ofrecer información clara y accesible para fomentar la toma de decisiones informadas. Este enfoque visual fortalece la misión de AgroTrace de modernizar la gestión ganadera con herramientas tecnológicas simples pero poderosas.
 
-<div id='4.1.1.'><h4>General Style Guidelines</h4></div>
+<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
 
 Los colores resultan ser fundamental para transmitir la identidad visual de la marca. En este sector, la paleta cromática seleccionada fue inspirada en la naturaleza y el entorno rural, utilizando tonos tierra, verdes orgánicos y acentos neutros. Colores que reflejan sostenibilidad, confianza y cercanía con el campo.
 
@@ -639,14 +639,14 @@ Se ha seleccionado el set de íconos Circum Icons diseñado por Klarr Agency. Es
 Los íconos utilizados mantienen una línea uniforme y amigable, facilitando la navegación y mejorando la experiencia de usuario.
 
 <div align="center" > <img src="Imagenes/Uidesigns/iconosMuestra.png" alt="iconosMuestra" width="700px"> </div>
-<div id='4.1.2.'><h4>Web Style Guidelines</h4></div>
+<div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
 El Web Style Guide de AgroTrace nos ayudó a mostrar una identidad visual coherente y accesible en toda la plataforma. Definimos colores, tipografías y elementos de diseño inspirados en el entorno rural para transmitir confianza, tecnología cercana y facilidad de uso.
 
 Nuestra paleta refleja valores como sostenibilidad y cercanía, mientras que las tipografías priorizan la legibilidad. Esta guía fortalece la presencia visual de AgroTrace y mejora la experiencia del usuario.
 
 Se incluyen imágenes que ilustran los principales lineamientos: colores, fuentes, espaciado y componentes clave, garantizando una interfaz clara y funcional.
-<div id='4.2.'><h3>Information Architecture</h3></div>
-<div id='4.2.1.'><h4>Organization Systems</h4></div>
+<div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
+<div id='4.2.1.'><h4> 4.2.1. Organization Systems</h4></div>
 En esta sección, se han aplicado sistemas de organización adaptados a las necesidades de los pequeños y medianos ganaderos, facilitando el acceso y comprensión de la información ganadera. La organización visual del contenido ha sido implementada de las siguientes formas:
 
 - Jerárquica (visual hierarchy): Para destacar módulos clave como el registro de animales, alertas sanitarias y reportes económicos, asegurando que los usuarios identifiquen rápidamente las funciones más relevantes para su gestión diaria.
@@ -654,7 +654,7 @@ En esta sección, se han aplicado sistemas de organización adaptados a las nece
 - Organización secuencial (step-by-step): Aplicada en procesos que requieren seguimiento cronológico, como el registro de eventos sanitarios, partos o tratamientos, permitiendo al usuario llevar un control ordenado y lógico del historial del ganado.
 
 Además, se categorizó el contenido según las funcionalidades de la plataforma: módulos de gestión (sanidad, reproducción, economía), tipo de usuario (ganadero, técnico, asociación), y acceso a recursos educativos (videos, guías, alertas). Estas estructuras permiten una navegación intuitiva y adaptada al entorno rural.
-<div id='4.2.2.'><h4>Labeling Systems</h4></div>
+<div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h4></div>
 Se han definido cuidadosamente los sistemas de etiquetado y categorización para asegurar que los usuarios naveguen de forma intuitiva y eficiente en la plataforma, implementando lo siguiente:
 
 - Jerarquía visual: Aplicada en la estructura de módulos clave como "Sanidad", "Reproducción" y "Economía", destacando primero los datos más relevantes (por ejemplo, alertas de salud o gastos recientes). Esto permite a los usuarios tomar decisiones informadas rápidamente.
@@ -665,7 +665,7 @@ Se han definido cuidadosamente los sistemas de etiquetado y categorización para
 
 Estos esquemas de etiquetado se han diseñado con base en el lenguaje y jerga ganadera, utilizando términos familiares como “Peso al destete” o “Última monta”, para que cualquier usuario, independientemente de su nivel técnico, pueda comprender y usar la plataforma sin dificultad.
 
-<div id='4.2.3.'><h4>SEO Tags and Meta Tags</h4></div>
+<div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h4></div>
 <h5 align="center">Landing Page</h5>
 
 - **Title:** AgroDigital - Plataforma Digital para la Gestión del Ganado  
@@ -680,7 +680,7 @@ Estos esquemas de etiquetado se han diseñado con base en el lenguaje y jerga ga
 - **Keywords:** plataforma ganadera, software para ganaderos, AgroDigital, gestión de ganado, salud animal, trazabilidad, control de ganado, aplicaciones para ganaderos, ganadería inteligente, ganadería digital, control de ganado.
 - **Author:** GanTrace
 
-<div id='4.2.4.'><h4>Searching Systems</h4></div>
+<div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
 El sistema de búsqueda en AgroDigital debe ser intuitivo y eficiente para que los usuarios puedan encontrar rápidamente la información relacionada con su ganado. A continuación, se detallan las opciones de búsqueda y los filtros disponibles: 
 
 - **Barra de busqueda por ganado:** Los usuarios podrán buscar información sobre un animal específico usando filtros como número de identificación, raza, edad, fecha de nacimiento, estado de salud, entre otros.
@@ -688,7 +688,7 @@ El sistema de búsqueda en AgroDigital debe ser intuitivo y eficiente para que l
 - **Filtro por categorias:** Los usuarios podrán filtrar por diferentes módulos como Sanidad, Reproducción o Economía, mejorando la accesibilidad a la información relevante.
 - **Opciones de Ordenación:** Los resultados se pueden ordenar por criterios como relevancia
 
-<div id='4.2.5.'><h4>Navigation Systems</h4></div>
+<div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
 Los sistemas de navegación deben estar diseñados para ser intuitivos, adaptados al contexto rural de los usuarios y fáciles de usar, incluso para aquellos con poca experiencia en tecnología. Aquí se detallan algunos de los aspectos a tener en cuenta:
 
 <h5 >Menú Principal:</h5>
@@ -715,22 +715,22 @@ Los sistemas de navegación deben estar diseñados para ser intuitivos, adaptado
 - Los usuarios podrán navegar por categorías de ganado, tipos de eventos o fechas, todo con una jerarquía visual clara que facilite el acceso a la información relevante.
 - Este diseño asegura que AgroDigital sea accesible y fácil de usar para los ganaderos, maximizando su eficiencia en el uso de la plataforma.
 
-<div id='4.3.'><h3>Landing Page UI Design</h3></div>
-<div id='4.3.1.'><h4>Landing Page Wireframe</h4></div>
+<div id='4.3.'><h3> 4.3. Landing Page UI Design</h3></div>
+<div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframe</h4></div>
 
 El wireframe de la landing page de AgroDigital actúa como una guía visual preliminar que organiza los elementos esenciales de la página sin entrar en detalles gráficos. Este esquema muestra la distribución de secciones clave como el encabezado con el logo y menú de navegación, una propuesta de valor centrada en la digitalización ganadera, testimonios de usuarios reales del campo, y llamadas a la acción destacadas que invitan a conocer la aplicación. El objetivo es garantizar una experiencia intuitiva para el visitante y facilitar su conversión en usuario activo de la plataforma. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=26-132&t=qT7oJSn8VnYsfiTX-1)
 
 <div style="text-align: center;">
   <img src="Imagenes\Uidesigns\AgroDigitalLandingPWireframe.png" alt="LandingPageWireframe" width="500">
 </div>
-<div id='4.3.2.'><h4>Landing Page Mock-up</h4></div>
+<div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
 
 El mock-up de la landing page de AgroDigital representa una versión detallada y cercana al diseño final, integrando colores, tipografías e imágenes que reflejan la identidad visual de la plataforma. Este diseño ofrece una vista realista de cómo se presentará la página a los usuarios, destacando una estética moderna, accesible y alineada con el sector agroindustrial ganadero. Además, refuerza la importancia de mantener coherencia visual y claridad en la propuesta de valor, transmitiendo confianza, profesionalismo y compromiso con la innovación tecnológica en el campo. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=0-1&t=qT7oJSn8VnYsfiTX-1)
 <div style="text-align: center;">
   <img src="Imagenes\Uidesigns\AgroDigitalMockUp.png" alt="LandingPageMockUp" width="500">
 </div>
-<div id='4.4.'><h3>Web Applications UX/UI Design</h3></div>
-<div id='4.4.1.'><h4>Web Applications Wireframes</h4></div>
+<div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
+<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
 
 Los wireframes de la aplicación web de AgroDigital representan la estructura y organización de las pantallas clave orientadas al sector agroindustrial, específicamente ganadero. Estos esquemas visuales muestran la disposición de los elementos de la interfaz y la navegación entre secciones, ofreciendo una guía clara para el diseño final. De esta forma, se garantiza una experiencia de usuario intuitiva, eficiente y adaptada a las necesidades reales del productor.Fueron desarrollados a través de Figma. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=9-4&t=qT7oJSn8VnYsfiTX-1)
 
@@ -745,7 +745,7 @@ Los wireframes de la aplicación web de AgroDigital representan la estructura y 
   <img src="Imagenes\Uidesigns\appWeb\Wireframe - 7.png" alt="" width="500">
   <img src="Imagenes\Uidesigns\appWeb\Wireframe - 8.png" alt="" width="500">
 </div>
-<div id='4.4.2.'><h4>Web Applications Wireflow Diagrams</h4></div>
+<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
 
 En esta sección se presentan los Wireflows para cada objetivo del usuario. Para ello se consideró los User Persona correspondientes. Cada diagrama muestra el flujo de interacción.
 
@@ -765,7 +765,7 @@ En esta sección se presentan los Wireflows para cada objetivo del usuario. Para
 
 <img src="Imagenes\Uidesigns\wireflow4.png" alt="" width="600">
 
-<div id='4.4.3.'><h4>Web Applications Mock-ups</h4></div>
+<div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
 
 En esta sección se presentan y explican los mock-ups de la aplicación web de AgroDigital, orientada al sector ganadero. Se evidencia la aplicación de principios clave de diseño visual, accesibilidad, arquitectura de información y el Design System desarrollado para este producto digital. Cada mock-up refleja cómo estos conceptos se integran en una interfaz pensada para facilitar la trazabilidad, el control sanitario y la gestión eficiente del ganado. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=21-575&t=qT7oJSn8VnYsfiTX-1)
 
@@ -777,37 +777,37 @@ En esta sección se presentan y explican los mock-ups de la aplicación web de A
   <img src="Imagenes\Uidesigns\appWeb\MockUp6.png" alt="" width="500">
   <img src="Imagenes\Uidesigns\appWeb\MockUp7.png" alt="" width="500">
   <img src="Imagenes\Uidesigns\appWeb\MockUp8.png" alt="" width="500">
-<div id='4.4.4.'><h4>Web Applications User Flow Diagrams</h4></div>
+<div id='4.4.4.'><h4> 4.4.4. Web Applications User Flow Diagrams</h4></div>
   A continuación un diagrama que representa los user goals de AgroDigital:
 
   <img src="Imagenes\Uidesigns\appWeb\AgroDigital.png" alt="User Flow Diagrams" width="500">
-<div id='4.5.'><h3>Web Applications Prototyping</h3></div>
-<div id='4.6.'><h3>Domain-Driven Software Architecture</h3></div>
+<div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
+<div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 El Domain Driven Design (DDD) busca crear un entendimiento compartido del dominio del negocio, facilitando la colaboración entre desarrolladores y expertos del dominio mediante un lenguaje común. Este enfoque va más allá del simple uso de terminología especializada, incorporando patrones de diseño, metodologías estructuradas y representaciones arquitectónicas que permiten alinear estrechamente el software con las necesidades reales del negocio, fortaleciendo así la conexión entre solución técnica y conocimiento del dominio para lograr sistemas más efectivos y adaptados a la problemática empresarial.
 
 Se presenta tres niveles del modelo C4 trabajado con structurizr para el proyecto con el que veremos un mejor enfoque de lo que se está desarrollando.
 
-<div id='4.6.1.'><h4>Software Architecture Context Diagram</h4></div>
+<div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
 
 <img src="Imagenes/diagramas/structurizr-101335-AgroDigitalSytemContext.png" alt="" width="470">
 
-<div id='4.6.2.'><h4>Software Architecture Container Diagrams</h4></div>
+<div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
 
 <img src="Imagenes/diagramas/structurizr-101335-AgroDigitalContainer.png" alt="" width="470">
 
-<div id='4.6.3.'><h4>Software Architecture Components Diagrams</h4></div>
+<div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
 
 <img src="Imagenes/diagramas/structurizr-101335-AgroDigitalComponents.png" alt="" width="470">
 
-<div id='4.7.'><h3>Software Object-Oriented Design</h3></div>
+<div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
 
-<div id='4.7.1.'><h4>Class Diagrams</h4></div>
+<div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
 
 <img src="Imagenes/diagramas/Class Diagram.png" alt="" width="470"> 
 
 Link del diagrama en [Lucidchart](https://lucid.app/lucidchart/0a62f2c2-3118-4a1d-8828-580a70e3321e/edit?viewport_loc=-3835%2C-5934%2C4252%2C1417%2C0_0&invitationId=inv_d46d805a-ec6c-4f2f-b48f-024381f58440)
 
-<div id='4.7.2.'><h4>Class Dictionary</h4></div>
+<div id='4.7.2.'><h4> 4.7.2. Class Dictionary</h4></div>
 Diccionario de clases usado para el desarrollo de AgroDigital
 
 - **Animal:** Clase que representa un animal en el sistema, con atributos como especie, raza, edad y peso.
@@ -824,10 +824,10 @@ Diccionario de clases usado para el desarrollo de AgroDigital
 - **Usuario:** Clase que representa a los usuarios del sistema (nombre, correo y rol).
 
 
-<div id='4.8.'><h3>Database Design</h3></div>
+<div id='4.8.'><h3> 4.8. Database Design</h3></div>
 Para este proyecto se optó por MySQL como sistema gestor de bases de datos debido a su escalabilidad, interfaz intuitiva y compatibilidad con los conocimientos previos del equipo en Microsoft SQL Server. Esta solución permite adaptar la capacidad de almacenamiento y procesamiento según las demandas evolutivas del negocio, garantizando un crecimiento acorde a los requerimientos del sistema.
 
-<div id='4.8.1.'><h4>Database Diagram</h4></div>
+<div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
 <img src="Imagenes/diagramas/AgroDigital_Database_Diagram-2025-04-18_21-58.png" alt="" width="470">
 
 Link del diagrama en [Vertabello](https://my.vertabelo.com/doc/HkMfD4RBQlSQgfXH9BeNvzXrga6xjzzb)
