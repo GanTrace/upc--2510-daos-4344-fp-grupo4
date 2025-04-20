@@ -45,6 +45,9 @@ width=50%"/>
 |1.3|17/04/2025|Salvador R.|Creación del logo de la startup y el servicio/producto|
 |1.4|17/04/2025|Salvador R.|Actualización de la información de la startup profile|
 |1.5|19/04/2025|Sanchez L.|Actualización del ui design, incluyendo landing page y web application|
+|1.6|19/04/2025|Peña M.|Desarrollo del Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design|
+|1.7|19/04/2025|Salvador R.|Desarrollo del ToBe Scenario Mapping, User Stories, Impact Mapping y Product backlog|
+|1.8|20/04/2025|Salvador R.|Avance del Capítulo V: Product Implementation, Validation & Deployment (del 5.1 al 5.1.4)|
 
 ## Project Report Collaboration Insights
 
@@ -59,10 +62,10 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Integrante|Tareas Asignadas|
 |-|-|
 |Nelson Guerrero||
-|María Peña||
-|María Pilares| Desarrollo del capítulo 2, desde el punto 2.1 al 2.3.1 |
-|Rodrigo Salvador|Desarrollo del capítulo 1 al 1.3, creación de los logos, landing page y capítulo 3|
-|Luciana Sanchez|Desarrollo del capítulo 4.1 del documento en formato markdown al 4.4. Incluyendo diseño del landing page y web application|
+|María Peña|Desarrollo del Capítulo IV: Product Design del 4.6 al 4.8.1|
+|María Pilares| Desarrollo del Capítulo II: Requirements Elicitation & Analysis, del 2.1 al 2.3.1|
+|Rodrigo Salvador|Desarrollo del Capítulo I: Introducción, Capítulo III: Requirements Specification y Capítulo V: Product Implementation, Validation & Deployment del 5.1 al 5.1.4|
+|Luciana Sanchez|Desarrollo del Capítulo IV: Product Design del 4.1 al 4.4. del documento en formato markdown. Incluyendo diseño del landing page y web application|
 </div>
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
 
@@ -929,3 +932,9 @@ Este enfoque garantiza que los criterios de aceptación sean:
 ✓ Alienados con los requisitos del negocio
 
 <div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
+
+**Landing page deployment:**
+
+Para implementar la landing page, se requieren los siguientes elementos previos: una cuenta de usuario personal, una organización creada y un repositorio configurado donde se alojarán los archivos del proyecto. Una vez cumplidos estos prerrequisitos fundamentales, se podrá proceder con el despliegue efectivo de la página. A continuación se detalla el proceso paso a paso:
+
+
