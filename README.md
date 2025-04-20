@@ -583,6 +583,41 @@ Preguntas principales:
 - ¿Qué beneficios espera al adoptar una herramienta digital para su ganadería?
 
 
+Preguntas dirigidas a los **Veterinarios**
+
+Preguntas principales:
+
+- ¿Podría proporcionarnos su nombre completo y su edad?
+
+- ¿Cuánto tiempo lleva ejerciendo como veterinario y en qué región trabaja principalmente?
+
+- ¿Está especializado en atención ganadera? ¿Qué tipo de ganado atiende con más frecuencia?
+
+- ¿Cómo realiza el seguimiento del historial médico de los animales que atiende?
+
+- ¿Utiliza actualmente alguna herramienta digital para llevar registros veterinarios?
+
+- ¿Qué información considera fundamental registrar tras una consulta o intervención (vacunas, tratamientos, diagnóstico)?
+
+- ¿Cómo se comunica con los ganaderos respecto al seguimiento o tratamientos posteriores?
+
+- ¿Con qué frecuencia atiende emergencias ganaderas? ¿Cómo coordina este tipo de intervenciones?
+
+- ¿Ha tenido casos donde la falta de información del animal haya afectado la efectividad del tratamiento?
+
+- ¿Qué retos encuentra en su trabajo relacionado con el registro o gestión de información?
+
+- ¿Le resultaría útil tener acceso al historial médico del animal antes de una consulta?
+
+- ¿Qué tan dispuesto estaría a utilizar una aplicación móvil/web para registrar y acceder al historial de sus pacientes?
+
+- ¿Qué funcionalidades considera clave en una herramienta digital veterinaria (calendario, historial, recordatorios, fichas clínicas)?
+
+- ¿Cómo podría mejorar su trabajo con una solución que conecte a veterinarios con ganaderos en tiempo real?
+
+- ¿Qué tan importante considera el análisis de datos (estadísticas de salud, tratamientos más comunes, etc.) en su labor?
+
+
 <!--EDITANDO -->
 
 
