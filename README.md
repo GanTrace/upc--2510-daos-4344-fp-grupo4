@@ -515,6 +515,31 @@ Realizar un análisis competitivo es fundamental para identificar las oportunida
 </body>
 </html>
 
+<div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
+Entre las principales estrategias y tácticas que ejecutaremos como startup son las siguientes:
+
+Por un lado, estas son las estrategias preliminares:
+
+- Penetración en zonas rurales mediante convenios con asociaciones ganaderas locales y ONGs.
+- Educación digital progresiva con contenido audiovisual adaptado a usuarios sin experiencia.
+- Fortalecimiento del soporte técnico con canales simples como WhatsApp o llamadas.
+- Ofrecer valor desde el primer uso, con alertas inmediatas, reportes útiles y herramientas gratuitas.
+
+Por otro lado, estas son nuestras tácticas específicas:
+
+- Promociones por recomendación entre productores.
+- Plataforma gamificada para incentivar registros constantes.
+- Versiones por región con lenguaje local y soporte contextualizado.
+- Participación en ferias rurales y jornadas agropecuarias.
+
+
+
+
+<!--EDITANDO -->
+
+
+
+
 <!-- capitulo 3 -->
 <div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
 
