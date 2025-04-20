@@ -831,3 +831,65 @@ Para este proyecto se optó por MySQL como sistema gestor de bases de datos debi
 <img src="Imagenes/diagramas/AgroDigital_Database_Diagram-2025-04-18_21-58.png" alt="" width="470">
 
 Link del diagrama en [Vertabello](https://my.vertabelo.com/doc/HkMfD4RBQlSQgfXH9BeNvzXrga6xjzzb)
+
+<div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment.</h2></div>
+
+<div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
+
+<div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
+
+**Requirements Management**
+1. Trello: Herramienta para gestionar flujos de trabajo en proyectos ágiles. Se usará para monitorear y actualizar el estado de tareas e historias de usuario durante el sprint. Referencia: [https://trello.com/es](https://trello.com/es)
+
+**Product UX/UI Design**
+1. Figma: Plataforma de diseño de prototipos e interfaces digitales. Se empleará para crear los diseños de la aplicación en sus versiones web y móvil. Referencia: [https://www.figma.com/login](https://www.figma.com/login)
+2. Lucidchart: Aplicación para crear diagramas. Se utilizará para diseñar flujos de usuario, wireflows y el diagrama de clases del sistema. Referencia: [https://www.lucidchart.com/](https://www.lucidchart.com/)
+
+**Software Testing**
+1. Gherkin: Lenguaje para especificar criterios de aceptación en formato Given-When-Then. Ayudará a definir los requerimientos de las user stories. Referencia: [https://cucumber.io/docs/gherkin/](https://cucumber.io/docs/gherkin/)
+
+**Software Development**
+1. Visual Studio Code: IDE seleccionado para desarrollo por su versatilidad, soporte multiplataforma y amplia gama de extensiones útiles para el proyecto. Referencia: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+2. HTML5: Lenguaje de marcado estándar para estructurar el contenido web. Base para la presentación de la aplicación. Referencia: [https://www.w3schools.com/html/html5_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp)
+3. CSS: Cascading Style Sheets es unLenguaje para estilizar y dar presentación visual a las páginas HTML. Referencia: [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
+4. JavaScript: Lenguaje de programación para implementar interactividad en la interfaz de usuario, interpretado y orientado a objetos. Referencia: [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+**Software Deployment**
+1. Git: Sistema de control de versiones diseñado para registrar y administrar las distintas iteraciones del código fuente. Será implementado para conservar un registro detallado de todas las modificaciones realizadas al proyecto, facilitando así la identificación y solución de incidencias. Los desarrolladores interactuarán con esta herramienta mediante terminal o línea de comandos en sus equipos locales. Ruta de referencia [https://git-scm.com/](https://git-scm.com/)
+
+**Software Documentation and Project Management**
+1. Github: Plataforma de alojamiento en la nube que servirá como repositorio centralizado para el código del proyecto. Esta solución permitirá la colaboración simultánea entre los miembros del equipo y el seguimiento detallado de todas las contribuciones individuales. El acceso a la plataforma se realizará mediante navegadores web convencionales. Ruta de referencia [https://github.com/](https://github.com/)
+
+<div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
+
+El desarrollo del proyecto adoptará las convenciones del flujo de trabajo GitFlow para la gestión de versiones, empleando GitHub como plataforma principal para el control de versiones. A continuación, se explicará la implementación específica de GitFlow como metodología para el control de versiones, junto con los enlaces correspondientes a los repositorios de GitHub para cada componente: Landing Page, Web Services y Frontend Web Applications.
+
+**Repositorio de GitHub:**
+Enlace para acceder a la [organización en GitHub](https://github.com/GanTrace)
+Enlace para acceder al repositorio de la [Landing Page](https://github.com/GanTrace/LandingPage-AgroDigital)
+Enlace para acceder al repositorio del [GanTrace Documentation](https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4)
+
+**Flujo de trabajo GitFlow:**
+El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
+
+![GitFlow](https://i0.wp.com/select2web.com/wp-content/uploads/git-workflow-release-cycle-4maintenance.png?fit=614%2C380&ssl=1)
+
+**Estructura de branches (Ramas):**
+1. **Master branch (Rama principal):** Constituirá el eje central del proyecto, albergando exclusivamente versiones estables y definitivas del producto. Los cambios solo se incorporarán tras superar rigurosas pruebas en otras ramas de desarrollo.
+
+2. **Develop branch (Rama de desarrollo):** Servirá como núcleo para la evolución continua del proyecto, donde convergerán todas las contribuciones del equipo durante el proceso de desarrollo.
+
+3. **Feature branches (Ramas de funcionalidad):** Cada funcionalidad específica contará con una rama independiente. Al completarse su desarrollo, se integrará a la rama principal de desarrollo. La nomenclatura seguirá el formato "feature/descripción-funcionalidad" para garantizar claridad y unicidad.
+
+4. **Release branches (Ramas de lanzamiento):** Estas bifurcaciones representarán versiones candidatas de la rama develop, preparadas para su eventual incorporación a master. Su identificación se basará en el Versionamiento Semántico estándar.
+
+5. **Hotfix branches (Ramas de corrección):** Se implementarán para resolver de manera ágil errores críticos detectados en producción que afecten directamente la funcionalidad del sistema.
+
+**Versionamiento Semántico:**
+El control de versiones aplicará estrictamente los principios del Versionamiento Semántico 2.0.0 (SemVer)
+
+**Convenciones de Commits:**
+Los mensajes de confirmación seguirán las directrices de Conventional Commits, inspiradas en Angular Commit Guidelines. La estructura básica será:
+
+ `git commit -m "<type>[optional scope]:<title>" -m"<description">`
+
