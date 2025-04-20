@@ -583,7 +583,7 @@ Preguntas principales:
 - ¿Qué beneficios espera al adoptar una herramienta digital para su ganadería?
 
 
-Preguntas dirigidas a los **Veterinarios**
+###### Preguntas dirigidas a los **Veterinarios**
 
 Preguntas principales:
 
@@ -618,7 +618,7 @@ Preguntas principales:
 - ¿Qué tan importante considera el análisis de datos (estadísticas de salud, tratamientos más comunes, etc.) en su labor?
 
 
-Preguntas complementarias (para ambos segmentos):
+###### Preguntas complementarias (para ambos segmentos):
 
 - ¿Qué expectativas tendría sobre una plataforma digital que centralice la información ganadera y veterinaria?
 
@@ -627,21 +627,24 @@ Preguntas complementarias (para ambos segmentos):
 - ¿Qué es lo que más valora en una herramienta digital: rapidez, facilidad de uso, seguridad de datos u otro aspecto?
 
 
-Preguntas principales (comunes):
+###### Preguntas principales (comunes):
 
-- ¿Cómo lleva actualmente el registro de su ganado (peso, salud, vacunas)?
+1. ¿Cómo lleva actualmente el registro de su ganado (peso, salud, vacunas)?
 
-- ¿Qué desafíos ha enfrentado por llevar registros manuales?
+2. ¿Qué desafíos ha enfrentado por llevar registros manuales?
 
-- ¿Qué tan cómodo se siente utilizando un celular o computadora?
+3. ¿Qué tan cómodo se siente utilizando un celular o computadora?
 
-- ¿Le sería útil recibir alertas de vacunación o reproducción?
+4. ¿Le sería útil recibir alertas de vacunación o reproducción?
 
-- ¿Ha perdido información relevante alguna vez?
+5. ¿Ha perdido información relevante alguna vez?
 
-- ¿Qué contenido educativo le interesaría tener en una app?
+6. ¿Qué contenido educativo le interesaría tener en una app?
 
-- ¿Qué canales digitales usa actualmente (WhatsApp, redes sociales, etc.)?
+7. ¿Qué canales digitales usa actualmente (WhatsApp, redes sociales, etc.)?
+
+
+Variables demográficas a recolectar: Edad, género, distrito de residencia, educación, tipo de hacienda, frecuencia de registros, ocupación alterna, herramientas digitales que maneja, tipo de celular, acceso a internet, objetivos personales, frustraciones, marcas preferidas, influencia de técnicos o asociaciones.
 
 
 <!--EDITANDO -->
