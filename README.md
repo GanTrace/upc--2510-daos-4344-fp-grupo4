@@ -618,6 +618,17 @@ Preguntas principales:
 - ¿Qué tan importante considera el análisis de datos (estadísticas de salud, tratamientos más comunes, etc.) en su labor?
 
 
+Preguntas complementarias (para ambos segmentos):
+
+- ¿Qué expectativas tendría sobre una plataforma digital que centralice la información ganadera y veterinaria?
+
+- ¿Qué dispositivos usa con más frecuencia para sus actividades laborales (celular, laptop, tablet)? ¿Está familiarizado con el uso de apps?
+
+- ¿Qué es lo que más valora en una herramienta digital: rapidez, facilidad de uso, seguridad de datos u otro aspecto?
+
+
+
+
 <!--EDITANDO -->
 
 
