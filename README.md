@@ -646,6 +646,10 @@ Preguntas principales:
 
 Variables demográficas a recolectar: Edad, género, distrito de residencia, educación, tipo de hacienda, frecuencia de registros, ocupación alterna, herramientas digitales que maneja, tipo de celular, acceso a internet, objetivos personales, frustraciones, marcas preferidas, influencia de técnicos o asociaciones.
 
+<div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas. </h4></div>
+
+
+
 
 <!--EDITANDO -->
 
