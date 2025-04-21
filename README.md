@@ -654,9 +654,19 @@ Variables demográficas a recolectar: Edad, género, distrito de residencia, edu
 ######Hallazgos clave:
 
 - 
+
 ######Insights accionables:
 
 - 
+
+
+<div id='2.3.'><h3> 2.3. Needfinding. </h3></div>
+
+En esta sección se presentarán los artefactos resultantes del proceso de análisis de la información recolectada de los segmentos objetivos. Aquí se incluyen secciones para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-is Scenario Mapping.
+
+
+
+
 
 
 <!--EDITANDO -->
