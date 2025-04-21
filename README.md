@@ -649,6 +649,8 @@ Variables demográficas a recolectar: Edad, género, distrito de residencia, edu
 <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas. </h4></div>
 
 
+
+
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas. </h4></div>
 
 ######Hallazgos clave:
@@ -666,6 +668,16 @@ En esta sección se presentarán los artefactos resultantes del proceso de anál
 
 
 
+<div id='2.3.1.'><h4> 2.3.1. User Personas. </h4></div>
+
+Aquí mostraremos perfiles ficticios que representan a los segmentos de usuarios identificados y entrevistados. Incluimos detalles sobre su demografía, personalidad, motivaciones, preferencias, objetivos, desafíos y comportamientos, además de cómo interactúan con productos similares. Estos datos se basan en las entrevistas realizadas y se han organizado utilizando la herramienta UXPressia.
+
+
+######User Persona: Ganaderos
+
+
+
+######User Persona: Veterinarios
 
 
 
