@@ -726,6 +726,26 @@ Tareas con mayor importancia:
 - Ver alertas pendientes: Importante para actuar con rapidez ante eventos próximos o urgentes relacionados con la salud del ganado.
 
 
+* Veterinarios:
+
+Tareas con mayor frecuencia:
+
+- Registrar eventos sanitarios (vacunas, partos): La frecuencia "Always" indica que es una de las funciones principales de los veterinarios en campo, la cual es llevar el historial médico de los animales.
+
+- Ver alertas pendientes: Con una frecuencia "Often" se indica que necesitan estar constantemente al tanto de los casos urgentes que deben atender.
+
+- Registrar un nuevo animal: Asignada con frecuencia "Often", ya que en muchos casos apoyan a los ganaderos en el proceso inicial de incorporación al sistema.
+
+
+Tareas con mayor importancia:
+
+- Registrar eventos sanitarios (vacunas, partos): Asignada con alta importancia, ya que garantiza un historial médico preciso y completo para futuras consultas o intervenciones.
+
+- Agendar y recibir alertas sanitarias: Crucial para que el veterinario planifique su agenda de visitas y pueda priorizar según la gravedad de los casos.
+
+- Capacitar ganaderos sobre uso de la app: Aunque no es tan frecuente, es de alta importancia, ya que mejora el uso adecuado del sistema y reduce errores de registro.
+
+- Consultar historial de un animal: Clave para el diagnóstico adecuado y para tomar decisiones clínicas correctas.
 
 
 
