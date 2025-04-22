@@ -748,6 +748,17 @@ Tareas con mayor importancia:
 - Consultar historial de un animal: Clave para el diagnóstico adecuado y para tomar decisiones clínicas correctas.
 
 
+Diferencias clave
+
+- Frecuencia:
+    - Los ganaderos realizan tareas de registro básico y seguimiento sanitario de forma constante como parte de su día a día.
+    - Los veterinarios se enfocan más en el registro sanitario especializado y en tareas relacionadas con la toma de decisiones médicas, también de manera frecuente.
+
+- Importancia:
+    - Para los ganaderos, tareas como registrar animales y ver alertas tienen una alta importancia para la continuidad de su trabajo.
+    - Para los veterinarios, tareas como registrar eventos sanitarios y consultar historiales son cruciales para brindar un buen servicio técnico y garantizar la salud del hato ganadero.
+
+Ambos grupos consideran importante y frecuente el registro y monitoreo de alertas sanitarias, lo que indica que esta funcionalidad debe estar especialmente optimizada y ser fácil de usar dentro de AgroDigital.
 
 
 
