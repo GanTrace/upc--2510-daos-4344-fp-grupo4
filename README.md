@@ -653,11 +653,11 @@ Variables demográficas a recolectar: Edad, género, distrito de residencia, edu
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas. </h4></div>
 
-######Hallazgos clave:
+###### Hallazgos clave:
 
 - 
 
-######Insights accionables:
+###### Insights accionables:
 
 - 
 
