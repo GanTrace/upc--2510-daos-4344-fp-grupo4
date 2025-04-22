@@ -1046,6 +1046,13 @@ En esta sección se presentan y explican los mock-ups de la aplicación web de A
 
   <img src="Imagenes\Uidesigns\appWeb\AgroDigital.png" alt="User Flow Diagrams" width="500">
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
+
+A continuación, se detalla las interacciones entre el lading page y la aplicación web, incluyendo todos sus apartados principales.
+
+<img src="Imagenes\Uidesigns\appWeb\prototipo.png" alt="Prototipo" width="500">
+
+Link para acceder al video explicando el prototipo en [Figma](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215979_upc_edu_pe/ESZcvYgAG-ZBvhVsG1Bek14Bb-op9udmxXXg0Xn47pbivQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jnao5x)
+
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
 El Domain Driven Design (DDD) busca crear un entendimiento compartido del dominio del negocio, facilitando la colaboración entre desarrolladores y expertos del dominio mediante un lenguaje común. Este enfoque va más allá del simple uso de terminología especializada, incorporando patrones de diseño, metodologías estructuradas y representaciones arquitectónicas que permiten alinear estrechamente el software con las necesidades reales del negocio, fortaleciendo así la conexión entre solución técnica y conocimiento del dominio para lograr sistemas más efectivos y adaptados a la problemática empresarial.
 
