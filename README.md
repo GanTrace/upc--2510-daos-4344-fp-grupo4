@@ -760,6 +760,7 @@ Diferencias clave
 
 Ambos grupos consideran importante y frecuente el registro y monitoreo de alertas sanitarias, lo que indica que esta funcionalidad debe estar especialmente optimizada y ser fácil de usar dentro de AgroDigital.
 
+<div id='2.3.3.'><h4> 2.3.3. User Journey Mapping. </h4></div>
 
 
 
