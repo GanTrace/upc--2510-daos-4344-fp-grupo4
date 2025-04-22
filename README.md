@@ -766,6 +766,8 @@ Ambos grupos consideran importante y frecuente el registro y monitoreo de alerta
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping. </h4></div>
 
 
+<div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping. </h4></div>
+
 
 <!--EDITANDO -->
 
