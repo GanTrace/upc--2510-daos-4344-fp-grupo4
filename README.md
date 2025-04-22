@@ -688,7 +688,7 @@ La User Task Matrix nos permite descomponer las actividades y tareas que nuestro
 
 
 
-| **User task**                                      | **Carlos Gutiérrez**<br>Ganadero<br>**Frecuencia** | **Dra. Valeria Ríos**<br>Veterinaria técnica<br>**Importancia** |
+| **User task**                                      | **Cesar Huamán**<br>Ganadero<br>**Frecuencia** | **Dra. Carla Gutierrez**<br>Veterinaria técnica<br>**Importancia** |
 |----------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------|
 | Registrar un nuevo animal                          | Always                                            | High                                                             |
 | Consultar historial de un animal                   | Sometimes                                         | High                                                             |
