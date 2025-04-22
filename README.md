@@ -682,6 +682,11 @@ Aquí mostraremos perfiles ficticios que representan a los segmentos de usuarios
 ![User-Persona Veterinario](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/userpersona_carlagutierrez.png)
 
 
+<div id='2.3.2.'><h4> 2.3.2. User Task Matrix. </h4></div>
+
+La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios llevan a cabo al utilizar nuestra startup. Al clasificar estas tareas según su frecuencia e importancia para los usuarios, podemos priorizar nuestros recursos en desarrollo y diseño para optimizar su experiencia.
+
+
 <!--EDITANDO -->
 
 
