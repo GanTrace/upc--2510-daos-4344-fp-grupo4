@@ -763,6 +763,9 @@ Ambos grupos consideran importante y frecuente el registro y monitoreo de alerta
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping. </h4></div>
 
 
+<div id='2.3.4.'><h4> 2.3.4. Empathy Mapping. </h4></div>
+
+
 
 <!--EDITANDO -->
 
