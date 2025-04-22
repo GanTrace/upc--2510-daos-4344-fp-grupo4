@@ -673,11 +673,11 @@ En esta sección se presentarán los artefactos resultantes del proceso de anál
 Aquí mostraremos perfiles ficticios que representan a los segmentos de usuarios identificados y entrevistados. Incluimos detalles sobre su demografía, personalidad, motivaciones, preferencias, objetivos, desafíos y comportamientos, además de cómo interactúan con productos similares. Estos datos se basan en las entrevistas realizadas y se han organizado utilizando la herramienta UXPressia.
 
 
-######User Persona: Ganaderos
+###### User Persona: Ganaderos
 
 
 
-######User Persona: Veterinarios
+###### User Persona: Veterinarios
 
 
 
