@@ -703,6 +703,31 @@ La User Task Matrix nos permite descomponer las actividades y tareas que nuestro
 | Ingresar datos sin conexión                        | Often                                             | Medium                                                           |
 
 
+Sobre el Task Matrix podemos identificar las tareas de mayor frecuencia e importancia, así como las diferencias y coincidencias entre los grupos de usuarios: ganaderos y veterinarios
+
+* Ganaderos:
+
+Tareas con mayor frecuencia:
+
+- Registrar un nuevo animal: La frecuencia "Always" indica que esta tarea es esencial para los ganaderos. Es el primer paso para llevar el control de su ganado dentro del sistema.
+
+- Agendar y recibir alertas sanitarias: Esta tarea tiene una frecuencia "Always", reflejando la necesidad constante de mantener actualizado el calendario sanitario del ganado.
+
+- Registrar eventos sanitarios (vacunas, partos): Con una frecuencia "Often", demuestra que el registro sanitario es parte del trabajo cotidiano del ganadero.
+
+Tareas con mayor importancia:
+
+- Registrar un nuevo animal: Crucial para que el sistema funcione correctamente desde el inicio. Si no se registra el animal, no se puede llevar ningún control posterior.
+
+- Agendar y recibir alertas sanitarias: Tiene una importancia "High" porque permite prevenir enfermedades y evitar pérdidas económicas.
+
+- Consultar historial de un animal: Aunque puede no usarse diariamente, es vital al momento de vender o atender a un animal, ya que permite tomar decisiones informadas.
+
+- Ver alertas pendientes: Importante para actuar con rapidez ante eventos próximos o urgentes relacionados con la salud del ganado.
+
+
+
+
 
 
 
