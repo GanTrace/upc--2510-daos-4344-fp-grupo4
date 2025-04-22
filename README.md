@@ -687,6 +687,26 @@ Aquí mostraremos perfiles ficticios que representan a los segmentos de usuarios
 La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios llevan a cabo al utilizar nuestra startup. Al clasificar estas tareas según su frecuencia e importancia para los usuarios, podemos priorizar nuestros recursos en desarrollo y diseño para optimizar su experiencia.
 
 
+
+| **User task**                                      | **Carlos Gutiérrez**<br>Ganadero<br>**Frecuencia** | **Dra. Valeria Ríos**<br>Veterinaria técnica<br>**Importancia** |
+|----------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------|
+| Registrar un nuevo animal                          | Always                                            | High                                                             |
+| Consultar historial de un animal                   | Sometimes                                         | High                                                             |
+| Agendar y recibir alertas sanitarias               | Often                                             | High                                                             |
+| Registrar eventos sanitarios (vacunas, partos)     | Always                                            | High                                                             |
+| Consultar reportes productivos y sanitarios        | Sometimes                                         | Medium                                                           |
+| Ver alertas pendientes                             | Always                                            | High                                                             |
+| Acceder a contenido educativo                      | Sometimes                                         | Medium                                                           |
+| Compartir información con asociación/técnico       | Sometimes                                         | Medium                                                           |
+| Capacitar ganaderos sobre uso de la app            | Never                                             | High                                                             |
+| Descargar registros o imprimir                     | Never                                             | Medium                                                           |
+| Ingresar datos sin conexión                        | Often                                             | Medium                                                           |
+
+
+
+
+
+
 <!--EDITANDO -->
 
 
