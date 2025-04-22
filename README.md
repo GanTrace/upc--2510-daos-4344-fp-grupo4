@@ -675,10 +675,11 @@ Aquí mostraremos perfiles ficticios que representan a los segmentos de usuarios
 
 ###### User Persona: Ganaderos
 
-
+![User-Persona Ganadero](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/userpersona_cesarhuaman.png)
 
 ###### User Persona: Veterinarios
 
+![User-Persona Veterinario](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/userpersona_carlagutierrez.png)
 
 
 <!--EDITANDO -->
