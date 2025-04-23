@@ -1236,8 +1236,8 @@ Para implementar la landing page, se requieren los siguientes elementos previos:
    - Obtener el enlace generado para visualizar la Landing Page en producción
 
 
-![Github_pages]()
+![Github_pages](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/GitHubPages.jpg)
 
-Enlace para acceder a la [landing page]()
+Enlace para acceder a la [landing page](https://gantrace.github.io/LandingPage-AgroDigital/)
 
 <!-- **Front End Web Application deployment** -->
