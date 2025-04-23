@@ -687,20 +687,20 @@ Aquí mostraremos perfiles ficticios que representan a los segmentos de usuarios
 La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios llevan a cabo al utilizar nuestra startup. Al clasificar estas tareas según su frecuencia e importancia para los usuarios, podemos priorizar nuestros recursos en desarrollo y diseño para optimizar su experiencia.
 
 
+| **User Task**                                      | **César (Frecuencia)** | **César (Importancia)** | **Carla (Frecuencia)** | **Carla (Importancia)** |
+|------------------------------------------------|------------------------|-------------------------|------------------------|-------------------------|
+| Registrar un nuevo animal                      | Sometimes              | High                    | Rarely                 | Medium                  |
+| Actualizar registro sanitario                  | Often                  | High                    | Always                 | High                    |
+| Consultar calendario de vacunación             | Often                  | High                    | Often                  | High                    |
+| Recibir alertas automáticas                    | Sometimes              | High                    | Sometimes              | High                    |
+| Registrar peso y ganancia media diaria         | Often                  | Medium                  | Often                  | Medium                  |
+| Generar y revisar reportes de productividad    | Sometimes              | Medium                  | Often                  | Medium                  |
+| Compartir registros con asociación o compradores | Rarely               | Medium                  | Rarely                 | Low                     |
+| Acceder a módulos de formación ("Academia ganadera") | Sometimes         | Low                     | Sometimes              | Medium                  |
+| Planificar ciclos de reproducción              | Rarely                 | Medium                  | Rarely                 | Medium                  |
+| Revisar historial completo de un animal        | Sometimes              | High                    | Sometimes              | High                    |
 
-| **User task**                                      | **Cesar Huamán**<br>Ganadero<br>**Frecuencia** | **Dra. Carla Gutierrez**<br>Veterinaria técnica<br>**Importancia** |
-|----------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------|
-| Registrar un nuevo animal                          | Always                                            | High                                                             |
-| Consultar historial de un animal                   | Sometimes                                         | High                                                             |
-| Agendar y recibir alertas sanitarias               | Often                                             | High                                                             |
-| Registrar eventos sanitarios (vacunas, partos)     | Always                                            | High                                                             |
-| Consultar reportes productivos y sanitarios        | Sometimes                                         | Medium                                                           |
-| Ver alertas pendientes                             | Always                                            | High                                                             |
-| Acceder a contenido educativo                      | Sometimes                                         | Medium                                                           |
-| Compartir información con asociación/técnico       | Sometimes                                         | Medium                                                           |
-| Capacitar ganaderos sobre uso de la app            | Never                                             | High                                                             |
-| Descargar registros o imprimir                     | Never                                             | Medium                                                           |
-| Ingresar datos sin conexión                        | Often                                             | Medium                                                           |
+
 
 
 Sobre el Task Matrix podemos identificar las tareas de mayor frecuencia e importancia, así como las diferencias y coincidencias entre los grupos de usuarios: ganaderos y veterinarios
