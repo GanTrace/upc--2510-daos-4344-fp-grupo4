@@ -698,13 +698,13 @@ Variables demográficas a recolectar: Edad, género, distrito de residencia, edu
 
 <div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas. </h4></div>
 
-###### Hallazgos clave:
+##### Análisis del segmento de Ganaderos
 
-- 
+En primer lugar, el 100% de los entrevistados cuenta con la edad promedio entre los 20-30 años, de los cuáles el 66% casualmente tiene 25 años de edad. Asímismo, Un 100% de los entrevistados considera un proceso tedioso el tener que realizar los registros de forma manual, puesto que al manejar datos en un cuaderno, muchas veces la información se pierde o se mezcla con otras, por ende complica los registros y es posible la confunsión con otros registros. Además, el 100% cuenta con más de dos años de experiencia en el sector de la ganadería, de los cuáles el 66% cuenta con más de 6 años de experiencia. El 100% de los entrevistados cuenta que la relación para iniciar en el sector de la ganadería, fue debido a los lazos familiares, esto específicamente a ayudar a sus padres en la ganadería. El 100% de los entrevistados cuenta que ninguna plataforma digital ha podido solucionar sus problemas al momento de traslado de información de datos o registros en su ganado, por lo que sería el principal problema a tratar dentro de sus medios y que ayudaría mucho a facilitar la gestión del mismo. Finalmente, el 100% de los entrevistados cuenta que uno de los problemas más comunes que sufre, es que se suelen olvidar los datos que registran, sea de las vacunas, pesos y/o datos importantes de los animales.
 
-###### Insights accionables:
+##### Análisis del segmento de Veterinarios
 
-- 
+En primer lugar, el 100% de los entrevistados pertenece al sector de jóvenes veterinarios que cuentan entre 20 a 30 años, específicaamente 28, 27 y 23. A su vez, todos los entrevistados cuentan con menos de 5 años de experiencia en el sector de la veterinaria. El 66% de los entrevistados trabaja en zonas rurales, debido a que la gestión de la ganadería es más común en otras regiones que en Lima. El 66% de los entrevistados menciona que atiende el ganado bovino, especializado en las vacas como principal medio ganadero y de trato para ellos. El 100% de los entrevistados cuenta con un cuaderno en el que llevan los registros de cada paciente con el que trabajan, posteriormente a ello, el 66% de los mismos, lo traslada a un excel, para poder almacenar la información necesaria. Finalmente el 66% de los entrevistados cuenta que buscó la utilización de otras aplicaciones, sin embargo para su mala fortuna, no los ayudó.
 
 
 <div id='2.3.'><h3> 2.3. Needfinding. </h3></div>
