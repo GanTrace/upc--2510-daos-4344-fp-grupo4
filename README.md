@@ -787,6 +787,13 @@ User Veterinario:
 
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping. </h4></div>
 
+As-Is Scenario Mapping Ganaderos
+
+<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/As-Is%20Scenario%20Mapping%20Ganaderos.jpg">
+
+As-Is Scenario Mapping Veterinarios
+
+<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/As-Is%20Scenario%20Mapping%20Veterinarios.jpg">
 
 <!--EDITANDO -->
 
