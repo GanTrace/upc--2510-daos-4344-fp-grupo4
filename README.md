@@ -762,6 +762,17 @@ Ambos grupos consideran importante y frecuente el registro y monitoreo de alerta
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping. </h4></div>
 
+Esta sección detalla el ciclo completo de experiencia del usuario en la aplicación Gantracer de AgroDigital, enfocada en sus públicos objetivo: productores ganaderos y profesionales veterinarios. El análisis del recorrido del usuario abarca desde el primer contacto con la plataforma, continuando con el proceso de decisión para implementarla, la creación de cuentas, la interacción con sus herramientas, hasta la eventualidad de abandonar su utilización.
+
+El Mapeo del Recorrido del Usuario inicia cuando el cliente descubre la aplicación, pasando por las etapas de considerar su adopción, registrarse en la plataforma, utilizar sus funcionalidades y finalmente contemplar escenarios de posible deserción. El proceso incluye todos los puntos críticos desde la adquisición del conocimiento inicial hasta la experiencia operativa completa y la retención del usuario.
+
+User Ganadero:
+
+
+
+User Veterinario:
+
+
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping. </h4></div>
 
