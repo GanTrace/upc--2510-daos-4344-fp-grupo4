@@ -768,11 +768,11 @@ El Mapeo del Recorrido del Usuario inicia cuando el cliente descubre la aplicaci
 
 User Ganadero:
 
-
+<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/User%20Journey%20Mapping%20Ganadero.png">
 
 User Veterinario:
 
-
+<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/User%20Journey%20Mapping%20Veterinaria.png">
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping. </h4></div>
 
