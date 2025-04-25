@@ -1289,6 +1289,95 @@ En el Sprint Planning 1, se muestran evidencias de la planeación y creación de
 |Sprint Velocity 1         | 15         |
 |Sum of Story Points         |  15        |
 
+<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
+
+En el primer sprint backlog, el equipo tuvo la intención de comenzar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. El objetivo principal del sprint era construir en su totalidad la landing page, logrando que esta sea funcional y apto para todo el público. Sin embargo, por temas de tiempo consideramos que aún no está terminado al 100% su desarrollo.
+
+<img alt="TrelloSprint1" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint1/Imagenes/TrelloSprint1.jpg">
+
+Link del Trello: https://trello.com/b/I1kLkHX3
+
+<table>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="7">Sprint 1</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">WorkItem / Task</th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Hours)</th>
+            <th>Assigned To</th>
+            <th>Status(To-do/In-Process/To-Review/Done)</th>
+        </tr>
+        <tr>
+            <td>US01</td>
+            <td>Contacto con Soporte</td>
+            <td>UT01</td>
+            <td>Ver cajas de texto </td>
+            <td>Permitir que el usuario pueda ver las cajas de texto en la página</td>
+            <td>1</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US01</td>
+            <td>Llenar Formulario a través del Contacto</td>
+            <td>UT02</td>
+            <td>Editar y llenar cajas de texto</td>
+            <td>Permitir al usuario interactuar con las cajas de texto en la sección "Contacto"</td>
+            <td>1</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Sobre Nosotros</td>
+            <td>UT03</td>
+            <td>Información acerca del producto</td>
+            <td>Añadir un apartado que diga "Sobre Nosotros" en donde explicamos nuestra misión y visión</td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Testimonios</td>
+            <td>UT04</td>
+            <td>Comentarios y Testimonios acerca del producto</td>
+            <td>Añadir un apartado que diga "Testimonios" en donde se visualizan comentarios de los usuarios</td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Sobre el Team</td>
+            <td>UT05</td>
+            <td>Información de los integrantes </td>
+            <td>Añadir un apartado que diga "Sobre el Team" en donde se visualicen los dueños del producto (miembros de la startup)</td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Acceso al Inicio de Sesión</td>
+            <td>UT06</td>
+            <td>Iniciar Sesión/Crear Cuenta</td>
+            <td>Desplegar menú de creación de cuenta al interactuar con botón de creación de "Comienza Ya"</td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>To-Do</td>
+        </tr>
+
+
 <div id='5.2.1.2.'><h5> 5.2.1.2. Aspects leaders and collaborators</h5></div>
 Para lograr una adecuada distribución del trabajo y mayor claridad en las responsabilidades, se identificaron 4 aspectos clave del desarrollo: diseño de interfaz (UI/UX), redacción del contenido, publicación y documentación. A cada aspecto se le asignó un líder y uno o más colaboradores, teniendo en cuenta la experiencia previa de cada integrante y el balance de carga de trabajo. La siguiente tabla presenta la matriz de liderazgo y colaboración correspondiente a este Sprint.
 
