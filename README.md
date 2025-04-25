@@ -46,8 +46,10 @@ width=50%"/>
 |1.4|17/04/2025|Salvador R.|Actualización de la información de la startup profile|
 |1.5|19/04/2025|Sanchez L.|Actualización del ui design, incluyendo landing page y web application|
 |1.6|19/04/2025|Peña M.|Desarrollo del Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design|
-|1.7|19/04/2025|Salvador R.|Desarrollo del ToBe Scenario Mapping, User Stories, Impact Mapping y Product backlog|
-|1.8|20/04/2025|Salvador R.|Avance del Capítulo V: Product Implementation, Validation & Deployment (del 5.1 al 5.1.4)|
+|1.7|19/04/2025|Pilares M.|Desarrollo del Análisis Competitivo y diseño de entrevistas|
+|1.8|19/04/2025|Pilares M.|Desarrollo del User Personas y User Task Matrix|
+|1.9|19/04/2025|Salvador R.|Desarrollo del ToBe Scenario Mapping, User Stories, Impact Mapping y Product backlog|
+|1.10|20/04/2025|Salvador R.|Avance del Capítulo V: Product Implementation, Validation & Deployment (del 5.1 al 5.1.4)|
 
 ## Project Report Collaboration Insights
 
