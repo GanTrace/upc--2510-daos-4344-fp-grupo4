@@ -1265,3 +1265,26 @@ Para implementar la landing page, se requieren los siguientes elementos previos:
 Enlace para acceder a la [landing page](https://gantrace.github.io/LandingPage-AgroDigital/)
 
 <!-- **Front End Web Application deployment** -->
+
+<div id='5.2'><h3> 5.2. Landing Page, Services & Applications implementation </h3></div>
+<div id='5.2.1.'><h4> 5.2.1. Sprint 1.</h4></div>
+Esta sección presenta un resumen del progreso logrado durante el Sprint 1, que se centra en la creación de la Landing Page. Se describe el desarrollo del producto de manera concreta y funcional, abarcando aspectos de diseño, programación y funcionalidades implementadas. Asimismo, se expone la dinámica de trabajo en equipo, los canales de comunicación utilizados y las herramientas que facilitaron una colaboración eficiente. También se incluyen detalles sobre la planificación del sprint, el backlog de tareas,evidencias del desarrollo realizado, documentación de los servicios empleados.
+
+<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1</h5></div>
+En el Sprint Planning 1, se muestran evidencias de la planeación y creación de la landing page, incluyendo avances del proyecto como colaboración en equipo que se registran en GitHub
+
+
+| Sprint # | Sprint 1   |
+|-------------------------|---------------------------------------|
+| **Sprint Planning Background** |                              |
+| Date | 10 de abril de 2025    |
+| Time | 3:30 PM |
+| Location | Modalidad remota|
+| Prepared By | Rodrigo Salvador|
+| Attendees (to planning meeting) | Maria Fernanda Peña, Maria Pilares, Luciana Sanchez, Rodrigo Salvador, Nelson Guerrero |
+| Sprint 0 Review Summary  | Para esta entrega no hay un Sprint anterior por ende no hay un resumen del Sprint |
+|Sprint 1 Retrospective Summary | Para esta entrega no hay un Sprint anterior por ende no hay un resumen del Sprint |
+|**Sprint Goal & User Stories** |               |
+|Sprint Goal 1         |En este sprint se tiene como objetivo, realizar la landing page con HTML y CSS. Anticipadamente, se habría diseñado la landing page en un figma con el punto de vista de los integrantes. Una vez realizado el sprint, la landing debe estar desplegada en GitHub Pages para que los usuarios puedan acceder a la misma a través del link.          |
+|Sprint Velocity 1         | 15         |
+|Sum of Story Points         |  15        |
