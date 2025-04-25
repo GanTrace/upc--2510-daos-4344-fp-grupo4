@@ -215,7 +215,7 @@ La startup busca consolidarse como un modelo de negocio sostenible, confiable y 
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
-|Biografía del los integrantes del equipo |Perfiles de los integrantes del equipo|
+|Biografía de los integrantes del equipo |Perfiles de los integrantes del equipo|
 | :--------| :--------: |
 | Mi nombre es **Nelson Fabrizio Guerrero Tomas**. tengo 20 años, estudiante de la carrera Ingenieria de Software (UPC), actualmente estoy cursando mi 5to ciclo de la carrera. Considero que soy colaborativo y me gusta consultar cualquier duda que tengo, para realizar un buen proyecto, esto se evidente en los proyectos entregados por mi equipo de trabajo. Uno de mis pasatiempos favoritos es nadar y escuchar musica, pero ultimamente la lectura y las artes marciales me esta agrando muchisimo.|<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/estudiantesPerfil/perfilEstudiantes_Nelson.jpg" alt="" width="250px" />| 
 |Mi nombre es **Maria Fernanda Peña Riofrio**, tengo 21 años, estudio el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona responsable y me gusta ayudar a las demás personas, esto sera evidenciado en el transcuros del proyecto ayudando a mis demás compañeros de equipo. En mis tiempos libres me gusta mucho leer, escuchar música e investigar sobre temas de mi interes.| <img src="Imagenes/estudiantesPerfil/perfilEstudiantes_Mafer.jpg" alt="" width="250px" /> |  
