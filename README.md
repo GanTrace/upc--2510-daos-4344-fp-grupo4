@@ -90,18 +90,18 @@ Se explican las ramas más prominentes:
 - **feature-sprint1**: Es representada por el color morado. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
 - **release1.0**: Es representada por el color azul. Esta rama incluye los puntos trabajados y corregidos en el proyecto.
 
-![Branch_Graph]()
+![Branch_Graph](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/GithubRepositoryImages/NetworkGraph.jpg)
 
 Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo. 
 
 **TB1**
 
-![Commit_Graph]()
-![Commit_Graph_Individual1]()
-![Commit_Graph_Individual2]()
-![Commit_Graph_Individual3]()
+![Commit_Graph](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/GithubRepositoryImages/Contributors1.jpg)
+![Commit_Graph_Individual1](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/GithubRepositoryImages/Contributors2.jpg)
+![Commit_Graph_Individual2](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/GithubRepositoryImages/Contributors3.jpg)
+![Commit_Graph_Individual3](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/GithubRepositoryImages/Contributors4.jpg)
 
-![Pull_Graphs]()
+![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/GithubRepositoryImages/Pulse.jpg)
 
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
