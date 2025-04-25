@@ -1407,5 +1407,7 @@ Link del Trello: https://trello.com/b/I1kLkHX3
 |  |AgroDigital/develop|bd65ecd010b7ba415ed78bf730b9c6aab3bb397f  |chore: add index.html| chore: add index.html|22/04/202|
 |  |AgroDigital/develop|fbb0be519029058868997e0d09c02379041a0caa|chore: add styles.css|chore: add styles.css|22/04/202|
 
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5></div>
+En este sprint logramos desarrollar nuestra landing page, utilizango HTML y CSS con su respectivo despliegue. Acá se muestra evidencia: 
 
-
+<img src="Imagenes/Evidence_sprint1/Execution_Evidence_Sprint1.png" alt="" width="700px">
