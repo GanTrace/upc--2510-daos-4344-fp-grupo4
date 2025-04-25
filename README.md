@@ -1430,7 +1430,7 @@ El desarrollo del informe se organizó repartiendo el trabajo, cada integrante r
 
 |Alumno|Actividad|
 |------|---------|
-|Guerrero Tomas, Nelson Fabrizio| |
+|Guerrero Tomas, Nelson Fabrizio|Desarrollo del Capítulo II: Analisis Competitivo 2.1.1, así como la parte final del Capítulo II, del 2.3.3 al 2.3.5 |
 |Peña Riofrio, Maria Fernanda|Desarrollo del Capítulo IV: Product Design del 4.6 al 4.8.1, Capítulo V:  5.2. Landing Page, Services & Applications implementation |
 |Pilares Pocohuanca, Maria|Desarrollo del Capítulo II: Requirements Elicitation & Analysis, del 2.1 al 2.3.1|
 |Salvador Rodriguez, Rodrigo Jesus|Desarrollo del Capítulo I: Introducción, Capítulo III: Requirements Specification y Capítulo V: Product Implementation, Validation & Deployment del 5.1 al 5.1.4|
