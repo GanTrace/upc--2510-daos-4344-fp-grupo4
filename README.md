@@ -745,65 +745,7 @@ La User Task Matrix nos permite descomponer las actividades y tareas que nuestro
 | Planificar ciclos de reproducción              | Rarely                 | Medium                  | Rarely                 | Medium                  |
 | Revisar historial completo de un animal        | Sometimes              | High                    | Sometimes              | High                    |
 
-
-
-
-Sobre el Task Matrix podemos identificar las tareas de mayor frecuencia e importancia, así como las diferencias y coincidencias entre los grupos de usuarios: ganaderos y veterinarios
-
-* Ganaderos:
-
-Tareas con mayor frecuencia:
-
-- Registrar un nuevo animal: La frecuencia "Always" indica que esta tarea es esencial para los ganaderos. Es el primer paso para llevar el control de su ganado dentro del sistema.
-
-- Agendar y recibir alertas sanitarias: Esta tarea tiene una frecuencia "Always", reflejando la necesidad constante de mantener actualizado el calendario sanitario del ganado.
-
-- Registrar eventos sanitarios (vacunas, partos): Con una frecuencia "Often", demuestra que el registro sanitario es parte del trabajo cotidiano del ganadero.
-
-Tareas con mayor importancia:
-
-- Registrar un nuevo animal: Crucial para que el sistema funcione correctamente desde el inicio. Si no se registra el animal, no se puede llevar ningún control posterior.
-
-- Agendar y recibir alertas sanitarias: Tiene una importancia "High" porque permite prevenir enfermedades y evitar pérdidas económicas.
-
-- Consultar historial de un animal: Aunque puede no usarse diariamente, es vital al momento de vender o atender a un animal, ya que permite tomar decisiones informadas.
-
-- Ver alertas pendientes: Importante para actuar con rapidez ante eventos próximos o urgentes relacionados con la salud del ganado.
-
-
-* Veterinarios:
-
-Tareas con mayor frecuencia:
-
-- Registrar eventos sanitarios (vacunas, partos): La frecuencia "Always" indica que es una de las funciones principales de los veterinarios en campo, la cual es llevar el historial médico de los animales.
-
-- Ver alertas pendientes: Con una frecuencia "Often" se indica que necesitan estar constantemente al tanto de los casos urgentes que deben atender.
-
-- Registrar un nuevo animal: Asignada con frecuencia "Often", ya que en muchos casos apoyan a los ganaderos en el proceso inicial de incorporación al sistema.
-
-
-Tareas con mayor importancia:
-
-- Registrar eventos sanitarios (vacunas, partos): Asignada con alta importancia, ya que garantiza un historial médico preciso y completo para futuras consultas o intervenciones.
-
-- Agendar y recibir alertas sanitarias: Crucial para que el veterinario planifique su agenda de visitas y pueda priorizar según la gravedad de los casos.
-
-- Capacitar ganaderos sobre uso de la app: Aunque no es tan frecuente, es de alta importancia, ya que mejora el uso adecuado del sistema y reduce errores de registro.
-
-- Consultar historial de un animal: Clave para el diagnóstico adecuado y para tomar decisiones clínicas correctas.
-
-
-Diferencias clave
-
-- Frecuencia:
-    - Los ganaderos realizan tareas de registro básico y seguimiento sanitario de forma constante como parte de su día a día.
-    - Los veterinarios se enfocan más en el registro sanitario especializado y en tareas relacionadas con la toma de decisiones médicas, también de manera frecuente.
-
-- Importancia:
-    - Para los ganaderos, tareas como registrar animales y ver alertas tienen una alta importancia para la continuidad de su trabajo.
-    - Para los veterinarios, tareas como registrar eventos sanitarios y consultar historiales son cruciales para brindar un buen servicio técnico y garantizar la salud del hato ganadero.
-
-Ambos grupos consideran importante y frecuente el registro y monitoreo de alertas sanitarias, lo que indica que esta funcionalidad debe estar especialmente optimizada y ser fácil de usar dentro de AgroDigital.
+La User Task Matrix revela que tanto César como Carla comparten tareas críticas de actualización sanitaria (vacunas, tratamientos) y recepción de alertas automáticas, con alta frecuencia e importancia, seguidas por consulta del calendario de vacunación y registro de peso y ganancia media. César, en su día a día, prioriza también el registro inicial de animales y la revisión puntual de históricos para ventas o inspecciones, mientras que Carla, en cada visita, hace énfasis en actualizar datos sanitarios y generar reportes semanales. Al clasificar las tareas según su recurrencia y valor, el equipo puede enfocar el MVP en las funciones de mayor impacto (alertas y gestión de salud), dejando los módulos de formación y reportes avanzados para fases posteriores.
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping. </h4></div>
 
