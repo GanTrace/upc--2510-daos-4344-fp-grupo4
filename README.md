@@ -179,9 +179,9 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 5.2. [Landing Page, Services & Applications Implementation.](#5.2.)<br>
 5.2.1. [Sprint 1.](#5.2.1.)<br>
 5.2.1.1. [Sprint Planning 1.](#5.2.1.1.)<br>
-5.2.1.2. [Sprint Backlog 1.](#5.2.1.2.)<br>
-5.2.1.3. [Development Evidence for Sprint Review.](#5.2.1.3.)<br>
-5.2.1.4. [Testing Suite Evidence for Sprint Review.](#5.2.1.4.)<br>
+5.2.1.2. [Aspects leaders and collaborators.](#5.2.1.2.)<br>
+5.2.1.3. [Sprint Backlog 1.](#5.2.1.3.)<br>
+5.2.1.4. [Development Evidence for Sprint Review.](#5.2.1.4.)<br>
 5.2.1.5. [Execution Evidence for Sprint Review.](#5.2.1.5.)<br>
 5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
 5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
