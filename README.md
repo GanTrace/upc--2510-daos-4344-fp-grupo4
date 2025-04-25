@@ -1288,3 +1288,14 @@ En el Sprint Planning 1, se muestran evidencias de la planeación y creación de
 |Sprint Goal 1         |En este sprint se tiene como objetivo, realizar la landing page con HTML y CSS. Anticipadamente, se habría diseñado la landing page en un figma con el punto de vista de los integrantes. Una vez realizado el sprint, la landing debe estar desplegada en GitHub Pages para que los usuarios puedan acceder a la misma a través del link.          |
 |Sprint Velocity 1         | 15         |
 |Sum of Story Points         |  15        |
+
+<div id='5.2.1.2.'><h5> 5.2.1.2. Aspects leaders and collaborators</h5></div>
+Para lograr una adecuada distribución del trabajo y mayor claridad en las responsabilidades, se identificaron 4 aspectos clave del desarrollo: diseño de interfaz (UI/UX), redacción del contenido, publicación y documentación. A cada aspecto se le asignó un líder y uno o más colaboradores, teniendo en cuenta la experiencia previa de cada integrante y el balance de carga de trabajo. La siguiente tabla presenta la matriz de liderazgo y colaboración correspondiente a este Sprint.
+
+|Team Member|GitHub Username | Diseño UX/UI | Landing Page| Deploy |Documentation|
+|-----|----- |---- |---- |---- | ----- |
+|Sanchez Silva, Luciana Celeste  |Luccsss | L |C|C |C |
+|Salvador Rodriguez, Rodrigo Jesus     |Rodrigojsr12  | C|L |L |L |
+|Peña Riofrio, María Fernanda     |mariafep  |C |C |C |C |
+|Pilares Pocohuanca, María     |mariapilares  | C|C |C |C |
+|Guerrero Tomas, Nelson Fabrizio     |Nelsoondev  |C |C |C |C |
