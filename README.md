@@ -61,7 +61,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 |Integrante|Tareas Asignadas|
 |-|-|
-|Nelson Guerrero||
+|Nelson Guerrero|Desarrollo del Capítulo II: Analisis Competitivo 2.1.1, así como la parte final del Capítulo II, del 2.3.3 al 2.3.5|
 |María Peña|Desarrollo del Capítulo IV: Product Design del 4.6 al 4.8.1|
 |María Pilares| Desarrollo del Capítulo II: Requirements Elicitation & Analysis, del 2.1 al 2.3.1|
 |Rodrigo Salvador|Desarrollo del Capítulo I: Introducción, Capítulo III: Requirements Specification y Capítulo V: Product Implementation, Validation & Deployment del 5.1 al 5.1.4|
