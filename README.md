@@ -1435,3 +1435,37 @@ El desarrollo del informe se organizó repartiendo el trabajo, cada integrante r
 |Pilares Pocohuanca, Maria|Desarrollo del Capítulo II: Requirements Elicitation & Analysis, del 2.1 al 2.3.1|
 |Salvador Rodriguez, Rodrigo Jesus|Desarrollo del Capítulo I: Introducción, Capítulo III: Requirements Specification y Capítulo V: Product Implementation, Validation & Deployment del 5.1 al 5.1.4|
 |Sanchez Silva, Luciana Celeste|Desarrollo del Capítulo IV: Product Design del 4.1 al 4.4. del documento en formato markdown. Incluyendo diseño del landing page y web application|
+
+
+<div id='6.'><h2> 6. Conclusiones</h2></div>
+
+AgroDigital se ha consolidado como una solución tecnológica clave para modernizar la gestión ganadera, reemplazando los obsoletos sistemas manuales por una plataforma digital que centraliza el registro de animales, historial sanitario y transacciones económicas. Su implementación ha demostrado beneficios tangibles: mejora en la trazabilidad para cumplimiento normativo, reducción de pérdidas mediante alertas automatizadas, y acceso a datos en tiempo real para una toma de decisiones más informada. El uso de tecnologías como Angular, Node.js y PostgreSQL aseguró un desarrollo escalable y adaptable a las necesidades cambiantes del sector. Este proyecto no solo optimiza procesos operativos, sino que también acerca la innovación tecnológica a los pequeños y medianos ganaderos, marcando un precedente para la transformación digital en la agricultura latinoamericana. Con potencial para incorporar inteligencia artificial e integraciones con blockchain en futuras iteraciones, AgroDigital sienta las bases para una ganadería más eficiente, sostenible y competitiva.
+
+<div id='6.'><h2> 7. Bibliografía</h2></div>
+
+- Food and Agriculture Organization (FAO). (2020). Guidelines for the humane handling, transport and slaughter of livestock. http://www.fao.org/3/x6909e/x6909e00.htm
+
+- García, E., & Santos, R. (2019). Bienestar animal en ganadería extensiva: Fundamentos y aplicaciones. Editorial Acribia.
+
+- OIE. (2021). Terrestrial Animal Health Code (28th ed.). World Organisation for Animal Health. https://www.woah.org/en/what-we-do/standards/codes-and-manuals/
+
+- Blood, D. C., & Studdert, V. P. (2012). Veterinaria: Un enfoque hacia animales de producción (10a ed.). McGraw-Hill Interamericana.
+
+- Banhazi, T. M., & Halas, V. (2018). Precision livestock farming: Applications and perspectives. Wageningen Academic Publishers. https://doi.org/10.3920/978-90-8686-869-8
+
+- Ministerio de Agricultura [Perú]. (2022). Protocolo de trazabilidad ganadera. https://www.gob.pe/institucion/minagri
+
+- Radostits, O. M., Gay, C. C., Hinchcliff, K. W., & Constable, P. D. (2020). Veterinary medicine: A textbook of the diseases of cattle, horses, sheep, pigs, and goats (11th ed.). Elsevier.
+
+- International Organization for Standardization. (2018). *ISO 3166-1: Codes for the representation of names of countries and their subdivisions – Part 1: Country codes*. https://www.iso.org/standard/72482.html
+
+- Microsoft. (2021). Microsoft SQL Server documentation. https://docs.microsoft.com/en-us/sql/sql-server/
+
+- Node.js Foundation. (2023). Node.js v18 documentation. https://nodejs.org/docs/latest-v18.x/api/
+
+- PostgreSQL Global Development Group. (2023). PostgreSQL 15 documentation. https://www.postgresql.org/docs/15/
+
+
+<div id='8.'><h2> 8. Anexos.</h2></div>
+
+Enlace para acceder a la landing page: [https://gantrace.github.io/LandingPage-AgroDigital/] (https://gantrace.github.io/LandingPage-AgroDigital/)
