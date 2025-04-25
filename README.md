@@ -835,10 +835,12 @@ User Veterinario:
 As-Is Scenario Mapping Ganaderos
 
 <img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/As-Is%20Scenario%20Mapping%20Ganaderos.jpg">
+<a href="https://miro.com/app/board/uXjVI-QsOY4=/" target="_blank"> Acceder al Miro </a>
 
 As-Is Scenario Mapping Veterinarios
 
 <img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/As-Is%20Scenario%20Mapping%20Veterinarios.jpg">
+<a href="https://miro.com/app/board/uXjVI-QsOY4=/" target="_blank"> Acceder al Miro </a>
 
 <!--EDITANDO -->
 
