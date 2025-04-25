@@ -48,6 +48,8 @@ width=50%"/>
 |1.6|19/04/2025|Peña M.|Desarrollo del Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design|
 |1.7|19/04/2025|Salvador R.|Desarrollo del ToBe Scenario Mapping, User Stories, Impact Mapping y Product backlog|
 |1.8|20/04/2025|Salvador R.|Avance del Capítulo V: Product Implementation, Validation & Deployment (del 5.1 al 5.1.4)|
+|1.9|20/04/2025|Guerrero N.|Desarrollo del Capítulo II: User Personas, User Task Matrix, User Journey Mapping, Empathy and As-Is Scenario Mapping|
+|1.10|20/04/2025|Peña M., Salvador R.|Desarrollo del Capítulo V: Landing Page Services & Applications Implemention|
 
 ## Project Report Collaboration Insights
 
