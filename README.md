@@ -1389,5 +1389,23 @@ Link del Trello: https://trello.com/b/I1kLkHX3
             <td>Rodrigo Salvador</td>
             <td>To-Do</td>
         </tr>
+</table>
+
+<div id='5.2.1.4.'><h5> 5.2.1.4. Development Evidence for Sprint Review.</h5></div>
+
+|Repository| Branch | Commit id | Commit Message | Commit Message Body | Commited On(Date)|
+|--- |---|---- |---- |---- |---- |
+|GanTrace LandingPage-AgroDigital |AgroDigital/develop|cde40362c611bf6b6ce42b7ee0105686d4ed38e8 | chore: add first aceptance test | chore: add first aceptance test | 22/04/2025 |
+|  |AgroDigital/develop|6b576f97e8c9f4fe9140a88021a8c3b9f89795aa |chore: add contact links feature|chore: add contact links feature |22/04/2025 |
+|  |AgroDigital/develop|7fe1b45fea8e11d1c4585e9718b9eb4b0fc05945 |chore: add fill in contact feature|chore: add fill in contact feature |22/04/2025 |
+|  |AgroDigital/develop|5e736db733a4165441ed91982d218ea668e81c1f |chore: add frequently asked questions feature |chore: add frequently asked questions feature |22/04/2025 |
+|  |AgroDigital/develop|1724d8c67748fb76c436a74de249b9ac7b9fa115|chore: add team section feature|chore: add team section feature|22/04/2025 |
+|  |AgroDigital/develop|57ebafd887a6a23de7921fb08b415fe20c07bc3e|chore: add footer section feature|chore: add footer section feature|22/04/2025|
+|  |AgroDigital/develop|49778c46d75309f924440a81a981bfda5c11097a|chore: add header section feature|chore: add header section feature|22/04/2025|
+|  |AgroDigital/develop|6c843ba1b7ffd8bf7aecde062cf6f5576797eb7d|chore: add information section feature|chore: add information section feature|22/04/2025|
+|  |AgroDigital/develop|d7967e78eb5723d9180cfe46291bee54ef55e789|chore: add testimonials section feature|chore: add testimonials section feature|22/04/2025|
+|  |AgroDigital/develop|bd65ecd010b7ba415ed78bf730b9c6aab3bb397f  |chore: add index.html| chore: add index.html|22/04/202|
+|  |AgroDigital/develop|fbb0be519029058868997e0d09c02379041a0caa|chore: add styles.css|chore: add styles.css|22/04/202|
+
 
 
