@@ -53,7 +53,7 @@ width=50%"/>
 
 ## Project Report Collaboration Insights
 
-URL del repositorio para el reporte del proyecto: 
+URL del repositorio para el reporte del proyecto: (https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4)
 
 **TB1**
 
@@ -85,10 +85,10 @@ Los integrantes son:
 
 Se explican las ramas más prominentes:
 
-- **main**: Es representada por el color ---. Se trata de la rama principal del proyecto y se actualiza para cada entregable.
-- **develop**: Es representada por el color ---. Se trata de la rama principal para el proceso del desarrollo del proyecto.
-- **feature-product-design**: Es representado por el color ---. Incluye el contenido de user flows y wireframes.
-- **feature-sprint1**: Es representada por el color ---. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
+- **main**: Es representada por el color blanco. Se trata de la rama principal del proyecto y se actualiza para cada entregable.
+- **develop**: Es representada por el color morado. Se trata de la rama principal para el proceso del desarrollo del proyecto.
+- **feature-sprint1**: Es representada por el color morado. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
+- **release1.0**: Es representada por el color azul. Esta rama incluye los puntos trabajados y corregidos en el proyecto.
 
 ![Branch_Graph]()
 
