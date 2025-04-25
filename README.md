@@ -1289,7 +1289,18 @@ En el Sprint Planning 1, se muestran evidencias de la planeación y creación de
 |Sprint Velocity 1         | 15         |
 |Sum of Story Points         |  15        |
 
-<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
+<div id='5.2.1.2.'><h5> 5.2.1.2. Aspects leaders and collaborators</h5></div>
+Para lograr una adecuada distribución del trabajo y mayor claridad en las responsabilidades, se identificaron 4 aspectos clave del desarrollo: diseño de interfaz (UI/UX), redacción del contenido, publicación y documentación. A cada aspecto se le asignó un líder y uno o más colaboradores, teniendo en cuenta la experiencia previa de cada integrante y el balance de carga de trabajo. La siguiente tabla presenta la matriz de liderazgo y colaboración correspondiente a este Sprint.
+
+|Team Member|GitHub Username | Diseño UX/UI | Landing Page| Deploy |Documentation|
+|-----|----- |---- |---- |---- | ----- |
+|Sanchez Silva, Luciana Celeste  |Luccsss | L |C|C |C |
+|Salvador Rodriguez, Rodrigo Jesus     |Rodrigojsr12  | C|L |L |L |
+|Peña Riofrio, María Fernanda     |mariafep  |C |C |C |C |
+|Pilares Pocohuanca, María     |mariapilares  | C|C |C |C |
+|Guerrero Tomas, Nelson Fabrizio     |Nelsoondev  |C |C |C |C |
+
+<div id='5.2.1.3.'><h5> 5.2.1.3. Sprint Backlog 1.</h5></div>
 
 En el primer sprint backlog, el equipo tuvo la intención de comenzar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. El objetivo principal del sprint era construir en su totalidad la landing page, logrando que esta sea funcional y apto para todo el público. Sin embargo, por temas de tiempo consideramos que aún no está terminado al 100% su desarrollo.
 
@@ -1378,13 +1389,3 @@ Link del Trello: https://trello.com/b/I1kLkHX3
         </tr>
 
 
-<div id='5.2.1.2.'><h5> 5.2.1.2. Aspects leaders and collaborators</h5></div>
-Para lograr una adecuada distribución del trabajo y mayor claridad en las responsabilidades, se identificaron 4 aspectos clave del desarrollo: diseño de interfaz (UI/UX), redacción del contenido, publicación y documentación. A cada aspecto se le asignó un líder y uno o más colaboradores, teniendo en cuenta la experiencia previa de cada integrante y el balance de carga de trabajo. La siguiente tabla presenta la matriz de liderazgo y colaboración correspondiente a este Sprint.
-
-|Team Member|GitHub Username | Diseño UX/UI | Landing Page| Deploy |Documentation|
-|-----|----- |---- |---- |---- | ----- |
-|Sanchez Silva, Luciana Celeste  |Luccsss | L |C|C |C |
-|Salvador Rodriguez, Rodrigo Jesus     |Rodrigojsr12  | C|L |L |L |
-|Peña Riofrio, María Fernanda     |mariafep  |C |C |C |C |
-|Pilares Pocohuanca, María     |mariapilares  | C|C |C |C |
-|Guerrero Tomas, Nelson Fabrizio     |Nelsoondev  |C |C |C |C |
