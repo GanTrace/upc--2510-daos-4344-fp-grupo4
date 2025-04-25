@@ -1411,3 +1411,16 @@ Link del Trello: https://trello.com/b/I1kLkHX3
 En este sprint logramos desarrollar nuestra landing page, utilizango HTML y CSS con su respectivo despliegue. Acá se muestra evidencia: 
 
 <img src="Imagenes/Evidence_sprint1/Execution_Evidence_Sprint1.png" alt="" width="700px">
+
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
+
+Para este Sprint, como es el primero y se desarrolló la landing page, por lo que no se evidencia el empleo de web services
+
+<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+Para la entrega del Sprint 1, se desarrolló y desplegó la landing page. El despliegue lo realizó nuestro compañero Rodrigo Salvador.
+
+<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_1_sprint1.png" alt="" width="700px">
+<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_2_sprint1.png" alt="" width="700px">
+<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_3_sprint1.png" alt="" width="700px">
+<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_4_sprint1.png" alt="" width="700px">
+<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_5_sprint1.png" alt="" width="700px">
