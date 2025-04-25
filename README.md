@@ -65,7 +65,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |-|-|
 |Nelson Guerrero|Desarrollo del Capítulo II: Analisis Competitivo 2.1.1, así como la parte final del Capítulo II, del 2.3.3 al 2.3.5|
 |María Peña|Desarrollo del Capítulo IV: Product Design del 4.6 al 4.8.1, Capítulo V:  5.2. Landing Page, Services & Applications implementation  |
-|María Pilares| Desarrollo del Capítulo II: Requirements Elicitation & Analysis, del 2.1 al 2.3.1|
+|María Pilares| Desarrollo del Capítulo II: Requirements Elicitation & Analysis, del 2.1 al 2.2.3 en formato markdowm, incluyendo los User Personas y User Task Matrix. |
 |Rodrigo Salvador|Desarrollo del Capítulo I: Introducción, Capítulo III: Requirements Specification y Capítulo V: Product Implementation, Validation & Deployment del 5.1 al 5.1.4|
 |Luciana Sanchez|Desarrollo del Capítulo IV: Product Design del 4.1 al 4.4. del documento en formato markdown. Incluyendo diseño del landing page y web application|
 </div>
