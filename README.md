@@ -229,30 +229,48 @@ La startup busca consolidarse como un modelo de negocio sostenible, confiable y 
 ###### What (Qué)
 ###### ¿Cuál es el problema?
 Pequeños y medianos ganaderos no gestionan adecuadamente la información de su ganado. Usan métodos manuales (cuadernos, hojas sueltas) para llevar registros de salud, vacunas, productividad y reproducción, lo que genera errores, olvidos y baja eficiencia. Esto dificulta la trazabilidad, impide cumplir con normativas y limita el acceso a mejores precios en el mercado.
+
+
 ---
+
 
 ###### When (Cuando)
 ###### ¿Cuándo sucede el problema?
 El problema ocurre de forma constante durante todo el ciclo de vida del ganado: desde el nacimiento, pasando por los controles sanitarios y reproductivos, hasta la venta o comercialización. La falta de control impacta día a día en la operación del productor.
+
+
 ---
+
+
 ###### Where (Dónde)
 ###### ¿A dónde se dirige?
 Se dirige a convertirse en una problemática estructural que limita el crecimiento de la ganadería rural, afectando la competitividad y sostenibilidad del sector en los mercados nacionales e internacionales.
 
 ###### ¿Dónde surge el problema?
 El problema surge principalmente en zonas rurales de América Latina, donde se concentra una gran parte de la producción ganadera de pequeña y mediana escala.
+
+
 ---
+
+
 ###### Who (Quién)
 ###### ¿Quiénes están involucrados?
 Están involucrados pequeños y medianos ganaderos, asociaciones ganaderas, técnicos agropecuarios y entidades públicas que promueven la trazabilidad y formalización del sector.
 
 ###### ¿Quién lo utilizará?
 Principalmente ganaderos que buscan mejorar la productividad, el control y la trazabilidad de su ganado, así como técnicos que los asesoran en el campo.
+
+
 ---
+
+
 ###### Why (Por qué)
 ###### ¿Cuál es la causa del problema?
 La falta de acceso a herramientas tecnológicas adaptadas al contexto rural, el desconocimiento sobre la importancia de la trazabilidad y el escaso acompañamiento técnico hacen que muchos productores mantengan métodos manuales e ineficientes para el control de su ganado.
+
+
 ---
+
 
 ##### ¿Cuáles son las 2H?
 ###### How (Cómo)
@@ -261,14 +279,21 @@ AgroDigital será una plataforma web accesible desde celular o computadora, en l
 
 ###### ¿Cómo lograremos desarrollar una gestión eficiente dentro de la plataforma?
 A través del diseño de una interfaz sencilla, modular y adaptable, que permita registrar y visualizar información clave del ganado. Se integrarán funcionalidades como alertas automáticas, reportes descargables y acceso offline. Además, se ofrecerá capacitación mediante la “Academia Ganadera” para fomentar el uso adecuado de la plataforma.
+
+
 ---
+
+
 ###### How much (Cuánto)
 ###### ¿Cuál es la magnitud del problema?
 Según datos de organismos agrícolas en la región, más del 70% de los pequeños ganaderos no cuentan con sistemas de registro adecuados. Esto repercute directamente en la pérdida de animales, baja productividad, incumplimiento de normas sanitarias y dificultades para acceder a mercados formales.
 
 ###### ¿Qué porcentaje del personal de la industria se verá beneficiado por el servicio?
 Se estima que un 40% a 60% de los ganaderos familiares y asociaciones ganaderas podrían beneficiarse del uso de AgroDigital, especialmente en regiones rurales donde el acceso a tecnología aún es limitado pero creciente.
+
+
 ---
+
 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
@@ -302,20 +327,44 @@ La falta de herramientas adecuadas impide que los productores tomen decisiones i
 ###### **¿Quién es el usuario?**   
 Los usuarios principales de AgroDigital son pequeños y medianos ganaderos, así como técnicos agropecuarios que brindan asesoría directa en el campo. En una segunda etapa, la plataforma también podría ser utilizada por asociaciones ganaderas, cooperativas y entidades públicas que trabajan con productores rurales en programas de formalización, sanidad y trazabilidad.
 
+
+---
+
+
 ###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
 Uno de los principales problemas que AgroDigital busca resolver es la desorganización en el manejo de la información ganadera, así como la pérdida de datos clave por el uso de registros manuales. Actualmente, muchos productores no tienen una forma clara de hacer seguimiento a vacunas, partos, tratamientos, ni control económico, lo que afecta su rentabilidad y cumplimiento de requisitos de mercado.
+
+
+---
+
 
 ###### **¿Qué características son importantes?**
 Las características más valoradas por el usuario incluyen: el registro individual de cada animal (edad, raza, salud, productividad), alertas automáticas para vacunas y tratamientos, reportes económicos simples, historial completo de cada animal, y el acceso a contenido educativo práctico en video o audio. La facilidad de uso, incluso sin conexión a internet, es clave para la adopción en zonas rurales.
 
+
+---
+
+
 ###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
 El producto se integra directamente en las actividades cotidianas del ganadero, ya que mejora su capacidad de planificación, reduce pérdidas por descuido, facilita el cumplimiento de normativas, y permite tomar decisiones informadas sobre la gestión del hato. Esto se traduce en mayor rentabilidad y en una mejora de su calidad de vida.
+
+
+---
+
 
 ###### **¿Cuándo y cómo es nuestro producto? ¿Usado?**
 El producto se usa cada vez que el productor necesita registrar un nuevo animal, aplicar un tratamiento, ingresar un parto, controlar ingresos o revisar la productividad. También se utiliza para evaluar datos históricos del hato y tomar decisiones estratégicas, como vender, separar animales o planificar la reproducción. La plataforma está diseñada para ser usada desde el celular o computadora, en el campo o en casa.
 
+
+---
+
+
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
 AgroDigital debe tener una interfaz visualmente amigable, intuitiva y fácil de usar, pensada para usuarios con poca experiencia tecnológica. Debe comportarse de forma estable y segura, protegiendo los datos personales del productor y su información ganadera. El diseño debe transmitir confianza, ruralidad tecnológica y eficiencia, y ofrecer una experiencia cálida, sin tecnicismos innecesarios.
+
+
+---
+
 
 ###### **Feature Assumptions:**
 
@@ -326,6 +375,9 @@ AgroDigital debe tener una interfaz visualmente amigable, intuitiva y fácil de 
 **Creemos que** la plataforma debe permitir el registro detallado de cada animal (peso, salud, reproducción, ingresos y egresos), lo que facilitará el análisis histórico del desempeño productivo y económico.
 
 **Creemos que** AgroDigital debe contar con un módulo de reportes y gráficos visuales para que los ganaderos puedan entender rápidamente la evolución de su hato, tomar decisiones informadas y demostrar trazabilidad ante compradores o autoridades.
+
+
+---
 
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
