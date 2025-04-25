@@ -1424,3 +1424,14 @@ Para la entrega del Sprint 1, se desarrolló y desplegó la landing page. El des
 <img src="Imagenes/Evidence_sprint1/Deployment_Evidence_3_sprint1.png" alt="" width="700px">
 <img src="Imagenes/Evidence_sprint1/Deployment_Evidence_4_sprint1.png" alt="" width="700px">
 <img src="Imagenes/Evidence_sprint1/Deployment_Evidence_5_sprint1.png" alt="" width="700px">
+
+<div id='5.2.1.8.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+El desarrollo del informe se organizó repartiendo el trabajo, cada integrante realizó, aportes específicos:
+
+|Alumno|Actividad|
+|------|---------|
+|Guerrero Tomas, Nelson Fabrizio| |
+|Peña Riofrio, Maria Fernanda|Desarrollo del Capítulo IV: Product Design del 4.6 al 4.8.1, Capítulo V:  5.2. Landing Page, Services & Applications implementation |
+|Pilares Pocohuanca, Maria|Desarrollo del Capítulo II: Requirements Elicitation & Analysis, del 2.1 al 2.3.1|
+|Salvador Rodriguez, Rodrigo Jesus|Desarrollo del Capítulo I: Introducción, Capítulo III: Requirements Specification y Capítulo V: Product Implementation, Validation & Deployment del 5.1 al 5.1.4|
+|Sanchez Silva, Luciana Celeste|Desarrollo del Capítulo IV: Product Design del 4.1 al 4.4. del documento en formato markdown. Incluyendo diseño del landing page y web application|
