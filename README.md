@@ -1,1 +1,1471 @@
-# upc--2510-daos-4344-fp-grupo4
+<h1 style="text-align: center;"> Informe del Trabajo Final </h1>
+<h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
+
+<img src=https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/4be29e42-94e4-4b80-85ae-3433dde891e4 
+style="display: block; 
+margin-left:auto; 
+margin-right: auto; 
+width=50%"/>
+
+<h5 style="text-align: center"> Ingeniería de Software </h5>
+
+<h5 style="text-align: center"> Desarrollo de Aplicaciones Open Source - 1ASI0729 </h5>
+
+<h5 style="text-align: center"> Docente: Rafael Oswaldo Castro Veramendi </h5>
+
+<h5 style="text-align: center"> Startup: GanTrace </h5>
+
+<h5 style="text-align: center"> Producto: AgroDigital </h5>
+
+
+## Team members:
+
+<div align="center">
+
+| Nombre                                      | Código     |
+|:--------------------------------------------:|:----------:|
+| Guerrero Tomas, Nelson Fabrizio             | U202222745 |
+| Peña Riofrio, María Fernanda                | U202113279 |
+| Pilares Pocohuanca, María                   | U202215528 |
+| Salvador Rodriguez, Rodrigo Jesus            | U202213646 |
+| Sanchez Silva, Luciana Celeste              | U202215979 |
+
+</div>
+
+<h5 style="text-align: center"> Ciclo 2025-010 </h5>
+
+## Registro de versiones del informe
+
+
+|Versión|Fecha|Autor|Descripción de modificación|
+|:-:|:-:|:-:|-|
+|1.0|09/04/2025|Guerrero, Peña, Pilares, Salvador, Sanchez|Creación del documento de trabajo en formato markdown|
+|1.1|10/04/2025|Salvador R.|Desarrollo del capítulo 1 completo del documento en formato markdown|
+|1.2|13/04/2025|Sanchez L.|Desarrollo del capítulo 4.1 del documento en formato markdown al 4.4|
+|1.3|17/04/2025|Salvador R.|Creación del logo de la startup y el servicio/producto|
+|1.4|17/04/2025|Salvador R.|Actualización de la información de la startup profile|
+|1.5|19/04/2025|Sanchez L.|Actualización del ui design, incluyendo landing page y web application|
+|1.6|19/04/2025|Peña M.|Desarrollo del Domain-Driven Software Architecture, Software Object-Oriented Design y Database Design|
+|1.7|19/04/2025|Salvador R.|Desarrollo del ToBe Scenario Mapping, User Stories, Impact Mapping y Product backlog|
+|1.8|20/04/2025|Salvador R.|Avance del Capítulo V: Product Implementation, Validation & Deployment (del 5.1 al 5.1.4)|
+|1.9|20/04/2025|Guerrero N.|Desarrollo del Capítulo II: User Personas, User Task Matrix, User Journey Mapping, Empathy and As-Is Scenario Mapping|
+|1.10|20/04/2025|Peña M., Salvador R.|Desarrollo del Capítulo V: Landing Page Services & Applications Implemention|
+
+## Project Report Collaboration Insights
+
+URL del repositorio para el reporte del proyecto: 
+
+**TB1**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+<div align="center">
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nelson Guerrero|Desarrollo del Capítulo II: Analisis Competitivo 2.1.1, así como la parte final del Capítulo II, del 2.3.3 al 2.3.5|
+|María Peña|Desarrollo del Capítulo IV: Product Design del 4.6 al 4.8.1|
+|María Pilares| Desarrollo del Capítulo II: Requirements Elicitation & Analysis, del 2.1 al 2.3.1|
+|Rodrigo Salvador|Desarrollo del Capítulo I: Introducción, Capítulo III: Requirements Specification y Capítulo V: Product Implementation, Validation & Deployment del 5.1 al 5.1.4|
+|Luciana Sanchez|Desarrollo del Capítulo IV: Product Design del 4.1 al 4.4. del documento en formato markdown. Incluyendo diseño del landing page y web application|
+</div>
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
+
+**Github Collaboration Insights**
+
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
+
+Los integrantes son:
+
+* Nelson Guerrero (Nelsoondev)
+* María Peña (mariafep)
+* María Pilares (mariapilares)
+* Rodrigo Salvador (Rodrigojsr12)
+* Luciana Sanchez (Luccsss)
+
+Se explican las ramas más prominentes:
+
+- **main**: Es representada por el color ---. Se trata de la rama principal del proyecto y se actualiza para cada entregable.
+- **develop**: Es representada por el color ---. Se trata de la rama principal para el proceso del desarrollo del proyecto.
+- **feature-product-design**: Es representado por el color ---. Incluye el contenido de user flows y wireframes.
+- **feature-sprint1**: Es representada por el color ---. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
+
+![Branch_Graph]()
+
+Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo. 
+
+**TB1**
+
+![Commit_Graph]()
+![Commit_Graph_Individual1]()
+![Commit_Graph_Individual2]()
+![Commit_Graph_Individual3]()
+
+![Pull_Graphs]()
+
+## Student Outcomes
+|Criterio especifico|Acciones realizadas|Conclusiones|
+|-|:-|-|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nelson Guerrero** <br> TB1: Para esta primera entrega del proyecto, me he encargado de realizar secciones del Capítulo II, como el análisis competitivo y el needfinding, haciendo uso de las herramientas adecuadas. <br> **María Peña** <br> TB1: Para la primera entrega realicé el capítulo 4 la creación de los diagramas de contexto, de componentes y de contenedor con c4, diagrama de clases y base de datos. <br> **María Pilares** <br> TB1: Para la primera entrega, comuniqué por escrito de manera clara y efectiva el análisis de los competidores, el diseño de las entrevistas y la creación de user personas. <br> **Rodrigo Salvador** <br> TB1: En el informe me he encargo de la realización del capítulo 1, el desarrollo de los puntos importantes de la startup profile, los lean ux y los segmentos objetivos. Además de la resolución del capítulo 3, en donde se definieron las user stories que se desarrollarán en el proyecto. <br> **Luciana Sanchez** <br> TB1: Para el trabajo se definen las reglas de diseño y organización de un sitio web, incluyendo su estilo visual, estructura de contenido y navegación. |El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nelson Guerrero** <br> TB1: Para este entregable fue necesario aprender el uso de nuevas herramientas y tener buena comunicación con el equipo para colaborar de manera uniforme y apoyarnos ante cualquier evento. <br> **María Peña** <br> TB1:  A la hora de realizar el trabajo me comuniqué con mis compañeros sobre las mejoras del trabajo progresivamente.. <br> **María Pilares** <br> TB1: A lo hora de realizar el trabajo comunique activamente mis avances y desarrollo del proyecto a mi equipo de trabajo. <br> **Rodrigo Salvador** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario la comunicación con todos los miembros de mi equipo, para una mejor organización y distribución del trabajo en grupo, dividiéndonos de forma equitativa el trabajo y apoyándonos cuando sea necesario. <br> **Luciana Sanchez** <br> TB1: Para el entregable fue necesario definir las reglas del estilo visual de nuestro producto. |Como equipo pudimos establecer medios de comunicación para poder entregar un trabajo completo ante el obstáculo que suponen los cortos períodos de tiempo para la entrega del proyecto. De la misma manera, se comunicaron los resultados obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa. |
+
+
+## Contenido
+1. [**Capítulo I: Introducción.**](#1.) <br>
+1.1. [Startup Profile.](#1.1.) <br>
+1.1.1. [Descripción del startup.](#1.1.1.)<br>
+1.1.2.[Perfiles de los integrantes del equipo.](#1.1.2.)<br>
+1.2. [Solution Profile.](#1.2.)<br>
+1.2.1. [Antecedentes y Problemática.](#1.2.1.)<br>
+1.2.2. [Lean UX Process.](#1.2.2.)<br>
+1.2.2.1. [Lean UX Problem Statements.](#1.2.2.1.)<br>
+1.2.2.2. [Lean UX Assumptions.](#1.2.2.2.)<br>
+1.2.2.3. [Lean UX Hypothesis Statements.](#1.2.2.3.)<br>
+1.2.2.4. [Lean UX Canvas.](#1.2.2.4.)<br>
+1.3. [Segmentos objetivo.](#1.3.)<br>
+2. [**Capítulo II: Requirements Elicitation & Analysis.**](#2.)<br>
+2.1. [Competidores.](#2.1.)<br>
+2.1.1. [Análisis competitivo.](#2.1.1.)<br>
+2.1.2. [Estrategias y tácticas frente a competidores.](#2.1.2.)<br>
+2.2. [Entrevistas.](#2.2.)<br>
+2.2.1. [Diseño de entrevistas.](#2.2.1.)<br>
+2.2.2. [Registro de entrevistas.](#2.2.2.)<br>
+2.2.3. [Análisis de entrevistas.](#2.2.3.)<br>
+2.3. [Needfinding.](#2.3.)<br>
+2.3.1. [User Personas.](#2.3.1.)<br>
+2.3.2. [User Task Matrix.](#2.3.2.)<br>
+2.3.3. [User Journey Mapping.](#2.3.3.)<br>
+2.3.4. [Empathy Mapping.](#2.3.4.)<br>
+2.3.5. [As-is Scenario Mapping.](#2.3.5.)<br>
+3. [**Capítulo III: Requirements Specification.**](#3.)<br>
+3.1. [To-Be Scenario Mapping.](#3.1.)<br>
+3.2. [User Stories.](#3.2.)<br>
+3.3. [Impact Mapping.](#3.3.)<br>
+3.4. [Product Backlog.](#3.4.)<br>
+4. [**Capítulo IV: Product Design.**](#4.)<br>
+4.1. [Style Guidelines.](#4.1.)<br>
+4.1.1. [General Style Guidelines.](#4.1.1.)<br>
+4.1.2. [Web Style Guidelines.](#4.1.2.)<br>
+4.2. [Information Architecture.](#4.2.)<br>
+4.2.1. [Organization Systems.](#4.2.1.)<br>
+4.2.2. [Labeling Systems.](#4.2.2.)<br>
+4.2.3. [SEO Tags and Meta Tags](#4.2.3.)<br>
+4.2.4. [Searching Systems.](#4.2.4.)<br>
+4.2.5. [Navigation Systems.](#4.2.5.)<br>
+4.3. [Landing Page UI Design.](#4.3.)<br>
+4.3.1. [Landing Page Wireframe.](#4.3.1.)<br>
+4.3.2. [Landing Page Mock-up.](#4.3.2.)<br>
+4.4. [Web Applications UX/UI Design.](#4.4.)<br>
+4.4.1. [Web Applications Wireframes.](#4.4.1.)<br>
+4.4.2. [Web Applications Wireflow Diagrams.](#4.4.2.)<br>
+4.4.3. [Web Applications Mock-ups.](#4.4.3.)<br>
+4.4.4. [Web Applications User Flow Diagrams.](#4.4.4.)<br>
+4.5. [Web Applications Prototyping.](#4.5.)<br>
+4.6. [Domain-Driven Software Architecture.](#4.6.)<br>
+4.6.1. [Software Architecture Context Diagram.](#4.6.1.)<br>
+4.6.2. [Software Architecture Container Diagrams.](#4.6.2.)<br>
+4.6.3. [Software Architecture Components Diagrams.](#4.6.3.)<br>
+4.7. [Software Object-Oriented Design.](#4.7.)<br>
+4.7.1. [Class Diagrams.](#4.7.1.)<br>
+4.7.2. [Class Dictionary.](#4.7.2.)<br>
+4.8. [Database Design.](#4.8.)<br>
+4.8.1. [Database Diagram.](#4.8.1.)<br>
+5. [**Capítulo V: Product Implementation, Validation & Deployment.**](#5.)<br>
+5.1. [Software Configuration Management.](#5.1.)<br>
+5.1.1. [Software Development Environment Configuration.](#5.1.1.)<br>
+5.1.2. [Source Code Management.](#5.1.2.)<br>
+5.1.3. [Source Code Style Guide & Conventions.](#5.1.3.)<br>
+5.1.4. [Software Deployment Configuration.](#5.1.4.)<br>
+5.2. [Landing Page, Services & Applications Implementation.](#5.2.)<br>
+5.2.1. [Sprint 1.](#5.2.1.)<br>
+5.2.1.1. [Sprint Planning 1.](#5.2.1.1.)<br>
+5.2.1.2. [Aspects leaders and collaborators.](#5.2.1.2.)<br>
+5.2.1.3. [Sprint Backlog 1.](#5.2.1.3.)<br>
+5.2.1.4. [Development Evidence for Sprint Review.](#5.2.1.4.)<br>
+5.2.1.5. [Execution Evidence for Sprint Review.](#5.2.1.5.)<br>
+5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
+5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
+5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
+6. [**Conclusiones.**](#6.)<br>
+7. [**Bibliografía.**](#7.)<br>
+8. [**Anexos.**](#8.)<br>
+
+<div id='1.'><h2>Capítulo I: Introducción</h2></div>
+
+<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+
+<div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
+
+GanTrace es una startup enfocada en brindar soluciones tecnológicas accesibles y efectivas para los pequeños y medianos ganaderos de Latinoamérica. A través de una plataforma web intuitiva, GanTrace digitaliza la gestión del ganado, permitiendo llevar un control preciso sobre cada animal, su salud, productividad y trazabilidad, todo desde un celular o computadora.
+
+La plataforma organiza la vida productiva del ganado en módulos clave: registro individual de animales (raza, edad, reproducción), calendario sanitario con alertas automáticas para vacunas y tratamientos, control económico (registro de leche, peso, ingresos y gastos), historial completo para cumplir con las exigencias de trazabilidad, y una academia ganadera con contenido educativo práctico.
+
+Gracias a la integración de datos históricos y actualizados en tiempo real, GanTrace permite tomar decisiones informadas que mejoran la productividad, reducen pérdidas por descuidos y fortalecen la competitividad del pequeño ganadero en los mercados más exigentes. De esta forma, se transforma la gestión tradicional en una ganadería inteligente, eficiente y sostenible.
+
+**Misión:** Revolucionar la gestión y trazabilidad del ganado en pequeños y medianos hatos ganaderos de Latinoamérica, a través de una plataforma digital accesible que optimice los procesos productivos y sanitarios.
+
+**Visión:** AgroDigital se proyecta como la plataforma más destacada del sector ganadero en cuanto al registro y control de animales durante los próximos tres años.
+La startup busca consolidarse como un modelo de negocio sostenible, confiable y comprometido con la mejora continua de la productividad rural mediante el uso de tecnología simple y efectiva.
+
+##### Logotipo de la Startup:
+![logotipo_start](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/GanTrace_Logo.jpeg)
+##### Logotipo del servicio
+![logotipo_servicio](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/AgroDigital_Logo.png)
+
+<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
+
+|Biografía del los integrantes del equipo |Perfiles de los integrantes del equipo|
+| :--------| :--------: |
+| Mi nombre es **Nelson Fabrizio Guerrero Tomas**. tengo 20 años, estudiante de la carrera Ingenieria de Software (UPC), actualmente estoy cursando mi 5to ciclo de la carrera. Considero que soy colaborativo y me gusta consultar cualquier duda que tengo, para realizar un buen proyecto, esto se evidente en los proyectos entregados por mi equipo de trabajo. Uno de mis pasatiempos favoritos es nadar y escuchar musica, pero ultimamente la lectura y las artes marciales me esta agrando muchisimo.|<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/estudiantesPerfil/perfilEstudiantes_Nelson.jpg" alt="" width="250px" />| 
+|Mi nombre es **Maria Fernanda Peña Riofrio**, tengo 21 años, estudio el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona responsable y me gusta ayudar a las demás personas, esto sera evidenciado en el transcuros del proyecto ayudando a mis demás compañeros de equipo. En mis tiempos libres me gusta mucho leer, escuchar música e investigar sobre temas de mi interes.| <img src="Imagenes/estudiantesPerfil/perfilEstudiantes_Mafer.jpg" alt="" width="250px" /> |  
+|Mi nombre es **Maria Pilares Pocohuanca** tengo 22 años y estudio la carrera de ingeniería de software en la UPC. Desde niña tuve mucho interés por las matemáticas y la tecnología, motivo por el cual estudio una ingeniería enfocada más a la programación. Me considero una persona perseverante aunque algo impaciente. Sin embargo, como miembro del equipo me comprometo a colaborar con mis compañeros y realizar todas las indicaciones que se dicten, todo con el fin de presentar un buen proyecto.| <img src="Imagenes/estudiantesPerfil/perfilEstudiantes_Mapa.jpg" alt="" width="250px" /> | 
+|Mi nombre es **Rodrigo Jesus Salvador Rodriguez**, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y puntual en todo tipo de aspectos, esto lo voy a ver reflejado en este proyecto, como miembro de este equipo me comprometo a seguir las indicaciones al pie de la letra, seguir recomendaciones y apoyar siempre a mis compañeros para presentar el mejor proyecto grupal.|<img src="Imagenes\estudiantesPerfil\perfilEstudiantes_Rodrigo.png" alt="" width="250px" />|
+|Mi nombre es **Luciana Celeste Sanchez Silva**, tengo 19 años y vivo en Lima. En la actualidad, me encuentro estudiando el 5to ciclo de la carrera de ingeniería de software en la UPC debido a que desde una edad temprana tuve una fascinación relacionada con el uso de la tecnología y la programación. En mi tiempo libre trato de crecer y expandir mi conocimiento en todas las áreas posibles. De igual forma, me gusta nadar, escuchar música y tocar la guitarra. Me comprometo a colaborar en todo momento con la elaboración de esta startup, y llegar a un trabajo sobresaliente. Mis habilidades son: responsabilidad, resolución de problemas, y disciplina.|<img src="Imagenes\estudiantesPerfil\perfilEstudiantes_Luciana.jpg" alt="" width="250px" />|
+
+<div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
+<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
+
+###### What (Qué)
+###### ¿Cuál es el problema?
+Pequeños y medianos ganaderos no gestionan adecuadamente la información de su ganado. Usan métodos manuales (cuadernos, hojas sueltas) para llevar registros de salud, vacunas, productividad y reproducción, lo que genera errores, olvidos y baja eficiencia. Esto dificulta la trazabilidad, impide cumplir con normativas y limita el acceso a mejores precios en el mercado.
+
+
+###### When (Cuando)
+###### ¿Cuándo sucede el problema?
+El problema ocurre de forma constante durante todo el ciclo de vida del ganado: desde el nacimiento, pasando por los controles sanitarios y reproductivos, hasta la venta o comercialización. La falta de control impacta día a día en la operación del productor.
+
+###### Where (Dónde)
+###### ¿A dónde se dirige?
+Se dirige a convertirse en una problemática estructural que limita el crecimiento de la ganadería rural, afectando la competitividad y sostenibilidad del sector en los mercados nacionales e internacionales.
+
+###### ¿Dónde surge el problema?
+El problema surge principalmente en zonas rurales de América Latina, donde se concentra una gran parte de la producción ganadera de pequeña y mediana escala.
+
+###### Who (Quién)
+###### ¿Quiénes están involucrados?
+Están involucrados pequeños y medianos ganaderos, asociaciones ganaderas, técnicos agropecuarios y entidades públicas que promueven la trazabilidad y formalización del sector.
+
+###### ¿Quién lo utilizará?
+Principalmente ganaderos que buscan mejorar la productividad, el control y la trazabilidad de su ganado, así como técnicos que los asesoran en el campo.
+
+###### Why (Por qué)
+###### ¿Cuál es la causa del problema?
+La falta de acceso a herramientas tecnológicas adaptadas al contexto rural, el desconocimiento sobre la importancia de la trazabilidad y el escaso acompañamiento técnico hacen que muchos productores mantengan métodos manuales e ineficientes para el control de su ganado.
+
+
+##### ¿Cuáles son las 2H?
+###### How (Cómo)
+###### ¿Cómo se utilizará el producto?
+AgroDigital será una plataforma web accesible desde celular o computadora, en la que los ganaderos podrán registrar fácilmente los datos de cada animal, recibir alertas sanitarias, controlar ingresos y gastos, acceder a reportes, y consultar contenido educativo. Todo de forma intuitiva, aún sin conocimientos técnicos.
+
+###### ¿Cómo lograremos desarrollar una gestión eficiente dentro de la plataforma?
+A través del diseño de una interfaz sencilla, modular y adaptable, que permita registrar y visualizar información clave del ganado. Se integrarán funcionalidades como alertas automáticas, reportes descargables y acceso offline. Además, se ofrecerá capacitación mediante la “Academia Ganadera” para fomentar el uso adecuado de la plataforma.
+
+###### How much (Cuánto)
+###### ¿Cuál es la magnitud del problema?
+Según datos de organismos agrícolas en la región, más del 70% de los pequeños ganaderos no cuentan con sistemas de registro adecuados. Esto repercute directamente en la pérdida de animales, baja productividad, incumplimiento de normas sanitarias y dificultades para acceder a mercados formales.
+
+###### ¿Qué porcentaje del personal de la industria se verá beneficiado por el servicio?
+Se estima que un 40% a 60% de los ganaderos familiares y asociaciones ganaderas podrían beneficiarse del uso de AgroDigital, especialmente en regiones rurales donde el acceso a tecnología aún es limitado pero creciente.
+
+<div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
+<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
+
+###### **Problem Statement:** 
+
+El propósito de AgroDigital es brindar a pequeños y medianos ganaderos una plataforma digital simple y accesible que les permita registrar, organizar y supervisar la información clave de su hato ganadero, optimizando los procesos sanitarios, reproductivos y económicos que muchas veces se gestionan de forma manual y desordenada.
+
+Actualmente, la mayoría de ganaderos lleva un control limitado o inexistente de su ganado, usando cuadernos físicos o herramientas digitales improvisadas. Esta dependencia de métodos tradicionales conlleva a errores en los registros, omisión de vacunas o tratamientos, pérdida de datos y baja trazabilidad, afectando directamente la productividad, el cumplimiento de normativas y la posibilidad de comercializar a mejores precios.
+
+La falta de herramientas adecuadas impide que los productores tomen decisiones informadas y sostenibles, limitando su crecimiento y competitividad en el sector.
+
+¿Cómo podríamos digitalizar y automatizar la gestión de información del ganado para que los pequeños productores puedan optimizar sus procesos sin depender de registros manuales ni perder datos relevantes?
+
+<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
+
+###### **Business Assumptions:**
+1.  **Creemos que nuestros usuarios necesitan**  una forma más eficiente y confiable de registrar y monitorear la información relacionada con la salud, productividad y trazabilidad del ganado.
+2.  **Estas necesidades se pueden satisfacer** mediante el desarrollo de una plataforma web accesible que permita registrar datos clave del hato ganadero, emitir alertas automáticas y generar reportes útiles para la toma de decisiones.
+3.  **Nuestros clientes iniciales serán** pequeños y medianos ganaderos que cuenten con un teléfono móvil o una computadora, así como técnicos agropecuarios que brindan asistencia directa en el campo.
+4.  **El valor más importante que un cliente quiere de nuestros servicios es** llevar un control ordenado y automatizado del ganado, evitar pérdidas por descuidos y cumplir con los requisitos de trazabilidad para vender mejor.
+5.  **El cliente también va a obtener** beneficios adicionales como alertas sanitarias, reportes económicos, acceso a historial de cada animal, y contenido dentro de la plataforma.
+6.  **Vamos a obtener la mayoría de los clientes mediante** alianzas con asociaciones ganaderas, programas rurales de desarrollo y campañas digitales dirigidas a zonas con alta actividad ganadera.
+7.  **Vamos a obtener ingresos mediante** un modelo de suscripción mensual con planes diferenciados según el tamaño del hato ganadero, así como licencias institucionales para asociaciones o entidades del agro.
+8.  **Nuestra competencia en el mercado serán** aplicaciones de gestión ganadera con modelos genéricos, hojas de cálculo digitales, o métodos tradicionales como cuadernos de registro.
+9.  **Vamos a tener ventaja frente a nuestra competencia debido a** que ofrecemos una solución específica para el contexto rural, fácil de usar, con enfoque educativo y con funciones diseñadas especialmente para pequeños y medianos productores.
+10.  **El mayor riesgo del servicio es** que algunos ganaderos, por factores culturales o falta de experiencia digital, no se adapten fácilmente al uso de una plataforma tecnológica para la gestión de su ganado.
+11.  **Lo resolveremos realizando** capacitaciones virtuales, diseñando una interfaz intuitiva, integrando tutoriales paso a paso, y promoviendo el uso de la Academia Ganadera como soporte educativo.
+
+###### **User Assumptions:**
+###### **¿Quién es el usuario?**   
+Los usuarios principales de AgroDigital son pequeños y medianos ganaderos, así como técnicos agropecuarios que brindan asesoría directa en el campo. En una segunda etapa, la plataforma también podría ser utilizada por asociaciones ganaderas, cooperativas y entidades públicas que trabajan con productores rurales en programas de formalización, sanidad y trazabilidad.
+
+###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
+Uno de los principales problemas que AgroDigital busca resolver es la desorganización en el manejo de la información ganadera, así como la pérdida de datos clave por el uso de registros manuales. Actualmente, muchos productores no tienen una forma clara de hacer seguimiento a vacunas, partos, tratamientos, ni control económico, lo que afecta su rentabilidad y cumplimiento de requisitos de mercado.
+
+###### **¿Qué características son importantes?**
+Las características más valoradas por el usuario incluyen: el registro individual de cada animal (edad, raza, salud, productividad), alertas automáticas para vacunas y tratamientos, reportes económicos simples, historial completo de cada animal, y el acceso a contenido educativo práctico en video o audio. La facilidad de uso, incluso sin conexión a internet, es clave para la adopción en zonas rurales.
+
+###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
+El producto se integra directamente en las actividades cotidianas del ganadero, ya que mejora su capacidad de planificación, reduce pérdidas por descuido, facilita el cumplimiento de normativas, y permite tomar decisiones informadas sobre la gestión del hato. Esto se traduce en mayor rentabilidad y en una mejora de su calidad de vida.
+
+###### **¿Cuándo y cómo es nuestro producto? ¿Usado?**
+El producto se usa cada vez que el productor necesita registrar un nuevo animal, aplicar un tratamiento, ingresar un parto, controlar ingresos o revisar la productividad. También se utiliza para evaluar datos históricos del hato y tomar decisiones estratégicas, como vender, separar animales o planificar la reproducción. La plataforma está diseñada para ser usada desde el celular o computadora, en el campo o en casa.
+
+###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+AgroDigital debe tener una interfaz visualmente amigable, intuitiva y fácil de usar, pensada para usuarios con poca experiencia tecnológica. Debe comportarse de forma estable y segura, protegiendo los datos personales del productor y su información ganadera. El diseño debe transmitir confianza, ruralidad tecnológica y eficiencia, y ofrecer una experiencia cálida, sin tecnicismos innecesarios.
+
+###### **Feature Assumptions:**
+
+**Creemos que** la plataforma debe contar con una interfaz intuitiva, accesible desde dispositivos móviles y computadoras, que permitirá a los ganaderos usarla fácilmente incluso si no tienen experiencia tecnológica previa.
+
+**Creemos que** AgroDigital debe incluir un sistema de alertas personalizables que notifique al usuario sobre vacunas, tratamientos sanitarios, partos y fechas clave, ayudando a prevenir pérdidas por descuidos.
+
+**Creemos que** la plataforma debe permitir el registro detallado de cada animal (peso, salud, reproducción, ingresos y egresos), lo que facilitará el análisis histórico del desempeño productivo y económico.
+
+**Creemos que** AgroDigital debe contar con un módulo de reportes y gráficos visuales para que los ganaderos puedan entender rápidamente la evolución de su hato, tomar decisiones informadas y demostrar trazabilidad ante compradores o autoridades.
+
+
+<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+
+* **Hypothesis Statement 01:**
+    
+    **Creemos que** los pequeños y medianos ganaderos estarán dispuestos a adoptar AgroDigital para registrar digitalmente la información sanitaria, productiva y económica de su ganadero.
+  
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando** al menos el 50% de los usuarios registrados usen activamente la plataforma durante el primer trimestre posterior al lanzamiento.
+  
+* **Hypothesis Statement 02:**
+    
+    **Creemos que** la inclusión de alertas automáticas sobre vacunas, partos y tratamientos sanitarios ayudará a los ganaderos a reducir los descuidos y pérdidas relacionadas con la salud del ganado.
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando** al menos un 40% de los usuarios reporten haber evitado incidentes sanitarios importantes gracias a las alertas emitidas por la plataforma.
+
+* **Hypothesis Statement 03:**
+    
+    **Creemos que** el acceso a reportes visuales y al historial individual de los animales permitirá a los usuarios tomar mejores decisiones económicas y reproductivas.
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando** al menos un 60% de los ganaderos indiquen haber tomado decisiones de venta, reproducción o tratamiento basadas en la información provista por AgroDigital.
+
+* **Hypothesis Statement 04:**
+    
+    **Creemos que** el uso de AgroDigital reducirá los errores de registro comunes en los métodos tradicionales (cuadernos, hojas de cálculo) y mejorará la organización de la información ganadera.
+    
+    **Sabremos** que hemos tenido éxito.
+    
+    **Cuando** se identifique una disminución del 50% en errores de registro (omisiones, datos incompletos o duplicados) tras tres meses de uso continuo de la plataforma.
+
+
+<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
+
+El Lean UX Canvas es una herramienta empleada dentro del enfoque de diseño centrado en el usuario (UX) y la metodología Lean, destinada a facilitar la creación y evolución de productos de forma ágil y eficiente. Su finalidad es ofrecer una estructura organizada que promueva la colaboración entre equipos multidisciplinarios. A continuación, se muestra el Lean UX Canvas desarrollado por el equipo mediante el uso de la plataforma digital **Mural**:
+
+![AgroDigital_Lean Canvas](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/LeanUXCanvas.png)
+
+Enlace para acceder al [Canvas](https://app.mural.co/t/gantrace0893/m/gantrace0893/1744306574834/552a13a829bb727c323c017d591c372115eb601a?sender=u10ba1755a935234d144c5633)
+
+<div id='1.3.'><h3> 1.3. Segmento objetivo.</h3></div>
+
+Según el Ministerio de Desarrollo Agrario y Riego (MIDAGRI, 2023), el Perú cuenta con más de 5 millones de cabezas de ganado vacuno, siendo la ganadería una de las actividades más relevantes en regiones como Cajamarca, Puno, Cusco y La Libertad. El valor bruto de la producción ganadera en el país supera los 3 mil millones de soles anuales, y más del 65 % de las unidades ganaderas son gestionadas por pequeños y medianos productores, quienes muchas veces carecen de acceso a herramientas tecnológicas para el manejo eficiente de sus hatos.
+A pesar del avance en otros sectores agropecuarios, la ganadería peruana aún depende, en su mayoría, de métodos manuales para el registro de eventos como vacunaciones, nacimientos, control de peso, alimentación y reproducción. Esta falta de sistematización impide una adecuada trazabilidad y toma de decisiones estratégicas en el negocio ganadero.
+Frente al crecimiento de la demanda mundial de alimentos en un 70 % para el año 2050 (FAO, 2021), se vuelve necesario implementar tecnologías digitales en el sector ganadero. GanTrace propone automatizar y centralizar la gestión del ganado mediante una plataforma accesible, capaz de registrar datos en tiempo real y proyectar indicadores clave de desempeño. Esto no solo elevaría la rentabilidad y eficiencia de las unidades ganaderas, sino que también aumentaría la competitividad del país frente a mercados de exportación de carne y leche.
+Empresas formales como Gloria S.A., Laive, o cooperativas ganaderas como COLPA de Cajamarca, podrían convertirse en usuarios potenciales, al igual que asociaciones de pequeños productores que buscan digitalizar sus procesos y facilitar su acceso a créditos, certificaciones sanitarias o mercados más exigentes.
+
+<div id='1.3.1.'><h4> 1.3.1 Stakeholders.</h4></div>
+
+* **Stakelholder Internos:** Equipo GanTrace y resto de integrantes del equipo de desarrollo.
+* **Stakelholder Externos:** Técnicos ganaderos, veterinarios y responsables de campo en unidades ganaderas, Administradores de cooperativas o asociaciones ganaderas, estudiantes de medicina veterinaria y carreras agropecuarias.
+
+![Stakeholders Externos](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Stakeholders.jpg)
+
+<!-- capitulo 2 -->
+<div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis.</h2></div>
+
+<div id='2.1.'><h3> 2.1. Competidores.</h3></div>
+
+Entender el entorno competitivo es crucial para el éxito de cualquier negocio. En esta sección analizaremos detalladamente quiénes son nuestros competidores, tanto directos como indirectos y examinaremos las estrategias que utilizan como también sus fortalezas y debilidades.
+
+<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo.</h4></div>
+
+Realizar un análisis competitivo es fundamental para identificar las oportunidades y amenazas en el mercado, así como para posicionar estratégicamente a GanTrace. Este proceso permite entender cómo los competidores satisfacen las necesidades del cliente, qué brechas existen y cómo nuestra solución puede destacar mediante ventajas diferenciadoras. Además, ayuda a diseñar estrategias de marketing, precios y distribución más efectivas, asegurando una propuesta de valor única y sostenible.
+
+<html>
+<head>
+    <title>Tabla HTML</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            text-align: left;
+            padding: 10px 25px 8px 25px;
+            text-align: center;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <table >
+        <tr>
+           <td colspan="6" class="sub">  <h1>Competitive Analysis Landscape</h1></td>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="2" class="sub">¿Por qué llevar acabo este análisis?</td>
+            <td colspan="4" class="sub"><h3>¿Quiénes son nuestros principales competidores?</h3></td>
+        </tr>
+        <tr>
+            <td colspan="4">Gracias al análisis de la competencia perteneciente al mercado, se logra comprender el entorno competitivo 
+                en el que operará nuestro producto. Ello proporciona una visión detallada de quienes son nuestros competidores 
+                directos e indirectos, trazar estrategia a través de información recopilada sobre  su posicionamiento actual en el mercado.</td>
+        </tr>
+        <tr>
+            <td rowspan="3" class="sub">PERFIL</td>
+            <td rowspan="2" class="sub">Overview</td>
+            <td> GanTracer <img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/AgroDigital_Logo.png"> </td>
+            <td> Livestock Manager <img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/competidor%201.png"> </td>
+            <td> AgriTrack <img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/competidor%202.png"> </td>
+            <td> FarmLogs <img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/competidor%203.png"> </td> 
+        </tr>
+        <tr>
+            <td>Plataforma web y móvil diseñada para pequeños y medianos ganaderos en Latinoamérica, enfocada en trazabilidad, gestión sanitaria y educación.</td>
+            <td>Aplicación móvil y web para gestión de hatos ganaderos, enfocada en registro sanitario y productividad.</td>
+            <td>Plataforma multifuncional para gestión agrícola y ganadera, con módulos de cultivo, inventario y finanzas.</td>
+            <td>Herramienta global para gestión agrícola, con funcionalidades básicas de ganadería.</td>      
+        </tr>
+        <tr>
+            <td class="sub">Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
+            <td>Enfocado a la ganadería y la trazabilidad individual el hato a precios accesibles para los ganaderos</td>
+            <td>Integración con dispositivos IoT. Reportes automatizados para exportación a autoridades sanitarias.</td>
+            <td>Versatilidad: integra cultivos y ganado en una sola plataforma. Análisis predictivo basado en clima y mercado.</td>
+            <td>Reconocimiento de marca internacional. Integración con mercados globales de commodities.</td>      
+        </tr>
+        <tr>
+            <td rowspan="2" class="sub">PERFIL DEL MARKETING</td>
+            <td class="sub" >Mercado Objetivo</td>
+            <td>Pequeños productores (5-100 cabezas de ganado) y técnicos agropecuarios.</td>
+            <td>Medianos y grandes ganaderos con acceso a tecnología avanzada.</td>
+            <td>Agricultores y ganaderos diversificados en zonas semiurbanas.</td>
+            <td>Grandes empresas agroindustriales con enfoque exportador.</td>
+        </tr>
+        <tr>
+            <td class="sub">Estrategias de Marketing</td>
+            <td>Alianzas con asociaciones ganaderas y programas gubernamentales. Talleres presenciales en zonas rurales.</td>
+            <td>Alianzas con empresas de insumos veterinarios. Publicidad en ferias ganaderas y redes sociales especializadas.</td>
+            <td>Contenido educativo en YouTube y webinars. Descuentos por volumen para cooperativas.</td>
+            <td>Campañas en medios internacionales (The Economist, Bloomberg).Acuerdos con distribuidores de maquinaria agrícola.</td>
+        </tr>
+        <tr>
+            <td rowspan="3" class="sub">PERFIL DEL PRODUCTO</td>
+            <td class="sub">Productos & Servicios</td>
+            <td>Plataforma móvil y web para gestión de hatos ganaderos</td>
+            <td>Plataforma móvil y web para gestión de hatos ganaderos.</td>
+            <td>Plataforma multifuncional para gestión agrícola y ganadera.</td>
+            <td>Herramienta global para gestión agrícola y ganadera, con énfasis en mercados formales.</td>
+        </tr>
+        <tr>
+            <td class="sub">Precios & Costos</td>
+            <td>Basico: $10/mes Premium: $25/mes y Empresarial: $50/mes</td>
+            <td>Básico: $20/mes Premium: $100/mes.</td>
+            <td>Solo ganado: $15/mes Full agro: $50/mes.</td>
+            <td>Básico: $30/mes Empresarial: $200/mes.</td>
+        </tr>
+        <tr>
+            <td class="sub">Canales de distribución (web/móvil)</td>
+            <td>Plataforma web, app móvil y colaboración con ONGs rurales.</td>
+            <td>Venta directa en su sitio web y app stores.</td>
+            <td>Distribución mediante cooperativas agrícolas.</td>
+            <td>Venta directa y partners estratégicos en EE.UU. y Europa.</td>        
+        </tr>
+        <tr>
+            <td rowspan="4" class="sub">ANÁLISIS SWOT</td>
+            <td class="sub">Fortalezas</td>
+            <td>Diseño accesible para baja conectividad. Costos accesibles y planes de acuerdo al tamaño de la finca.</td>
+            <td>Tecnología IoT innovadora. Cumplimiento normativo automático.</td>
+            <td>Solución integral para agro. Precios accesibles.</td>
+            <td>Enfoque en mercados globales. Datos en tiempo real de mercados.</td>
+        </tr>
+        <tr>
+            <td class="sub">Debilidades</td>
+            <td>Dependencia de alianzas para distribución. </td>
+            <td>Alto costo para pequeños productores. Interfaz compleja para usuarios rurales.</td>
+            <td>Funcionalidades ganaderas menos desarrolladas. Falta de enfoque en trazabilidad sanitaria.</td>
+            <td>Precios elevados para Latinoamérica. Poca adaptación a necesidades locales.</td>  
+        </tr>
+        <tr>
+            <td class="sub">Oportunidades</td>
+            <td>Demanda creciente de trazabilidad en exportaciones.Subsidios gubernamentales para digitalización rural.</td>
+            <td>Expansión a mercados formales (exportación). Alianzas con gobiernos para subsidios.</td>
+            <td>Crecimiento de la agricultura de precisión. Demanda de análisis predictivo.</td>
+            <td>Expansión a Latinoamérica con socios locales. Demanda de trazabilidad para exportación.</td> 
+        </tr>
+        <tr>
+            <td class="sub">Amenazas</td>
+            <td>Competidores globales con más recursos. Resistencia a adoptar tecnología en productores tradicionales.</td>
+            <td>Competencia con soluciones low-cost. Resistencia al cambio en ganaderos tradicionales.</td>
+            <td>Especialización de competidores como GanTrace. Saturación de plataformas multifuncionales.</td>
+            <td>Competencia de startups regionales. Barreras culturales y idiomáticas.</td>          
+        </tr>
+    </table>
+</body>
+</html>
+
+<div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
+Entre las principales estrategias y tácticas que ejecutaremos como startup son las siguientes:
+
+Por un lado, estas son las estrategias preliminares:
+
+- Penetración en zonas rurales mediante convenios con asociaciones ganaderas locales y ONGs.
+- Educación digital progresiva con contenido audiovisual adaptado a usuarios sin experiencia.
+- Fortalecimiento del soporte técnico con canales simples como WhatsApp o llamadas.
+- Ofrecer valor desde el primer uso, con alertas inmediatas, reportes útiles y herramientas gratuitas.
+
+Por otro lado, estas son nuestras tácticas específicas:
+
+- Promociones por recomendación entre productores.
+- Plataforma gamificada para incentivar registros constantes.
+- Versiones por región con lenguaje local y soporte contextualizado.
+- Participación en ferias rurales y jornadas agropecuarias.
+
+<div id='2.2.'><h3> 2.2. Entrevistas. </h3></div>
+
+Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro público objetivo, estas deben tener una estructura clara y concisa, preguntas específicas para que cumplan su objetivo que es la recolección de datos e información de los entrevistados.
+
+<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas. </h4></div>
+
+Objetivo: Identificar frustraciones, necesidades, dispositivos disponibles, grado de digitalización y percepción sobre el registro de información ganadera.
+
+###### Segmentos entrevistados:
+
+- Ganaderos
+
+- Veterinarios
+
+Formato: Entrevistas semiestructuradas, de 25-30 minutos, registradas en video con consentimiento.
+
+Preguntas dirigidas al personal de **Ganaderos**.
+
+Preguntas principales:
+
+- ¿Podría indicarnos su nombre completo y su edad?
+
+- ¿Cuánto tiempo lleva dedicado a la ganadería? ¿Qué tipo de ganado maneja actualmente?
+
+- ¿Cuál es el tamaño aproximado de su ganado? ¿Y cuántas personas trabajan en su unidad ganadera?
+
+- ¿Qué herramientas utiliza actualmente para llevar el control de sus animales y sus actividades?
+
+- ¿Lleva algún registro sobre la salud, alimentación o reproducción de su ganado? ¿Cómo lo hace?
+
+- ¿Cuáles son las principales dificultades que enfrenta en la gestión diaria del ganado?
+
+- ¿Cómo monitorea actualmente la productividad y salud de su ganado?
+
+- ¿Qué tan importante considera llevar un control digital del historial veterinario y productivo de cada animal?
+
+- ¿Ha enfrentado problemas por no tener registros claros (por ejemplo, en ventas, enfermedades o reproducción)?
+
+- ¿Confía en herramientas digitales o ha probado alguna aplicación para el manejo ganadero?
+
+- ¿Cuánto tiempo promedio dedica al registro manual de datos (si lo realiza)?
+
+- ¿Qué tipo de información considera más importante tener a la mano sobre su ganado?
+
+- ¿Estaría dispuesto a usar una aplicación móvil/web para llevar el control del ganado si fuera sencilla y funcional?
+
+- ¿Qué funcionalidades le gustaría que tenga esta herramienta (alertas, historial médico, reproductivo, reportes, etc.)?
+  
+- ¿Qué beneficios espera al adoptar una herramienta digital para su ganadería?
+
+
+###### Preguntas dirigidas a los **Veterinarios**
+
+Preguntas principales:
+
+- ¿Podría proporcionarnos su nombre completo y su edad?
+
+- ¿Cuánto tiempo lleva ejerciendo como veterinario y en qué región trabaja principalmente?
+
+- ¿Está especializado en atención ganadera? ¿Qué tipo de ganado atiende con más frecuencia?
+
+- ¿Cómo realiza el seguimiento del historial médico de los animales que atiende?
+
+- ¿Utiliza actualmente alguna herramienta digital para llevar registros veterinarios?
+
+- ¿Qué información considera fundamental registrar tras una consulta o intervención (vacunas, tratamientos, diagnóstico)?
+
+- ¿Cómo se comunica con los ganaderos respecto al seguimiento o tratamientos posteriores?
+
+- ¿Con qué frecuencia atiende emergencias ganaderas? ¿Cómo coordina este tipo de intervenciones?
+
+- ¿Ha tenido casos donde la falta de información del animal haya afectado la efectividad del tratamiento?
+
+- ¿Qué retos encuentra en su trabajo relacionado con el registro o gestión de información?
+
+- ¿Le resultaría útil tener acceso al historial médico del animal antes de una consulta?
+
+- ¿Qué tan dispuesto estaría a utilizar una aplicación móvil/web para registrar y acceder al historial de sus pacientes?
+
+- ¿Qué funcionalidades considera clave en una herramienta digital veterinaria (calendario, historial, recordatorios, fichas clínicas)?
+
+- ¿Cómo podría mejorar su trabajo con una solución que conecte a veterinarios con ganaderos en tiempo real?
+
+- ¿Qué tan importante considera el análisis de datos (estadísticas de salud, tratamientos más comunes, etc.) en su labor?
+
+
+###### Preguntas complementarias (para ambos segmentos):
+
+- ¿Qué expectativas tendría sobre una plataforma digital que centralice la información ganadera y veterinaria?
+
+- ¿Qué dispositivos usa con más frecuencia para sus actividades laborales (celular, laptop, tablet)? ¿Está familiarizado con el uso de apps?
+
+- ¿Qué es lo que más valora en una herramienta digital: rapidez, facilidad de uso, seguridad de datos u otro aspecto?
+
+
+###### Preguntas principales (comunes):
+
+1. ¿Cómo lleva actualmente el registro de su ganado (peso, salud, vacunas)?
+
+2. ¿Qué desafíos ha enfrentado por llevar registros manuales?
+
+3. ¿Qué tan cómodo se siente utilizando un celular o computadora?
+
+4. ¿Le sería útil recibir alertas de vacunación o reproducción?
+
+5. ¿Ha perdido información relevante alguna vez?
+
+6. ¿Qué contenido educativo le interesaría tener en una app?
+
+7. ¿Qué canales digitales usa actualmente (WhatsApp, redes sociales, etc.)?
+
+
+Variables demográficas a recolectar: Edad, género, distrito de residencia, educación, tipo de hacienda, frecuencia de registros, ocupación alterna, herramientas digitales que maneja, tipo de celular, acceso a internet, objetivos personales, frustraciones, marcas preferidas, influencia de técnicos o asociaciones.
+
+<div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas. </h4></div>
+
+**Entrevista a Ganaderos**
+
+|Entrevistado 1|Josep Melgarejo|
+|-|-|
+|Edad|22|
+|Distrito|Lima|
+|<img width="1292" alt="Entrevista1_JosepMelgarejo" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Entrevistas/Entrevista1_JosepMelgarejo.jpg">|Josep Melgarejo a pesar de ser una persona de corta edad, cuenta con experiencia en el sector de ganadero debido a haber vivido toda su vida con una familia dedicada a la ganadería, trabaja en una unidad de ganadería de 45 animales y ocho personas apróximadamente. Se evidencia la falta de seguridad en el traslado de datos, puesto que lo realizan de manera manual con libros y cuadernos en donde realizan apuntes sobre la alimentación de los animales, vacunas, controles, etc. Sus principales dificultades son que las vacas y cerdos, debido al corto espacio pueden sufrir el tema de la convivencia diaria en el ganado, lo cual esto perjudicaría en la producción de alimentos, calidad de vida, entre otras cosas. Considera importante un registro digital, de esta forma facilitaría los procesos de producción y registro de vacunas de sus animales.  |
+|Timing: 0:01-5:28 |URL: [upc-pre-202510-1asi0729-GanTrace](https://www.youtube.com/watch?v=VVIPcymbLgw)|
+
+|Entrevistado 2|Angel Berrospi|
+|-|-|
+|Edad|25|
+|Distrito|Lima|
+|<img width="1292" alt="Entrevista2_AngelBerrospi" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Entrevistas/Entrevista2_AngelBerrospi.jpg">|Angel es una persona que cuenta con 7 años de experiencia en el sector de la ganadería, empezando desde muy joven hasta el día de hoy, en su ganadería cuenta con 60 animales entre 3 personas en la que esas personas se encuentra su padre como principal responsable del sector ganadero. En su experiencia cuenta que un momento complicado en la gestión fue cuando al momento de querer gestionar y saber el registro de vacunas de las vacas, esta no era posible debido a una posible confusión en la selección de los animales que les corresponda la vacuna. Lo que a él le gustaría para su gestión es encontrar un medio digital en el que se le pueda proporcionar la información acerca del historial de salud, comida, vacunas, tratamientos, etc. En su momento, un registro básico. Nunca ha usado una aplicación que le ayude a gestionar y para él sería una gran oportunidad para solucionar estas problemáticas que complican la gestión de su ganado.|
+|Timing: 5:30-9:27 |URL: [upc-pre-202510-1asi0729-GanTrace](https://www.youtube.com/watch?v=VVIPcymbLgw)|
+
+|Entrevistado 3|Jose Galvez|
+|-|-|
+|Edad|25|
+|Distrito|Lima|
+|<img width="1292" alt="Entrevista3_JoseGalvez" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Entrevistas/Entrevista3_JoseGalvez.jpg">|José Galvez lleva 7 años en la dedicación de la ganadería, decidiendo ayudar a su padre en la gestión, maneja ganado bovino que es su principal especialidad. En su ganado cuenta con 120 animales de las cuales trabajan 3 personas, las cuales son: Un vaquero fijo, un ayudante eventual y él. Cuenta en su experiencia que el lleva los registros de su ganado en un cuaderno para apuntar las vacunas y también los pesos de los animales, también cuenta con un excel básico en su laptop portatil, pero no es de mucha ayuda. Considera de gran importancia una plataforma digital que ayude en su registro, pues un problema constante que pasa en su ganado es que suele olvidarse el día y/o animal al cual ha vacunado, por lo que tener ese registro digital lo ayudaría un montón a mejorar la calidad de la producción del ganado. |
+|Timing: 9:28-16:28 |URL: [upc-pre-202510-1asi0729-GanTrace](https://www.youtube.com/watch?v=VVIPcymbLgw)|
+
+
+**Entrevista a Veterinarios**
+
+|Entrevistado 4|Marco Rodriguez|
+|-|-|
+|Edad|28|
+|Ciudad|Arequipa|
+|<img width="1292" alt="Entrevista4_MarcoRodriguez" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Entrevistas/Entrevista4_MarcoRodriguez.jpg">| Marco es una persona que lleva ejerciendo 3 años como veterinario, sin embargo contando desde sus prácticas, serían 5 años en el medio de la veterinaria. El seguimiento y sus registros lo digitaliza en un excel, de esta forma le facilita en el almacén de datos y la búsqueda de los mismos en caso de ser necesario. Según él, al utilizar una plataforma digital que no le requiera complicaciones debido a una interfaz sencilla y amigable, le ayudaría a despreocuparse del tema de la búsqueda de datos y solo tendría que buscar la información en la misma página web. La escasez de los datos de los animales, retrasa y complica el diagnóstico de los animales, por lo que contar con esa información de antemano facilitaría el tratamiento, inspección o registro del animal. |
+|Timing: 16:37-19:56 |URL: [upc-pre-202510-1asi0729-GanTrace](https://www.youtube.com/watch?v=VVIPcymbLgw)|
+
+|Entrevistado 5|Milagros Chavez|
+|-|-|
+|Edad|27|
+|Ciudad|Cajamarca|
+|<img width="1292" alt="Entrevista5_MarianaRosas" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Entrevistas/Entrevista5_MarianaRosas.jpg">| Milagros cuenta con 2 años de experiencia como veterinaria, trabajando en la ciudad de Cajamarca pero en ciudades rurales como Cajabamba, se especializa en la atención de ganado bovino. Cuenta que la ganadería lechera es muy demandada, por lo que la mayoría de sus atenciones se relacionarían con las vacas. Su registro lo lleva de manera física en cuadernos y/o fichas clínicas, de acuerdo al tipo de cliente. Cuenta que no lleva un registro digital de forma sistemática. Intentó probar aplicaciones, sin embargo no se adecúan al contexto que es necesario y al ser zona rural es muy dificil trabajar con internet.|
+|Timing: 19:57-29:00 |URL: [upc-pre-202510-1asi0729-GanTrace](https://www.youtube.com/watch?v=VVIPcymbLgw)|
+
+|Entrevistado 6|Eric Agama|
+|-|-|
+|Edad|23|
+|Distrito|Lima|
+|<img width="1292" alt="Entrevista6_EricAgama" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Entrevistas/Entrevista6_EricAgama.jpg">| Eric cuenta que lleva estudiando como veterinario durante 6 años y que actualmente se encuentra terminando su carrera en lima. Se especializa en medicina preventiva y ganado bovino. Cuenta que registra su historial médico con una libreta de acuerdo al ganadero con el que trabaja y utiliza un registro en Excel que mayormente se encuentra desactualizado por el constante trato con los animales. Según su experiencia es muy complejo encontrar algunas apps que se puedan adaptar a este contexto rural que enfrentan en su día a día, por lo que una aplicación que sea sencilla de entender y sea fácil de adaptarse para él, sería la mejor opción para su trabajo.|
+|Timing: 29:03-35:26 |URL: [upc-pre-202510-1asi0729-GanTrace](https://www.youtube.com/watch?v=VVIPcymbLgw)|
+
+
+<div id='2.2.3.'><h4> 2.2.3. Análisis de entrevistas. </h4></div>
+
+##### Análisis del segmento de Ganaderos
+
+En primer lugar, el 100% de los entrevistados cuenta con la edad promedio entre los 20-30 años, de los cuáles el 66% casualmente tiene 25 años de edad. Asímismo, Un 100% de los entrevistados considera un proceso tedioso el tener que realizar los registros de forma manual, puesto que al manejar datos en un cuaderno, muchas veces la información se pierde o se mezcla con otras, por ende complica los registros y es posible la confunsión con otros registros. Además, el 100% cuenta con más de dos años de experiencia en el sector de la ganadería, de los cuáles el 66% cuenta con más de 6 años de experiencia. El 100% de los entrevistados cuenta que la relación para iniciar en el sector de la ganadería, fue debido a los lazos familiares, esto específicamente a ayudar a sus padres en la ganadería. El 100% de los entrevistados cuenta que ninguna plataforma digital ha podido solucionar sus problemas al momento de traslado de información de datos o registros en su ganado, por lo que sería el principal problema a tratar dentro de sus medios y que ayudaría mucho a facilitar la gestión del mismo. Finalmente, el 100% de los entrevistados cuenta que uno de los problemas más comunes que sufre, es que se suelen olvidar los datos que registran, sea de las vacunas, pesos y/o datos importantes de los animales.
+
+##### Análisis del segmento de Veterinarios
+
+En primer lugar, el 100% de los entrevistados pertenece al sector de jóvenes veterinarios que cuentan entre 20 a 30 años, específicaamente 28, 27 y 23. A su vez, todos los entrevistados cuentan con menos de 5 años de experiencia en el sector de la veterinaria. El 66% de los entrevistados trabaja en zonas rurales, debido a que la gestión de la ganadería es más común en otras regiones que en Lima. El 66% de los entrevistados menciona que atiende el ganado bovino, especializado en las vacas como principal medio ganadero y de trato para ellos. El 100% de los entrevistados cuenta con un cuaderno en el que llevan los registros de cada paciente con el que trabajan, posteriormente a ello, el 66% de los mismos, lo traslada a un excel, para poder almacenar la información necesaria. Finalmente el 66% de los entrevistados cuenta que buscó la utilización de otras aplicaciones, sin embargo para su mala fortuna, no los ayudó.
+
+
+<div id='2.3.'><h3> 2.3. Needfinding. </h3></div>
+
+En esta sección se presentarán los artefactos resultantes del proceso de análisis de la información recolectada de los segmentos objetivos. Aquí se incluyen secciones para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-is Scenario Mapping.
+
+
+
+<div id='2.3.1.'><h4> 2.3.1. User Personas. </h4></div>
+
+Aquí mostraremos perfiles ficticios que representan a los segmentos de usuarios identificados y entrevistados. Incluimos detalles sobre su demografía, personalidad, motivaciones, preferencias, objetivos, desafíos y comportamientos, además de cómo interactúan con productos similares. Estos datos se basan en las entrevistas realizadas y se han organizado utilizando la herramienta UXPressia.
+
+
+###### User Persona: Ganaderos
+
+![User-Persona Ganadero](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/userpersona_cesarhuaman.png)
+
+###### User Persona: Veterinarios
+
+![User-Persona Veterinario](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/userpersona_carlagutierrez.png)
+
+
+<div id='2.3.2.'><h4> 2.3.2. User Task Matrix. </h4></div>
+
+La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios llevan a cabo al utilizar nuestra startup. Al clasificar estas tareas según su frecuencia e importancia para los usuarios, podemos priorizar nuestros recursos en desarrollo y diseño para optimizar su experiencia.
+
+
+| **User Task**                                      | **César (Frecuencia)** | **César (Importancia)** | **Carla (Frecuencia)** | **Carla (Importancia)** |
+|------------------------------------------------|------------------------|-------------------------|------------------------|-------------------------|
+| Registrar un nuevo animal                      | Sometimes              | High                    | Rarely                 | Medium                  |
+| Actualizar registro sanitario                  | Often                  | High                    | Always                 | High                    |
+| Consultar calendario de vacunación             | Often                  | High                    | Often                  | High                    |
+| Recibir alertas automáticas                    | Sometimes              | High                    | Sometimes              | High                    |
+| Registrar peso y ganancia media diaria         | Often                  | Medium                  | Often                  | Medium                  |
+| Generar y revisar reportes de productividad    | Sometimes              | Medium                  | Often                  | Medium                  |
+| Compartir registros con asociación o compradores | Rarely               | Medium                  | Rarely                 | Low                     |
+| Acceder a módulos de formación ("Academia ganadera") | Sometimes         | Low                     | Sometimes              | Medium                  |
+| Planificar ciclos de reproducción              | Rarely                 | Medium                  | Rarely                 | Medium                  |
+| Revisar historial completo de un animal        | Sometimes              | High                    | Sometimes              | High                    |
+
+La User Task Matrix revela que tanto César como Carla comparten tareas críticas de actualización sanitaria (vacunas, tratamientos) y recepción de alertas automáticas, con alta frecuencia e importancia, seguidas por consulta del calendario de vacunación y registro de peso y ganancia media. César, en su día a día, prioriza también el registro inicial de animales y la revisión puntual de históricos para ventas o inspecciones, mientras que Carla, en cada visita, hace énfasis en actualizar datos sanitarios y generar reportes semanales. Al clasificar las tareas según su recurrencia y valor, el equipo puede enfocar el MVP en las funciones de mayor impacto (alertas y gestión de salud), dejando los módulos de formación y reportes avanzados para fases posteriores.
+
+<div id='2.3.3.'><h4> 2.3.3. User Journey Mapping. </h4></div>
+
+Esta sección detalla el ciclo completo de experiencia del usuario en la aplicación Gantracer de AgroDigital, enfocada en sus públicos objetivo: productores ganaderos y profesionales veterinarios. El análisis del recorrido del usuario abarca desde el primer contacto con la plataforma, continuando con el proceso de decisión para implementarla, la creación de cuentas, la interacción con sus herramientas, hasta la eventualidad de abandonar su utilización.
+
+El Mapeo del Recorrido del Usuario inicia cuando el cliente descubre la aplicación, pasando por las etapas de considerar su adopción, registrarse en la plataforma, utilizar sus funcionalidades y finalmente contemplar escenarios de posible deserción. El proceso incluye todos los puntos críticos desde la adquisición del conocimiento inicial hasta la experiencia operativa completa y la retención del usuario.
+
+User Ganadero:
+
+<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/User%20Journey%20Mapping%20Ganadero.png">
+
+User Veterinario:
+
+<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/User%20Journey%20Mapping%20Veterinaria.png">
+
+<div id='2.3.4.'><h4> 2.3.4. Empathy Mapping. </h4></div>
+
+User Ganadero:
+
+<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Empathy%20Mapping%20Ganadero.png">
+
+User Veterinario:
+
+<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Empathy%20Mapping%20Veterinaria.png">
+
+
+<div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping. </h4></div>
+
+As-Is Scenario Mapping Ganaderos
+
+<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/As-Is%20Scenario%20Mapping%20Ganaderos.jpg">
+<a href="https://miro.com/app/board/uXjVI-QsOY4=/" target="_blank"> Acceder al Miro </a>
+
+As-Is Scenario Mapping Veterinarios
+
+<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/As-Is%20Scenario%20Mapping%20Veterinarios.jpg">
+<a href="https://miro.com/app/board/uXjVI-QsOY4=/" target="_blank"> Acceder al Miro </a>
+
+<!--EDITANDO -->
+
+
+
+
+<!-- capitulo 3 -->
+<div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
+
+<div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
+
+Para la realizar el To-be Scenario Mapping el equipo determinó como se vería el flujo de trabajo luego de que nuestra solución, AgroDigital, haya sido implementada para ambos segmentos objetivos.
+* Ganadero:
+
+![To-Be Ganadero](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/To-Be_ScenarioMapping_Ganaderos.jpg)
+
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVIA6IBtM=/?share_link_id=517790232719)
+
+* Veterinario:
+
+![To-Be - Veterinario](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/To-Be_ScenarioMapping_Veterinarios.jpg)
+
+Enlace para acceder al [Miro](https://miro.com/app/board/uXjVIA6IBtM=/?share_link_id=517790232719)
+
+<div id='3.2.'><h3> 3.2. User Stories.</h3></div>
+
+Las user stories son una forma de convertir el lenguaje informal de los clientes del producto a un requisito de software que debe ser considerado en el desarrollo del sistema. Una user story construida adecuadamente explica al desarrollador la naturaleza de la funcionalidad que construyen, su razón de ser, y el valor que esta genera para el usuario. Para el producto AgroDigital, GanTrace presenta un conjunto de user stories para el desarrollo de la Landing Page, la aplicación web y user stories técnicas.
+
+|Epic/User Story ID| Título | Descripción | Criterios de aceptación |Relacionado con (Epic ID)|
+|-|-|:-|:-|:-|
+|EP01|Contacto con Soporte|**Como** visitante de la landing page **Quiero** contactar al equipo de la aplicación AgroDigital **Para** resolver dudas o solicitar información.|No corresponde|No corresponde|
+|EP02|Información relacionada con la aplicación|**Como** visitante de la landing page **Quiero** entender los beneficios y funcionalidad clave de Agrodigital **Para** tener un alcance sobre el propósito del producto|No corresponde|No corresponde|
+|EP03|Establecer vínculo entre la landing page y la aplicación|**Como** visitante de la landing page **Quiero** acceder rápidamente a la aplicación web **Para** comenzar a disfrutar de los beneficios y funcionalidades que AgroDigital ofrece |No corresponde|No corresponde| 
+|EP04|Gestión Básica de Animales|**Como** ganadero **Quiero** registrar y actualizar información básica de cada animal **Para** mantener un inventario digitalizado y accesible desde cualquier dispositivoa|No corresponde|No corresponde|
+|EP05|Registro de Eventos Clave|**Como** ganadero **Quiero** anotar manualmente eventos importantes (vacunas, partos, enfermedades) **Para** tener un historial completo que me ayude a tomar decisiones sanitarias y reproductivas|No corresponde|No corresponde|
+|EP06|Control Económico|**Como** ganadero **Quiero** registrar ingresos por ventas y gastos **Para** calcular la rentabilidad de mi hato ganadero y optimizar recursos|No corresponde|No corresponde|
+|EP07|Historial Clínico|**Como** veterinario **Quiero** acceder y registrar detalles médicos de cada animal **Para** garantizar un seguimiento preciso y personalizado de su salud|No corresponde|No corresponde|
+|EP08|Gestión de Visitas|**Como** veterinario **Quiero** programar visitas a fincas y asignar tareas específicas a los ganaderos **Para** optimizar el tiempo y asegurar que se cumplan los protocolos sanitarios|No corresponde|No corresponde|
+|EP09|Reportes Básicos|**Como** veterinario **Quiero** generar informes sanitarios (ej: tratamientos pendientes) **Para** cumplir con normativas y compartir datos con asociaciones ganaderas.|No corresponde|No corresponde|
+|US01|Contactar a la startup|**Como** visitante de la landing page **Quiero** proporcionar mi correo electrónico **Para** que los desarrolladores reciban mis comentarios, dudas e inquietudes relacionadas con la aplicación|**Escenario 1: Enviar mensaje al equipo de desarrollo** <br> **Dado que** el usuario tenga una consulta y/o comentario relacionado con la aplicación <br> **Cuando** redacte un mensaje y adjunte una dirección de correo electrónico para contactar al equipo de desarrollo <br> **Entonces** el sistema remitirá la consulta a los desarrolladores|EP01|
+|US02|Obtener información de la aplicación|**Como** visitante de la landing page **Quiero** quiero obtener información relacionada con el producto ofrecido **Para** conocer los beneficios que puedo adquirir mediante el uso de la aplicación |**Escenario 1: Visualizar información** <br> **Dado que** el visitante se encuentre dentro de la landing page <br> **Cuando** navegue a través de todas las secciones de la página <br> **Entonces** podrá encontrar información clara y concisa que me permita entender de inmediato el propósito principal del software |EP02|
+|US03|Acceder a la aplicación desde la landing page|**Como** visitante de la landing page **Quiero** poder acceder a la aplicación directamente desde la landing page **Para** comenzar a utilizar las funcionalidades ofrecidas en la aplicación| **Escenario 1: Usuario ingresa a aplicación** <br> **Dado que** el usuario desee comenzar a utilizar la aplicación <br> **Cuando** ingrese a la landing page y seleccione la opción que permite el acceso al software elaborado <br> **Entonces** deberá ser redirigido a la página desplegada <br> **Escenario 2: Fallo en el acceso a la aplicación** <br> **Dado que** el usuario desee comenzar a utilizar la aplicación <br> **Cuando** ingrese a la landing page y seleccione la opción que permite el acceso al software elaborado y ocurra un error en el proceso de redirección o el servidor de la aplicación no responde **Entonces** el usuario deberá obtener el mensaje de error generado. |EP03|
+|US04|Registrar nuevo animal|**Como** ganadero **Quiero** agregar animales al sistema **Para** tener un inventario digital|**Escenario 1: Registro exitoso** <br> **Dado que** el usuario completa los campos obligatorios (ID, raza, nacimiento) <br> **Cuando** haga clic en "Guardar" <br> **Entonces** el animal aparecerá en mi listado. <br> **Escenario 2: Registro Fallido** <br> **Dado que** el usuario dejó el campo "ID" vacío <br> **Cuando** intente guardar <br> **Entonces** el sistema mostrará "Campo obligatorio" en rojo y no guardará los datos|EP04|
+|US05|Buscar animal por ID|**Como** ganadero **Quiero** encontrar un animal específico **Para** consultar su información|**Escenario 1: Búsqueda exitosa** <br> **Dado que** el ganadero ingresó el ID existente <br> **Cuando**  haga clic en "Buscar" <br> **Entonces** el sistema mostrará la ficha completa del animal <br> **Escenario 2: Búsqueda sin resultados** <br> **Dado que** ingresó un ID inexistente <br> **Cuando** haga clic en "Buscar" <br> **Entonces** el sistema mostrará "No se encontraron coincidencias" |EP04|
+|US06|Iniciar sesión|**Como** ganadero o veterinario **Quiero** iniciar sesión **Para** acceder a los beneficios que ofrece la aplicación AgroDigital|**Escenario 1: Credenciales válidas** <br> **Dado que** el usuario está registrado en AgroDigital <br> **Cuando**  ingrese su email y contraseña correctos <br> **Entonces** el sistema redirigirá a su dashboard según su rol (ganadero/veterinario) <br> **Escenario 2: Credenciales inválidas** <br> **Dado que** el usuario ingresa una contraseña incorrecta <br> **Cuando** intente iniciar sesión <br> **Entonces** el sistema mostrará "Credenciales incorrectas" y no permitirá el acceso|EP03|
+|US07|Registrar vacunación|**Como** ganadero **Quiero** anotar vacunas aplicadas **Para** mantener un historial sanitario|**Escenario 1: Registro completo** <br> **Dado que**  selecciono un animal y completo tipo de vacuna, fecha y dosis <br> **Cuando** guarde el registro <br> **Entonces** el sistema agregará el evento al historial del animal <br> **Escenario 2: Fecha futura no permitida** <br> **Dado que** ingreso una fecha posterior al día actual <br> **Cuando** intente guardar <br> **Entonces** el sistema mostrará "La fecha no puede ser futura"|EP05|
+|US08|Registrar venta| **Como** ganadero **Quiero** anotar la venta de un animal **Para** controlar ingresos| **Escenario 1: Venta registrada** <br> **Dado que** ingreso precio, fecha y datos del comprador <br> **Cuando** guarde la transacción <br> **Entonces** el sistema actualizará el inventario y el balance económico <br> **Escenario 2: Precio inválido** <br> **Dado que** ingreso un precio negativo o cero <br> **Cuando** intente guardar <br> **Entonces**  el sistema mostrará "El precio debe ser mayor a cero"|EP06|
+|US09|Agregar diagnóstico|**Como** ganadero **Quiero** actualizar el peso de mis animales **Para** llevar un control de su crecimiento|**Escenario 1: Registro exitoso** <br> **Dado que** selecciono un animal y ingreso su peso actual <br> **Cuando** guarde los datos <br> **Entonces**  el sistema actualizará su ficha y mostrará "Peso registrado" <br> **Escenario 2: Peso inválido** **Dado que** ingreso un valor negativo o cero <br> **Cuando** intente guardar <br> **Entonces** el sistema mostrará "El peso debe ser mayor a cero"|EP04|
+|US10|Agregar diagnóstico|**Como** veterinario **Quiero** registrar diagnósticos **Para** documentar tratamientos|**Escenario 1: Diagnóstico registrado** <br> **Dado que** escribo el diagnóstico que quiero registrar del paciente (animal) <br> **Cuando** guarde la nota <br> **Entonces** el sistema la asociará al animal y mostrará "Diagnóstico guardado" <br> **Escenario 2: Nota vacía** **Dado que** dejo el campo de diagnóstico vacío <br> **Cuando** intente guardar <br> **Entonces** el sistema mostrará "El diagnóstico no puede estar vacío"|EP07|
+|US11|Filtrar animales enfermos|**Como** veterinario **Quiero** filtrar animales con problemas de salud **Para** priorizar atenciones|**Escenario 1: Filtro con resultados** <br> **Dado que** hay animales marcados como "enfermos" <br> **Cuando**  aplique el filtro "Estado: Enfermo" <br> **Entonces** veré solo esos animales en la lista <br> **Escenario 2: Filtro sin resultados** <br> **Dado que**  no hay animales enfermos <br> **Cuando** aplique el filtro "Estado: Enfermo" <br> **Entonces** en el sistema veré "No hay animales con este estado"|EP07|
+|US12|Programar visita|**Como** veterinario **Quiero** agendar visitas a fincas **Para** organizar mi trabajo|**Escenario 1: Visita programada** <br> **Dado que** ingreso fecha, la finca que quiero visitar y el motivo de la visita <br> **Cuando** guarde la visita <br> **Entonces** aparecerá en mi calendario con recordatorio <br> **Escenario 2: Fecha pasada** <br> **Dado que** ingreso una fecha anterior al día actual <br> **Cuando** intente guardar <br> **Entonces**  el sistema mostrará "La fecha no puede ser pasada"|EP08|
+|US13|Asignar tarea|**Como** veterinario **Quiero** delegar actividades a ganaderos **Para** seguimiento remoto|**Escenario 1: Tarea asignada** <br> **Dado que** selecciono a un ganadero y escribo la tarea que debe realizar y qué fecha <br> **Cuando** envíe la tarea <br> **Entonces** el sistema mostrará "Tarea asignada correctamente" <br> **Escenario 2: Tarea incompleta** <br> **Dado que** no selecciono un ganadero <br> **Cuando** intente enviar <br> **Entonces** el sistema mostrará "Seleccione un ganadero"|EP08|
+|US14|Ver estadísticas|**Como** veterinario **Quiero** ver porcentajes de animales tratados **Para** evaluar salud|**Escenario 1: Estadísticas calculadas** <br> **Dado que** hay cierta cantidad de animales vacunados <br> **Cuando** acceda a "Estadísticas" <br> **Entonces** veré los porcentajes de la cantidad de animales vacunados y pendientes <br> **Escenario 2: Sin datos disponibles** <br> **Dado que** no hay animales registrados <br> **Cuando** acceda a "Estadísticas" <br> **Entonces** veré "No hay datos para mostrar"|EP09|
+|US15|Registrar tratamiento veterinario|**Como** veterinario **Quiero** documentar medicamentos aplicados a un animal **Para** mantener un historial clínico preciso|**Escenario 1: Tratamiento registrado** <br> **Dado que** selecciono un animal y completo con el medicamento y/o tratamiento <br> **Cuando** guarde el registro <br> **Entonces** el sistema lo agregará al historial del animal <br> **Escenario 2: Datos incompletos** <br> **Dado que** no ingreso la dosis requerida <br> **Cuando** intente guardar <br> **Entonces** el sistema mostrará "La dosis es obligatoria" y no guardará|EP07|
+|TS01|POST Animal|**Como** desarrollador **Quiero** registrar un nuevo animal mediante API **Para** mantener el inventario digitalizado|**Escenario 1: Error en registro** <br> **Dado que** envío datos válidos (ID, raza, fecha_nacimiento) <br> **Cuando** hago POST /api/animals <br> **Entonces** recibo un mensaje con los datos guardados. <br> **Escenario 2: Datos incompletos** <br> **Dado que** omito el campo "ID" <br> **Cuando**  hago POST <br> **Entonces** recibo un error con mensaje "ID es obligatorio"||
+|TS02|GET Animal|**Como** desarrollador **Quiero** recuperar la lista de animales **Para** mostrar el inventario|**Escenario 1: Listado exitoso** <br> **Dado que** existen animales registrados <br> **Cuando** hago GET /api/animals <br> **Entonces** recibo el mensaje de ok con array JSON. <br> **Escenario 2: Filtros aplicados** <br> **Dado que** que añado un filtro para un tipo de animal <br> **Cuando** hago GET <br> **Entonces** recibo solo animales de la raza seleccionada||
+|TS03|PUT Actualizar Animal|**Como** desarrollador **Quiero** actualizar datos de animales **Para** corregir información|**Escenario 1: Actualización exitosa** <br> **Dado que** proporciono datos válidos <br> **Cuando** envío la actualización <br> **Entonces** recibo confirmación con los nuevos datos. <br> **Escenario 2: Animal no encontrado** <br> **Dado que** proporciono un ID inexistente <br> **Cuando** intento actualizar <br> **Entonces** recibo un mensaje de error indicando que no existe||
+|TS04|DELETE Animal|**Como** desarrollador **Quiero** eliminar animales **Para** mantener datos precisos|**Escenario 1: Eliminación exitosa** <br> **Dado que** proporciono un ID válido <br> **Cuando** solicito la eliminación <br> **Entonces** recibo confirmación de eliminación. <br> **Escenario 2: ID inválido** <br> **Dado que** proporciono un ID que no existe <br> **Cuando** intento eliminar <br> **Entonces** recibo un mensaje de error||
+|TS05|POST Tratamiento|**Como** desarrollador **Quiero** registrar tratamientos **Para** historial médico|**Escenario 1: Registro exitoso** <br> **Dado que** completo todos los datos del tratamiento <br> **Cuando** envío la solicitud <br> **Entonces** recibo confirmación con los detalles registrados <br> **Escenario 2: Fecha inválida** <br> **Dado que** ingreso una fecha futura <br> **Cuando** intento registrar <br> **Entonces** recibo un mensaje de error sobre fecha no válida||
+|TS06|GET Historial Médico|**Como** desarrollador **Quiero** consultar historial médico **Para** generar reportes|**Escenario 1: Historial encontrado** <br> **Dado que** el animal tiene tratamientos registrados <br> **Cuando** solicito su historial <br> **Entonces** recibo la lista completa ordenada por fecha <br> **Escenario 2: Sin historial** <br> **Dado que** el animal no tiene tratamientos <br> **Cuando** solicito su historial <br> **Entonces** recibo una lista vacía||
+|TS07|POST Venta|**Como** desarrollador **Quiero** registrar ventas **Para** control financiero|**Escenario 1: Venta exitosa** <br> **Dado que** el animal tiene tratamientos registrados <br> **Cuando** solicito su historial <br> **Entonces** recibo la lista completa ordenada por fecha <br> **Escenario 2: Sin historial** <br> **Dado que** el animal no tiene tratamientos <br> **Cuando** solicito su historial <br> **Entonces** recibo una lista vacía||
+|TS08|POST Login|**Como** desarrollador **Quiero** autenticar usuarios **Para** control de acceso|**Escenario 1: Login exitoso** <br> **Dado que** ingreso credenciales válidas <br> **Cuando** inicio sesión <br> **Entonces** recibo un token de acceso <br> **Escenario 2: Credenciales inválidas** <br> **Dado que** ingreso contraseña incorrecta <br> **Cuando** intento iniciar sesión <br> **Entonces** recibo un mensaje de error||
+
+
+<div id='3.3.'><h3> 3.3. Impact Mapping.</h3></div>
+
+![AgroDigital Impact map](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Impact%20%20Map.png)
+
+
+Enlace para acceder al [UXPressia](https://uxpressia.com/w/vszcw/i/NfjHK?tagId=noTag)
+
+<div id='3.4.'><h3> 3.4. Product Backlog.</h3></div>
+
+| # Orden | User Story ID | Título | Descripción| Story Points |
+|:-:|:-:|-|:-|:-:|
+|1|US03|Acceder a la aplicación desde la landing page|**Como** visitante de la landing page **Quiero** poder acceder a la aplicación directamente desde la landing page **Para** comenzar a utilizar las funcionalidades ofrecidas|5|
+|2|US02|Obtener información de la aplicación|**Como** visitante de la landing page **Quiero** quiero obtener información relacionada con el producto ofrecido **Para** conocer los beneficios que puedo adquirir|5|
+|3|US01|Contactar a la startup|**Como** visitante de la landing page **Quiero** proporcionar mi correo electrónico **Para** que los desarrolladores reciban mis comentarios, dudas e inquietudes relacionadas con la aplicación|5|
+|4|US06|Iniciar sesión|**Como** ganadero o veterinario **Quiero** iniciar sesión **Para** acceder a los beneficios que ofrece la aplicación AgroDigital|5|
+|5|US04|Registrar nuevo animal|**Como** ganadero **Quiero** agregar animales al sistema **Para** tener un inventario digital|3|
+|6|US05|Buscar animal por ID|**Como** ganadero **Quiero** encontrar un animal específico **Para** consultar su información|3|
+|7|US07|Registrar vacunación|**Como** ganadero **Quiero** anotar vacunas aplicadas **Para** mantener un historial sanitario|3|
+|8|US08|Registrar venta|**Como** ganadero **Quiero** anotar la venta de un animal **Para** controlar ingresos|3|
+|9|US09|Actualizar peso animal|**Como** ganadero **Quiero** actualizar el peso de mis animales **Para** llevar un control de su crecimiento|1|
+|10|US10|Agregar diagnóstico|**Como** veterinario **Quiero** registrar diagnósticos **Para** documentar tratamientos|3|
+|11|US11|Filtrar animales enfermos|**Como** veterinario **Quiero** filtrar animales con problemas de salud **Para** priorizar atenciones|3|
+|12|US12|Programar visita|**Como** veterinario **Quiero** agendar visitas a fincas **Para** organizar mi trabajo|1|
+|13|US13|Asignar tarea|**Como** veterinario **Quiero** delegar actividades a ganaderos **Para** seguimiento remoto|3|
+|14|US14|Ver estadísticas|**Como** veterinario **Quiero** ver porcentajes de animales tratados **Para** evaluar salud|1|
+|15|US15|Registrar tratamiento veterinario|**Como** veterinario **Quiero** documentar medicamentos aplicados a un animal **Para** mantener un historial clínico preciso|3|
+
+
+
+<div id='4.'><h2>Capítulo IV: Product Design</h2></div>
+<div id='4.1.'><h3> 4.1. Style Guidelines</h3></div>
+
+Estas directrices de estilo establecen los principios visuales y de diseño que deben seguirse al desarrollar la interfaz de usuario (UI) de AgroTrace. El objetivo es crear una experiencia digital clara, accesible e intuitiva que responda a las necesidades de pequeños y medianos ganaderos en Latinoamérica.
+
+El concepto visual se centra en transmitir confianza, simplicidad y eficiencia rural. A través del uso de una paleta de colores naturales (verdes, marrones suaves y tonos tierra), combinada con tipografías limpias y legibles, AgroTrace busca generar una atmósfera amigable y funcional que conecte con el entorno productivo del usuario.
+
+El diseño debe priorizar la facilidad de uso, incluso para personas con poca experiencia tecnológica, reforzando así la inclusión digital en el campo. La interfaz debe permitir una navegación fluida desde cualquier dispositivo, y ofrecer información clara y accesible para fomentar la toma de decisiones informadas. Este enfoque visual fortalece la misión de AgroTrace de modernizar la gestión ganadera con herramientas tecnológicas simples pero poderosas.
+
+<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
+
+Los colores resultan ser fundamental para transmitir la identidad visual de la marca. En este sector, la paleta cromática seleccionada fue inspirada en la naturaleza y el entorno rural, utilizando tonos tierra, verdes orgánicos y acentos neutros. Colores que reflejan sostenibilidad, confianza y cercanía con el campo.
+
+Además, la selección de colores debe estar alineada con los valores de innovación, simplicidad y eficiencia, transmitiendo al usuario una sensación de claridad y profesionalismo sin perder la conexión con el entorno agrícola.
+
+<h5> Colores principales:</h5>
+ <div align="center">
+
+|Código HEX|Color|
+|-|-|
+|#925930|<img src="Imagenes\PaletaColores\925930.png" alt="925930" width="200px">|
+|#79B267|<img src="Imagenes\PaletaColores\79B267.png" alt="79B267" width="200px">|
+|#f5f0e6|<img src="Imagenes\PaletaColores\f5f0e6.png" alt="f5f0e6" width="200px">|
+</div>
+
+<h5> Colores secundarios:</h5>
+ <div align="center">
+
+|Código HEX|Color|
+|-|-|
+|#A3794F|<img src="Imagenes\PaletaColores\A3794F.png" alt="#A3794F" width="200px">|
+|#A3C4A8|<img src="Imagenes\PaletaColores\A3C4A8.png" alt="A3C4A8" width="200px">|
+|#d1bfa5|<img src="Imagenes\PaletaColores\d1bfa5.png" alt="d1bfa5" width="200px">|
+</div>
+
+<h5>Typography</h5>
+La combinación de Tajawal y Work Sans aporta una estética moderna y accesible que conecta tanto con el origen humano del campo como con la eficiencia del mundo digital. Tajawal, con su estilo limpio pero con un sutil toque cultural, transmite cercanía y adaptabilidad, ideal para un sector que valora la conexión entre la tradición agrícola y la innovación tecnológica. Por su parte, Work Sans añade una estructura profesional y contemporánea, optimizada para la lectura en plataformas digitales.
+
+Juntas comunican una marca que se dedica al agro digital con un enfoque en la inclusión, sostenibilidad e innovación, logrando un balance perfecto entre raíces locales y visión global.
+<div align="center">
+<img src="Imagenes\tipografia\Tajawal.png" alt="Tajawal" width="350px" >
+ 
+
+<img src="Imagenes\tipografia\WorkSans.png" alt="WorkSans" width="350px">
+</div>
+<h5>Icons</h5>
+Se ha seleccionado el set de íconos Circum Icons diseñado por Klarr Agency. Este set, disponible en Iconify.design, ofrece una estética limpia, redondeada y moderna, ideal para reflejar los valores de accesibilidad, innovación y cercanía del sector agropecuario digital.
+
+Los íconos utilizados mantienen una línea uniforme y amigable, facilitando la navegación y mejorando la experiencia de usuario.
+
+<div align="center" > <img src="Imagenes/Uidesigns/iconosMuestra.png" alt="iconosMuestra" width="700px"> </div>
+<div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
+El Web Style Guide de AgroTrace nos ayudó a mostrar una identidad visual coherente y accesible en toda la plataforma. Definimos colores, tipografías y elementos de diseño inspirados en el entorno rural para transmitir confianza, tecnología cercana y facilidad de uso.
+
+Nuestra paleta refleja valores como sostenibilidad y cercanía, mientras que las tipografías priorizan la legibilidad. Esta guía fortalece la presencia visual de AgroTrace y mejora la experiencia del usuario.
+
+Se incluyen imágenes que ilustran los principales lineamientos: colores, fuentes, espaciado y componentes clave, garantizando una interfaz clara y funcional.
+<div id='4.2.'><h3> 4.2. Information Architecture</h3></div>
+<div id='4.2.1.'><h4> 4.2.1. Organization Systems</h4></div>
+En esta sección, se han aplicado sistemas de organización adaptados a las necesidades de los pequeños y medianos ganaderos, facilitando el acceso y comprensión de la información ganadera. La organización visual del contenido ha sido implementada de las siguientes formas:
+
+- Jerárquica (visual hierarchy): Para destacar módulos clave como el registro de animales, alertas sanitarias y reportes económicos, asegurando que los usuarios identifiquen rápidamente las funciones más relevantes para su gestión diaria.
+
+- Organización secuencial (step-by-step): Aplicada en procesos que requieren seguimiento cronológico, como el registro de eventos sanitarios, partos o tratamientos, permitiendo al usuario llevar un control ordenado y lógico del historial del ganado.
+
+Además, se categorizó el contenido según las funcionalidades de la plataforma: módulos de gestión (sanidad, reproducción, economía), tipo de usuario (ganadero, técnico, asociación), y acceso a recursos educativos (videos, guías, alertas). Estas estructuras permiten una navegación intuitiva y adaptada al entorno rural.
+<div id='4.2.2.'><h4> 4.2.2. Labeling Systems</h4></div>
+Se han definido cuidadosamente los sistemas de etiquetado y categorización para asegurar que los usuarios naveguen de forma intuitiva y eficiente en la plataforma, implementando lo siguiente:
+
+- Jerarquía visual: Aplicada en la estructura de módulos clave como "Sanidad", "Reproducción" y "Economía", destacando primero los datos más relevantes (por ejemplo, alertas de salud o gastos recientes). Esto permite a los usuarios tomar decisiones informadas rápidamente.
+
+- Organización secuencial: Utilizada en procesos como el registro de eventos ganaderos (partos, tratamientos, vacunaciones), donde los pasos siguen una lógica temporal clara y guiada. Esto ayuda a evitar errores en la carga de datos y mejora la experiencia del usuario.
+
+- Organización matricial: Empleada en los paneles de reportes y análisis, donde los usuarios pueden comparar indicadores entre animales, hatos o periodos de tiempo, con etiquetas claras que facilitan la interpretación visual.
+
+Estos esquemas de etiquetado se han diseñado con base en el lenguaje y jerga ganadera, utilizando términos familiares como “Peso al destete” o “Última monta”, para que cualquier usuario, independientemente de su nivel técnico, pueda comprender y usar la plataforma sin dificultad.
+
+<div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags</h4></div>
+<h5 align="center">Landing Page</h5>
+
+- **Title:** AgroDigital - Plataforma Digital para la Gestión del Ganado  
+- **Description:** AgroDigital es una plataforma accesible que permite a los ganaderos pequeños y medianos gestionar la salud, reproducción, y productividad de su ganado, optimizando procesos con tecnología innovadora.
+- **Keywords:** gestión ganadera, plataforma ganaderos, AgroDigital, trazabilidad ganadera, ganadería digital, salud animal, control de ganado, plataforma para ganaderos, tecnología rural, organizador de ganado.
+- **Author:** GanTrace
+
+<h5 align="center">Aplication Web</h5>
+
+- **Title:** AgroDigital - Gestión Completa del Ganado para Pequeños y Medianos Productores
+- **Description:** Accede a AgroDigital, la plataforma web que digitaliza la gestión del ganado, con módulos de salud, productividad y trazabilidad para optimizar los procesos ganaderos.
+- **Keywords:** plataforma ganadera, software para ganaderos, AgroDigital, gestión de ganado, salud animal, trazabilidad, control de ganado, aplicaciones para ganaderos, ganadería inteligente, ganadería digital, control de ganado.
+- **Author:** GanTrace
+
+<div id='4.2.4.'><h4> 4.2.4. Searching Systems</h4></div>
+El sistema de búsqueda en AgroDigital debe ser intuitivo y eficiente para que los usuarios puedan encontrar rápidamente la información relacionada con su ganado. A continuación, se detallan las opciones de búsqueda y los filtros disponibles: 
+
+- **Barra de busqueda por ganado:** Los usuarios podrán buscar información sobre un animal específico usando filtros como número de identificación, raza, edad, fecha de nacimiento, estado de salud, entre otros.
+- **Barra de busqueda por evento:** Los usuarios podrán buscar eventos específicos relacionados con el ganado, tales como vacunaciones, tratamientos, partos, inspecciones sanitarias, entre otros.
+- **Filtro por categorias:** Los usuarios podrán filtrar por diferentes módulos como Sanidad, Reproducción o Economía, mejorando la accesibilidad a la información relevante.
+- **Opciones de Ordenación:** Los resultados se pueden ordenar por criterios como relevancia
+
+<div id='4.2.5.'><h4> 4.2.5. Navigation Systems</h4></div>
+Los sistemas de navegación deben estar diseñados para ser intuitivos, adaptados al contexto rural de los usuarios y fáciles de usar, incluso para aquellos con poca experiencia en tecnología. Aquí se detallan algunos de los aspectos a tener en cuenta:
+
+<h5 >Menú Principal:</h5>
+
+- Inicio: Acceso rápido a la página principal donde se visualizan las estadísticas más recientes del ganado.
+- Registro de Ganado: Sección para registrar nuevos animales y sus detalles.
+- Historial: Consulta de eventos pasados, como vacunas, tratamientos y eventos reproductivos.
+- Reportes: Generación de informes económicos y sanitarios del ganado.
+- Academia Ganadera: Acceso a contenido educativo y tutoriales sobre el cuidado del ganado.
+
+<h5>Menú Secundario:</h5>
+
+- Alertas: Notificaciones automáticas sobre eventos de salud, vacunación o reproducción.
+- Soporte: Acceso a preguntas frecuentes, tutoriales y asistencia técnica.
+
+<h5>Menú para Iniciar Sesión (Login):</h5>
+
+- El diseño del menú debe ser limpio y directo para que los usuarios puedan acceder fácilmente a lo que necesitan, especialmente si no están familiarizados con la tecnología.
+- Opción para nuevos usuarios que aún no tienen cuenta en AgroDigital
+- Página de ayuda, preguntas frecuentes (FAQ), contacto para asistencia técnica.
+
+<h5>Navegación por Categorías:</h5>
+
+- Los usuarios podrán navegar por categorías de ganado, tipos de eventos o fechas, todo con una jerarquía visual clara que facilite el acceso a la información relevante.
+- Este diseño asegura que AgroDigital sea accesible y fácil de usar para los ganaderos, maximizando su eficiencia en el uso de la plataforma.
+
+<div id='4.3.'><h3> 4.3. Landing Page UI Design</h3></div>
+<div id='4.3.1.'><h4> 4.3.1. Landing Page Wireframe</h4></div>
+
+El wireframe de la landing page de AgroDigital actúa como una guía visual preliminar que organiza los elementos esenciales de la página sin entrar en detalles gráficos. Este esquema muestra la distribución de secciones clave como el encabezado con el logo y menú de navegación, una propuesta de valor centrada en la digitalización ganadera, testimonios de usuarios reales del campo, y llamadas a la acción destacadas que invitan a conocer la aplicación. El objetivo es garantizar una experiencia intuitiva para el visitante y facilitar su conversión en usuario activo de la plataforma. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=26-132&t=qT7oJSn8VnYsfiTX-1)
+
+<div style="text-align: center;">
+  <img src="Imagenes\Uidesigns\AgroDigitalLandingPWireframe.png" alt="LandingPageWireframe" width="500">
+</div>
+<div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
+
+El mock-up de la landing page de AgroDigital representa una versión detallada y cercana al diseño final, integrando colores, tipografías e imágenes que reflejan la identidad visual de la plataforma. Este diseño ofrece una vista realista de cómo se presentará la página a los usuarios, destacando una estética moderna, accesible y alineada con el sector agroindustrial ganadero. Además, refuerza la importancia de mantener coherencia visual y claridad en la propuesta de valor, transmitiendo confianza, profesionalismo y compromiso con la innovación tecnológica en el campo. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=0-1&t=qT7oJSn8VnYsfiTX-1)
+<div style="text-align: center;">
+  <img src="Imagenes\Uidesigns\AgroDigitalMockUp.png" alt="LandingPageMockUp" width="500">
+</div>
+<div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
+<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
+
+Los wireframes de la aplicación web de AgroDigital representan la estructura y organización de las pantallas clave orientadas al sector agroindustrial, específicamente ganadero. Estos esquemas visuales muestran la disposición de los elementos de la interfaz y la navegación entre secciones, ofreciendo una guía clara para el diseño final. De esta forma, se garantiza una experiencia de usuario intuitiva, eficiente y adaptada a las necesidades reales del productor.Fueron desarrollados a través de Figma. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=9-4&t=qT7oJSn8VnYsfiTX-1)
+
+
+<div style="text-align: center;">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 1.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 2.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 3.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 4.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 5.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 6.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 7.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 8.png" alt="" width="500">
+</div>
+<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
+
+En esta sección se presentan los Wireflows para cada objetivo del usuario. Para ello se consideró los User Persona correspondientes. Cada diagrama muestra el flujo de interacción.
+
+- **Registro y Perfil del ganadero** El presente user flow corresponde con el formulario de registro que solicita el ingreso de la información del usuario.
+
+ <img src="Imagenes\Uidesigns\wireflow1.png" alt="" width="600">
+
+- **Gestión de Usuario** El presente user flow corresponde con la gestión de usuario, en el cual el usuario puede iniciar sesión, registrarse e interatuar con las funciones elementales de la aplicación.
+
+ <img src="Imagenes\Uidesigns\wireflow2.png" alt="" width="600">
+
+ - **Agregar un animal** El presente user flow corresponde con la agregación de un animal al registro de ganado, especificando sus detalles.
+
+<img src="Imagenes\Uidesigns\wireflow3.png" alt="" width="600">
+
+ - **Control Ganado y Finanzas** El presente user flow corresponde con el control de los animales, registro de finanzas del ganadero y cuadros estadísticos del ganado.
+
+<img src="Imagenes\Uidesigns\wireflow4.png" alt="" width="600">
+
+<div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
+
+En esta sección se presentan y explican los mock-ups de la aplicación web de AgroDigital, orientada al sector ganadero. Se evidencia la aplicación de principios clave de diseño visual, accesibilidad, arquitectura de información y el Design System desarrollado para este producto digital. Cada mock-up refleja cómo estos conceptos se integran en una interfaz pensada para facilitar la trazabilidad, el control sanitario y la gestión eficiente del ganado. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=21-575&t=qT7oJSn8VnYsfiTX-1)
+
+  <img src="Imagenes\Uidesigns\appWeb\MockUp1.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp2.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp3.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp4.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp5.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp6.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp7.png" alt="" width="500">
+  <img src="Imagenes\Uidesigns\appWeb\MockUp8.png" alt="" width="500">
+<div id='4.4.4.'><h4> 4.4.4. Web Applications User Flow Diagrams</h4></div>
+  A continuación un diagrama que representa los user goals de AgroDigital:
+
+  <img src="Imagenes\Uidesigns\appWeb\AgroDigital.png" alt="User Flow Diagrams" width="500">
+<div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
+
+A continuación, se detalla las interacciones entre el lading page y la aplicación web, incluyendo todos sus apartados principales.
+
+<img src="Imagenes\Uidesigns\appWeb\prototipo.png" alt="Prototipo" width="500">
+
+Link para acceder al video explicando el prototipo en [Figma](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215979_upc_edu_pe/ESZcvYgAG-ZBvhVsG1Bek14Bb-op9udmxXXg0Xn47pbivQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jnao5x)
+
+<div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture</h3></div>
+El Domain Driven Design (DDD) busca crear un entendimiento compartido del dominio del negocio, facilitando la colaboración entre desarrolladores y expertos del dominio mediante un lenguaje común. Este enfoque va más allá del simple uso de terminología especializada, incorporando patrones de diseño, metodologías estructuradas y representaciones arquitectónicas que permiten alinear estrechamente el software con las necesidades reales del negocio, fortaleciendo así la conexión entre solución técnica y conocimiento del dominio para lograr sistemas más efectivos y adaptados a la problemática empresarial.
+
+Se presenta tres niveles del modelo C4 trabajado con structurizr para el proyecto con el que veremos un mejor enfoque de lo que se está desarrollando.
+
+<div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
+
+<img src="Imagenes/diagramas/structurizr-101335-AgroDigitalSytemContext.png" alt="" width="470">
+
+<div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
+
+<img src="Imagenes/diagramas/structurizr-101335-AgroDigitalContainer.png" alt="" width="470">
+
+<div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
+
+<img src="Imagenes/diagramas/structurizr-101335-AgroDigitalComponents.png" alt="" width="470">
+
+<div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
+
+<div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
+
+<img src="Imagenes/diagramas/Class Diagram.png" alt="" width="470"> 
+
+Link del diagrama en [Lucidchart](https://lucid.app/lucidchart/0a62f2c2-3118-4a1d-8828-580a70e3321e/edit?viewport_loc=-3835%2C-5934%2C4252%2C1417%2C0_0&invitationId=inv_d46d805a-ec6c-4f2f-b48f-024381f58440)
+
+<div id='4.7.2.'><h4> 4.7.2. Class Dictionary</h4></div>
+Diccionario de clases usado para el desarrollo de AgroDigital
+
+- **Animal:** Clase que representa un animal en el sistema, con atributos como especie, raza, edad y peso.
+- **HistorialDeCitas:** Clase que registra las citas veterinarias asociadas a un animal, incluyendo motivo y observaciones.
+- **Diagnostico:** Clase que almacena diagnósticos médicos generados a partir de citas veterinarias.
+- **Sanidad:** Clase que gestiona tratamientos o vacunas aplicados a un animal (fecha, tipo y descripción).
+- **Factura:** Clase que registra transacciones financieras (monto total, fecha y estado).
+- **MetodoPago:** Clase que define los métodos de pago disponibles (tarjeta, transferencia, etc.).
+- **Pago:** Clase que almacena los pagos realizados, asociados a una factura y un método.
+- **Academia:** Clase que gestiona cursos o materiales de capacitación (título, descripción y URL).
+- **Almacen:** Clase que representa un almacén físico (nombre, ubicación).
+- **Insumo:** Clase que gestiona productos en inventario (nombre, tipo, cantidad y fechas clave).
+- **Proveedor:** Clase que almacena información de proveedores de insumos (nombre y contacto).
+- **Usuario:** Clase que representa a los usuarios del sistema (nombre, correo y rol).
+
+
+<div id='4.8.'><h3> 4.8. Database Design</h3></div>
+Para este proyecto se optó por MySQL como sistema gestor de bases de datos debido a su escalabilidad, interfaz intuitiva y compatibilidad con los conocimientos previos del equipo en Microsoft SQL Server. Esta solución permite adaptar la capacidad de almacenamiento y procesamiento según las demandas evolutivas del negocio, garantizando un crecimiento acorde a los requerimientos del sistema.
+
+<div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
+<img src="Imagenes/diagramas/AgroDigital_Database_Diagram-2025-04-18_21-58.png" alt="" width="470">
+
+Link del diagrama en [Vertabello](https://my.vertabelo.com/doc/HkMfD4RBQlSQgfXH9BeNvzXrga6xjzzb)
+
+<div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment.</h2></div>
+
+<div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
+
+<div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
+
+**Requirements Management**
+1. Trello: Herramienta para gestionar flujos de trabajo en proyectos ágiles. Se usará para monitorear y actualizar el estado de tareas e historias de usuario durante el sprint. Referencia: [https://trello.com/es](https://trello.com/es)
+
+**Product UX/UI Design**
+1. Figma: Plataforma de diseño de prototipos e interfaces digitales. Se empleará para crear los diseños de la aplicación en sus versiones web y móvil. Referencia: [https://www.figma.com/login](https://www.figma.com/login)
+2. Lucidchart: Aplicación para crear diagramas. Se utilizará para diseñar flujos de usuario, wireflows y el diagrama de clases del sistema. Referencia: [https://www.lucidchart.com/](https://www.lucidchart.com/)
+
+**Software Testing**
+1. Gherkin: Lenguaje para especificar criterios de aceptación en formato Given-When-Then. Ayudará a definir los requerimientos de las user stories. Referencia: [https://cucumber.io/docs/gherkin/](https://cucumber.io/docs/gherkin/)
+
+**Software Development**
+1. Visual Studio Code: IDE seleccionado para desarrollo por su versatilidad, soporte multiplataforma y amplia gama de extensiones útiles para el proyecto. Referencia: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+2. HTML5: Lenguaje de marcado estándar para estructurar el contenido web. Base para la presentación de la aplicación. Referencia: [https://www.w3schools.com/html/html5_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp)
+3. CSS: Cascading Style Sheets es unLenguaje para estilizar y dar presentación visual a las páginas HTML. Referencia: [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
+4. JavaScript: Lenguaje de programación para implementar interactividad en la interfaz de usuario, interpretado y orientado a objetos. Referencia: [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+**Software Deployment**
+1. Git: Sistema de control de versiones diseñado para registrar y administrar las distintas iteraciones del código fuente. Será implementado para conservar un registro detallado de todas las modificaciones realizadas al proyecto, facilitando así la identificación y solución de incidencias. Los desarrolladores interactuarán con esta herramienta mediante terminal o línea de comandos en sus equipos locales. Ruta de referencia [https://git-scm.com/](https://git-scm.com/)
+
+**Software Documentation and Project Management**
+1. Github: Plataforma de alojamiento en la nube que servirá como repositorio centralizado para el código del proyecto. Esta solución permitirá la colaboración simultánea entre los miembros del equipo y el seguimiento detallado de todas las contribuciones individuales. El acceso a la plataforma se realizará mediante navegadores web convencionales. Ruta de referencia [https://github.com/](https://github.com/)
+
+<div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
+
+El desarrollo del proyecto adoptará las convenciones del flujo de trabajo GitFlow para la gestión de versiones, empleando GitHub como plataforma principal para el control de versiones. A continuación, se explicará la implementación específica de GitFlow como metodología para el control de versiones, junto con los enlaces correspondientes a los repositorios de GitHub para cada componente: Landing Page, Web Services y Frontend Web Applications.
+
+**Repositorio de GitHub:**
+Enlace para acceder a la [organización en GitHub](https://github.com/GanTrace)
+Enlace para acceder al repositorio de la [Landing Page](https://github.com/GanTrace/LandingPage-AgroDigital)
+Enlace para acceder al repositorio del [GanTrace Documentation](https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4)
+
+**Flujo de trabajo GitFlow:**
+El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
+
+![GitFlow](https://i0.wp.com/select2web.com/wp-content/uploads/git-workflow-release-cycle-4maintenance.png?fit=614%2C380&ssl=1)
+
+**Estructura de branches (Ramas):**
+1. **Master branch (Rama principal):** Constituirá el eje central del proyecto, albergando exclusivamente versiones estables y definitivas del producto. Los cambios solo se incorporarán tras superar rigurosas pruebas en otras ramas de desarrollo.
+
+2. **Develop branch (Rama de desarrollo):** Servirá como núcleo para la evolución continua del proyecto, donde convergerán todas las contribuciones del equipo durante el proceso de desarrollo.
+
+3. **Feature branches (Ramas de funcionalidad):** Cada funcionalidad específica contará con una rama independiente. Al completarse su desarrollo, se integrará a la rama principal de desarrollo. La nomenclatura seguirá el formato "feature/descripción-funcionalidad" para garantizar claridad y unicidad.
+
+4. **Release branches (Ramas de lanzamiento):** Estas bifurcaciones representarán versiones candidatas de la rama develop, preparadas para su eventual incorporación a master. Su identificación se basará en el Versionamiento Semántico estándar.
+
+5. **Hotfix branches (Ramas de corrección):** Se implementarán para resolver de manera ágil errores críticos detectados en producción que afecten directamente la funcionalidad del sistema.
+
+**Versionamiento Semántico:**
+El control de versiones aplicará estrictamente los principios del Versionamiento Semántico 2.0.0 (SemVer)
+
+**Convenciones de Commits:**
+Los mensajes de confirmación seguirán las directrices de Conventional Commits, inspiradas en Angular Commit Guidelines. La estructura básica será:
+
+ `git commit -m "<type>[optional scope]:<title>" -m"<description">`
+
+<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
+
+1. Cerrar todos los elementos HTML: Por ejemplo, `<h>Esto es un título.</h>`
+2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad.
+3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
+4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido. Por ejemplo: `<img src="abc.img" alt="image name" style="width:64px;height:64px">`
+
+**CSS:** Entre las prácticas empleadas se mencionan:
+
+1. Los identificadores de clases deben ser concisos y descriptivos por sí mismos.
+2. Separar los nombres de las clases y ID con un guión, por ejemplo: `#video-id` y `.hero-shadow{}`
+3. Evitar especificar la unidad de medida luego de usar el valor 0, por ejemplo: `margin: 0` en lugar de `margin: 0px`.
+4. Cada selector y declaración CSS debe ubicarse en líneas independientes para facilitar su lectura y mantenimiento.
+
+**Gherkin:** Es un lenguaje especializado diseñado para abordar un desafío específico: facilitar la comunicación efectiva entre los equipos de negocio y técnicos al implementar Behavior Driven Development (BDD). Para optimizar su uso, se implementaron las siguientes prácticas:
+
+1. **Organización visual**: Se emplearon saltos de línea estratégicos para estructurar claramente los diferentes escenarios y mejorar su legibilidad.
+
+2. **Palabras clave**: Se utilizaron los términos fundamentales "Given", "When", "Then" y "And" para:
+
+- Establecer el contexto inicial.
+
+- Describir las acciones principales.
+
+- Definir los resultados esperados.
+
+- Agregar condiciones complementarias cuando fuera necesario.
+
+Este enfoque garantiza que los criterios de aceptación sean:
+✓ Claros para todos los stakeholders
+✓ Fáciles de mantener
+✓ Alienados con los requisitos del negocio
+
+<div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
+
+**Landing page deployment:**
+
+Para implementar la landing page, se requieren los siguientes elementos previos: una cuenta de usuario personal, una organización creada y un repositorio configurado donde se alojarán los archivos del proyecto. Una vez cumplidos estos prerrequisitos fundamentales, se podrá proceder con el despliegue efectivo de la página. A continuación se detalla el proceso paso a paso:
+
+1. **Estructura de directorios:**
+
+   - Generar una carpeta denominada "docs" como contenedor principal del proyecto.
+
+2. **Organización de archivos:**
+
+   - Garantizar que el archivo principal siga la nomenclatura estándar "index.html"
+
+   - Incluir la hoja de estilos con el nombre "style.css"
+
+   - Crear un directorio "img" para almacenar todos los recursos gráficos
+
+3. **Sincronización con el repositorio:**
+
+   - Subir los archivos mediante un commit siguiendo las convenciones establecidas
+
+4. **Configuración en GitHub:**
+
+   - Acceder a Settings > Pages
+
+   - Seleccionar la rama de despliegue (comúnmente "main" o "master")
+
+   - Especificar "/docs" como directorio fuente
+
+5. **Publicación:**
+
+   - Esperar la verificación automática por parte de GitHub
+
+   - Obtener el enlace generado para visualizar la Landing Page en producción
+
+
+![Github_pages](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/GitHubPages.jpg)
+
+Enlace para acceder a la [landing page](https://gantrace.github.io/LandingPage-AgroDigital/)
+
+<!-- **Front End Web Application deployment** -->
+
+<div id='5.2'><h3> 5.2. Landing Page, Services & Applications implementation </h3></div>
+<div id='5.2.1.'><h4> 5.2.1. Sprint 1.</h4></div>
+Esta sección presenta un resumen del progreso logrado durante el Sprint 1, que se centra en la creación de la Landing Page. Se describe el desarrollo del producto de manera concreta y funcional, abarcando aspectos de diseño, programación y funcionalidades implementadas. Asimismo, se expone la dinámica de trabajo en equipo, los canales de comunicación utilizados y las herramientas que facilitaron una colaboración eficiente. También se incluyen detalles sobre la planificación del sprint, el backlog de tareas,evidencias del desarrollo realizado, documentación de los servicios empleados.
+
+<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1</h5></div>
+En el Sprint Planning 1, se muestran evidencias de la planeación y creación de la landing page, incluyendo avances del proyecto como colaboración en equipo que se registran en GitHub
+
+
+| Sprint # | Sprint 1   |
+|-------------------------|---------------------------------------|
+| **Sprint Planning Background** |                              |
+| Date | 10 de abril de 2025    |
+| Time | 3:30 PM |
+| Location | Modalidad remota|
+| Prepared By | Rodrigo Salvador|
+| Attendees (to planning meeting) | Maria Fernanda Peña, Maria Pilares, Luciana Sanchez, Rodrigo Salvador, Nelson Guerrero |
+| Sprint 0 Review Summary  | Para esta entrega no hay un Sprint anterior por ende no hay un resumen del Sprint |
+|Sprint 1 Retrospective Summary | Para esta entrega no hay un Sprint anterior por ende no hay un resumen del Sprint |
+|**Sprint Goal & User Stories** |               |
+|Sprint Goal 1         |En este sprint se tiene como objetivo, realizar la landing page con HTML y CSS. Anticipadamente, se habría diseñado la landing page en un figma con el punto de vista de los integrantes. Una vez realizado el sprint, la landing debe estar desplegada en GitHub Pages para que los usuarios puedan acceder a la misma a través del link.          |
+|Sprint Velocity 1         | 15         |
+|Sum of Story Points         |  15        |
+
+<div id='5.2.1.2.'><h5> 5.2.1.2. Aspects leaders and collaborators</h5></div>
+Para lograr una adecuada distribución del trabajo y mayor claridad en las responsabilidades, se identificaron 4 aspectos clave del desarrollo: diseño de interfaz (UI/UX), redacción del contenido, publicación y documentación. A cada aspecto se le asignó un líder y uno o más colaboradores, teniendo en cuenta la experiencia previa de cada integrante y el balance de carga de trabajo. La siguiente tabla presenta la matriz de liderazgo y colaboración correspondiente a este Sprint.
+
+|Team Member|GitHub Username | Diseño UX/UI | Landing Page| Deploy |Documentation|
+|-----|----- |---- |---- |---- | ----- |
+|Sanchez Silva, Luciana Celeste  |Luccsss | L |C|C |C |
+|Salvador Rodriguez, Rodrigo Jesus     |Rodrigojsr12  | C|L |L |L |
+|Peña Riofrio, María Fernanda     |mariafep  |C |C |C |C |
+|Pilares Pocohuanca, María     |mariapilares  | C|C |C |C |
+|Guerrero Tomas, Nelson Fabrizio     |Nelsoondev  |C |C |C |C |
+
+<div id='5.2.1.3.'><h5> 5.2.1.3. Sprint Backlog 1.</h5></div>
+
+En el primer sprint backlog, el equipo tuvo la intención de comenzar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. El objetivo principal del sprint era construir en su totalidad la landing page, logrando que esta sea funcional y apto para todo el público. Sin embargo, por temas de tiempo consideramos que aún no está terminado al 100% su desarrollo.
+
+<img alt="TrelloSprint1" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint1/Imagenes/TrelloSprint1.jpg">
+
+Link del Trello: https://trello.com/b/I1kLkHX3
+
+<table>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="7">Sprint 1</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">WorkItem / Task</th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Hours)</th>
+            <th>Assigned To</th>
+            <th>Status(To-do/In-Process/To-Review/Done)</th>
+        </tr>
+        <tr>
+            <td>US01</td>
+            <td>Contacto con Soporte</td>
+            <td>UT01</td>
+            <td>Ver cajas de texto </td>
+            <td>Permitir que el usuario pueda ver las cajas de texto en la página</td>
+            <td>1</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US01</td>
+            <td>Llenar Formulario a través del Contacto</td>
+            <td>UT02</td>
+            <td>Editar y llenar cajas de texto</td>
+            <td>Permitir al usuario interactuar con las cajas de texto en la sección "Contacto"</td>
+            <td>1</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Sobre Nosotros</td>
+            <td>UT03</td>
+            <td>Información acerca del producto</td>
+            <td>Añadir un apartado que diga "Sobre Nosotros" en donde explicamos nuestra misión y visión</td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Testimonios</td>
+            <td>UT04</td>
+            <td>Comentarios y Testimonios acerca del producto</td>
+            <td>Añadir un apartado que diga "Testimonios" en donde se visualizan comentarios de los usuarios</td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Sobre el Team</td>
+            <td>UT05</td>
+            <td>Información de los integrantes </td>
+            <td>Añadir un apartado que diga "Sobre el Team" en donde se visualicen los dueños del producto (miembros de la startup)</td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Acceso al Inicio de Sesión</td>
+            <td>UT06</td>
+            <td>Iniciar Sesión/Crear Cuenta</td>
+            <td>Desplegar menú de creación de cuenta al interactuar con botón de creación de "Comienza Ya"</td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>To-Do</td>
+        </tr>
+</table>
+
+<div id='5.2.1.4.'><h5> 5.2.1.4. Development Evidence for Sprint Review.</h5></div>
+
+|Repository| Branch | Commit id | Commit Message | Commit Message Body | Commited On(Date)|
+|--- |---|---- |---- |---- |---- |
+|GanTrace LandingPage-AgroDigital |AgroDigital/develop|cde40362c611bf6b6ce42b7ee0105686d4ed38e8 | chore: add first aceptance test | chore: add first aceptance test | 22/04/2025 |
+|  |AgroDigital/develop|6b576f97e8c9f4fe9140a88021a8c3b9f89795aa |chore: add contact links feature|chore: add contact links feature |22/04/2025 |
+|  |AgroDigital/develop|7fe1b45fea8e11d1c4585e9718b9eb4b0fc05945 |chore: add fill in contact feature|chore: add fill in contact feature |22/04/2025 |
+|  |AgroDigital/develop|5e736db733a4165441ed91982d218ea668e81c1f |chore: add frequently asked questions feature |chore: add frequently asked questions feature |22/04/2025 |
+|  |AgroDigital/develop|1724d8c67748fb76c436a74de249b9ac7b9fa115|chore: add team section feature|chore: add team section feature|22/04/2025 |
+|  |AgroDigital/develop|57ebafd887a6a23de7921fb08b415fe20c07bc3e|chore: add footer section feature|chore: add footer section feature|22/04/2025|
+|  |AgroDigital/develop|49778c46d75309f924440a81a981bfda5c11097a|chore: add header section feature|chore: add header section feature|22/04/2025|
+|  |AgroDigital/develop|6c843ba1b7ffd8bf7aecde062cf6f5576797eb7d|chore: add information section feature|chore: add information section feature|22/04/2025|
+|  |AgroDigital/develop|d7967e78eb5723d9180cfe46291bee54ef55e789|chore: add testimonials section feature|chore: add testimonials section feature|22/04/2025|
+|  |AgroDigital/develop|bd65ecd010b7ba415ed78bf730b9c6aab3bb397f  |chore: add index.html| chore: add index.html|22/04/202|
+|  |AgroDigital/develop|fbb0be519029058868997e0d09c02379041a0caa|chore: add styles.css|chore: add styles.css|22/04/202|
+
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5></div>
+En este sprint logramos desarrollar nuestra landing page, utilizango HTML y CSS con su respectivo despliegue. Acá se muestra evidencia: 
+
+<img src="Imagenes/Evidence_sprint1/Execution_Evidence_Sprint1.png" alt="" width="700px">
+
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
+
+Para este Sprint, como es el primero y se desarrolló la landing page, por lo que no se evidencia el empleo de web services
+
+<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+Para la entrega del Sprint 1, se desarrolló y desplegó la landing page. El despliegue lo realizó nuestro compañero Rodrigo Salvador.
+
+<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_1_sprint1.png" alt="" width="700px">
+<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_2_sprint1.png" alt="" width="700px">
+<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_3_sprint1.png" alt="" width="700px">
+<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_4_sprint1.png" alt="" width="700px">
+<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_5_sprint1.png" alt="" width="700px">
+
+<div id='5.2.1.8.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+El desarrollo del informe se organizó repartiendo el trabajo, cada integrante realizó, aportes específicos:
+
+|Alumno|Actividad|
+|------|---------|
+|Guerrero Tomas, Nelson Fabrizio|Desarrollo del Capítulo II: Analisis Competitivo 2.1.1, así como la parte final del Capítulo II, del 2.3.3 al 2.3.5 |
+|Peña Riofrio, Maria Fernanda|Desarrollo del Capítulo IV: Product Design del 4.6 al 4.8.1, Capítulo V:  5.2. Landing Page, Services & Applications implementation |
+|Pilares Pocohuanca, Maria|Desarrollo del Capítulo II: Requirements Elicitation & Analysis, del 2.1 al 2.3.1|
+|Salvador Rodriguez, Rodrigo Jesus|Desarrollo del Capítulo I: Introducción, Capítulo III: Requirements Specification y Capítulo V: Product Implementation, Validation & Deployment del 5.1 al 5.1.4|
+|Sanchez Silva, Luciana Celeste|Desarrollo del Capítulo IV: Product Design del 4.1 al 4.4. del documento en formato markdown. Incluyendo diseño del landing page y web application|
+
+
+<div id='6.'><h2> 6. Conclusiones</h2></div>
+
+AgroDigital se ha consolidado como una solución tecnológica clave para modernizar la gestión ganadera, reemplazando los obsoletos sistemas manuales por una plataforma digital que centraliza el registro de animales, historial sanitario y transacciones económicas. Su implementación ha demostrado beneficios tangibles: mejora en la trazabilidad para cumplimiento normativo, reducción de pérdidas mediante alertas automatizadas, y acceso a datos en tiempo real para una toma de decisiones más informada. El uso de tecnologías como Angular, Node.js y PostgreSQL aseguró un desarrollo escalable y adaptable a las necesidades cambiantes del sector. Este proyecto no solo optimiza procesos operativos, sino que también acerca la innovación tecnológica a los pequeños y medianos ganaderos, marcando un precedente para la transformación digital en la agricultura latinoamericana. Con potencial para incorporar inteligencia artificial e integraciones con blockchain en futuras iteraciones, AgroDigital sienta las bases para una ganadería más eficiente, sostenible y competitiva.
+
+<div id='6.'><h2> 7. Bibliografía</h2></div>
+
+- Food and Agriculture Organization (FAO). (2020). Guidelines for the humane handling, transport and slaughter of livestock. http://www.fao.org/3/x6909e/x6909e00.htm
+
+- García, E., & Santos, R. (2019). Bienestar animal en ganadería extensiva: Fundamentos y aplicaciones. Editorial Acribia.
+
+- OIE. (2021). Terrestrial Animal Health Code (28th ed.). World Organisation for Animal Health. https://www.woah.org/en/what-we-do/standards/codes-and-manuals/
+
+- Blood, D. C., & Studdert, V. P. (2012). Veterinaria: Un enfoque hacia animales de producción (10a ed.). McGraw-Hill Interamericana.
+
+- Banhazi, T. M., & Halas, V. (2018). Precision livestock farming: Applications and perspectives. Wageningen Academic Publishers. https://doi.org/10.3920/978-90-8686-869-8
+
+- Ministerio de Agricultura [Perú]. (2022). Protocolo de trazabilidad ganadera. https://www.gob.pe/institucion/minagri
+
+- Radostits, O. M., Gay, C. C., Hinchcliff, K. W., & Constable, P. D. (2020). Veterinary medicine: A textbook of the diseases of cattle, horses, sheep, pigs, and goats (11th ed.). Elsevier.
+
+- International Organization for Standardization. (2018). *ISO 3166-1: Codes for the representation of names of countries and their subdivisions – Part 1: Country codes*. https://www.iso.org/standard/72482.html
+
+- Microsoft. (2021). Microsoft SQL Server documentation. https://docs.microsoft.com/en-us/sql/sql-server/
+
+- Node.js Foundation. (2023). Node.js v18 documentation. https://nodejs.org/docs/latest-v18.x/api/
+
+- PostgreSQL Global Development Group. (2023). PostgreSQL 15 documentation. https://www.postgresql.org/docs/15/
+
+
+<div id='8.'><h2> 8. Anexos.</h2></div>
+
+Enlace para acceder a la landing page: [https://gantrace.github.io/LandingPage-AgroDigital/] (https://gantrace.github.io/LandingPage-AgroDigital/)
