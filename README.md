@@ -1436,6 +1436,9 @@ El desarrollo del informe se organizó repartiendo el trabajo, cada integrante r
 |Salvador Rodriguez, Rodrigo Jesus|Desarrollo del Capítulo I: Introducción, Capítulo III: Requirements Specification y Capítulo V: Product Implementation, Validation & Deployment del 5.1 al 5.1.4|
 |Sanchez Silva, Luciana Celeste|Desarrollo del Capítulo IV: Product Design del 4.1 al 4.4. del documento en formato markdown. Incluyendo diseño del landing page y web application|
 
+<img src="Imagenes/Evidence_sprint1/collaborations_insights.png" alt="" width="650px">
+<img src="Imagenes/Evidence_sprint1/collaborations_insights_pt2.png" alt="" width="650px">
+
 
 <div id='6.'><h2> 6. Conclusiones</h2></div>
 
