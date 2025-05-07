@@ -1440,6 +1440,29 @@ El desarrollo del informe se organizó repartiendo el trabajo, cada integrante r
 <img src="Imagenes/Evidence_sprint1/collaborations_insights_pt2.png" alt="" width="650px">
 
 
+<div id='5.2.2.'><h4> 5.2.1. Sprint 2.</h4></div>
+<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
+
+| Sprint # | Sprint 2   |
+|-------------------------|---------------------------------------|
+| **Sprint Planning Background** |                              |
+| Date | 05 de mayo de 2025    |
+| Time | 14:00 PM |
+| Location | Modalidad remota|
+| Prepared By | Rodrigo Salvador|
+| Attendees (to planning meeting) | Maria Fernanda Peña, Maria Pilares, Luciana Sanchez, Rodrigo Salvador, Nelson Guerrero |
+| Sprint 1 Review Summary  | Para esta entrega |
+|Sprint 1 Retrospective Summary | Para esta entrega  |
+|**Sprint Goal & User Stories** |               |
+|Sprint Goal 1         |     |
+|Sprint Velocity 1         |       |
+|Sum of Story Points         |          |
+
+<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
+
+En el segundo sprint backlog, el equipo terminó de corregir y completar la landing page y el inicio del front-end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades. El objetivo principal del sprint era arreglar los bugs, agregar la internacionalización de la landing page y construir en su totalidad la web application, logrando que sea atractiva y funcional.
+
+
 <div id='6.'><h2> 6. Conclusiones</h2></div>
 
 AgroDigital se ha consolidado como una solución tecnológica clave para modernizar la gestión ganadera, reemplazando los obsoletos sistemas manuales por una plataforma digital que centraliza el registro de animales, historial sanitario y transacciones económicas. Su implementación ha demostrado beneficios tangibles: mejora en la trazabilidad para cumplimiento normativo, reducción de pérdidas mediante alertas automatizadas, y acceso a datos en tiempo real para una toma de decisiones más informada. El uso de tecnologías como Angular, Node.js y PostgreSQL aseguró un desarrollo escalable y adaptable a las necesidades cambiantes del sector. Este proyecto no solo optimiza procesos operativos, sino que también acerca la innovación tecnológica a los pequeños y medianos ganaderos, marcando un precedente para la transformación digital en la agricultura latinoamericana. Con potencial para incorporar inteligencia artificial e integraciones con blockchain en futuras iteraciones, AgroDigital sienta las bases para una ganadería más eficiente, sostenible y competitiva.
