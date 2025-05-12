@@ -1425,7 +1425,7 @@ Para la entrega del Sprint 1, se desarrolló y desplegó la landing page. El des
 <img src="Imagenes/Evidence_sprint1/Deployment_Evidence_4_sprint1.png" alt="" width="700px">
 <img src="Imagenes/Evidence_sprint1/Deployment_Evidence_5_sprint1.png" alt="" width="700px">
 
-<div id='5.2.1.8.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
 El desarrollo del informe se organizó repartiendo el trabajo, cada integrante realizó, aportes específicos:
 
 |Alumno|Actividad|
@@ -1458,7 +1458,7 @@ El desarrollo del informe se organizó repartiendo el trabajo, cada integrante r
 |Sprint Velocity 1         |       |
 |Sum of Story Points         |          |
 
-<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
+<div id='5.2.2.2.'><h5> 5.2.2.2. Aspect Leaders and Collaborators.</h5></div>
 
 En el segundo sprint backlog, el equipo terminó de corregir y completar la landing page y el inicio del front-end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades. El objetivo principal del sprint era arreglar los bugs, agregar la internacionalización de la landing page y construir en su totalidad la web application, logrando que sea atractiva y funcional.
 
