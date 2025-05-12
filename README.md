@@ -1440,7 +1440,7 @@ El desarrollo del informe se organizó repartiendo el trabajo, cada integrante r
 <img src="Imagenes/Evidence_sprint1/collaborations_insights_pt2.png" alt="" width="650px">
 
 
-<div id='5.2.2.'><h4> 5.2.1. Sprint 2.</h4></div>
+<div id='5.2.2.'><h4> 5.2.2. Sprint 2.</h4></div>
 <div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
 
 | Sprint # | Sprint 2   |
