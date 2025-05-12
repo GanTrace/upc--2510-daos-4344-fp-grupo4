@@ -1492,6 +1492,21 @@ En el segundo sprint backlog, el equipo terminó de corregir y completar la land
 Como parte de las evidencias del sprint review, se demuestran mediante una tabla. Como el sprint #2 abarca la versión final de frontend. Asimismo, desarrollo de la versión final de backend, se muestran los commits de ambos repositorios.
 
 
+<div id='5.2.2.5.'><h5> 5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
+
+
+
+<div id='5.2.2.6.'><h5> 5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
+
+
+
+<div id='5.2.2.7.'><h5> 5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
+
+
+
+<div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
+
+
 
 
 <div id='6.'><h2> 6. Conclusiones</h2></div>
