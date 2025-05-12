@@ -1460,8 +1460,31 @@ El desarrollo del informe se organizó repartiendo el trabajo, cada integrante r
 
 <div id='5.2.2.2.'><h5> 5.2.2.2. Aspect Leaders and Collaborators.</h5></div>
 
-En el segundo sprint backlog, el equipo terminó de corregir y completar la landing page y el inicio del front-end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades. El objetivo principal del sprint era arreglar los bugs, agregar la internacionalización de la landing page y construir en su totalidad la web application, logrando que sea atractiva y funcional.
+Con el fin de asegurar una distribución clara de responsabilidades y fomentar un trabajo colaborativo efectivo durante el Sprint 1 del proyecto AgroDigital, se identificaron cuatro aspectos clave del desarrollo:
 
+- **Diseño de Interfaz (UX/UI)**
+- **Redacción del Contenido**
+- **Publicación (Deploy)**
+- **Documentación**
+
+Para cada uno de estos aspectos, se asignó un **líder (L)** encargado de dirigir los esfuerzos y tomar decisiones técnicas, así como uno o más **colaboradores (C)** encargados de apoyar la ejecución de tareas. La asignación de roles se realizó en función de la experiencia previa de cada integrante y buscando un equilibrio en la carga de trabajo.
+
+#### Matriz de Liderazgo y Colaboración
+
+| Integrante                          | GitHub            | UX/UI | Landing | Deploy | Doc |
+|------------------------------------|-------------------|:-----:|:-------:|:------:|:---:|
+| Sánchez Silva, Luciana Celeste     | `Luccsss`         |  C    |   C     |   C    | C   |
+| Salvador Rodríguez, Rodrigo Jesús  | `Rodrigojsr12`    |  C    |   L     |   L    | C   |
+| Peña Riofrío, María Fernanda       | `mariafep`        |  L    |   C     |   C    | C   |
+| Pilares Pocohuanca, María          | `mariapilares`    |  C    |   C     |   C    | L   |
+| Guerrero Tomás, Nelson Fabrizio    | `Nelsoondev`      |  C    |   C     |   C    | C   |
+
+Esta organización permitió trabajar con enfoque, agilidad y orden en cada aspecto crítico del sprint, fomentando la responsabilidad compartida y la comunicación entre miembros del equipo.
+
+
+<div id='5.2.2.3.'><h5> 5.2.2.3. Sprint Backlog 2.</h5></div>
+
+En el segundo sprint backlog, el equipo terminó de corregir y completar la landing page y el inicio del front-end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades. El objetivo principal del sprint era arreglar los bugs, agregar la internacionalización de la landing page y construir en su totalidad la web application, logrando que sea atractiva y funcional.
 
 <div id='6.'><h2> 6. Conclusiones</h2></div>
 
