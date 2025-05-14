@@ -1549,6 +1549,111 @@ Esta organización permitió trabajar con enfoque, agilidad y orden en cada aspe
 
 En el segundo sprint backlog, el equipo terminó de corregir y completar la landing page y el inicio del front-end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades. El objetivo principal del sprint era arreglar los bugs, agregar la internacionalización de la landing page y construir en su totalidad la web application, logrando que sea atractiva y funcional.
 
+<img alt="TrelloSprint2" src="Imagenes/Evidence_sprint2/TrelloSprint2.jpg">
+
+Link del Trello: https://trello.com/invite/b/6824b282727b39fb321041b0/ATTIce885c2edbee0ec2381e508ff5a8acd0E62AE026/agrodigital-sprint-2 
+
+<table>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="7">Sprint 2</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">WorkItem / Task</th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Hours)</th>
+            <th>Assigned To</th>
+            <th>Status(To-do/In-Process/To-Review/Done)</th>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Acceder a la aplicación desde la LandingPage</td>
+            <td>UT11</td>
+            <td>Contactar la LandingPage con el FrontEnd mediante hipervínculos </td>
+            <td>Permitir que el usuario pueda ver las cajas de texto en la página</td>
+            <td>1</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US016</td>
+            <td>Registrar nuevo usuario</td>
+            <td>UT12</td>
+            <td>Sección de Nueva Cuent</td>
+            <td>Implementar cuadros de texto que permita a nuevos usuarios registrarse en la app</td>
+            <td>2.5</td>
+            <td>Camila Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Inicio Sesion</td>
+            <td>UT13</td>
+            <td>Sección "Ingresar Cuenta"</td>
+            <td>Agregar cuadros de texto y botones que permita al usuario poder iniciar sesión el la aplicación web< td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Registrar nuevo Animal</td>
+            <td>UT14</td>
+            <td>Sección "Animales"</td>
+            <td>Añadir botón que permite entrar a editar información de un Animal</td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Resgitrar Vacunación</td>
+            <td>UT15</td>
+            <td>Sección "Hisorial Clínica" </td>
+            <td>Implementar botones y cuadros de texto que permitan modificar los datos del animal como su vacunas</td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Registrar Venta</td>
+            <td>UT16</td>
+            <td>Sección control Económico</td>
+            <td>Implementar botones que permitan al usuario agregar su gastos y agregar ingreso</td>
+            <td>2</td>
+            <td>Nelson Guerrero</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US08</td>
+            <td>Registrar Venta</td>
+            <td>UT17</td>
+            <td>Datos y Estadíscticas</td>
+            <td>Implementar datos que permitean vel el ingreso semanal</td>
+            <td>1.5</td>
+            <td>Maria Pilares</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US10</td>
+            <td>Configurar Perfil</td>
+            <td>UT18</td>
+            <td>Información del Perfil del usuario</td>
+            <td>Añadir sección donde el usuario edite sus datos, y pueda darle al botón de guardar</td>
+            <td>1.5</td>
+            <td>Maria Fernanda Peña</td>
+            <td>Done</td>
+        </tr>
+</table>
+
 
 <div id='5.2.2.4.'><h5> 5.2.2.4. Development Evidence for Sprint Review.</h5></div>
 
