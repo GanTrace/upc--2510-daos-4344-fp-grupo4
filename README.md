@@ -1749,19 +1749,104 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 
 
 <div id='5.2.2.5.'><h5> 5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
+En este sprint logramos, como segunda fase de nuestro producto final, desarrollar nuestra aplicación web utilizando *Angular* y *Angular Material, en conjunto con una API hecha con **JSON Server*.
 
+
+Enlace del Frontend [FrontEnd](https://agrodigital.netlify.app/login)
+
+![sesion](Imagenes/Evidence_sprint2/exec_inicio_sesion.png)
+
+![cuenta_nueca](Imagenes/Evidence_sprint2/exec_crear_cuenta.png)
+
+![Dahboard](Imagenes/Evidence_sprint2/exec_dashboard.png)
+
+![eventos](Imagenes/Evidence_sprint2/exec_evenots.png)
+
+![historial](Imagenes/Evidence_sprint2/exec_historial_clinico.png)
 
 
 <div id='5.2.2.6.'><h5> 5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
 
+En este sprint utilizamos los servicios básicos *Http* en conjunto con *JSON Server*, lo cual facilitó la construcción de nuestra fake API.
+
+- **Variable de entorno serverBasePath apuntando al puerto 3000:**
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.013.png)
+
+- **Nuestra clase BaseService:**
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.014.png)
+
+- *Ejemplo de uso con un endpoint:* 
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.015.png)
 
 
 <div id='5.2.2.7.'><h5> 5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
 
+En este sprint 2, continuamos utilizando el servicio de *auto despliegue de Vercel* para garantizar una implementación continua y eficiente de la aplicación web. El proceso de despliegue se mantiene consistente con los pasos previamente establecidos, asegurando una integración fluida y sin interrupciones en el flujo de trabajo. Esto permite que las actualizaciones y mejoras se reflejen de inmediato en la aplicación web, ofreciendo una experiencia optimizada para los usuarios finales.
+
+*Proceso de despliegue en Vercel:*
+
+1. Entrar a *Vercel*:  
+   ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.016.png)
+
+2. Seleccionar la opción *“Deploy con GitHub”*:  
+   ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.017.png)
+
+3. Seleccionar la organización y buscar el repositorio del proyecto *“cartunn-frontend”* que deseamos subir a producción.
+
+4. Agregar la configuración necesaria para el despliegue:  
+   ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.018.png)
+
+5. Finalmente, presionar el botón con el nombre del proyecto para desplegar.
+
+*Link de la Landing Page:*  
+[https://gantrace.github.io/LandingPage-AgroDigital/](https://gantrace.github.io/LandingPage-AgroDigital/)
+
+
 
 
 <div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
+A continuación, se presenta una descripción detallada de cómo el equipo trabajó de manera colaborativa durante este sprint. Esta sección destaca las herramientas y métodos utilizados para fomentar una comunicación efectiva, la coordinación de tareas y la resolución de problemas, asegurando que todos los miembros del equipo estuvieran alineados y comprometidos con los objetivos del sprint.
 
+*Distribución de aportes en el informe:*
+
+*URL del repositorio para el Project Report:*  
+[https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4](https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4)
+
+*¿Cómo se han desarrollado las actividades de elaboración del informe?*
+
+Para el desarrollo del informe en este sprint, se dividió el repositorio del informe por capítulos. Cada integrante realizó los siguientes aportes representados en la tabla y captura a continuación:
+
+
+
+| *Integrante*  | *Aporte en el informe*                                                                                                                                                                                                 |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Rodrigo*        | Mejora continua del Problem Statement, Mejora continua del Diagrama de Clases por bounded context, Mejora continua de user stories, Mejora continua de Class Dictionary.           |
+|                 | ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.020.png)                                                                                              |
+| *Maria Fernanda*      | Mejora continua de user stories, Mejora continua del product backlog, Mejora continua de Software deployment configuration, Development & Execution Evidence for Sprint Review.   |
+|                 | ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.021.png)                                                                                              |
+| *Luciana*      | Mejora continua de user task matrix, Mejora continua de scenario as-is y to-be, Mejora continua en User Journey Mapping, Mejora continua en wireframe mockup.                     |
+| *Maria*       | Mejora continua de user stories, Mejora continua del análisis de entrevistas, Mejora del Software deployment configuration, Development & Execution Evidence for Sprint Review.   |
+|                 | ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.022.png)                                                                                              |
+| *Nelson*  | Mejora continua de Lean UX Hypotheses Statement, Mejora continua de user stories, Mejora continua de empathy map, Mejora de Software Architecture Diagrams & Configuration.       |
+|                 | ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.023.png)                                                                                              |
+
+---
+
+*Evidencia de los commits:*
+
+![Evidence of commit](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.024.png)
+
+Durante este sprint, se siguió la misma estrategia utilizada en el desarrollo de la landing page. Para proteger la rama main, se creó una rama develop, y cada integrante creó su propia sub-rama feature para subir un capítulo del informe, siguiendo las convenciones previamente establecidas (*Conventional Commit* y *Git Flow*).
+
+---
+
+*GitHub Analytics de nuestro segundo sprint:*
+
+- ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.025.png)
+- ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.026.png)
 
 
 
