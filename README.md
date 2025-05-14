@@ -50,10 +50,19 @@ width=50%"/>
 |1.8|20/04/2025|Salvador R.|Avance del Capítulo V: Product Implementation, Validation & Deployment (del 5.1 al 5.1.4)|
 |1.9|20/04/2025|Guerrero N.|Desarrollo del Capítulo II: User Personas, User Task Matrix, User Journey Mapping, Empathy and As-Is Scenario Mapping|
 |1.10|20/04/2025|Peña M., Salvador R.|Desarrollo del Capítulo V: Landing Page Services & Applications Implemention|
+|2.1|08/05/2025|Salvador R.|Inicio del Desarrollo del Frontend Web Applications|
+|2.2|14/05/2025|Salvador R.|Finalización del primer avance del Frontend Web Applications|
+|2.3|14/05/2025|Salvador R.|Desarrollo de Correcciones en base al TB1 y desarrollo del Sprint 2|
+|2.4|14/05/2025|Pilares M.|Desarrollo de Correcciones en base al TB1 (Ortografía, links, imágenes)|
+|2.5|14/05/2025|Guerrero N.|Desarrollo de correcciones en el User Story y Product Backlog|
+|2.6|14/05/2025|Peña M.|Desarrollo de Correcciones del Product Design (Diagramas)|
+|2.7|14/05/2025|Peña M.|Desarrollo del Sprint 2|
 
 ## Project Report Collaboration Insights
 
 URL del repositorio para el reporte del proyecto: (https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4)
+URL del repositorio para el Landing Page: (https://github.com/GanTrace/LandingPage-AgroDigital)
+URL del repositorio para el desarrollo del frontend web applications: (https://github.com/GanTrace/AgroDigital--FrontendApp)
 
 **TB1**
 
@@ -81,7 +90,7 @@ Para el desarrollo del informe perteneciente a la entrega TP, se dividió la imp
 |María Peña|Correcciones del Capítulo IV: Product Design del 4.6 al 4.8.1|
 |María Pilares|Desarrollo de correcciones del documento y Avance del Sprint 2|
 |Rodrigo Salvador|Desarrollo de correcciones, Sprint 2 y desarrollo del Frontend Web Applications|
-|Luciana Sanchez|Desarrollo de correcciones del documento y Avance del Sprint 2|
+|Luciana Sanchez|Desarrollo de correcciones del documento, Mejoras del Landing Page y Avance del Sprint 2|
 
 
 **Github Collaboration Insights**
@@ -116,11 +125,20 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 
 ![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/GithubRepositoryImages/Pulse.jpg)
 
+**TP**
+
+![Commit_Graph]()
+![Commit_Graph_Individual1]()
+![Commit_Graph_Individual2]()
+![Commit_Graph_Individual3]()
+
+![Pull_Graphs]()
+
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nelson Guerrero** <br> TB1: Para esta primera entrega del proyecto, me he encargado de realizar secciones del Capítulo II, como el análisis competitivo y el needfinding, haciendo uso de las herramientas adecuadas. <br> **María Peña** <br> TB1: Para la primera entrega realicé el capítulo 4 la creación de los diagramas de contexto, de componentes y de contenedor con c4, diagrama de clases y base de datos. <br> **María Pilares** <br> TB1: Para la primera entrega, comuniqué por escrito de manera clara y efectiva el análisis de los competidores, el diseño de las entrevistas y la creación de user personas. <br> **Rodrigo Salvador** <br> TB1: En el informe me he encargo de la realización del capítulo 1, el desarrollo de los puntos importantes de la startup profile, los lean ux y los segmentos objetivos. Además de la resolución del capítulo 3, en donde se definieron las user stories que se desarrollarán en el proyecto. <br> **Luciana Sanchez** <br> TB1: Para el trabajo se definen las reglas de diseño y organización de un sitio web, incluyendo su estilo visual, estructura de contenido y navegación. |El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nelson Guerrero** <br> TB1: Para este entregable fue necesario aprender el uso de nuevas herramientas y tener buena comunicación con el equipo para colaborar de manera uniforme y apoyarnos ante cualquier evento. <br> **María Peña** <br> TB1:  A la hora de realizar el trabajo me comuniqué con mis compañeros sobre las mejoras del trabajo progresivamente.. <br> **María Pilares** <br> TB1: A lo hora de realizar el trabajo comunique activamente mis avances y desarrollo del proyecto a mi equipo de trabajo. <br> **Rodrigo Salvador** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario la comunicación con todos los miembros de mi equipo, para una mejor organización y distribución del trabajo en grupo, dividiéndonos de forma equitativa el trabajo y apoyándonos cuando sea necesario. <br> **Luciana Sanchez** <br> TB1: Para el entregable fue necesario definir las reglas del estilo visual de nuestro producto. |Como equipo pudimos establecer medios de comunicación para poder entregar un trabajo completo ante el obstáculo que suponen los cortos períodos de tiempo para la entrega del proyecto. De la misma manera, se comunicaron los resultados obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa. |
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nelson Guerrero** <br> TB1: Para esta primera entrega del proyecto, me he encargado de realizar secciones del Capítulo II, como el análisis competitivo y el needfinding, haciendo uso de las herramientas adecuadas. <br> **TP:** Para la entrega final, documenté los procesos técnicos del módulo de reportes y actualicé la documentación API.<br> **María Peña** <br> TB1: Para la primera entrega realicé el capítulo 4 la creación de los diagramas de contexto, de componentes y de contenedor con c4, diagrama de clases y base de datos. <br> **TP:** En la fase final, redacté los manuales técnicos y de usuario para los nuevos módulos implementados.<br> **María Pilares** <br> TB1: Para la primera entrega, comuniqué por escrito de manera clara y efectiva el análisis de los competidores, el diseño de las entrevistas y la creación de user personas. <br> **TP:** Elaboré la documentación completa del sistema de notificaciones y actualicé el registro de versiones del proyecto.<br> **Rodrigo Salvador** <br> TB1: En el informe me he encargo de la realización del capítulo 1, el desarrollo de los puntos importantes de la startup profile, los lean ux y los segmentos objetivos. Además de la resolución del capítulo 3, en donde se definieron las user stories que se desarrollarán en el proyecto. <br> **TP:** Coordiné la redacción del paper técnico que describe la arquitectura final del sistema y su implementación.<br> **Luciana Sanchez** <br> TB1: Para el trabajo se definen las reglas de diseño y organización de un sitio web, incluyendo su estilo visual, estructura de contenido y navegación. <br> **TP:** Documenté los procesos de diseño finales y creé las guías de estilo para desarrolladores frontend.|El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nelson Guerrero** <br> TB1: Para este entregable fue necesario aprender el uso de nuevas herramientas y tener buena comunicación con el equipo para colaborar de manera uniforme y apoyarnos ante cualquier evento. <br> **TP:** Presenté la demo del módulo de reportes económicos en la revisión final con stakeholders.<br> **María Peña** <br> TB1:  A la hora de realizar el trabajo me comuniqué con mis compañeros sobre las mejoras del trabajo progresivamente.. <br> **TP:** Coordiné las reuniones técnicas para la integración de APIs externas y presentación de avances.<br> **María Pilares** <br> TB1: A lo hora de realizar el trabajo comunique activamente mis avances y desarrollo del proyecto a mi equipo de trabajo. <br> **TP:** Expuse el funcionamiento del sistema de notificaciones en las revisiones de sprint con el cliente.<br> **Rodrigo Salvador** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario la comunicación con todos los miembros de mi equipo, para una mejor organización y distribución del trabajo en grupo, dividiéndonos de forma equitativa el trabajo y apoyándonos cuando sea necesario. <br> **TP:** Lideré las presentaciones finales del proyecto ante el jurado académico y los stakeholders clave.<br> **Luciana Sanchez** <br> TB1: Para el entregable fue necesario definir las reglas del estilo visual de nuestro producto. <br> **TP:** Realicé la demostración del sistema de autenticación mejorado y su integración con los diferentes módulos.|Como equipo pudimos establecer medios de comunicación para poder entregar un trabajo completo ante el obstáculo que suponen los cortos períodos de tiempo para la entrega del proyecto. De la misma manera, se comunicaron los resultados obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa. |
 
 
 ## Contenido
@@ -199,6 +217,15 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
 5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
 5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
+5.2.2. [Sprint 2.](#5.2.2.)<br>
+5.2.2.1. [Sprint Planning 2.](#5.2.2.1.)<br>
+5.2.2.2. [Sprint Backlog 2.](#5.2.2.2.)<br>
+5.2.2.3. [Development Evidence for Sprint Review.](#5.2.2.3.)<br>
+5.2.2.4. [Testing Suite Evidence for Sprint Review.](#5.2.2.4.)<br>
+5.2.2.5. [Execution Evidence for Sprint Review.](#5.2.2.5.)<br>
+5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
+5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
+5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
 6. [**Conclusiones.**](#6.)<br>
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
