@@ -50,10 +50,19 @@ width=50%"/>
 |1.8|20/04/2025|Salvador R.|Avance del Capítulo V: Product Implementation, Validation & Deployment (del 5.1 al 5.1.4)|
 |1.9|20/04/2025|Guerrero N.|Desarrollo del Capítulo II: User Personas, User Task Matrix, User Journey Mapping, Empathy and As-Is Scenario Mapping|
 |1.10|20/04/2025|Peña M., Salvador R.|Desarrollo del Capítulo V: Landing Page Services & Applications Implemention|
+|2.1|08/05/2025|Salvador R.|Inicio del Desarrollo del Frontend Web Applications|
+|2.2|14/05/2025|Salvador R.|Finalización del primer avance del Frontend Web Applications|
+|2.3|14/05/2025|Salvador R.|Desarrollo de Correcciones en base al TB1 y desarrollo del Sprint 2|
+|2.4|14/05/2025|Pilares M.|Desarrollo de Correcciones en base al TB1 (Ortografía, links, imágenes)|
+|2.5|14/05/2025|Guerrero N.|Desarrollo de correcciones en el User Story y Product Backlog|
+|2.6|14/05/2025|Peña M.|Desarrollo de Correcciones del Product Design (Diagramas)|
+|2.7|14/05/2025|Peña M.|Desarrollo del Sprint 2|
 
 ## Project Report Collaboration Insights
 
 URL del repositorio para el reporte del proyecto: (https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4)
+URL del repositorio para el Landing Page: (https://github.com/GanTrace/LandingPage-AgroDigital)
+URL del repositorio para el desarrollo del frontend web applications: (https://github.com/GanTrace/AgroDigital--FrontendApp)
 
 **TB1**
 
@@ -70,6 +79,19 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Luciana Sanchez|Desarrollo del Capítulo IV: Product Design del 4.1 al 4.4. del documento en formato markdown. Incluyendo diseño del landing page y web application|
 </div>
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
+
+**TP**
+
+Para el desarrollo del informe perteneciente a la entrega TP, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nelson Guerrero|Correciones de las User Stories y Product Backlog|
+|María Peña|Correcciones del Capítulo IV: Product Design del 4.6 al 4.8.1|
+|María Pilares|Desarrollo de correcciones del documento y Avance del Sprint 2|
+|Rodrigo Salvador|Desarrollo de correcciones, Sprint 2 y desarrollo del Frontend Web Applications|
+|Luciana Sanchez|Desarrollo de correcciones del documento, Mejoras del Landing Page y Avance del Sprint 2|
+
 
 **Github Collaboration Insights**
 
@@ -103,11 +125,19 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 
 ![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/GithubRepositoryImages/Pulse.jpg)
 
+**TP**
+
+![Commit_Graph](https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/GithubRepositoryImages/Contributors5.jpg?raw=true)
+![Commit_Graph_Individual1](https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/GithubRepositoryImages/Contributors6.jpg?raw=true)
+
+
+![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/GithubRepositoryImages/Pulse.jpg)
+
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nelson Guerrero** <br> TB1: Para esta primera entrega del proyecto, me he encargado de realizar secciones del Capítulo II, como el análisis competitivo y el needfinding, haciendo uso de las herramientas adecuadas. <br> **María Peña** <br> TB1: Para la primera entrega realicé el capítulo 4 la creación de los diagramas de contexto, de componentes y de contenedor con c4, diagrama de clases y base de datos. <br> **María Pilares** <br> TB1: Para la primera entrega, comuniqué por escrito de manera clara y efectiva el análisis de los competidores, el diseño de las entrevistas y la creación de user personas. <br> **Rodrigo Salvador** <br> TB1: En el informe me he encargo de la realización del capítulo 1, el desarrollo de los puntos importantes de la startup profile, los lean ux y los segmentos objetivos. Además de la resolución del capítulo 3, en donde se definieron las user stories que se desarrollarán en el proyecto. <br> **Luciana Sanchez** <br> TB1: Para el trabajo se definen las reglas de diseño y organización de un sitio web, incluyendo su estilo visual, estructura de contenido y navegación. |El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nelson Guerrero** <br> TB1: Para este entregable fue necesario aprender el uso de nuevas herramientas y tener buena comunicación con el equipo para colaborar de manera uniforme y apoyarnos ante cualquier evento. <br> **María Peña** <br> TB1:  A la hora de realizar el trabajo me comuniqué con mis compañeros sobre las mejoras del trabajo progresivamente.. <br> **María Pilares** <br> TB1: A lo hora de realizar el trabajo comunique activamente mis avances y desarrollo del proyecto a mi equipo de trabajo. <br> **Rodrigo Salvador** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario la comunicación con todos los miembros de mi equipo, para una mejor organización y distribución del trabajo en grupo, dividiéndonos de forma equitativa el trabajo y apoyándonos cuando sea necesario. <br> **Luciana Sanchez** <br> TB1: Para el entregable fue necesario definir las reglas del estilo visual de nuestro producto. |Como equipo pudimos establecer medios de comunicación para poder entregar un trabajo completo ante el obstáculo que suponen los cortos períodos de tiempo para la entrega del proyecto. De la misma manera, se comunicaron los resultados obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa. |
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nelson Guerrero** <br> TB1: Para esta primera entrega del proyecto, me he encargado de realizar secciones del Capítulo II, como el análisis competitivo y el needfinding, haciendo uso de las herramientas adecuadas. <br> **TP:** Para la entrega final, documenté los procesos técnicos del módulo de reportes y actualicé la documentación API.<br> **María Peña** <br> TB1: Para la primera entrega realicé el capítulo 4 la creación de los diagramas de contexto, de componentes y de contenedor con c4, diagrama de clases y base de datos. <br> **TP:** En la fase final, redacté los manuales técnicos y de usuario para los nuevos módulos implementados.<br> **María Pilares** <br> TB1: Para la primera entrega, comuniqué por escrito de manera clara y efectiva el análisis de los competidores, el diseño de las entrevistas y la creación de user personas. <br> **TP:** Elaboré la documentación completa del sistema de notificaciones y actualicé el registro de versiones del proyecto.<br> **Rodrigo Salvador** <br> TB1: En el informe me he encargo de la realización del capítulo 1, el desarrollo de los puntos importantes de la startup profile, los lean ux y los segmentos objetivos. Además de la resolución del capítulo 3, en donde se definieron las user stories que se desarrollarán en el proyecto. <br> **TP:** Coordiné la redacción del paper técnico que describe la arquitectura final del sistema y su implementación.<br> **Luciana Sanchez** <br> TB1: Para el trabajo se definen las reglas de diseño y organización de un sitio web, incluyendo su estilo visual, estructura de contenido y navegación. <br> **TP:** Documenté los procesos de diseño finales y creé las guías de estilo para desarrolladores frontend.|El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nelson Guerrero** <br> TB1: Para este entregable fue necesario aprender el uso de nuevas herramientas y tener buena comunicación con el equipo para colaborar de manera uniforme y apoyarnos ante cualquier evento. <br> **TP:** Presenté la demo del módulo de reportes económicos en la revisión final con stakeholders.<br> **María Peña** <br> TB1:  A la hora de realizar el trabajo me comuniqué con mis compañeros sobre las mejoras del trabajo progresivamente.. <br> **TP:** Coordiné las reuniones técnicas para la integración de APIs externas y presentación de avances.<br> **María Pilares** <br> TB1: A lo hora de realizar el trabajo comunique activamente mis avances y desarrollo del proyecto a mi equipo de trabajo. <br> **TP:** Expuse el funcionamiento del sistema de notificaciones en las revisiones de sprint con el cliente.<br> **Rodrigo Salvador** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario la comunicación con todos los miembros de mi equipo, para una mejor organización y distribución del trabajo en grupo, dividiéndonos de forma equitativa el trabajo y apoyándonos cuando sea necesario. <br> **TP:** Lideré las presentaciones finales del proyecto ante el jurado académico y los stakeholders clave.<br> **Luciana Sanchez** <br> TB1: Para el entregable fue necesario definir las reglas del estilo visual de nuestro producto. <br> **TP:** Realicé la demostración del sistema de autenticación mejorado y su integración con los diferentes módulos.|Como equipo pudimos establecer medios de comunicación para poder entregar un trabajo completo ante el obstáculo que suponen los cortos períodos de tiempo para la entrega del proyecto. De la misma manera, se comunicaron los resultados obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa. |
 
 
 ## Contenido
@@ -186,6 +216,15 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
 5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
 5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
+5.2.2. [Sprint 2.](#5.2.2.)<br>
+5.2.2.1. [Sprint Planning 2.](#5.2.2.1.)<br>
+5.2.2.2. [Sprint Backlog 2.](#5.2.2.2.)<br>
+5.2.2.3. [Development Evidence for Sprint Review.](#5.2.2.3.)<br>
+5.2.2.4. [Testing Suite Evidence for Sprint Review.](#5.2.2.4.)<br>
+5.2.2.5. [Execution Evidence for Sprint Review.](#5.2.2.5.)<br>
+5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
+5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
+5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
 6. [**Conclusiones.**](#6.)<br>
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
@@ -218,10 +257,10 @@ La startup busca consolidarse como un modelo de negocio sostenible, confiable y 
 |Biografía del los integrantes del equipo |Perfiles de los integrantes del equipo|
 | :--------| :--------: |
 | Mi nombre es **Nelson Fabrizio Guerrero Tomas**. tengo 20 años, estudiante de la carrera Ingenieria de Software (UPC), actualmente estoy cursando mi 5to ciclo de la carrera. Considero que soy colaborativo y me gusta consultar cualquier duda que tengo, para realizar un buen proyecto, esto se evidente en los proyectos entregados por mi equipo de trabajo. Uno de mis pasatiempos favoritos es nadar y escuchar musica, pero ultimamente la lectura y las artes marciales me esta agrando muchisimo.|<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/estudiantesPerfil/perfilEstudiantes_Nelson.jpg" alt="" width="250px" />| 
-|Mi nombre es **Maria Fernanda Peña Riofrio**, tengo 21 años, estudio el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona responsable y me gusta ayudar a las demás personas, esto sera evidenciado en el transcuros del proyecto ayudando a mis demás compañeros de equipo. En mis tiempos libres me gusta mucho leer, escuchar música e investigar sobre temas de mi interes.| <img src="Imagenes/estudiantesPerfil/perfilEstudiantes_Mafer.jpg" alt="" width="250px" /> |  
-|Mi nombre es **Maria Pilares Pocohuanca** tengo 22 años y estudio la carrera de ingeniería de software en la UPC. Desde niña tuve mucho interés por las matemáticas y la tecnología, motivo por el cual estudio una ingeniería enfocada más a la programación. Me considero una persona perseverante aunque algo impaciente. Sin embargo, como miembro del equipo me comprometo a colaborar con mis compañeros y realizar todas las indicaciones que se dicten, todo con el fin de presentar un buen proyecto.| <img src="Imagenes/estudiantesPerfil/perfilEstudiantes_Mapa.jpg" alt="" width="250px" /> | 
-|Mi nombre es **Rodrigo Jesus Salvador Rodriguez**, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y puntual en todo tipo de aspectos, esto lo voy a ver reflejado en este proyecto, como miembro de este equipo me comprometo a seguir las indicaciones al pie de la letra, seguir recomendaciones y apoyar siempre a mis compañeros para presentar el mejor proyecto grupal.|<img src="Imagenes\estudiantesPerfil\perfilEstudiantes_Rodrigo.png" alt="" width="250px" />|
-|Mi nombre es **Luciana Celeste Sanchez Silva**, tengo 19 años y vivo en Lima. En la actualidad, me encuentro estudiando el 5to ciclo de la carrera de ingeniería de software en la UPC debido a que desde una edad temprana tuve una fascinación relacionada con el uso de la tecnología y la programación. En mi tiempo libre trato de crecer y expandir mi conocimiento en todas las áreas posibles. De igual forma, me gusta nadar, escuchar música y tocar la guitarra. Me comprometo a colaborar en todo momento con la elaboración de esta startup, y llegar a un trabajo sobresaliente. Mis habilidades son: responsabilidad, resolución de problemas, y disciplina.|<img src="Imagenes\estudiantesPerfil\perfilEstudiantes_Luciana.jpg" alt="" width="250px" />|
+|Mi nombre es **Maria Fernanda Peña Riofrio**, tengo 21 años, estudio el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona responsable y me gusta ayudar a las demás personas, esto sera evidenciado en el transcuros del proyecto ayudando a mis demás compañeros de equipo. En mis tiempos libres me gusta mucho leer, escuchar música e investigar sobre temas de mi interes.| <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/estudiantesPerfil/perfilEstudiantes_Mafer.jpg?raw=true" alt="" width="250px" /> |  
+|Mi nombre es **Maria Pilares Pocohuanca** tengo 22 años y estudio la carrera de ingeniería de software en la UPC. Desde niña tuve mucho interés por las matemáticas y la tecnología, motivo por el cual estudio una ingeniería enfocada más a la programación. Me considero una persona perseverante aunque algo impaciente. Sin embargo, como miembro del equipo me comprometo a colaborar con mis compañeros y realizar todas las indicaciones que se dicten, todo con el fin de presentar un buen proyecto.| <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/estudiantesPerfil/perfilEstudiantes_Mapa.jpg?raw=true" alt="" width="250px" /> | 
+|Mi nombre es **Rodrigo Jesus Salvador Rodriguez**, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y puntual en todo tipo de aspectos, esto lo voy a ver reflejado en este proyecto, como miembro de este equipo me comprometo a seguir las indicaciones al pie de la letra, seguir recomendaciones y apoyar siempre a mis compañeros para presentar el mejor proyecto grupal.|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/estudiantesPerfil/perfilEstudiantes_Rodrigo.png?raw=true" alt="" width="250px" />|
+|Mi nombre es **Luciana Celeste Sanchez Silva**, tengo 19 años y vivo en Lima. En la actualidad, me encuentro estudiando el 5to ciclo de la carrera de ingeniería de software en la UPC debido a que desde una edad temprana tuve una fascinación relacionada con el uso de la tecnología y la programación. En mi tiempo libre trato de crecer y expandir mi conocimiento en todas las áreas posibles. De igual forma, me gusta nadar, escuchar música y tocar la guitarra. Me comprometo a colaborar en todo momento con la elaboración de esta startup, y llegar a un trabajo sobresaliente. Mis habilidades son: responsabilidad, resolución de problemas, y disciplina.|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/estudiantesPerfil/perfilEstudiantes_Luciana.jpg?raw=true" alt="" width="250px" />|
 
 <div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
@@ -786,10 +825,6 @@ As-Is Scenario Mapping Veterinarios
 <img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/As-Is%20Scenario%20Mapping%20Veterinarios.jpg">
 <a href="https://miro.com/app/board/uXjVI-QsOY4=/" target="_blank"> Acceder al Miro </a>
 
-<!--EDITANDO -->
-
-
-
 
 <!-- capitulo 3 -->
 <div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
@@ -829,16 +864,17 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 |US03|Acceder a la aplicación desde la landing page|**Como** visitante de la landing page **Quiero** poder acceder a la aplicación directamente desde la landing page **Para** comenzar a utilizar las funcionalidades ofrecidas en la aplicación| **Escenario 1: Usuario ingresa a aplicación** <br> **Dado que** el usuario desee comenzar a utilizar la aplicación <br> **Cuando** ingrese a la landing page y seleccione la opción que permite el acceso al software elaborado <br> **Entonces** deberá ser redirigido a la página desplegada <br> **Escenario 2: Fallo en el acceso a la aplicación** <br> **Dado que** el usuario desee comenzar a utilizar la aplicación <br> **Cuando** ingrese a la landing page y seleccione la opción que permite el acceso al software elaborado y ocurra un error en el proceso de redirección o el servidor de la aplicación no responde **Entonces** el usuario deberá obtener el mensaje de error generado. |EP03|
 |US04|Registrar nuevo animal|**Como** ganadero **Quiero** agregar animales al sistema **Para** tener un inventario digital|**Escenario 1: Registro exitoso** <br> **Dado que** el usuario completa los campos obligatorios (ID, raza, nacimiento) <br> **Cuando** haga clic en "Guardar" <br> **Entonces** el animal aparecerá en mi listado. <br> **Escenario 2: Registro Fallido** <br> **Dado que** el usuario dejó el campo "ID" vacío <br> **Cuando** intente guardar <br> **Entonces** el sistema mostrará "Campo obligatorio" en rojo y no guardará los datos|EP04|
 |US05|Buscar animal por ID|**Como** ganadero **Quiero** encontrar un animal específico **Para** consultar su información|**Escenario 1: Búsqueda exitosa** <br> **Dado que** el ganadero ingresó el ID existente <br> **Cuando**  haga clic en "Buscar" <br> **Entonces** el sistema mostrará la ficha completa del animal <br> **Escenario 2: Búsqueda sin resultados** <br> **Dado que** ingresó un ID inexistente <br> **Cuando** haga clic en "Buscar" <br> **Entonces** el sistema mostrará "No se encontraron coincidencias" |EP04|
-|US06|Iniciar sesión|**Como** ganadero o veterinario **Quiero** iniciar sesión **Para** acceder a los beneficios que ofrece la aplicación AgroDigital|**Escenario 1: Credenciales válidas** <br> **Dado que** el usuario está registrado en AgroDigital <br> **Cuando**  ingrese su email y contraseña correctos <br> **Entonces** el sistema redirigirá a su dashboard según su rol (ganadero/veterinario) <br> **Escenario 2: Credenciales inválidas** <br> **Dado que** el usuario ingresa una contraseña incorrecta <br> **Cuando** intente iniciar sesión <br> **Entonces** el sistema mostrará "Credenciales incorrectas" y no permitirá el acceso|EP03|
+|US06|Iniciar sesión|**Como** ganadero/veterinario **Quiero** iniciar sesión **Para** acceder a los beneficios que ofrece la aplicación AgroDigital|**Escenario 1: Credenciales válidas** <br> **Dado que** el usuario está registrado en AgroDigital <br> **Cuando**  ingrese su email y contraseña correctos <br> **Entonces** el sistema redirigirá a su dashboard según su rol (ganadero/veterinario) <br> **Escenario 2: Credenciales inválidas** <br> **Dado que** el usuario ingresa una contraseña incorrecta <br> **Cuando** intente iniciar sesión <br> **Entonces** el sistema mostrará "Credenciales incorrectas" y no permitirá el acceso|EP03|
 |US07|Registrar vacunación|**Como** ganadero **Quiero** anotar vacunas aplicadas **Para** mantener un historial sanitario|**Escenario 1: Registro completo** <br> **Dado que**  selecciono un animal y completo tipo de vacuna, fecha y dosis <br> **Cuando** guarde el registro <br> **Entonces** el sistema agregará el evento al historial del animal <br> **Escenario 2: Fecha futura no permitida** <br> **Dado que** ingreso una fecha posterior al día actual <br> **Cuando** intente guardar <br> **Entonces** el sistema mostrará "La fecha no puede ser futura"|EP05|
 |US08|Registrar venta| **Como** ganadero **Quiero** anotar la venta de un animal **Para** controlar ingresos| **Escenario 1: Venta registrada** <br> **Dado que** ingreso precio, fecha y datos del comprador <br> **Cuando** guarde la transacción <br> **Entonces** el sistema actualizará el inventario y el balance económico <br> **Escenario 2: Precio inválido** <br> **Dado que** ingreso un precio negativo o cero <br> **Cuando** intente guardar <br> **Entonces**  el sistema mostrará "El precio debe ser mayor a cero"|EP06|
 |US09|Agregar diagnóstico|**Como** ganadero **Quiero** actualizar el peso de mis animales **Para** llevar un control de su crecimiento|**Escenario 1: Registro exitoso** <br> **Dado que** selecciono un animal y ingreso su peso actual <br> **Cuando** guarde los datos <br> **Entonces**  el sistema actualizará su ficha y mostrará "Peso registrado" <br> **Escenario 2: Peso inválido** **Dado que** ingreso un valor negativo o cero <br> **Cuando** intente guardar <br> **Entonces** el sistema mostrará "El peso debe ser mayor a cero"|EP04|
-|US10|Agregar diagnóstico|**Como** veterinario **Quiero** registrar diagnósticos **Para** documentar tratamientos|**Escenario 1: Diagnóstico registrado** <br> **Dado que** escribo el diagnóstico que quiero registrar del paciente (animal) <br> **Cuando** guarde la nota <br> **Entonces** el sistema la asociará al animal y mostrará "Diagnóstico guardado" <br> **Escenario 2: Nota vacía** **Dado que** dejo el campo de diagnóstico vacío <br> **Cuando** intente guardar <br> **Entonces** el sistema mostrará "El diagnóstico no puede estar vacío"|EP07|
-|US11|Filtrar animales enfermos|**Como** veterinario **Quiero** filtrar animales con problemas de salud **Para** priorizar atenciones|**Escenario 1: Filtro con resultados** <br> **Dado que** hay animales marcados como "enfermos" <br> **Cuando**  aplique el filtro "Estado: Enfermo" <br> **Entonces** veré solo esos animales en la lista <br> **Escenario 2: Filtro sin resultados** <br> **Dado que**  no hay animales enfermos <br> **Cuando** aplique el filtro "Estado: Enfermo" <br> **Entonces** en el sistema veré "No hay animales con este estado"|EP07|
+|US10|Configurar Perfil| **Como** ganadero/veterinario **Quiero** modificar mi información personal (p.e. foto de perfil) **Para** mantener mis datos actualizados en la aplicación| **Escenario 1: Edición exitosa**<br>**Dado que** el usuario desea actualizar su información personal <br>**Cuando** ingrese a la sección de configuración y edite sus datos <br>**Entonces** el sistema mostrará un mensaje "Perfil actualizado correctamente" y reflejará los cambios <br><br>**Escenario 2: Datos inválidos**<br>**Dado que** el usuario ingresa un correo mal formado o un número inválido <br>**Cuando** intente guardar los cambios <br>**Entonces** el sistema mostrará mensajes de error indicando qué datos deben corregirse <br><br>**Escenario 3: Cambio de contraseña**<br>**Dado que** el usuario desea cambiar su contraseña <br>**Cuando** proporcione la contraseña nueva (con confirmación) <br>**Entonces** el sistema actualizará la contraseña y mostrará "Contraseña actualizada con éxito" | EP03|
+|US11|Filtrar animales enfermos|**Como** ganadero/veterinario **Quiero** filtrar animales con problemas de salud **Para** priorizar atenciones|**Escenario 1: Filtro con resultados** <br> **Dado que** hay animales marcados como "enfermos" <br> **Cuando**  aplique el filtro "Estado: Enfermo" <br> **Entonces** veré solo esos animales en la lista <br> **Escenario 2: Filtro sin resultados** <br> **Dado que**  no hay animales enfermos <br> **Cuando** aplique el filtro "Estado: Enfermo" <br> **Entonces** en el sistema veré "No hay animales con este estado"|EP07|
 |US12|Programar visita|**Como** veterinario **Quiero** agendar visitas a fincas **Para** organizar mi trabajo|**Escenario 1: Visita programada** <br> **Dado que** ingreso fecha, la finca que quiero visitar y el motivo de la visita <br> **Cuando** guarde la visita <br> **Entonces** aparecerá en mi calendario con recordatorio <br> **Escenario 2: Fecha pasada** <br> **Dado que** ingreso una fecha anterior al día actual <br> **Cuando** intente guardar <br> **Entonces**  el sistema mostrará "La fecha no puede ser pasada"|EP08|
-|US13|Asignar tarea|**Como** veterinario **Quiero** delegar actividades a ganaderos **Para** seguimiento remoto|**Escenario 1: Tarea asignada** <br> **Dado que** selecciono a un ganadero y escribo la tarea que debe realizar y qué fecha <br> **Cuando** envíe la tarea <br> **Entonces** el sistema mostrará "Tarea asignada correctamente" <br> **Escenario 2: Tarea incompleta** <br> **Dado que** no selecciono un ganadero <br> **Cuando** intente enviar <br> **Entonces** el sistema mostrará "Seleccione un ganadero"|EP08|
+|US13| Verificar Notificaciones | **Como** ganadero/veterinario<br>**Quiero** visualizar notificaciones relevantes a través de una campana de alertas en la aplicación<br>**Para** mantenerme informado de eventos importantes| **Escenario 1: Visualización de notificaciones**<br>**Dado que** el usuario inicia sesión en la app<br>**Cuando** pulse el ícono de la campana<br>**Entonces** verá una lista de notificaciones recientes con sus respectivas fechas y títulos.<br><br>**Escenario 2: Notificación leída**<br>**Dado que** el usuario haya ingresado a una notificación<br>**Cuando** la lea<br>**Entonces** esta se marcará como leída|EP04|
 |US14|Ver estadísticas|**Como** veterinario **Quiero** ver porcentajes de animales tratados **Para** evaluar salud|**Escenario 1: Estadísticas calculadas** <br> **Dado que** hay cierta cantidad de animales vacunados <br> **Cuando** acceda a "Estadísticas" <br> **Entonces** veré los porcentajes de la cantidad de animales vacunados y pendientes <br> **Escenario 2: Sin datos disponibles** <br> **Dado que** no hay animales registrados <br> **Cuando** acceda a "Estadísticas" <br> **Entonces** veré "No hay datos para mostrar"|EP09|
 |US15|Registrar tratamiento veterinario|**Como** veterinario **Quiero** documentar medicamentos aplicados a un animal **Para** mantener un historial clínico preciso|**Escenario 1: Tratamiento registrado** <br> **Dado que** selecciono un animal y completo con el medicamento y/o tratamiento <br> **Cuando** guarde el registro <br> **Entonces** el sistema lo agregará al historial del animal <br> **Escenario 2: Datos incompletos** <br> **Dado que** no ingreso la dosis requerida <br> **Cuando** intente guardar <br> **Entonces** el sistema mostrará "La dosis es obligatoria" y no guardará|EP07|
+|US16|Registrar nuevo usuario|**Como** ganadero/veterinario<br>**Quiero** poder registrarme en la aplicación<br>**Para** acceder a las funcionalidades del sistema con mis credenciales|**Escenario 1: Registro exitoso**<br>**Dado que** soy un nuevo usuario<br>**Cuando** completo el formulario de registro con datos válidos y lo envío<br>**Entonces** el sistema me crea una cuenta para poder iniciar sesión<br><br>**Escenario 2: Campos obligatorios incompletos**<br>**Dado que** el usuario omite uno o más campos obligatorios<br>**Cuando** intente enviar el formulario<br>**Entonces** el sistema mostrará un mensaje indicando qué campos deben completarse|EP01|
 |TS01|POST Animal|**Como** desarrollador **Quiero** registrar un nuevo animal mediante API **Para** mantener el inventario digitalizado|**Escenario 1: Error en registro** <br> **Dado que** envío datos válidos (ID, raza, fecha_nacimiento) <br> **Cuando** hago POST /api/animals <br> **Entonces** recibo un mensaje con los datos guardados. <br> **Escenario 2: Datos incompletos** <br> **Dado que** omito el campo "ID" <br> **Cuando**  hago POST <br> **Entonces** recibo un error con mensaje "ID es obligatorio"||
 |TS02|GET Animal|**Como** desarrollador **Quiero** recuperar la lista de animales **Para** mostrar el inventario|**Escenario 1: Listado exitoso** <br> **Dado que** existen animales registrados <br> **Cuando** hago GET /api/animals <br> **Entonces** recibo el mensaje de ok con array JSON. <br> **Escenario 2: Filtros aplicados** <br> **Dado que** que añado un filtro para un tipo de animal <br> **Cuando** hago GET <br> **Entonces** recibo solo animales de la raza seleccionada||
 |TS03|PUT Actualizar Animal|**Como** desarrollador **Quiero** actualizar datos de animales **Para** corregir información|**Escenario 1: Actualización exitosa** <br> **Dado que** proporciono datos válidos <br> **Cuando** envío la actualización <br> **Entonces** recibo confirmación con los nuevos datos. <br> **Escenario 2: Animal no encontrado** <br> **Dado que** proporciono un ID inexistente <br> **Cuando** intento actualizar <br> **Entonces** recibo un mensaje de error indicando que no existe||
@@ -898,9 +934,9 @@ Además, la selección de colores debe estar alineada con los valores de innovac
 
 |Código HEX|Color|
 |-|-|
-|#925930|<img src="Imagenes\PaletaColores\925930.png" alt="925930" width="200px">|
-|#79B267|<img src="Imagenes\PaletaColores\79B267.png" alt="79B267" width="200px">|
-|#f5f0e6|<img src="Imagenes\PaletaColores\f5f0e6.png" alt="f5f0e6" width="200px">|
+|#925930|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/PaletaColores/925930.png?raw=true" alt="925930" width="200px">|
+|#79B267|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/PaletaColores/79B267.png?raw=true" alt="79B267" width="200px">|
+|#f5f0e6|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/PaletaColores/f5f0e6.png?raw=true" alt="f5f0e6" width="200px">|
 </div>
 
 <h5> Colores secundarios:</h5>
@@ -908,9 +944,9 @@ Además, la selección de colores debe estar alineada con los valores de innovac
 
 |Código HEX|Color|
 |-|-|
-|#A3794F|<img src="Imagenes\PaletaColores\A3794F.png" alt="#A3794F" width="200px">|
-|#A3C4A8|<img src="Imagenes\PaletaColores\A3C4A8.png" alt="A3C4A8" width="200px">|
-|#d1bfa5|<img src="Imagenes\PaletaColores\d1bfa5.png" alt="d1bfa5" width="200px">|
+|#A3794F|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/PaletaColores/A3794F.png?raw=true" alt="#A3794F" width="200px">|
+|#A3C4A8|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/PaletaColores/A3C4A8.png?raw=true" alt="A3C4A8" width="200px">|
+|#d1bfa5|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/PaletaColores/d1bfa5.png?raw=true" alt="d1bfa5" width="200px">|
 </div>
 
 <h5>Typography</h5>
@@ -918,17 +954,17 @@ La combinación de Tajawal y Work Sans aporta una estética moderna y accesible 
 
 Juntas comunican una marca que se dedica al agro digital con un enfoque en la inclusión, sostenibilidad e innovación, logrando un balance perfecto entre raíces locales y visión global.
 <div align="center">
-<img src="Imagenes\tipografia\Tajawal.png" alt="Tajawal" width="350px" >
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/tipografia/Tajawal.png?raw=true" alt="Tajawal" width="350px" >
  
 
-<img src="Imagenes\tipografia\WorkSans.png" alt="WorkSans" width="350px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/tipografia/WorkSans.png?raw=true" alt="WorkSans" width="350px">
 </div>
 <h5>Icons</h5>
 Se ha seleccionado el set de íconos Circum Icons diseñado por Klarr Agency. Este set, disponible en Iconify.design, ofrece una estética limpia, redondeada y moderna, ideal para reflejar los valores de accesibilidad, innovación y cercanía del sector agropecuario digital.
 
 Los íconos utilizados mantienen una línea uniforme y amigable, facilitando la navegación y mejorando la experiencia de usuario.
 
-<div align="center" > <img src="Imagenes/Uidesigns/iconosMuestra.png" alt="iconosMuestra" width="700px"> </div>
+<div align="center" > <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/iconosMuestra.png?raw=true" alt="iconosMuestra" width="700px"> </div>
 <div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
 El Web Style Guide de AgroTrace nos ayudó a mostrar una identidad visual coherente y accesible en toda la plataforma. Definimos colores, tipografías y elementos de diseño inspirados en el entorno rural para transmitir confianza, tecnología cercana y facilidad de uso.
 
@@ -1011,13 +1047,13 @@ Los sistemas de navegación deben estar diseñados para ser intuitivos, adaptado
 El wireframe de la landing page de AgroDigital actúa como una guía visual preliminar que organiza los elementos esenciales de la página sin entrar en detalles gráficos. Este esquema muestra la distribución de secciones clave como el encabezado con el logo y menú de navegación, una propuesta de valor centrada en la digitalización ganadera, testimonios de usuarios reales del campo, y llamadas a la acción destacadas que invitan a conocer la aplicación. El objetivo es garantizar una experiencia intuitiva para el visitante y facilitar su conversión en usuario activo de la plataforma. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=26-132&t=qT7oJSn8VnYsfiTX-1)
 
 <div style="text-align: center;">
-  <img src="Imagenes\Uidesigns\AgroDigitalLandingPWireframe.png" alt="LandingPageWireframe" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/AgroDigitalLandingPWireframe.png?raw=true" alt="LandingPageWireframe" width="500">
 </div>
 <div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
 
 El mock-up de la landing page de AgroDigital representa una versión detallada y cercana al diseño final, integrando colores, tipografías e imágenes que reflejan la identidad visual de la plataforma. Este diseño ofrece una vista realista de cómo se presentará la página a los usuarios, destacando una estética moderna, accesible y alineada con el sector agroindustrial ganadero. Además, refuerza la importancia de mantener coherencia visual y claridad en la propuesta de valor, transmitiendo confianza, profesionalismo y compromiso con la innovación tecnológica en el campo. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=0-1&t=qT7oJSn8VnYsfiTX-1)
 <div style="text-align: center;">
-  <img src="Imagenes\Uidesigns\AgroDigitalMockUp.png" alt="LandingPageMockUp" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/AgroDigitalMockUp.png?raw=true" alt="LandingPageMockUp" width="500">
 </div>
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
 <div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
@@ -1026,14 +1062,14 @@ Los wireframes de la aplicación web de AgroDigital representan la estructura y 
 
 
 <div style="text-align: center;">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 1.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 2.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 3.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 4.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 5.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 6.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 7.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 8.png" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%201.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%202.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%203.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%204.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%205.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%206.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%207.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%208.png?raw=true" alt="" width="500">
 </div>
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
 
@@ -1041,41 +1077,41 @@ En esta sección se presentan los Wireflows para cada objetivo del usuario. Para
 
 - **Registro y Perfil del ganadero** El presente user flow corresponde con el formulario de registro que solicita el ingreso de la información del usuario.
 
- <img src="Imagenes\Uidesigns\wireflow1.png" alt="" width="600">
+ <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/wireflow1.png?raw=true" alt="" width="600">
 
 - **Gestión de Usuario** El presente user flow corresponde con la gestión de usuario, en el cual el usuario puede iniciar sesión, registrarse e interatuar con las funciones elementales de la aplicación.
 
- <img src="Imagenes\Uidesigns\wireflow2.png" alt="" width="600">
+ <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/wireflow2.png?raw=true" alt="" width="600">
 
  - **Agregar un animal** El presente user flow corresponde con la agregación de un animal al registro de ganado, especificando sus detalles.
 
-<img src="Imagenes\Uidesigns\wireflow3.png" alt="" width="600">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/wireflow3.png?raw=true" alt="" width="600">
 
  - **Control Ganado y Finanzas** El presente user flow corresponde con el control de los animales, registro de finanzas del ganadero y cuadros estadísticos del ganado.
 
-<img src="Imagenes\Uidesigns\wireflow4.png" alt="" width="600">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/wireflow4.png?raw=true" alt="" width="600">
 
 <div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
 
 En esta sección se presentan y explican los mock-ups de la aplicación web de AgroDigital, orientada al sector ganadero. Se evidencia la aplicación de principios clave de diseño visual, accesibilidad, arquitectura de información y el Design System desarrollado para este producto digital. Cada mock-up refleja cómo estos conceptos se integran en una interfaz pensada para facilitar la trazabilidad, el control sanitario y la gestión eficiente del ganado. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=21-575&t=qT7oJSn8VnYsfiTX-1)
 
-  <img src="Imagenes\Uidesigns\appWeb\MockUp1.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp2.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp3.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp4.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp5.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp6.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp7.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp8.png" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp1.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp2.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp3.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp4.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp5.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp6.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp7.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp8.png?raw=true" alt="" width="500">
 <div id='4.4.4.'><h4> 4.4.4. Web Applications User Flow Diagrams</h4></div>
   A continuación un diagrama que representa los user goals de AgroDigital:
 
-  <img src="Imagenes\Uidesigns\appWeb\AgroDigital.png" alt="User Flow Diagrams" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/AgroDigital.png?raw=true" alt="User Flow Diagrams" width="500">
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 
 A continuación, se detalla las interacciones entre el lading page y la aplicación web, incluyendo todos sus apartados principales.
 
-<img src="Imagenes\Uidesigns\appWeb\prototipo.png" alt="Prototipo" width="500">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/prototipo.png?raw=true" alt="Prototipo" width="500">
 
 Link para acceder al video explicando el prototipo en [Figma](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215979_upc_edu_pe/ESZcvYgAG-ZBvhVsG1Bek14Bb-op9udmxXXg0Xn47pbivQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jnao5x)
 
@@ -1086,46 +1122,72 @@ Se presenta tres niveles del modelo C4 trabajado con structurizr para el proyect
 
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
 
-<img src="Imagenes/diagramas/structurizr-101335-AgroDigitalSytemContext.png" alt="" width="470">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-DiagramaContexto.png?raw=true"  alt="" width="470">
 
 <div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
 
-<img src="Imagenes/diagramas/structurizr-101335-AgroDigitalContainer.png" alt="" width="470">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-DiagramaContenedores.png?raw=true" alt="" width="470">
 
 <div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
 
-<img src="Imagenes/diagramas/structurizr-101335-AgroDigitalComponents.png" alt="" width="470">
+**BC de autenticación**
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-Componentes_de_Autenticacion.png?raw=true" alt="" width="470">
+
+**BC de eventos**
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-Componentes_de_Eventos.png?raw=true" alt="" width="470">
+
+**BC de Gestion Animal**
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-Componentes_de_Gestion_Animal.png?raw=true" alt="" width="470">
+
+**BC de Gestion Financiera**
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-Componentes_de_Gestion_Financiera.png?raw=true" alt="" width="470">
+
+**BC de Gestión Sanitaria**
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-Componentes_de_Gestion_Sanitaria.png?raw=true" alt="" width="470">
+
+**BC de Reportes**
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-Componentes_de_Reportes.png?raw=true" alt="" width="470">
+
 
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
 
 <div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
 
-<img src="Imagenes/diagramas/Class Diagram.png" alt="" width="470"> 
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/AgroDigital_Class_Diagram.png?raw=true" alt="" width="470"> 
 
 Link del diagrama en [Lucidchart](https://lucid.app/lucidchart/0a62f2c2-3118-4a1d-8828-580a70e3321e/edit?viewport_loc=-3835%2C-5934%2C4252%2C1417%2C0_0&invitationId=inv_d46d805a-ec6c-4f2f-b48f-024381f58440)
 
 <div id='4.7.2.'><h4> 4.7.2. Class Dictionary</h4></div>
 Diccionario de clases usado para el desarrollo de AgroDigital
 
-- **Animal:** Clase que representa un animal en el sistema, con atributos como especie, raza, edad y peso.
-- **HistorialDeCitas:** Clase que registra las citas veterinarias asociadas a un animal, incluyendo motivo y observaciones.
-- **Diagnostico:** Clase que almacena diagnósticos médicos generados a partir de citas veterinarias.
-- **Sanidad:** Clase que gestiona tratamientos o vacunas aplicados a un animal (fecha, tipo y descripción).
-- **Factura:** Clase que registra transacciones financieras (monto total, fecha y estado).
-- **MetodoPago:** Clase que define los métodos de pago disponibles (tarjeta, transferencia, etc.).
-- **Pago:** Clase que almacena los pagos realizados, asociados a una factura y un método.
-- **Academia:** Clase que gestiona cursos o materiales de capacitación (título, descripción y URL).
-- **Almacen:** Clase que representa un almacén físico (nombre, ubicación).
-- **Insumo:** Clase que gestiona productos en inventario (nombre, tipo, cantidad y fechas clave).
-- **Proveedor:** Clase que almacena información de proveedores de insumos (nombre y contacto).
-- **Usuario:** Clase que representa a los usuarios del sistema (nombre, correo y rol).
+| Clase | Descripción |
+|-------|-------------|
+|**Usuario**|Representa a los usuarios del sistema con sus credenciales y permisos. Atributos: nombre, email, password, rol, teléfono.|
+|**Credenciales**|Almacena temporalmente datos de autenticación (email y contraseña sin hashear).|
+|**Animal**|Entidad central que gestiona datos de animales. Atributos: especie, raza, sexo, fechaNacimiento, peso, estadoSalud.|
+|**Evento**|Gestiona actividades programadas para animales. Atributos: tipo (vacunación, revisión), fecha, prioridad, estado.|
+|**HistorialClinico**|Registro médico completo de un animal. Contiene todos los eventos y tratamientos aplicados.|
+|**RegistroMedico**|Entrada individual en el historial clínico. Atributos: tipo, fecha, descripción, observaciones.|
+|**Archivo**|Documentos adjuntos a registros médicos (PDFs, imágenes). Atributos: nombre, tipo, URL.|
+|**ControlEconomico**|Gestiona el balance financiero. Atributos: fechaInicio, fechaFin, transacciones asociadas.|
+|**Transaccion**|Movimiento económico (ingreso/gasto). Atributos: monto, fecha, categoría, descripción.|
+|**Balance**| Resumen financiero calculado. Atributos: ingresosTotales, gastosTotales, utilidad.|
+|**Reporte**|Genera análisis personalizados. Atributos: tipo (población, económico), filtros aplicados.|
+|**FiltroReporte**|Criterios para generar reportes. Atributos: especie, rangoEdad, estadoSalud.|
+
 
 
 <div id='4.8.'><h3> 4.8. Database Design</h3></div>
 Para este proyecto se optó por MySQL como sistema gestor de bases de datos debido a su escalabilidad, interfaz intuitiva y compatibilidad con los conocimientos previos del equipo en Microsoft SQL Server. Esta solución permite adaptar la capacidad de almacenamiento y procesamiento según las demandas evolutivas del negocio, garantizando un crecimiento acorde a los requerimientos del sistema.
 
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
-<img src="Imagenes/diagramas/AgroDigital_Database_Diagram-2025-04-18_21-58.png" alt="" width="470">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/AgroDigital_Class_Diagram.png?raw=true" alt="" width="470">
 
 Link del diagrama en [Vertabello](https://my.vertabelo.com/doc/HkMfD4RBQlSQgfXH9BeNvzXrga6xjzzb)
 
@@ -1266,7 +1328,13 @@ Para implementar la landing page, se requieren los siguientes elementos previos:
 
 Enlace para acceder a la [landing page](https://gantrace.github.io/LandingPage-AgroDigital/)
 
-<!-- **Front End Web Application deployment** -->
+**Front End Web Application deployment**
+
+Para poder desplegar el Front End Web Application resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+[Ingresar a AgroDigital](https://gantrace.github.io/AgroDigital--FrontendApp/)
+
+
 
 <div id='5.2'><h3> 5.2. Landing Page, Services & Applications implementation </h3></div>
 <div id='5.2.1.'><h4> 5.2.1. Sprint 1.</h4></div>
@@ -1410,7 +1478,7 @@ Link del Trello: https://trello.com/b/I1kLkHX3
 <div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5></div>
 En este sprint logramos desarrollar nuestra landing page, utilizango HTML y CSS con su respectivo despliegue. Acá se muestra evidencia: 
 
-<img src="Imagenes/Evidence_sprint1/Execution_Evidence_Sprint1.png" alt="" width="700px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/Execution_Evidence_Sprint1.png?raw=true" alt="" width="700px">
 
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
 
@@ -1419,13 +1487,13 @@ Para este Sprint, como es el primero y se desarrolló la landing page, por lo qu
 <div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
 Para la entrega del Sprint 1, se desarrolló y desplegó la landing page. El despliegue lo realizó nuestro compañero Rodrigo Salvador.
 
-<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_1_sprint1.png" alt="" width="700px">
-<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_2_sprint1.png" alt="" width="700px">
-<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_3_sprint1.png" alt="" width="700px">
-<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_4_sprint1.png" alt="" width="700px">
-<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_5_sprint1.png" alt="" width="700px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/Deployment_Evidence_1_sprint1.png?raw=true" alt="" width="700px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/Deployment_Evidence_2_sprint1.png?raw=true" alt="" width="700px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/Deployment_Evidence_3_sprint1.png?raw=true" alt="" width="700px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/Deployment_Evidence_4_sprint1.png?raw=true" alt="" width="700px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/Deployment_Evidence_5_sprint1.png?raw=true" alt="" width="700px">
 
-<div id='5.2.1.8.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
 El desarrollo del informe se organizó repartiendo el trabajo, cada integrante realizó, aportes específicos:
 
 |Alumno|Actividad|
@@ -1436,8 +1504,353 @@ El desarrollo del informe se organizó repartiendo el trabajo, cada integrante r
 |Salvador Rodriguez, Rodrigo Jesus|Desarrollo del Capítulo I: Introducción, Capítulo III: Requirements Specification y Capítulo V: Product Implementation, Validation & Deployment del 5.1 al 5.1.4|
 |Sanchez Silva, Luciana Celeste|Desarrollo del Capítulo IV: Product Design del 4.1 al 4.4. del documento en formato markdown. Incluyendo diseño del landing page y web application|
 
-<img src="Imagenes/Evidence_sprint1/collaborations_insights.png" alt="" width="650px">
-<img src="Imagenes/Evidence_sprint1/collaborations_insights_pt2.png" alt="" width="650px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/collaborations_insights.png?raw=true" alt="" width="650px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/collaborations_insights_pt2.png?raw=true" alt="" width="650px">
+
+
+<div id='5.2.2.'><h4> 5.2.2. Sprint 2.</h4></div>
+<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
+
+| Sprint # | Sprint 2   |
+|-------------------------|---------------------------------------|
+| **Sprint Planning Background** |                              |
+| Date | 05 de mayo de 2025    |
+| Time | 14:00 PM |
+| Location | Modalidad remota|
+| Prepared By | Rodrigo Salvador|
+| Attendees (to planning meeting) | Maria Fernanda Peña, Maria Pilares, Luciana Sanchez, Rodrigo Salvador, Nelson Guerrero |
+| Sprint 1 Review Summary  | Se llegó a desplegar la LandingPage de AgroDigital, algunas de las correcciones fueron: Mejorar los diagramas de arquitectura, Refinar LandingPage, Documentar Proceso técnicos, Pulir comunicación, errores ortográficos, Priorizar la coherencia entre artefactos|
+|Sprint 1 Retrospective Summary |Se evaluó la posibilidad de mejorar el LandingPage ya que no teníamos una sección planes. Comenzar con la creación del Front-end creando los componentes principales. |
+|**Sprint Goal & User Stories** |               |
+|Sprint Goal 1         |En este Sprint, se tiene como objetivo el desarrollar las principales páginas de la aplicación web y realizar su correspondiente despliegue.A lo largo de diferentes reuniones, se asignó los deberes de cada estudiante con respecto al sprint. Al final del sprint, el front-end debería estar desplegado. |
+|Sprint Velocity 1         |   24    |
+|Sum of Story Points         |    39      |
+
+<div id='5.2.2.2.'><h5> 5.2.2.2. Aspect Leaders and Collaborators.</h5></div>
+
+Con el fin de asegurar una distribución clara de responsabilidades y fomentar un trabajo colaborativo efectivo durante el Sprint 1 del proyecto AgroDigital, se identificaron cuatro aspectos clave del desarrollo:
+
+- **Diseño de Interfaz (UX/UI)**
+- **Redacción del Contenido**
+- **Publicación (Deploy)**
+- **Documentación**
+
+Para cada uno de estos aspectos, se asignó un **líder (L)** encargado de dirigir los esfuerzos y tomar decisiones técnicas, así como uno o más **colaboradores (C)** encargados de apoyar la ejecución de tareas. La asignación de roles se realizó en función de la experiencia previa de cada integrante y buscando un equilibrio en la carga de trabajo.
+
+#### Matriz de Liderazgo y Colaboración
+
+| Integrante                          | GitHub            | UX/UI | Landing | Deploy | Doc |
+|------------------------------------|-------------------|:-----:|:-------:|:------:|:---:|
+| Sánchez Silva, Luciana Celeste     | `Luccsss`         |  C    |   C     |   C    | C   |
+| Salvador Rodríguez, Rodrigo Jesús  | `Rodrigojsr12`    |  C    |   L     |   L    | C   |
+| Peña Riofrío, María Fernanda       | `mariafep`        |  L    |   C     |   C    | C   |
+| Pilares Pocohuanca, María          | `mariapilares`    |  C    |   C     |   C    | L   |
+| Guerrero Tomás, Nelson Fabrizio    | `Nelsoondev`      |  C    |   C     |   C    | C   |
+
+Esta organización permitió trabajar con enfoque, agilidad y orden en cada aspecto crítico del sprint, fomentando la responsabilidad compartida y la comunicación entre miembros del equipo.
+
+
+<div id='5.2.2.3.'><h5> 5.2.2.3. Sprint Backlog 2.</h5></div>
+
+En el segundo sprint backlog, el equipo terminó de corregir y completar la landing page y el inicio del front-end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades. El objetivo principal del sprint era arreglar los bugs, agregar la internacionalización de la landing page y construir en su totalidad la web application, logrando que sea atractiva y funcional.
+
+<img alt="TrelloSprint2" src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint2/TrelloSprint2.jpg?raw=true">
+
+Link del Trello: https://trello.com/invite/b/6824b282727b39fb321041b0/ATTIce885c2edbee0ec2381e508ff5a8acd0E62AE026/agrodigital-sprint-2 
+
+<table>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="7">Sprint 2</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">WorkItem / Task</th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Hours)</th>
+            <th>Assigned To</th>
+            <th>Status(To-do/In-Process/To-Review/Done)</th>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Acceder a la aplicación desde la LandingPage</td>
+            <td>UT11</td>
+            <td>Contactar la LandingPage con el FrontEnd mediante hipervínculos </td>
+            <td>Permitir que el usuario pueda ver las cajas de texto en la página</td>
+            <td>1</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US016</td>
+            <td>Registrar nuevo usuario</td>
+            <td>UT12</td>
+            <td>Sección de Nueva Cuenta</td>
+            <td>Implementar cuadros de texto que permita a nuevos usuarios registrarse en la app</td>
+            <td>2.5</td>
+            <td>Camila Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Inicio Sesion</td>
+            <td>UT13</td>
+            <td>Sección "Ingresar Cuenta"</td>
+            <td>Agregar cuadros de texto y botones que permita al usuario poder iniciar sesión el la aplicación web< td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Registrar nuevo Animal</td>
+            <td>UT14</td>
+            <td>Sección "Animales"</td>
+            <td>Añadir botón que permite entrar a editar información de un Animal</td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Registrar Vacunación</td>
+            <td>UT15</td>
+            <td>Sección "Historial Clínico" </td>
+            <td>Implementar botones y cuadros de texto que permitan modificar los datos del animal como su vacunas</td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>In Process</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Registrar Venta</td>
+            <td>UT16</td>
+            <td>Sección control Económico</td>
+            <td>Implementar botones que permitan al usuario agregar su gastos y agregar ingreso</td>
+            <td>2</td>
+            <td>Nelson Guerrero</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US08</td>
+            <td>Registrar Venta</td>
+            <td>UT17</td>
+            <td>Datos y Estadíscticas</td>
+            <td>Implementar datos que permitean vel el ingreso semanal</td>
+            <td>1.5</td>
+            <td>Maria Pilares</td>
+            <td>To Review</td>
+        </tr>
+         <tr>
+            <td>US10</td>
+            <td>Configurar Perfil</td>
+            <td>UT18</td>
+            <td>Información del Perfil del usuario</td>
+            <td>Añadir sección donde el usuario edite sus datos, y pueda darle al botón de guardar</td>
+            <td>1.5</td>
+            <td>Maria Fernanda Peña</td>
+            <td>Done</td>
+        </tr>
+</table>
+
+
+<div id='5.2.2.4.'><h5> 5.2.2.4. Development Evidence for Sprint Review.</h5></div>
+
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla. Como el sprint #2 abarca la versión final de frontend. Asimismo, desarrollo de la versión final de backend, se muestran los commits de ambos repositorios.
+
+|Repository| Branch | Commit id | Commit Message | Commit Message Body | Commited On(Date)|
+|----------|--------|---------- |----------------|-------------------- |------------------|
+|GanTrace/AgroDigital-FrontendApp |features/settings|cde40362c611bf6b6ce42b7ee0105686d4ed38e8 | feat(economic-control): add logout button and dynamic user name |-|3/05/2025 |
+|  |feature/settings|758ff5527f92a778fd96708de1585bcd8d3f1989|feat(events): add logout functionality and dynamic user name|-| 13/05/2025 |
+|  |feature/settings|9537b69dffa51d4fc342aeb61e60569a5cf85515|feat(medical-history): add logout button and dynamic user name|- |13/05/2025|
+|  |feature/settings|bee8fb3ca30ac16b46c072237504aebc20c5d6ae|feat(reports): add logout button and dynamic user name display |- |13/05/2025 |
+|  |feature/settings|9f87eaa9445c75a358462226e69b68fed7ad70e1|feat(settings): add password visibility and profile update functionality|-|13/05/2025|
+|  |feature/settings|7ea5e37e55f4dccb0e82dd3544c5ae5250d9dbd5|feat(dashboard): enhance UI with welcome section, search, and improved animal cards|-|13/05/2025|
+|  |feature/settings|472c0aea2a061098954a8c2c61b273885da07156|feat(rancher): add animals component with basic template and tests|-|13/05/2025|
+|  |feature/settings|b05df9ed8e329a1319a3ac33df01a0bd3fa23d6a|feat(animals): implement animal form and navigation|-|13/05/2025|
+|  |feature/settings|2d728c0d0776d25dff16b224aa84aa5e1058556e|feat(routing): add AnimalsComponent route to app.routes.ts|-|13/05/2025|
+|  |feature/settings|9095f23bb99dab6873ea5a34be877b7d3a432c2d|feat(notifications): add notifications component |-|13/05/2025|
+|  |feature/settings|c82b9f3c0abeb0411364f389693c1988f998d27b|feat(dashboard): add toggleable notifications component  |-|13/05/2025|
+|  |feature/settings|066772950d9c29544ac8a984f188d9f263d9a347|feat(notifications): implement notifications panel with dynamic content and styling|-|13/05/2025|
+|  |feature/settings|58e6eee9f9c64382a90ccad66fbaa2e2c7a03257|feat(reports): add notifications toggle functionality|-|13/05/2025|
+|  |feature/settings|fa6028579dad706ff62c55a662a7788643201d90|feat(medical-history): add notifications component and toggle functionality|-|13/05/2025|
+|  |feature/settings|a148936f89121d1fafeba398f413cb4eb7451b66|feat(events): add notifications toggle functionality|-|13/05/2025|
+|  |feature/settings|bc8c279eb56971d3bbacb0ba926e24708cf5b7a0|feat(economic-control): add notifications toggle functionality|-|13/05/2025|
+|  |feature/settings|c0bdf8e35fe6983904e48d4a2fec27502cca31ce|feat(animals): add notifications toggle functionality|-|13/05/2025|
+|  |feature/settings|35e052147105da9c8752e27fbd68fed2769c2082|feat(settings): add notifications component and update user profile logic|-|13/05/2025|
+|  |feature/i18n|ea7b3b898b7a7932fdf416d72aba99491fc7c5df|refactor(app.config.ts): simplify http client configuration|-|11/05/2025|
+|  |feature/i18n|0b9410a9fd119b6f9c8269d52e4035207ec53127|refactor(register): improve layout and styling of registration form|-|11/05/2025|
+|  |feature/i18n|c9f42f6f3c19a3c5954a6879f240307031e7b497|feat(register): add password strength validation and error handling|-|11/05/2025|
+|  |feature/i18n|c55ea35d648cc1f1c71e28df3efe5f89e668e04c|feat(routing): add register route to app routes|-|11/05/2025|
+|  |feature/i18n|b045853c19f36d2e156a9c86bfe65ebd7ebc7721|refactor(auth.service): replace mock login with API calls and update interfaces|-|11/05/2025|
+|  |feature/i18n|600a225e1c34103fbd44a0c171866132d0a65c20|style(app.routes.ts): fix indentation for route definitions|-|11/05/2025|
+|  |feature/i18n|d548b85585b851d9d3183e71be3e5d460bb9c7e7|refactor(auth): improve type safety in auth service and remove unused routes|-|11/05/2025|
+|  |feature/i18n|88dfa8fd6bbf8255c794dab6cfe0996dcdda6959|refactor(login): remove login component and related files|-|11/05/2025|
+|  |feature/i18n|83883e155bf2b53f228a74fb697c71f85c9ccc8c|feat(routing): add app routes configuration for navigation|-|11/05/2025|
+|  |feature/i18n|7c0e683aaff5d91ccfc23c0c8c3f2b9ac5c5f314|feat(login): add login component with form and styling|-|11/05/2025|
+|  |feature/i18n|4547320ba6c718ba249a9da3c0741084fc1c0985|refactor(login): remove login component HTML file|-|11/05/2025|
+|  |feature/i18n|5636c4254092a5a3db9b53d25ce807b2a95300d9|refactor: remove unnecessary imports and whitespace in app config|-|11/05/2025|
+|  |feature/i18n|c77e98fd7970512e8d15cf95f2b09be887a84d6f|feat(login): add form validation and improve UI styling|-|11/05/2025|
+|  |feature/i18n|dd49cc751b4669a3922395c7b2b640e240c533df|feat(register): enhance registration form with password validation and error handling|-|11/05/2025|
+|  |feature/i18n|32a29c345f12836641bb5523858390201c7a733a|refactor(auth.service): update return types to use User interface|-|11/05/2025|
+|  |feature/i18n|b9c70c70869647f786ed8b6479af9d016c8f022a|refactor(login): restructure HTML for improved readability and maintainability|-|11/05/2025|
+|  |feature/i18n|fca8d0b63cf51d889151d3ffc45667cae5357e80|refactor(login): update image paths for logo and cover|-|11/05/2025|
+|  |feature/Register|07cc2bac709b4a38d3aa9a79dde74b5af1e3d3e9|feat(i18n): add English and Spanish translation files for login, register, and footer|-|12/05/2025|
+|  |feature/Register|89e976df218b030459a7574ec2e39fd069bc8709|feat(i18n): add translation support using ngx-translate|-|12/05/2025|
+|  |feature/Register|05073d6b2a8ef04286623768e700ce7123e806c7|feat(language-switcher): implement language switcher component with dropdown|-|12/05/2025|
+|  |feature/Register|4e3b06db5b36688736882e41dcfbc350a5ee1a79|feat(login): add language switcher and translation support|-|12/05/2025|
+|  |feature/Register|4be5b9a1d316bb6964cefca9ac34f26c92c1a15c|feat(register): add multilingual support and language switcher|-|12/05/2025|
+|  |feature/Register|a6236646b0fae0c453bfc35676992a5873a7eb7b|feat(i18n): add new translations for dashboard, events, medical history, economic control, and reports|-|12/05/2025|
+|  |feature/Register|3b5450f28ebaa1e3f31374888762910ae3fcd6e5|feat(dashboard): add language support and improve UI styling|-|12/05/2025|
+|  |feature/Register|7ce68b35919900aaca2b290cadcf5259a77aa8d9|feat(economic-control): add language switcher and translation support|-|12/05/2025|
+|  |feature/Register|b2eb832545512fcb15d46e856f32e0105c91998c|feat(i18n): add translation support to events component|-|12/05/2025|
+|  |feature/Register|d6ebdab502e9fe5b3a9f420981ae38e97cbd61db|feat(medical-history): add language support and switcher component|-|12/05/2025|
+|  |feature/Register|4ef359102ee1ee0fc1a91ae277eec9aaaf55fae7|feat(reports): add language support and restructure user section|-|12/05/2025|
+|  |feature/Register|d779b25a3b6e32632650156dc0c8b7ccdb3cd98e|style: update CSS for consistent styling and improved readability|-|12/05/2025|
+|  |feature/Register|43ddbf905be3fcd1fd6f7edd67b2d7dcb6530805|refactor(register): improve UI and form handling for registration page|-|12/05/2025|
+|  |feature/Register|4533ca0bcf1e5c273600f98a380f22406dfb3b56|feat(auth): add user session management and role assignment|-|12/05/2025|
+|  |feature/Register|1429810f0827b14161b60f7f84d2f7b1091119e7|feat: add initial user data to db.json|-|12/05/2025|
+|  |feature/Rancher|d25e01e3c0590426bb075ae0ffce6194f94b2a59|feat: add password field to Rodrigo and new user Nelson|-|14/05/2025|
+|  |feature/Rancher|ab31a6ceedf7edcf3fd381f6b45171ae2db73a5c|chore: add animal images to public directory|-|14/05/2025|
+|  |feature/Rancher|9a86ad4596454fe2fa6455e6a6b482d436e82b1a|chore: add new images to public directory for website content|-|14/05/2025|
+|  |feature/Rancher|cb631666c6075987088bdb43a8e8cbb110e3e120|refactor(rancher): update image paths and animal count for consistency|-|14/05/2025|
+|  |feature/Rancher|3320221e5a5df7b9c2ef06b4b7a9adfbd46c919e|feat(header-component): add new header component with navigation and user section|-|14/05/2025|
+|  |feature/Rancher|84b2a283186241c9c213a97d43a9f9a01ef260d5|refactor(components): replace header markup with HeaderComponent|-|14/05/2025|
+|  |feature/Rancher|be5e3280413e47f3bf5f59595783cbba44bdfeda|feat(settings): add delete profile photo functionality|-|14/05/2025|
+|  |feature/Rancher|d8194e32afbc56aa49542ff4238b8d70ae365b18|chore: update favicon to AgroDigital_Logo.png|-|14/05/2025|
+|  |feature/Rancher|1dde3c87258e258221c04de2b680c812aafffb9b|feat(events): add event service and enhance event filtering|-|14/05/2025|
+|  |feature/Rancher|f4891039ed67b3c60902d852bd231c26799da2b2|feat(notifications): add translations and improve notification component|-|14/05/2025|
+|  |feature/Rancher|0ac188ec2cabdb7d05198bf7e8819316163f29c7|feat(economic-control): add navigation and economic service integration|-|14/05/2025|
+|  |feature/Rancher|dfff21ba18108af3a26605c54d6b7e97ce14c2b0|feat: add add-income component for economic control|-|14/05/2025|
+|  |feature/Rancher|d7b11f53b6f0b49c3fcecc31b05f9153c1caedda|feat(expense): add expense component with form and routing|-|14/05/2025|
+|  |feature/Rancher|a11ffb1fdd571c5a4bcf997b47e8357a8087b23c|style: update global styles for body and app-root|-|14/05/2025|
+|  |feature/Rancher|3af242add260ed194fd8e30f2b863d1ba213303d|chore: add start script for JSON server|-|14/05/2025|
+|  |feature/Rancher|c6ffc74c8d1e9962f431dd8719debd40be558afd|chore: remove unused profile component files|-|14/05/2025|
+|  |feature/Rancher|e30b8a0130ff78a8bc27c1b9004895a8135dcdb8|refactor: remove redundant comments and clean up code|-|14/05/2025|
+|  |feature/Rancher|fdc60e3edb0e0803896a0a886c6e1968a1732f42|refactor(notifications): remove redundant comments for cleaner code|-|14/05/2025|
+|  |feature/Login|9039995bfc33c898d0032dcb66b300d16a9dcc74|feat(login): enhance login form validation and error handling|-|13/05/2025|
+|  |feature/Login|8ce914f87544b344e3229168044ca588d804c4b6|refactor(register): define RegisterPayload interface locally|-|13/05/2025|
+|  |feature/Login|81c4c2e14e6f6e0fa2a99da3202b5b5a5a1eb5a4|feat(dashboard): add logout functionality and dynamic user data|-|13/05/2025|
+|  |feature/Login|a734865a3d54f8d7431bdcd6c1ecbf282d862a98|refactor(auth): improve user authentication and storage handling|-|13/05/2025|
+|  |feature/Login|92ddaccada6cbe283ed4467abbeda6ab29957aea|feat: add new user to the database|-|13/05/2025|
+|  |feat/images|d25e01e3c0590426bb075ae0ffce6194f94b2a59|feat: add password field to Rodrigo and new user Nelson|-|14/05/2025|
+|  |feat/images|ab31a6ceedf7edcf3fd381f6b45171ae2db73a5c|chore: add animal images to public directory|-|14/05/2025|
+|  |feat/images|9a86ad4596454fe2fa6455e6a6b482d436e82b1a|chore: add new images to public directory for website content|-|14/05/2025|
+|  |feat/images|cb631666c6075987088bdb43a8e8cbb110e3e120|refactor(rancher): update image paths and animal count for consistency|-|14/05/2025|
+|  |feat/images|3320221e5a5df7b9c2ef06b4b7a9adfbd46c919e|feat(header-component): add new header component with navigation and user section|-|14/05/2025|
+|  |feat/images|84b2a283186241c9c213a97d43a9f9a01ef260d5|refactor(components): replace header markup with HeaderComponent|-|14/05/2025|
+|  |feat/images|be5e3280413e47f3bf5f59595783cbba44bdfeda|feat(settings): add delete profile photo functionality|-|14/05/2025|
+
+
+<div id='5.2.2.5.'><h5> 5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
+En este sprint logramos, como segunda fase de nuestro producto final, desarrollar nuestra aplicación web utilizando *Angular* y *Angular Material, en conjunto con una API hecha con **JSON Server*.
+
+
+Enlace del Frontend [FrontEnd](https://agrodigital.netlify.app/login)
+
+![sesion](Imagenes/Evidence_sprint2/exec_inicio_sesion.png)
+
+![cuenta_nueca](Imagenes/Evidence_sprint2/exec_crear_cuenta.png)
+
+![Dahboard](Imagenes/Evidence_sprint2/exec_dashboard.png)
+
+![eventos](Imagenes/Evidence_sprint2/exec_evenots.png)
+
+![historial](Imagenes/Evidence_sprint2/exec_historial_clinico.png)
+
+
+<div id='5.2.2.6.'><h5> 5.2.2.6.Services Documentation Evidence for Sprint Review.</h5></div>
+
+En este sprint utilizamos los servicios básicos *Http* en conjunto con *JSON Server*, lo cual facilitó la construcción de nuestra fake API.
+
+- **Variable de entorno serverBasePath apuntando al puerto 3000:**
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.013.png)
+
+- **Nuestra clase BaseService:**
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.014.png)
+
+- *Ejemplo de uso con un endpoint:* 
+
+![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.015.png)
+
+
+<div id='5.2.2.7.'><h5> 5.2.2.7.Software Deployment Evidence for Sprint Review.</h5></div>
+
+En este sprint 2, continuamos utilizando el servicio de *auto despliegue de Vercel* para garantizar una implementación continua y eficiente de la aplicación web. El proceso de despliegue se mantiene consistente con los pasos previamente establecidos, asegurando una integración fluida y sin interrupciones en el flujo de trabajo. Esto permite que las actualizaciones y mejoras se reflejen de inmediato en la aplicación web, ofreciendo una experiencia optimizada para los usuarios finales.
+
+*Proceso de despliegue en Netfly:*
+
+1. Entrar a *Netfly*:  
+
+
+2. Seleccionar la opción *“Deploy con GitHub”*:  
+
+
+3. Seleccionar la organización y buscar el repositorio del proyecto *“cartunn-frontend”* que deseamos subir a producción.
+
+4. Agregar la configuración necesaria para el despliegue:  
+
+5. Finalmente, presionar el botón con el nombre del proyecto para desplegar.
+
+*Link de la Landing Page:*  
+[https://gantrace.github.io/LandingPage-AgroDigital/](https://gantrace.github.io/LandingPage-AgroDigital/)
+
+*Link del Front End*
+ [FrontEnd](https://agrodigital.netlify.app/login)
+
+ ![sesion](Imagenes/Evidence_sprint2/exec_inicio_sesion.png)
+
+
+
+<div id='5.2.2.8.'><h5> 5.2.2.8.Team Collaboration Insights during Sprint.</h5></div>
+A continuación, se presenta una descripción detallada de cómo el equipo trabajó de manera colaborativa durante este sprint. Esta sección destaca las herramientas y métodos utilizados para fomentar una comunicación efectiva, la coordinación de tareas y la resolución de problemas, asegurando que todos los miembros del equipo estuvieran alineados y comprometidos con los objetivos del sprint.
+
+*Distribución de aportes en el informe:*
+
+*URL del repositorio para el Project Report:*  
+[https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4](https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4)
+
+*¿Cómo se han desarrollado las actividades de elaboración del informe?*
+
+Para el desarrollo del informe en este sprint, se dividió el repositorio del informe por capítulos. Cada integrante realizó los siguientes aportes representados en la tabla y captura a continuación:
+
+
+
+| *Integrante*  | *Aporte en el informe*                                                                                                                                                                                                 |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Rodrigo*        | Mejora continua del Problem Statement, Mejora continua del Diagrama de Clases por bounded context, Mejora continua de user stories, Mejora continua de Class Dictionary.           |
+|                 | ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.020.png)                                                                                              |
+| *Maria Fernanda*      | Mejora continua de user stories, Mejora continua del product backlog, Mejora continua de Software deployment configuration, Development & Execution Evidence for Sprint Review.   |
+|                 | ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.021.png)                                                                                              |
+| *Luciana*      | Mejora continua de user task matrix, Mejora continua de scenario as-is y to-be, Mejora continua en User Journey Mapping, Mejora continua en wireframe mockup.                     |
+| *Maria*       | Mejora continua de user stories, Mejora continua del análisis de entrevistas, Mejora del Software deployment configuration, Development & Execution Evidence for Sprint Review.   |
+|                 | ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.022.png)                                                                                              |
+| *Nelson*  | Mejora continua de Lean UX Hypotheses Statement, Mejora continua de user stories, Mejora continua de empathy map, Mejora de Software Architecture Diagrams & Configuration.       |
+|                 | ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.023.png)                                                                                              |
+
+---
+
+*Evidencia de los commits:*
+
+![Evidence of commit](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.024.png)
+
+Durante este sprint, se siguió la misma estrategia utilizada en el desarrollo de la landing page. Para proteger la rama main, se creó una rama develop, y cada integrante creó su propia sub-rama feature para subir un capítulo del informe, siguiendo las convenciones previamente establecidas (*Conventional Commit* y *Git Flow*).
+
+---
+
+*GitHub Analytics de nuestro segundo sprint:*
+
+- ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.025.png)
+- ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.026.png)
+
 
 
 <div id='6.'><h2> 6. Conclusiones</h2></div>
