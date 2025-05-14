@@ -1514,12 +1514,12 @@ El desarrollo del informe se organizó repartiendo el trabajo, cada integrante r
 | Location | Modalidad remota|
 | Prepared By | Rodrigo Salvador|
 | Attendees (to planning meeting) | Maria Fernanda Peña, Maria Pilares, Luciana Sanchez, Rodrigo Salvador, Nelson Guerrero |
-| Sprint 1 Review Summary  | Para esta entrega |
-|Sprint 1 Retrospective Summary | Para esta entrega  |
+| Sprint 1 Review Summary  | Se llegó a desplegar la LandingPage de AgroDigital, algunas de las correcciones fueron: Mejorar los diagramas de arquitectura, Refinar LandingPage, Documentar Proceso técnicos, Pulir comunicación, errores ortográficos, Priorizar la coherencia entre artefactos|
+|Sprint 1 Retrospective Summary |Se evaluó la posibilidad de mejorar el LandingPage ya que no teníamos una sección planes. Comenzar con la creación del Front-end creando los componentes principales. |
 |**Sprint Goal & User Stories** |               |
-|Sprint Goal 1         |     |
-|Sprint Velocity 1         |       |
-|Sum of Story Points         |          |
+|Sprint Goal 1         |En este Sprint, se tiene como objetivo el desarrollar las principales páginas de la aplicación web y realizar su correspondiente despliegue.A lo largo de diferentes reuniones, se asignó los deberes de cada estudiante con respecto al sprint. Al final del sprint, el front-end debería estar desplegado. |
+|Sprint Velocity 1         |   24    |
+|Sum of Story Points         |    39      |
 
 <div id='5.2.2.2.'><h5> 5.2.2.2. Aspect Leaders and Collaborators.</h5></div>
 
