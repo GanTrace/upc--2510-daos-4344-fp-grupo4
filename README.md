@@ -258,10 +258,10 @@ La startup busca consolidarse como un modelo de negocio sostenible, confiable y 
 |Biografía del los integrantes del equipo |Perfiles de los integrantes del equipo|
 | :--------| :--------: |
 | Mi nombre es **Nelson Fabrizio Guerrero Tomas**. tengo 20 años, estudiante de la carrera Ingenieria de Software (UPC), actualmente estoy cursando mi 5to ciclo de la carrera. Considero que soy colaborativo y me gusta consultar cualquier duda que tengo, para realizar un buen proyecto, esto se evidente en los proyectos entregados por mi equipo de trabajo. Uno de mis pasatiempos favoritos es nadar y escuchar musica, pero ultimamente la lectura y las artes marciales me esta agrando muchisimo.|<img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/estudiantesPerfil/perfilEstudiantes_Nelson.jpg" alt="" width="250px" />| 
-|Mi nombre es **Maria Fernanda Peña Riofrio**, tengo 21 años, estudio el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona responsable y me gusta ayudar a las demás personas, esto sera evidenciado en el transcuros del proyecto ayudando a mis demás compañeros de equipo. En mis tiempos libres me gusta mucho leer, escuchar música e investigar sobre temas de mi interes.| <img src="Imagenes/estudiantesPerfil/perfilEstudiantes_Mafer.jpg" alt="" width="250px" /> |  
-|Mi nombre es **Maria Pilares Pocohuanca** tengo 22 años y estudio la carrera de ingeniería de software en la UPC. Desde niña tuve mucho interés por las matemáticas y la tecnología, motivo por el cual estudio una ingeniería enfocada más a la programación. Me considero una persona perseverante aunque algo impaciente. Sin embargo, como miembro del equipo me comprometo a colaborar con mis compañeros y realizar todas las indicaciones que se dicten, todo con el fin de presentar un buen proyecto.| <img src="Imagenes/estudiantesPerfil/perfilEstudiantes_Mapa.jpg" alt="" width="250px" /> | 
-|Mi nombre es **Rodrigo Jesus Salvador Rodriguez**, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y puntual en todo tipo de aspectos, esto lo voy a ver reflejado en este proyecto, como miembro de este equipo me comprometo a seguir las indicaciones al pie de la letra, seguir recomendaciones y apoyar siempre a mis compañeros para presentar el mejor proyecto grupal.|<img src="Imagenes\estudiantesPerfil\perfilEstudiantes_Rodrigo.png" alt="" width="250px" />|
-|Mi nombre es **Luciana Celeste Sanchez Silva**, tengo 19 años y vivo en Lima. En la actualidad, me encuentro estudiando el 5to ciclo de la carrera de ingeniería de software en la UPC debido a que desde una edad temprana tuve una fascinación relacionada con el uso de la tecnología y la programación. En mi tiempo libre trato de crecer y expandir mi conocimiento en todas las áreas posibles. De igual forma, me gusta nadar, escuchar música y tocar la guitarra. Me comprometo a colaborar en todo momento con la elaboración de esta startup, y llegar a un trabajo sobresaliente. Mis habilidades son: responsabilidad, resolución de problemas, y disciplina.|<img src="Imagenes\estudiantesPerfil\perfilEstudiantes_Luciana.jpg" alt="" width="250px" />|
+|Mi nombre es **Maria Fernanda Peña Riofrio**, tengo 21 años, estudio el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona responsable y me gusta ayudar a las demás personas, esto sera evidenciado en el transcuros del proyecto ayudando a mis demás compañeros de equipo. En mis tiempos libres me gusta mucho leer, escuchar música e investigar sobre temas de mi interes.| <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/estudiantesPerfil/perfilEstudiantes_Mafer.jpg?raw=true" alt="" width="250px" /> |  
+|Mi nombre es **Maria Pilares Pocohuanca** tengo 22 años y estudio la carrera de ingeniería de software en la UPC. Desde niña tuve mucho interés por las matemáticas y la tecnología, motivo por el cual estudio una ingeniería enfocada más a la programación. Me considero una persona perseverante aunque algo impaciente. Sin embargo, como miembro del equipo me comprometo a colaborar con mis compañeros y realizar todas las indicaciones que se dicten, todo con el fin de presentar un buen proyecto.| <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/estudiantesPerfil/perfilEstudiantes_Mapa.jpg?raw=true" alt="" width="250px" /> | 
+|Mi nombre es **Rodrigo Jesus Salvador Rodriguez**, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y puntual en todo tipo de aspectos, esto lo voy a ver reflejado en este proyecto, como miembro de este equipo me comprometo a seguir las indicaciones al pie de la letra, seguir recomendaciones y apoyar siempre a mis compañeros para presentar el mejor proyecto grupal.|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/estudiantesPerfil/perfilEstudiantes_Rodrigo.png?raw=true" alt="" width="250px" />|
+|Mi nombre es **Luciana Celeste Sanchez Silva**, tengo 19 años y vivo en Lima. En la actualidad, me encuentro estudiando el 5to ciclo de la carrera de ingeniería de software en la UPC debido a que desde una edad temprana tuve una fascinación relacionada con el uso de la tecnología y la programación. En mi tiempo libre trato de crecer y expandir mi conocimiento en todas las áreas posibles. De igual forma, me gusta nadar, escuchar música y tocar la guitarra. Me comprometo a colaborar en todo momento con la elaboración de esta startup, y llegar a un trabajo sobresaliente. Mis habilidades son: responsabilidad, resolución de problemas, y disciplina.|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/estudiantesPerfil/perfilEstudiantes_Luciana.jpg?raw=true" alt="" width="250px" />|
 
 <div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
@@ -826,10 +826,6 @@ As-Is Scenario Mapping Veterinarios
 <img src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/As-Is%20Scenario%20Mapping%20Veterinarios.jpg">
 <a href="https://miro.com/app/board/uXjVI-QsOY4=/" target="_blank"> Acceder al Miro </a>
 
-<!--EDITANDO -->
-
-
-
 
 <!-- capitulo 3 -->
 <div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
@@ -939,9 +935,9 @@ Además, la selección de colores debe estar alineada con los valores de innovac
 
 |Código HEX|Color|
 |-|-|
-|#925930|<img src="Imagenes\PaletaColores\925930.png" alt="925930" width="200px">|
-|#79B267|<img src="Imagenes\PaletaColores\79B267.png" alt="79B267" width="200px">|
-|#f5f0e6|<img src="Imagenes\PaletaColores\f5f0e6.png" alt="f5f0e6" width="200px">|
+|#925930|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/PaletaColores/925930.png?raw=true" alt="925930" width="200px">|
+|#79B267|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/PaletaColores/79B267.png?raw=true" alt="79B267" width="200px">|
+|#f5f0e6|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/PaletaColores/f5f0e6.png?raw=true" alt="f5f0e6" width="200px">|
 </div>
 
 <h5> Colores secundarios:</h5>
@@ -949,9 +945,9 @@ Además, la selección de colores debe estar alineada con los valores de innovac
 
 |Código HEX|Color|
 |-|-|
-|#A3794F|<img src="Imagenes\PaletaColores\A3794F.png" alt="#A3794F" width="200px">|
-|#A3C4A8|<img src="Imagenes\PaletaColores\A3C4A8.png" alt="A3C4A8" width="200px">|
-|#d1bfa5|<img src="Imagenes\PaletaColores\d1bfa5.png" alt="d1bfa5" width="200px">|
+|#A3794F|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/PaletaColores/A3794F.png?raw=true" alt="#A3794F" width="200px">|
+|#A3C4A8|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/PaletaColores/A3C4A8.png?raw=true" alt="A3C4A8" width="200px">|
+|#d1bfa5|<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/PaletaColores/d1bfa5.png?raw=true" alt="d1bfa5" width="200px">|
 </div>
 
 <h5>Typography</h5>
@@ -959,17 +955,17 @@ La combinación de Tajawal y Work Sans aporta una estética moderna y accesible 
 
 Juntas comunican una marca que se dedica al agro digital con un enfoque en la inclusión, sostenibilidad e innovación, logrando un balance perfecto entre raíces locales y visión global.
 <div align="center">
-<img src="Imagenes\tipografia\Tajawal.png" alt="Tajawal" width="350px" >
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/tipografia/Tajawal.png?raw=true" alt="Tajawal" width="350px" >
  
 
-<img src="Imagenes\tipografia\WorkSans.png" alt="WorkSans" width="350px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/tipografia/WorkSans.png?raw=true" alt="WorkSans" width="350px">
 </div>
 <h5>Icons</h5>
 Se ha seleccionado el set de íconos Circum Icons diseñado por Klarr Agency. Este set, disponible en Iconify.design, ofrece una estética limpia, redondeada y moderna, ideal para reflejar los valores de accesibilidad, innovación y cercanía del sector agropecuario digital.
 
 Los íconos utilizados mantienen una línea uniforme y amigable, facilitando la navegación y mejorando la experiencia de usuario.
 
-<div align="center" > <img src="Imagenes/Uidesigns/iconosMuestra.png" alt="iconosMuestra" width="700px"> </div>
+<div align="center" > <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/iconosMuestra.png?raw=true" alt="iconosMuestra" width="700px"> </div>
 <div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
 El Web Style Guide de AgroTrace nos ayudó a mostrar una identidad visual coherente y accesible en toda la plataforma. Definimos colores, tipografías y elementos de diseño inspirados en el entorno rural para transmitir confianza, tecnología cercana y facilidad de uso.
 
@@ -1052,13 +1048,13 @@ Los sistemas de navegación deben estar diseñados para ser intuitivos, adaptado
 El wireframe de la landing page de AgroDigital actúa como una guía visual preliminar que organiza los elementos esenciales de la página sin entrar en detalles gráficos. Este esquema muestra la distribución de secciones clave como el encabezado con el logo y menú de navegación, una propuesta de valor centrada en la digitalización ganadera, testimonios de usuarios reales del campo, y llamadas a la acción destacadas que invitan a conocer la aplicación. El objetivo es garantizar una experiencia intuitiva para el visitante y facilitar su conversión en usuario activo de la plataforma. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=26-132&t=qT7oJSn8VnYsfiTX-1)
 
 <div style="text-align: center;">
-  <img src="Imagenes\Uidesigns\AgroDigitalLandingPWireframe.png" alt="LandingPageWireframe" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/AgroDigitalLandingPWireframe.png?raw=true" alt="LandingPageWireframe" width="500">
 </div>
 <div id='4.3.2.'><h4> 4.3.2. Landing Page Mock-up</h4></div>
 
 El mock-up de la landing page de AgroDigital representa una versión detallada y cercana al diseño final, integrando colores, tipografías e imágenes que reflejan la identidad visual de la plataforma. Este diseño ofrece una vista realista de cómo se presentará la página a los usuarios, destacando una estética moderna, accesible y alineada con el sector agroindustrial ganadero. Además, refuerza la importancia de mantener coherencia visual y claridad en la propuesta de valor, transmitiendo confianza, profesionalismo y compromiso con la innovación tecnológica en el campo. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=0-1&t=qT7oJSn8VnYsfiTX-1)
 <div style="text-align: center;">
-  <img src="Imagenes\Uidesigns\AgroDigitalMockUp.png" alt="LandingPageMockUp" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/AgroDigitalMockUp.png?raw=true" alt="LandingPageMockUp" width="500">
 </div>
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design</h3></div>
 <div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
@@ -1067,14 +1063,14 @@ Los wireframes de la aplicación web de AgroDigital representan la estructura y 
 
 
 <div style="text-align: center;">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 1.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 2.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 3.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 4.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 5.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 6.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 7.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\Wireframe - 8.png" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%201.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%202.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%203.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%204.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%205.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%206.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%207.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/Wireframe%20-%208.png?raw=true" alt="" width="500">
 </div>
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams</h4></div>
 
@@ -1082,41 +1078,41 @@ En esta sección se presentan los Wireflows para cada objetivo del usuario. Para
 
 - **Registro y Perfil del ganadero** El presente user flow corresponde con el formulario de registro que solicita el ingreso de la información del usuario.
 
- <img src="Imagenes\Uidesigns\wireflow1.png" alt="" width="600">
+ <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/wireflow1.png?raw=true" alt="" width="600">
 
 - **Gestión de Usuario** El presente user flow corresponde con la gestión de usuario, en el cual el usuario puede iniciar sesión, registrarse e interatuar con las funciones elementales de la aplicación.
 
- <img src="Imagenes\Uidesigns\wireflow2.png" alt="" width="600">
+ <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/wireflow2.png?raw=true" alt="" width="600">
 
  - **Agregar un animal** El presente user flow corresponde con la agregación de un animal al registro de ganado, especificando sus detalles.
 
-<img src="Imagenes\Uidesigns\wireflow3.png" alt="" width="600">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/wireflow3.png?raw=true" alt="" width="600">
 
  - **Control Ganado y Finanzas** El presente user flow corresponde con el control de los animales, registro de finanzas del ganadero y cuadros estadísticos del ganado.
 
-<img src="Imagenes\Uidesigns\wireflow4.png" alt="" width="600">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/wireflow4.png?raw=true" alt="" width="600">
 
 <div id='4.4.3.'><h4> 4.4.3. Web Applications Mock-ups</h4></div>
 
 En esta sección se presentan y explican los mock-ups de la aplicación web de AgroDigital, orientada al sector ganadero. Se evidencia la aplicación de principios clave de diseño visual, accesibilidad, arquitectura de información y el Design System desarrollado para este producto digital. Cada mock-up refleja cómo estos conceptos se integran en una interfaz pensada para facilitar la trazabilidad, el control sanitario y la gestión eficiente del ganado. Enlace para acceder al [Diseño en Figma](https://www.figma.com/design/KC4w4IRG6LaWaMxuSxhKNp/AgroDigital?node-id=21-575&t=qT7oJSn8VnYsfiTX-1)
 
-  <img src="Imagenes\Uidesigns\appWeb\MockUp1.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp2.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp3.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp4.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp5.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp6.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp7.png" alt="" width="500">
-  <img src="Imagenes\Uidesigns\appWeb\MockUp8.png" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp1.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp2.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp3.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp4.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp5.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp6.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp7.png?raw=true" alt="" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/MockUp8.png?raw=true" alt="" width="500">
 <div id='4.4.4.'><h4> 4.4.4. Web Applications User Flow Diagrams</h4></div>
   A continuación un diagrama que representa los user goals de AgroDigital:
 
-  <img src="Imagenes\Uidesigns\appWeb\AgroDigital.png" alt="User Flow Diagrams" width="500">
+  <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/AgroDigital.png?raw=true" alt="User Flow Diagrams" width="500">
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping</h3></div>
 
 A continuación, se detalla las interacciones entre el lading page y la aplicación web, incluyendo todos sus apartados principales.
 
-<img src="Imagenes\Uidesigns\appWeb\prototipo.png" alt="Prototipo" width="500">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/main/Imagenes/Uidesigns/appWeb/prototipo.png?raw=true" alt="Prototipo" width="500">
 
 Link para acceder al video explicando el prototipo en [Figma](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215979_upc_edu_pe/ESZcvYgAG-ZBvhVsG1Bek14Bb-op9udmxXXg0Xn47pbivQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jnao5x)
 
