@@ -1171,25 +1171,28 @@ Link del diagrama en [Lucidchart](https://lucid.app/lucidchart/0a62f2c2-3118-4a1
 <div id='4.7.2.'><h4> 4.7.2. Class Dictionary</h4></div>
 Diccionario de clases usado para el desarrollo de AgroDigital
 
-- **Animal:** Clase que representa un animal en el sistema, con atributos como especie, raza, edad y peso.
-- **HistorialDeCitas:** Clase que registra las citas veterinarias asociadas a un animal, incluyendo motivo y observaciones.
-- **Diagnostico:** Clase que almacena diagnósticos médicos generados a partir de citas veterinarias.
-- **Sanidad:** Clase que gestiona tratamientos o vacunas aplicados a un animal (fecha, tipo y descripción).
-- **Factura:** Clase que registra transacciones financieras (monto total, fecha y estado).
-- **MetodoPago:** Clase que define los métodos de pago disponibles (tarjeta, transferencia, etc.).
-- **Pago:** Clase que almacena los pagos realizados, asociados a una factura y un método.
-- **Academia:** Clase que gestiona cursos o materiales de capacitación (título, descripción y URL).
-- **Almacen:** Clase que representa un almacén físico (nombre, ubicación).
-- **Insumo:** Clase que gestiona productos en inventario (nombre, tipo, cantidad y fechas clave).
-- **Proveedor:** Clase que almacena información de proveedores de insumos (nombre y contacto).
-- **Usuario:** Clase que representa a los usuarios del sistema (nombre, correo y rol).
+| Clase | Descripción |
+|-------|-------------|
+|**Usuario**|Representa a los usuarios del sistema con sus credenciales y permisos. Atributos: nombre, email, password, rol, teléfono.|
+|**Credenciales**|Almacena temporalmente datos de autenticación (email y contraseña sin hashear).|
+|**Animal**|Entidad central que gestiona datos de animales. Atributos: especie, raza, sexo, fechaNacimiento, peso, estadoSalud.|
+|**Evento**|Gestiona actividades programadas para animales. Atributos: tipo (vacunación, revisión), fecha, prioridad, estado.|
+|**HistorialClinico**|Registro médico completo de un animal. Contiene todos los eventos y tratamientos aplicados.|
+|**RegistroMedico**|Entrada individual en el historial clínico. Atributos: tipo, fecha, descripción, observaciones.|
+|**Archivo**|Documentos adjuntos a registros médicos (PDFs, imágenes). Atributos: nombre, tipo, URL.|
+|**ControlEconomico**|Gestiona el balance financiero. Atributos: fechaInicio, fechaFin, transacciones asociadas.|
+|**Transaccion**|Movimiento económico (ingreso/gasto). Atributos: monto, fecha, categoría, descripción.|
+|**Balance**| Resumen financiero calculado. Atributos: ingresosTotales, gastosTotales, utilidad.|
+|**Reporte**|Genera análisis personalizados. Atributos: tipo (población, económico), filtros aplicados.|
+|**FiltroReporte**|Criterios para generar reportes. Atributos: especie, rangoEdad, estadoSalud.|
+
 
 
 <div id='4.8.'><h3> 4.8. Database Design</h3></div>
 Para este proyecto se optó por MySQL como sistema gestor de bases de datos debido a su escalabilidad, interfaz intuitiva y compatibilidad con los conocimientos previos del equipo en Microsoft SQL Server. Esta solución permite adaptar la capacidad de almacenamiento y procesamiento según las demandas evolutivas del negocio, garantizando un crecimiento acorde a los requerimientos del sistema.
 
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
-<img src="Imagenes/diagramas/AgroDigital_Database_Diagram-2025-04-18_21-58.png" alt="" width="470">
+<img src="Imagenes/diagramas/AgroDigital_Class_Diagram.png" alt="" width="470">
 
 Link del diagrama en [Vertabello](https://my.vertabelo.com/doc/HkMfD4RBQlSQgfXH9BeNvzXrga6xjzzb)
 
