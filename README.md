@@ -71,6 +71,19 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 </div>
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
 
+**TP**
+
+Para el desarrollo del informe perteneciente a la entrega TP, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nelson Guerrero|Correciones de las User Stories y Product Backlog|
+|María Peña|Correcciones del Capítulo IV: Product Design del 4.6 al 4.8.1|
+|María Pilares|Desarrollo de correcciones del documento y Avance del Sprint 2|
+|Rodrigo Salvador|Desarrollo de correcciones, Sprint 2 y desarrollo del Frontend Web Applications|
+|Luciana Sanchez|Desarrollo de correcciones del documento y Avance del Sprint 2|
+
+
 **Github Collaboration Insights**
 
 Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
