@@ -1087,15 +1087,38 @@ Se presenta tres niveles del modelo C4 trabajado con structurizr para el proyect
 
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
 
-<img src="Imagenes/diagramas/structurizr-101335-AgroDigitalSytemContext.png" alt="" width="470">
+<img src="Imagenes/diagramas/structurizr-101335-DiagramaContexto.png"  alt="" width="470">
 
 <div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
 
-<img src="Imagenes/diagramas/structurizr-101335-AgroDigitalContainer.png" alt="" width="470">
+<img src="Imagenes/diagramas/structurizr-101335-DiagramaContenedores.png" alt="" width="470">
 
 <div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
 
-<img src="Imagenes/diagramas/structurizr-101335-AgroDigitalComponents.png" alt="" width="470">
+**BC de autenticación**
+
+<img src="Imagenes/diagramas/structurizr-101335-Componentes_de_Autenticacion.png" alt="" width="470">
+
+**BC de eventos**
+
+<img src="Imagenes/diagramas/structurizr-101335-Componentes_de_Eventos.png" alt="" width="470">
+
+**BC de Gestion Animal**
+
+<img src="Imagenes/diagramas/structurizr-101335-Componentes_de_Gestion_Animal.png" alt="" width="470">
+
+**BC de Gestion Financiera**
+
+<img src="Imagenes/diagramas/structurizr-101335-Componentes_de_Gestion_Financiera.png" alt="" width="470">
+
+**BC de Gestión Sanitaria**
+
+<img src="Imagenes/diagramas/structurizr-101335-Componentes_de_Gestion_Sanitaria.png" alt="" width="470">
+
+**BC de Reportes**
+
+<img src="Imagenes/diagramas/structurizr-101335-Componentes_de_Reportes.png" alt="" width="470">
+
 
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
 
