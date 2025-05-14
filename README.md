@@ -1786,24 +1786,27 @@ En este sprint utilizamos los servicios básicos *Http* en conjunto con *JSON Se
 
 En este sprint 2, continuamos utilizando el servicio de *auto despliegue de Vercel* para garantizar una implementación continua y eficiente de la aplicación web. El proceso de despliegue se mantiene consistente con los pasos previamente establecidos, asegurando una integración fluida y sin interrupciones en el flujo de trabajo. Esto permite que las actualizaciones y mejoras se reflejen de inmediato en la aplicación web, ofreciendo una experiencia optimizada para los usuarios finales.
 
-*Proceso de despliegue en Vercel:*
+*Proceso de despliegue en Netfly:*
 
-1. Entrar a *Vercel*:  
-   ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.016.png)
+1. Entrar a *Netfly*:  
+
 
 2. Seleccionar la opción *“Deploy con GitHub”*:  
-   ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.017.png)
+
 
 3. Seleccionar la organización y buscar el repositorio del proyecto *“cartunn-frontend”* que deseamos subir a producción.
 
 4. Agregar la configuración necesaria para el despliegue:  
-   ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.018.png)
 
 5. Finalmente, presionar el botón con el nombre del proyecto para desplegar.
 
 *Link de la Landing Page:*  
 [https://gantrace.github.io/LandingPage-AgroDigital/](https://gantrace.github.io/LandingPage-AgroDigital/)
 
+*Link del Front End*
+ [FrontEnd](https://agrodigital.netlify.app/login)
+
+ ![sesion](Imagenes/Evidence_sprint2/exec_inicio_sesion.png)
 
 
 
