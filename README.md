@@ -1165,7 +1165,7 @@ Diccionario de clases usado para el desarrollo de AgroDigital
 Para este proyecto se optó por MySQL como sistema gestor de bases de datos debido a su escalabilidad, interfaz intuitiva y compatibilidad con los conocimientos previos del equipo en Microsoft SQL Server. Esta solución permite adaptar la capacidad de almacenamiento y procesamiento según las demandas evolutivas del negocio, garantizando un crecimiento acorde a los requerimientos del sistema.
 
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
-<img src="Imagenes/diagramas/AgroDigital_Database_Diagram-2025-04-18_21-58.png" alt="" width="470">
+<img src="Imagenes/diagramas/AgroDigital_Class_Diagram.png" alt="" width="470">
 
 Link del diagrama en [Vertabello](https://my.vertabelo.com/doc/HkMfD4RBQlSQgfXH9BeNvzXrga6xjzzb)
 
