@@ -127,12 +127,11 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 
 **TP**
 
-![Commit_Graph]()
-![Commit_Graph_Individual1]()
-![Commit_Graph_Individual2]()
-![Commit_Graph_Individual3]()
+![Commit_Graph](https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/GithubRepositoryImages/Contributors5.jpg?raw=true)
+![Commit_Graph_Individual1](https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/GithubRepositoryImages/Contributors6.jpg?raw=true)
 
-![Pull_Graphs]()
+
+![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/GithubRepositoryImages/Pulse.jpg)
 
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
