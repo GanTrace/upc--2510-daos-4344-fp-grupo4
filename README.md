@@ -1124,7 +1124,7 @@ Se presenta tres niveles del modelo C4 trabajado con structurizr para el proyect
 
 <div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
 
-<img src="Imagenes/diagramas/Class Diagram.png" alt="" width="470"> 
+<img src="Imagenes/diagramas/AgroDigital_Class_Diagram.png" alt="" width="470"> 
 
 Link del diagrama en [Lucidchart](https://lucid.app/lucidchart/0a62f2c2-3118-4a1d-8828-580a70e3321e/edit?viewport_loc=-3835%2C-5934%2C4252%2C1417%2C0_0&invitationId=inv_d46d805a-ec6c-4f2f-b48f-024381f58440)
 
