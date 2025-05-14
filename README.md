@@ -1664,6 +1664,89 @@ Link del Trello: https://trello.com/invite/b/6824b282727b39fb321041b0/ATTIce885c
 
 Como parte de las evidencias del sprint review, se demuestran mediante una tabla. Como el sprint #2 abarca la versión final de frontend. Asimismo, desarrollo de la versión final de backend, se muestran los commits de ambos repositorios.
 
+|Repository| Branch | Commit id | Commit Message | Commit Message Body | Commited On(Date)|
+|----------|--------|---------- |----------------|-------------------- |------------------|
+|GanTrace/AgroDigital-FrontendApp |features/settings|cde40362c611bf6b6ce42b7ee0105686d4ed38e8 | feat(economic-control): add logout button and dynamic user name |-|3/05/2025 |
+|  |feature/settings|758ff5527f92a778fd96708de1585bcd8d3f1989|feat(events): add logout functionality and dynamic user name|-| 13/05/2025 |
+|  |feature/settings|9537b69dffa51d4fc342aeb61e60569a5cf85515|feat(medical-history): add logout button and dynamic user name|- |13/05/2025|
+|  |feature/settings|bee8fb3ca30ac16b46c072237504aebc20c5d6ae|feat(reports): add logout button and dynamic user name display |- |13/05/2025 |
+|  |feature/settings|9f87eaa9445c75a358462226e69b68fed7ad70e1|feat(settings): add password visibility and profile update functionality|-|13/05/2025|
+|  |feature/settings|7ea5e37e55f4dccb0e82dd3544c5ae5250d9dbd5|feat(dashboard): enhance UI with welcome section, search, and improved animal cards|-|13/05/2025|
+|  |feature/settings|472c0aea2a061098954a8c2c61b273885da07156|feat(rancher): add animals component with basic template and tests|-|13/05/2025|
+|  |feature/settings|b05df9ed8e329a1319a3ac33df01a0bd3fa23d6a|feat(animals): implement animal form and navigation|-|13/05/2025|
+|  |feature/settings|2d728c0d0776d25dff16b224aa84aa5e1058556e|feat(routing): add AnimalsComponent route to app.routes.ts|-|13/05/2025|
+|  |feature/settings|9095f23bb99dab6873ea5a34be877b7d3a432c2d|feat(notifications): add notifications component |-|13/05/2025|
+|  |feature/settings|c82b9f3c0abeb0411364f389693c1988f998d27b|feat(dashboard): add toggleable notifications component  |-|13/05/2025|
+|  |feature/settings|066772950d9c29544ac8a984f188d9f263d9a347|feat(notifications): implement notifications panel with dynamic content and styling|-|13/05/2025|
+|  |feature/settings|58e6eee9f9c64382a90ccad66fbaa2e2c7a03257|feat(reports): add notifications toggle functionality|-|13/05/2025|
+|  |feature/settings|fa6028579dad706ff62c55a662a7788643201d90|feat(medical-history): add notifications component and toggle functionality|-|13/05/2025|
+|  |feature/settings|a148936f89121d1fafeba398f413cb4eb7451b66|feat(events): add notifications toggle functionality|-|13/05/2025|
+|  |feature/settings|bc8c279eb56971d3bbacb0ba926e24708cf5b7a0|feat(economic-control): add notifications toggle functionality|-|13/05/2025|
+|  |feature/settings|c0bdf8e35fe6983904e48d4a2fec27502cca31ce|feat(animals): add notifications toggle functionality|-|13/05/2025|
+|  |feature/settings|35e052147105da9c8752e27fbd68fed2769c2082|feat(settings): add notifications component and update user profile logic|-|13/05/2025|
+|  |feature/i18n|ea7b3b898b7a7932fdf416d72aba99491fc7c5df|refactor(app.config.ts): simplify http client configuration|-|11/05/2025|
+|  |feature/i18n|0b9410a9fd119b6f9c8269d52e4035207ec53127|refactor(register): improve layout and styling of registration form|-|11/05/2025|
+|  |feature/i18n|c9f42f6f3c19a3c5954a6879f240307031e7b497|feat(register): add password strength validation and error handling|-|11/05/2025|
+|  |feature/i18n|c55ea35d648cc1f1c71e28df3efe5f89e668e04c|feat(routing): add register route to app routes|-|11/05/2025|
+|  |feature/i18n|b045853c19f36d2e156a9c86bfe65ebd7ebc7721|refactor(auth.service): replace mock login with API calls and update interfaces|-|11/05/2025|
+|  |feature/i18n|600a225e1c34103fbd44a0c171866132d0a65c20|style(app.routes.ts): fix indentation for route definitions|-|11/05/2025|
+|  |feature/i18n|d548b85585b851d9d3183e71be3e5d460bb9c7e7|refactor(auth): improve type safety in auth service and remove unused routes|-|11/05/2025|
+|  |feature/i18n|88dfa8fd6bbf8255c794dab6cfe0996dcdda6959|refactor(login): remove login component and related files|-|11/05/2025|
+|  |feature/i18n|83883e155bf2b53f228a74fb697c71f85c9ccc8c|feat(routing): add app routes configuration for navigation|-|11/05/2025|
+|  |feature/i18n|7c0e683aaff5d91ccfc23c0c8c3f2b9ac5c5f314|feat(login): add login component with form and styling|-|11/05/2025|
+|  |feature/i18n|4547320ba6c718ba249a9da3c0741084fc1c0985|refactor(login): remove login component HTML file|-|11/05/2025|
+|  |feature/i18n|5636c4254092a5a3db9b53d25ce807b2a95300d9|refactor: remove unnecessary imports and whitespace in app config|-|11/05/2025|
+|  |feature/i18n|c77e98fd7970512e8d15cf95f2b09be887a84d6f|feat(login): add form validation and improve UI styling|-|11/05/2025|
+|  |feature/i18n|dd49cc751b4669a3922395c7b2b640e240c533df|feat(register): enhance registration form with password validation and error handling|-|11/05/2025|
+|  |feature/i18n|32a29c345f12836641bb5523858390201c7a733a|refactor(auth.service): update return types to use User interface|-|11/05/2025|
+|  |feature/i18n|b9c70c70869647f786ed8b6479af9d016c8f022a|refactor(login): restructure HTML for improved readability and maintainability|-|11/05/2025|
+|  |feature/i18n|fca8d0b63cf51d889151d3ffc45667cae5357e80|refactor(login): update image paths for logo and cover|-|11/05/2025|
+|  |feature/Register|07cc2bac709b4a38d3aa9a79dde74b5af1e3d3e9|feat(i18n): add English and Spanish translation files for login, register, and footer|-|12/05/2025|
+|  |feature/Register|89e976df218b030459a7574ec2e39fd069bc8709|feat(i18n): add translation support using ngx-translate|-|12/05/2025|
+|  |feature/Register|05073d6b2a8ef04286623768e700ce7123e806c7|feat(language-switcher): implement language switcher component with dropdown|-|12/05/2025|
+|  |feature/Register|4e3b06db5b36688736882e41dcfbc350a5ee1a79|feat(login): add language switcher and translation support|-|12/05/2025|
+|  |feature/Register|4be5b9a1d316bb6964cefca9ac34f26c92c1a15c|feat(register): add multilingual support and language switcher|-|12/05/2025|
+|  |feature/Register|a6236646b0fae0c453bfc35676992a5873a7eb7b|feat(i18n): add new translations for dashboard, events, medical history, economic control, and reports|-|12/05/2025|
+|  |feature/Register|3b5450f28ebaa1e3f31374888762910ae3fcd6e5|feat(dashboard): add language support and improve UI styling|-|12/05/2025|
+|  |feature/Register|7ce68b35919900aaca2b290cadcf5259a77aa8d9|feat(economic-control): add language switcher and translation support|-|12/05/2025|
+|  |feature/Register|b2eb832545512fcb15d46e856f32e0105c91998c|feat(i18n): add translation support to events component|-|12/05/2025|
+|  |feature/Register|d6ebdab502e9fe5b3a9f420981ae38e97cbd61db|feat(medical-history): add language support and switcher component|-|12/05/2025|
+|  |feature/Register|4ef359102ee1ee0fc1a91ae277eec9aaaf55fae7|feat(reports): add language support and restructure user section|-|12/05/2025|
+|  |feature/Register|d779b25a3b6e32632650156dc0c8b7ccdb3cd98e|style: update CSS for consistent styling and improved readability|-|12/05/2025|
+|  |feature/Register|43ddbf905be3fcd1fd6f7edd67b2d7dcb6530805|refactor(register): improve UI and form handling for registration page|-|12/05/2025|
+|  |feature/Register|4533ca0bcf1e5c273600f98a380f22406dfb3b56|feat(auth): add user session management and role assignment|-|12/05/2025|
+|  |feature/Register|1429810f0827b14161b60f7f84d2f7b1091119e7|feat: add initial user data to db.json|-|12/05/2025|
+|  |feature/Rancher|d25e01e3c0590426bb075ae0ffce6194f94b2a59|feat: add password field to Rodrigo and new user Nelson|-|14/05/2025|
+|  |feature/Rancher|ab31a6ceedf7edcf3fd381f6b45171ae2db73a5c|chore: add animal images to public directory|-|14/05/2025|
+|  |feature/Rancher|9a86ad4596454fe2fa6455e6a6b482d436e82b1a|chore: add new images to public directory for website content|-|14/05/2025|
+|  |feature/Rancher|cb631666c6075987088bdb43a8e8cbb110e3e120|refactor(rancher): update image paths and animal count for consistency|-|14/05/2025|
+|  |feature/Rancher|3320221e5a5df7b9c2ef06b4b7a9adfbd46c919e|feat(header-component): add new header component with navigation and user section|-|14/05/2025|
+|  |feature/Rancher|84b2a283186241c9c213a97d43a9f9a01ef260d5|refactor(components): replace header markup with HeaderComponent|-|14/05/2025|
+|  |feature/Rancher|be5e3280413e47f3bf5f59595783cbba44bdfeda|feat(settings): add delete profile photo functionality|-|14/05/2025|
+|  |feature/Rancher|d8194e32afbc56aa49542ff4238b8d70ae365b18|chore: update favicon to AgroDigital_Logo.png|-|14/05/2025|
+|  |feature/Rancher|1dde3c87258e258221c04de2b680c812aafffb9b|feat(events): add event service and enhance event filtering|-|14/05/2025|
+|  |feature/Rancher|f4891039ed67b3c60902d852bd231c26799da2b2|feat(notifications): add translations and improve notification component|-|14/05/2025|
+|  |feature/Rancher|0ac188ec2cabdb7d05198bf7e8819316163f29c7|feat(economic-control): add navigation and economic service integration|-|14/05/2025|
+|  |feature/Rancher|dfff21ba18108af3a26605c54d6b7e97ce14c2b0|feat: add add-income component for economic control|-|14/05/2025|
+|  |feature/Rancher|d7b11f53b6f0b49c3fcecc31b05f9153c1caedda|feat(expense): add expense component with form and routing|-|14/05/2025|
+|  |feature/Rancher|a11ffb1fdd571c5a4bcf997b47e8357a8087b23c|style: update global styles for body and app-root|-|14/05/2025|
+|  |feature/Rancher|3af242add260ed194fd8e30f2b863d1ba213303d|chore: add start script for JSON server|-|14/05/2025|
+|  |feature/Rancher|c6ffc74c8d1e9962f431dd8719debd40be558afd|chore: remove unused profile component files|-|14/05/2025|
+|  |feature/Rancher|e30b8a0130ff78a8bc27c1b9004895a8135dcdb8|refactor: remove redundant comments and clean up code|-|14/05/2025|
+|  |feature/Rancher|fdc60e3edb0e0803896a0a886c6e1968a1732f42|refactor(notifications): remove redundant comments for cleaner code|-|14/05/2025|
+|  |feature/Login|9039995bfc33c898d0032dcb66b300d16a9dcc74|feat(login): enhance login form validation and error handling|-|13/05/2025|
+|  |feature/Login|8ce914f87544b344e3229168044ca588d804c4b6|refactor(register): define RegisterPayload interface locally|-|13/05/2025|
+|  |feature/Login|81c4c2e14e6f6e0fa2a99da3202b5b5a5a1eb5a4|feat(dashboard): add logout functionality and dynamic user data|-|13/05/2025|
+|  |feature/Login|a734865a3d54f8d7431bdcd6c1ecbf282d862a98|refactor(auth): improve user authentication and storage handling|-|13/05/2025|
+|  |feature/Login|92ddaccada6cbe283ed4467abbeda6ab29957aea|feat: add new user to the database|-|13/05/2025|
+|  |feat/images|d25e01e3c0590426bb075ae0ffce6194f94b2a59|feat: add password field to Rodrigo and new user Nelson|-|14/05/2025|
+|  |feat/images|ab31a6ceedf7edcf3fd381f6b45171ae2db73a5c|chore: add animal images to public directory|-|14/05/2025|
+|  |feat/images|9a86ad4596454fe2fa6455e6a6b482d436e82b1a|chore: add new images to public directory for website content|-|14/05/2025|
+|  |feat/images|cb631666c6075987088bdb43a8e8cbb110e3e120|refactor(rancher): update image paths and animal count for consistency|-|14/05/2025|
+|  |feat/images|3320221e5a5df7b9c2ef06b4b7a9adfbd46c919e|feat(header-component): add new header component with navigation and user section|-|14/05/2025|
+|  |feat/images|84b2a283186241c9c213a97d43a9f9a01ef260d5|refactor(components): replace header markup with HeaderComponent|-|14/05/2025|
+|  |feat/images|be5e3280413e47f3bf5f59595783cbba44bdfeda|feat(settings): add delete profile photo functionality|-|14/05/2025|
+
 
 <div id='5.2.2.5.'><h5> 5.2.2.5.Execution Evidence for Sprint Review.</h5></div>
 
