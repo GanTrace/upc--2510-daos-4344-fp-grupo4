@@ -289,7 +289,7 @@ A través del diseño de una interfaz sencilla, modular y adaptable, que permita
 Según datos de organismos agrícolas en la región, más del 70% de los pequeños ganaderos no cuentan con sistemas de registro adecuados. Esto repercute directamente en la pérdida de animales, baja productividad, incumplimiento de normas sanitarias y dificultades para acceder a mercados formales.
 
 ###### ¿Qué porcentaje del personal de la industria se verá beneficiado por el servicio?
-Se estima que un 40% a 60% de los ganaderos familiares y asociaciones ganaderas podrían beneficiarse del uso de AgroDigital, especialmente en regiones rurales donde el acceso a tecnología aún es limitado pero creciente.
+Se estima que un 40% a 60% de los ganaderos familiares y asociaciones ganaderas podrían beneficiarse del uso de AgroDigital, especialmente en los sectores rurales donde el acceso a tecnología aún es limitado pero creciente.
 
 
 ---
