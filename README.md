@@ -1329,7 +1329,13 @@ Para implementar la landing page, se requieren los siguientes elementos previos:
 
 Enlace para acceder a la [landing page](https://gantrace.github.io/LandingPage-AgroDigital/)
 
-<!-- **Front End Web Application deployment** -->
+**Front End Web Application deployment**
+
+Para poder desplegar el Front End Web Application resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+[Ingresar a AgroDigital](https://gantrace.github.io/AgroDigital--FrontendApp/)
+
+
 
 <div id='5.2'><h3> 5.2. Landing Page, Services & Applications implementation </h3></div>
 <div id='5.2.1.'><h4> 5.2.1. Sprint 1.</h4></div>
@@ -1586,7 +1592,7 @@ Link del Trello: https://trello.com/invite/b/6824b282727b39fb321041b0/ATTIce885c
             <td>US016</td>
             <td>Registrar nuevo usuario</td>
             <td>UT12</td>
-            <td>Sección de Nueva Cuent</td>
+            <td>Sección de Nueva Cuenta</td>
             <td>Implementar cuadros de texto que permita a nuevos usuarios registrarse en la app</td>
             <td>2.5</td>
             <td>Camila Sanchez</td>
@@ -1614,13 +1620,13 @@ Link del Trello: https://trello.com/invite/b/6824b282727b39fb321041b0/ATTIce885c
         </tr>
         <tr>
             <td>US07</td>
-            <td>Resgitrar Vacunación</td>
+            <td>Registrar Vacunación</td>
             <td>UT15</td>
-            <td>Sección "Hisorial Clínica" </td>
+            <td>Sección "Historial Clínico" </td>
             <td>Implementar botones y cuadros de texto que permitan modificar los datos del animal como su vacunas</td>
             <td>2</td>
             <td>Rodrigo Salvador</td>
-            <td>Done</td>
+            <td>In Process</td>
         </tr>
         <tr>
             <td>US08</td>
@@ -1640,7 +1646,7 @@ Link del Trello: https://trello.com/invite/b/6824b282727b39fb321041b0/ATTIce885c
             <td>Implementar datos que permitean vel el ingreso semanal</td>
             <td>1.5</td>
             <td>Maria Pilares</td>
-            <td>Done</td>
+            <td>To Review</td>
         </tr>
          <tr>
             <td>US10</td>
