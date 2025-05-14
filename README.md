@@ -1122,44 +1122,44 @@ Se presenta tres niveles del modelo C4 trabajado con structurizr para el proyect
 
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
 
-<img src="Imagenes/diagramas/structurizr-101335-DiagramaContexto.png"  alt="" width="470">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-DiagramaContexto.png?raw=true"  alt="" width="470">
 
 <div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
 
-<img src="Imagenes/diagramas/structurizr-101335-DiagramaContenedores.png" alt="" width="470">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-DiagramaContenedores.png?raw=true" alt="" width="470">
 
 <div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams</h4></div>
 
 **BC de autenticación**
 
-<img src="Imagenes/diagramas/structurizr-101335-Componentes_de_Autenticacion.png" alt="" width="470">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-Componentes_de_Autenticacion.png?raw=true" alt="" width="470">
 
 **BC de eventos**
 
-<img src="Imagenes/diagramas/structurizr-101335-Componentes_de_Eventos.png" alt="" width="470">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-Componentes_de_Eventos.png?raw=true" alt="" width="470">
 
 **BC de Gestion Animal**
 
-<img src="Imagenes/diagramas/structurizr-101335-Componentes_de_Gestion_Animal.png" alt="" width="470">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-Componentes_de_Gestion_Animal.png?raw=true" alt="" width="470">
 
 **BC de Gestion Financiera**
 
-<img src="Imagenes/diagramas/structurizr-101335-Componentes_de_Gestion_Financiera.png" alt="" width="470">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-Componentes_de_Gestion_Financiera.png?raw=true" alt="" width="470">
 
 **BC de Gestión Sanitaria**
 
-<img src="Imagenes/diagramas/structurizr-101335-Componentes_de_Gestion_Sanitaria.png" alt="" width="470">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-Componentes_de_Gestion_Sanitaria.png?raw=true" alt="" width="470">
 
 **BC de Reportes**
 
-<img src="Imagenes/diagramas/structurizr-101335-Componentes_de_Reportes.png" alt="" width="470">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/structurizr-101335-Componentes_de_Reportes.png?raw=true" alt="" width="470">
 
 
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design</h3></div>
 
 <div id='4.7.1.'><h4> 4.7.1. Class Diagrams</h4></div>
 
-<img src="Imagenes/diagramas/AgroDigital_Class_Diagram.png" alt="" width="470"> 
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/AgroDigital_Class_Diagram.png?raw=true" alt="" width="470"> 
 
 Link del diagrama en [Lucidchart](https://lucid.app/lucidchart/0a62f2c2-3118-4a1d-8828-580a70e3321e/edit?viewport_loc=-3835%2C-5934%2C4252%2C1417%2C0_0&invitationId=inv_d46d805a-ec6c-4f2f-b48f-024381f58440)
 
@@ -1187,7 +1187,7 @@ Diccionario de clases usado para el desarrollo de AgroDigital
 Para este proyecto se optó por MySQL como sistema gestor de bases de datos debido a su escalabilidad, interfaz intuitiva y compatibilidad con los conocimientos previos del equipo en Microsoft SQL Server. Esta solución permite adaptar la capacidad de almacenamiento y procesamiento según las demandas evolutivas del negocio, garantizando un crecimiento acorde a los requerimientos del sistema.
 
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram</h4></div>
-<img src="Imagenes/diagramas/AgroDigital_Class_Diagram.png" alt="" width="470">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/diagramas/AgroDigital_Class_Diagram.png?raw=true" alt="" width="470">
 
 Link del diagrama en [Vertabello](https://my.vertabelo.com/doc/HkMfD4RBQlSQgfXH9BeNvzXrga6xjzzb)
 
@@ -1478,7 +1478,7 @@ Link del Trello: https://trello.com/b/I1kLkHX3
 <div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5></div>
 En este sprint logramos desarrollar nuestra landing page, utilizango HTML y CSS con su respectivo despliegue. Acá se muestra evidencia: 
 
-<img src="Imagenes/Evidence_sprint1/Execution_Evidence_Sprint1.png" alt="" width="700px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/Execution_Evidence_Sprint1.png?raw=true" alt="" width="700px">
 
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
 
@@ -1487,11 +1487,11 @@ Para este Sprint, como es el primero y se desarrolló la landing page, por lo qu
 <div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
 Para la entrega del Sprint 1, se desarrolló y desplegó la landing page. El despliegue lo realizó nuestro compañero Rodrigo Salvador.
 
-<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_1_sprint1.png" alt="" width="700px">
-<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_2_sprint1.png" alt="" width="700px">
-<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_3_sprint1.png" alt="" width="700px">
-<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_4_sprint1.png" alt="" width="700px">
-<img src="Imagenes/Evidence_sprint1/Deployment_Evidence_5_sprint1.png" alt="" width="700px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/Deployment_Evidence_1_sprint1.png?raw=true" alt="" width="700px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/Deployment_Evidence_2_sprint1.png?raw=true" alt="" width="700px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/Deployment_Evidence_3_sprint1.png?raw=true" alt="" width="700px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/Deployment_Evidence_4_sprint1.png?raw=true" alt="" width="700px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/Deployment_Evidence_5_sprint1.png?raw=true" alt="" width="700px">
 
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
 El desarrollo del informe se organizó repartiendo el trabajo, cada integrante realizó, aportes específicos:
@@ -1504,8 +1504,8 @@ El desarrollo del informe se organizó repartiendo el trabajo, cada integrante r
 |Salvador Rodriguez, Rodrigo Jesus|Desarrollo del Capítulo I: Introducción, Capítulo III: Requirements Specification y Capítulo V: Product Implementation, Validation & Deployment del 5.1 al 5.1.4|
 |Sanchez Silva, Luciana Celeste|Desarrollo del Capítulo IV: Product Design del 4.1 al 4.4. del documento en formato markdown. Incluyendo diseño del landing page y web application|
 
-<img src="Imagenes/Evidence_sprint1/collaborations_insights.png" alt="" width="650px">
-<img src="Imagenes/Evidence_sprint1/collaborations_insights_pt2.png" alt="" width="650px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/collaborations_insights.png?raw=true" alt="" width="650px">
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint1/collaborations_insights_pt2.png?raw=true" alt="" width="650px">
 
 
 <div id='5.2.2.'><h4> 5.2.2. Sprint 2.</h4></div>
@@ -1554,7 +1554,7 @@ Esta organización permitió trabajar con enfoque, agilidad y orden en cada aspe
 
 En el segundo sprint backlog, el equipo terminó de corregir y completar la landing page y el inicio del front-end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades. El objetivo principal del sprint era arreglar los bugs, agregar la internacionalización de la landing page y construir en su totalidad la web application, logrando que sea atractiva y funcional.
 
-<img alt="TrelloSprint2" src="Imagenes/Evidence_sprint2/TrelloSprint2.jpg">
+<img alt="TrelloSprint2" src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint2/TrelloSprint2.jpg?raw=true">
 
 Link del Trello: https://trello.com/invite/b/6824b282727b39fb321041b0/ATTIce885c2edbee0ec2381e508ff5a8acd0E62AE026/agrodigital-sprint-2 
 
