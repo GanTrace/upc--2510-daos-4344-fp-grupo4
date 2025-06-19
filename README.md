@@ -1946,11 +1946,167 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 <div id='5.2.3.6.'><h5> 5.2.3.6. Services Documentation Evidence.</h5></div>
 <div id='5.2.3.7.'><h5> 5.2.3.7. Software Deployment Evidence for Sprint Review.</h5></div>
 <div id='5.2.3.8.'><h5> 5.2.3.8. Team Collaboration Insights during Sprint.</h5></div>
-<div id='5.3.'><h3> 5.3. Validation Interviews.</h4></div>
-<div id='5.3.1.'><h4> 5.3.1. Diseño de entrevistas.</h5></div>
-<div id='5.3.2.'><h4> 5.3.2. Registro de Entrevistas.</h5></div>
-<div id='5.3.3.'><h4> 5.3.3. Evaluaciones según heurísticas.</h5></div>
-<div id='5.3.'><h3> 5.4. Video About-the-Product.</h4></div>
+
+<div id='5.3.'><h3> 5.3.Validation Interviews</h3></div>
+
+En esta sección se presenta a detalle las entrevistas de validación de producto realizadas.
+
+<div id='5.3.1'><h4> 5.3.1.Diseño de entrevistas</h4></div>
+
+Para el diseño de entrevistas se consideraron los siguientes aspectos:
+
+**Objetivo de la Entrevista**
+
+Validar la usabilidad y efectividad de la landing page y la aplicación para cada uno de los segmentos de usuarios, asegurando que ambos flujos de usuario sean intuitivos y satisfactorios.
+
+Landing Page: Los usuarios interactuarán con la landing page para evaluar la claridad del mensaje, las llamadas a la acción (CTA), la navegación y el diseño.
+Aplicación: Se guiará a los usuarios a través de flujos principales, como la inserción de un nuevo animal, el registro de controles medicos y financieros, y el control estadístico de los animales. 
+
+Datos del Entrevistado:
+- Nombre y apellidos
+- Edad
+- Departamento y distrito de residencia
+- Dispositivo utilizado (smartphone, tablet, laptop, pc)
+
+**Segmento 1: Ganaderos**
+
+- ¿La aplicación fue fácil de entender en tu primer uso?
+
+- ¿Lograste registrar tus animales sin dificultad?
+
+- ¿Te resultó útil ver un resumen del estado de tus animales?
+
+- ¿Qué tan clara fue la navegación entre las secciones?
+
+- ¿Pudiste ingresar eventos como vacunas o nacimientos fácilmente?
+
+- ¿Crees que esta herramienta puede reemplazar tus cuadernos físicos o registros tradicionales?
+
+- ¿Hubo algo que te confundió o que no funcionó como esperabas?
+
+- ¿Cuánto tiempo te tomó aprender a usar la app?
+
+- ¿Consideras que la información presentada es suficiente para tomar decisiones sobre tu ganado?
+
+- ¿Sientes que los colores y botones están bien distribuidos y son cómodos de leer?
+
+- ¿Qué tan útil encuentras el acceso desde el celular en tu trabajo diario?
+
+- ¿Qué funcionalidad te gustaría que se agregue en el futuro?
+
+- ¿Hubo algún problema técnico (como lentitud o errores)?
+
+- ¿Recomendarías esta aplicación a otros ganaderos?
+
+**Segmento 2: Veterinarios**
+
+- ¿La app te permitió visualizar con claridad el historial médico de cada animal?
+
+- ¿Pudiste registrar tratamientos o diagnósticos de manera eficiente?
+
+- ¿Sientes que la aplicación reduce el tiempo que necesitas para organizar tus visitas?
+
+- ¿Te resultó intuitivo buscar un animal específico dentro de un hato?
+
+- ¿Consideras que el diseño es adecuado para el trabajo en campo (uso desde celular, Tablet o laptop)?
+
+- ¿Fue fácil coordinar visitas o agendar seguimientos?
+
+- ¿La opción de visualizar reportes médicos te pareció clara y útil?
+
+- ¿Tuviste alguna dificultad técnica al usar la aplicación?
+
+- ¿Te gustaría poder compartir diagnósticos o recetas directamente con los ganaderos desde la app?
+
+- ¿Sientes que te da suficiente contexto sobre cada animal al momento de atenderlo?
+
+- ¿Qué funcionalidades crees que mejorarían tu experiencia como veterinario?
+
+- ¿Hay alguna parte del flujo que te pareció innecesaria o lenta?
+
+- ¿Cómo calificarías la precisión y organización de la información en la aplicación?
+
+- ¿Te gustaría usar esta app como herramienta oficial de trabajo en campo?
+
+<div id='5.3.2'><h4> 5.3.2.Registro de entrevistas</h4></div>
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios del primer segmento:
+<p align="center"><strong>Segmento Ganaderos</strong></p>
+
+| **Entrevista 1** ||
+|:-:|:-:|
+| Nombre | Josep Melgarejo Quiroz |
+|Edad| 20 |
+|Departamento| Lima |
+|Distrito| Huaral |
+|Minuto de inicio||
+|Captura de la entrevista|imagen|
+|Link de la entrevista|link|
+
+| **Entrevista 2** ||
+|:-:|:-:|
+| Nombre |  |
+|Edad|  |
+|Departamento|  |
+|Distrito|  |
+|Minuto de inicio||
+|Captura de la entrevista||
+|Link de la entrevista||
+
+| **Entrevista 3** ||
+|:-:|:-:|
+| Nombre |  |
+|Edad|  |
+|Departamento|  |
+|Distrito|  |
+|Minuto de inicio||
+|Captura de la entrevista||
+|Link de la entrevista||
+
+<p align="center"><strong>Segmento Veterinarios</strong></p>
+
+| **Entrevista 1** ||
+|:-:|:-:|
+| Nombre |  |
+|Edad|  |
+|Departamento|  |
+|Distrito|  |
+|Minuto de inicio||
+|Captura de la entrevista||
+|Link de la entrevista||
+
+| **Entrevista 2** ||
+|:-:|:-:|
+| Nombre |  |
+|Edad|  |
+|Departamento|  |
+|Distrito|  |
+|Minuto de inicio||
+|Captura de la entrevista||
+|Link de la entrevista||
+
+| **Entrevista 3** ||
+|:-:|:-:|
+| Nombre |  |
+|Edad|  |
+|Departamento|  |
+|Distrito|  |
+|Minuto de inicio||
+|Captura de la entrevista||
+|Link de la entrevista||
+
+<div id='5.3.3'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
+
+
+
+<div id='5.4.'><h3> 5.4.Video About The Product</h3></div>
+
+| **Sección** | **Descripción** |
+|:-:|:-:|
+| Resumen del Video |  |
+|Pauta de secuencias de contenido| 00:00:00: Introducción <br>00:00:10: Features<br>00:01:08: Recorrido del ganadero<br>00:03:45: Recorrido del veterinario<br>00:06:32: Cierre y conclusiones |
+|Captura representativa||
+|Link del video||
 
 <div id='6.'><h2> 6. Conclusiones</h2></div>
 
