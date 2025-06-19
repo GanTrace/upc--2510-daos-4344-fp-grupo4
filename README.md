@@ -57,12 +57,19 @@ width=50%"/>
 |2.5|14/05/2025|Guerrero N.|Desarrollo de correcciones en el User Story y Product Backlog|
 |2.6|14/05/2025|Peña M.|Desarrollo de Correcciones del Product Design (Diagramas)|
 |2.7|14/05/2025|Peña M.|Desarrollo del Sprint 2|
+|3.1|12/06/2025|Sanchez L.|Corrección de secciones del frontend|
+|3.2|15/06/2025|Sanvador R.|Inicio del Desarrollo del Backend Web Applications|
+|3.3|19/06/2025|Sanchez L.|Desarrollo de las validation interviews|
+|3.4|20/06/2025|Guerrero N.|Desarrollo de correcciones en el User Story y Frontend Web Applications|
+|3.5|20/06/2025|Peña M.|Desarrollo del Sprint 3|
+|3.6|20/06/2025|Pilares M.|Desarrollo del Sprint 3|
 
 ## Project Report Collaboration Insights
 
 URL del repositorio para el reporte del proyecto: (https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4)
 URL del repositorio para el Landing Page: (https://github.com/GanTrace/LandingPage-AgroDigital)
 URL del repositorio para el desarrollo del frontend web applications: (https://github.com/GanTrace/AgroDigital--FrontendApp)
+URL del repositorio para el desarrollo del Backend Web Services: (https://github.com/GanTrace/AgroDigital-Backend)
 
 **TB1**
 
@@ -92,6 +99,21 @@ Para el desarrollo del informe perteneciente a la entrega TP, se dividió la imp
 |Rodrigo Salvador|Desarrollo de correcciones, Sprint 2 y desarrollo del Frontend Web Applications|
 |Luciana Sanchez|Desarrollo de correcciones del documento, Mejoras del Landing Page y Avance del Sprint 2|
 
+**TB3**
+
+Para el desarrollo del informe perteneciente a la entrega TB3, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+<div align="center">
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nelson Guerrero|Desarrollo de las validations interviews, correcciones del Frontend (i18n y footer) y documentación (user stories, ortografía, etc)|
+|María Peña|Desarrollo de la documentación del Sprint 3 y correcciones de sprints pasados|
+|María Pilares|Desarrollo de la documentación del Sprint 3 y correcciones de sprints pasados|
+|Rodrigo Salvador|Desarrollo de mejorías y correcciones en el frontend web applications e inicio del Backend Web Services|
+|Luciana Sanchez|Desarrollo de las validations interviews y documentación del Sprint 3|
+</div>
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
 
 **Github Collaboration Insights**
 
@@ -110,9 +132,12 @@ Se explican las ramas más prominentes:
 - **main**: Es representada por el color blanco. Se trata de la rama principal del proyecto y se actualiza para cada entregable.
 - **develop**: Es representada por el color morado. Se trata de la rama principal para el proceso del desarrollo del proyecto.
 - **feature-sprint1**: Es representada por el color morado. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
+- **feature-sprint2**: Es representada por el color celeste. Esta rama incluye los artefactos relacionados al sprint 2 en el informe.
+- **feature-sprint3**: Es representada por el color verde. Esta rama incluye los artefactos relacionados al sprint 3 en el informe.
 - **release1.0**: Es representada por el color azul. Esta rama incluye los puntos trabajados y corregidos en el proyecto.
 
 ![Branch_Graph](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/GithubRepositoryImages/NetworkGraph.jpg)
+![Branch_Graph](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/RamaGit.png)
 
 Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo. 
 
@@ -130,14 +155,27 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 ![Commit_Graph](https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/GithubRepositoryImages/Contributors5.jpg?raw=true)
 ![Commit_Graph_Individual1](https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/GithubRepositoryImages/Contributors6.jpg?raw=true)
 
+![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/PullRequestTP.png)
+![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/PullRequestTP2.png)
 
-![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/GithubRepositoryImages/Pulse.jpg)
+**TB2**
+
+![Commit_Graph](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/CommitGraphTB2.png)
+![Commit_Graph](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/CommitGraphTB2(1).png)
+![Commit_Graph](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/CommitGraphTB2(2).png)
+![Commit_Graph_Individual1](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/CommitGraphTB2(2).png)
+
+![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/PullRequestTP.png)
+![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/PullRequestTP2.png)
+![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/PullGraphTB2.png)
+![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/PullGraphTB2(1).png)
+
 
 ## Student Outcomes
 |Criterio especifico|Acciones realizadas|Conclusiones|
 |-|:-|-|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nelson Guerrero** <br> TB1: Para esta primera entrega del proyecto, me he encargado de realizar secciones del Capítulo II, como el análisis competitivo y el needfinding, haciendo uso de las herramientas adecuadas. <br> **TP:** Para la entrega final, documenté los procesos técnicos del módulo de reportes y actualicé la documentación API.<br> **María Peña** <br> TB1: Para la primera entrega realicé el capítulo 4 la creación de los diagramas de contexto, de componentes y de contenedor con c4, diagrama de clases y base de datos. <br> **TP:** En la fase final, redacté los manuales técnicos y de usuario para los nuevos módulos implementados.<br> **María Pilares** <br> TB1: Para la primera entrega, comuniqué por escrito de manera clara y efectiva el análisis de los competidores, el diseño de las entrevistas y la creación de user personas. <br> **TP:** Elaboré la documentación completa del sistema de notificaciones y actualicé el registro de versiones del proyecto.<br> **Rodrigo Salvador** <br> TB1: En el informe me he encargo de la realización del capítulo 1, el desarrollo de los puntos importantes de la startup profile, los lean ux y los segmentos objetivos. Además de la resolución del capítulo 3, en donde se definieron las user stories que se desarrollarán en el proyecto. <br> **TP:** Coordiné la redacción del paper técnico que describe la arquitectura final del sistema y su implementación.<br> **Luciana Sanchez** <br> TB1: Para el trabajo se definen las reglas de diseño y organización de un sitio web, incluyendo su estilo visual, estructura de contenido y navegación. <br> **TP:** Documenté los procesos de diseño finales y creé las guías de estilo para desarrolladores frontend.|El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nelson Guerrero** <br> TB1: Para este entregable fue necesario aprender el uso de nuevas herramientas y tener buena comunicación con el equipo para colaborar de manera uniforme y apoyarnos ante cualquier evento. <br> **TP:** Presenté la demo del módulo de reportes económicos en la revisión final con stakeholders.<br> **María Peña** <br> TB1:  A la hora de realizar el trabajo me comuniqué con mis compañeros sobre las mejoras del trabajo progresivamente.. <br> **TP:** Coordiné las reuniones técnicas para la integración de APIs externas y presentación de avances.<br> **María Pilares** <br> TB1: A lo hora de realizar el trabajo comunique activamente mis avances y desarrollo del proyecto a mi equipo de trabajo. <br> **TP:** Expuse el funcionamiento del sistema de notificaciones en las revisiones de sprint con el cliente.<br> **Rodrigo Salvador** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario la comunicación con todos los miembros de mi equipo, para una mejor organización y distribución del trabajo en grupo, dividiéndonos de forma equitativa el trabajo y apoyándonos cuando sea necesario. <br> **TP:** Lideré las presentaciones finales del proyecto ante el jurado académico y los stakeholders clave.<br> **Luciana Sanchez** <br> TB1: Para el entregable fue necesario definir las reglas del estilo visual de nuestro producto. <br> **TP:** Realicé la demostración del sistema de autenticación mejorado y su integración con los diferentes módulos.|Como equipo pudimos establecer medios de comunicación para poder entregar un trabajo completo ante el obstáculo que suponen los cortos períodos de tiempo para la entrega del proyecto. De la misma manera, se comunicaron los resultados obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa. |
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería|**Nelson Guerrero** <br> TB1: Para esta primera entrega del proyecto, me he encargado de realizar secciones del Capítulo II, como el análisis competitivo y el needfinding, haciendo uso de las herramientas adecuadas. <br> **TP:** Para la entrega final, documenté los procesos técnicos del módulo de reportes y actualicé la documentación API. <br> **TB2:** Para esta tercera entrega del proyecto me he encargado de ver correcciones en el frontend, para un apartado de mejoras, como el i18n o la mejora del footer. <br> **María Peña** <br> TB1: Para la primera entrega realicé el capítulo 4 la creación de los diagramas de contexto, de componentes y de contenedor con c4, diagrama de clases y base de datos. <br> **TP:** En la fase final, redacté los manuales técnicos y de usuario para los nuevos módulos implementados. <br> **TB2:** Para esta tercera entrega me he encargado de desarrollar los puntos de la documentación del Sprint 3, además de ver correcciones y opciones de mejora para el proyecto en general.<br> **María Pilares** <br> TB1: Para la primera entrega, comuniqué por escrito de manera clara y efectiva el análisis de los competidores, el diseño de las entrevistas y la creación de user personas. <br> **TP:** Elaboré la documentación completa del sistema de notificaciones y actualicé el registro de versiones del proyecto. <br> **TB2:** Para esta tercera entrega me he encargado de desarrollar los puntos de la documentación del Sprint 3, además de ver correcciones y opciones de mejora para el proyecto en general. <br> **Rodrigo Salvador** <br> TB1: En el informe me he encargo de la realización del capítulo 1, el desarrollo de los puntos importantes de la startup profile, los lean ux y los segmentos objetivos. Además de la resolución del capítulo 3, en donde se definieron las user stories que se desarrollarán en el proyecto. <br> **TP:** Coordiné la redacción del paper técnico que describe la arquitectura final del sistema y su implementación. <br> **TB2:** Para esta tercera entrega me he encargado del desarrollo completo del Frontend web applications en su mejora total de todos los apartados, además de ello comencé con el desarrollo del Backend Web Services para su funcionamiento junto al Frontend, creando los endpoints necesarios para ser tomados en cuenta en esta entrega.<br> **Luciana Sanchez** <br> TB1: Para el trabajo se definen las reglas de diseño y organización de un sitio web, incluyendo su estilo visual, estructura de contenido y navegación. <br> **TP:** Documenté los procesos de diseño finales y creé las guías de estilo para desarrolladores frontend. <br> **TB2:** Para esta tercera entrega me he encargado de desarrollar los puntos de la documentación del Sprint 3, además realizar las validations interviews que forman parte del proyecto.|El documento redactado se presenta como un sustento escrito para todo aquel que desee conocer a detalle los pasos seguidos para planificar, desarrollar y enviar el proyecto a producción|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| **Nelson Guerrero** <br> TB1: Para este entregable fue necesario aprender el uso de nuevas herramientas y tener buena comunicación con el equipo para colaborar de manera uniforme y apoyarnos ante cualquier evento. <br> **TP:** Presenté la demo del módulo de reportes económicos en la revisión final con stakeholders.<br> **TB2:** Para este tercer entregable fue necesario el conocimiento previo adquirido a lo largo del curso, además de guías tutoriales en base a lo realizado por nuestro profesor hasta la fecha. <br> **María Peña** <br> TB1:  A la hora de realizar el trabajo me comuniqué con mis compañeros sobre las mejoras del trabajo progresivamente.. <br> **TP:** Coordiné las reuniones técnicas para la integración de APIs externas y presentación de avances. <br> **TB2:** Para este tercer entregable fue necesario el conocimiento previo adquirido a lo largo del curso, además de guías tutoriales en base a lo realizado por nuestro profesor hasta la fecha.<br> **María Pilares** <br> TB1: A lo hora de realizar el trabajo comunique activamente mis avances y desarrollo del proyecto a mi equipo de trabajo. <br> **TP:** Expuse el funcionamiento del sistema de notificaciones en las revisiones de sprint con el cliente. <br> **TB2:** Para este tercer entregable fue necesario el conocimiento previo adquirido a lo largo del curso, además de guías tutoriales en base a lo realizado por nuestro profesor hasta la fecha. <br> **Rodrigo Salvador** <br> TB1: Para culminar la entrega de esta primera versión del trabajo final, resultó necesario la comunicación con todos los miembros de mi equipo, para una mejor organización y distribución del trabajo en grupo, dividiéndonos de forma equitativa el trabajo y apoyándonos cuando sea necesario. <br> **TP:** Lideré las presentaciones finales del proyecto ante el jurado académico y los stakeholders clave. <br> **TB2:** Para este tercer entregable fue necesario el conocimiento previo adquirido a lo largo del curso, además de guías, tutoriales, investigación previa, instalaciones de programas necesarios para lo que se requiere aprender los lenguajes de programación, además de reforzar los conocimientos realizados en clase por nuestro profesor. <br> **Luciana Sanchez** <br> TB1: Para el entregable fue necesario definir las reglas del estilo visual de nuestro producto. <br> **TP:** Realicé la demostración del sistema de autenticación mejorado y su integración con los diferentes módulos. <br> **TB2:** Para este tercer entregable fue necesario el conocimiento previo adquirido a lo largo del curso, además de guías tutoriales en base a lo realizado por nuestro profesor hasta la fecha.|Como equipo pudimos establecer medios de comunicación para poder entregar un trabajo completo ante el obstáculo que suponen los cortos períodos de tiempo para la entrega del proyecto. De la misma manera, se comunicaron los resultados obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa. |
 
 
 ## Contenido
