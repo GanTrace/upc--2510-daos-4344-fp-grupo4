@@ -1869,6 +1869,79 @@ Durante este sprint, se siguió la misma estrategia utilizada en el desarrollo d
 <div id='5.2.3.2.'><h5> 5.2.3.2. Aspect Leader and Collaborators.</h5></div>
 <div id='5.2.3.3.'><h5> 5.2.3.3. Sprint Backlog 3.</h5></div>
 <div id='5.2.3.4.'><h5> 5.2.3.4. Development Evidence for Sprint Review.</h5></div>
+
+
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla. Como el sprint #3 abarca el desarrollo de la versión final de backend, se muestran algunos commits del repositorio.
+
+|Repository| Branch | Commit id | Commit Message | Commit Message Body | Commited On(Date)|
+|----------|--------|---------- |----------------|-------------------- |------------------|
+|GanTrace/AgroDigital-Backend|feature/animals|b87e348cde72a97e6432109312ff338b872463bb|feat(profiles): add value objects for email, name and address| - |13/06/2025|
+| |feature/animals|fe880f21afd69948d4746bf54a8aba1edb606f5f|feat(profiles): implement profile command and query services| - |13/06/2025|
+| |feature/animals|b5495cdc59e07979514fdafbb298c651a0cc4949|feat(learning): implement query services, ACL and event handlers| - |13/06/2025|
+| |feature/animals|ad46418eb1c142a91f5406688ba91e44f3e8ee7a|feat(events): add command and query services for event management| - |13/06/2025|
+| |feature/animals|2800f8367d1fc8be9eecf762bb49a13a34a56e41|feat(animals): add Animal aggregate root with domain model| - |14/06/2025|
+| |feature/animals|508ac8eb756cd7728c6805775bb6ed22e8d0ec55|feat(rest): add assemblers for animal resource transformations| - |14/06/2025|
+| |feature/appoinments|bb4a86a8797313eddab74866e47b681f1c8ce362|feat(profiles): add profile domain services and REST controller| - |13/06/2025|
+| |feature/appoinments|caac12360719d78ef8dcb40e3568b5a8d61e4c2d|feat(profiles): implement profile command and query services| - |13/06/2025|
+| |feature/appoinments|46017e717882a4e3cca57b4296ba286daf74f5ba|feat(learning): add progress tracking value objects for enrollment| - |13/06/2025|
+| |feature/appoinments|3682bbbdb0eed555c475df7cf0eb19cd62de9d7a|feat(learning): add domain models for learning path and progress tracking| - |13/06/2025|
+| |feature/appoinments|119e6d67b01431e911ca9324ac9e87164056ef55|feat(events): add event repository and query service interfaces| - |13/06/2025|
+| |feature/appoinments|5d5c8a781d5f95f3fb52a11882658ebfce190968|feat(incomes): add command and query services for income management| - |14/06/2025|
+| |feature/appoinments|d3d3e1b49666278cd11d48bb894b2cceea265e6c|feat(commands): add delete command handlers for domain services| - |14/06/2025|
+| |feature/appoinments|093dc94424fc07d1f045ac3e11aea87168de3ae2|feat(patients): add patient domain model and commands| - |14/06/2025|
+| |feature/deletes|6d8c8a8666d4a9f2b2d08aa743fb452321e514d4|feat(learning): add resource records for student and course updates| - |13/06/2025|
+| |feature/deletes|a69a325a6954fa47bc672be9685d76735129bcb6|feat(learning): add course domain services and resources| - |13/06/2025| 
+| |feature/deletes|5d79b926238e83b23e331a23027c5975b625190d|feat(queries): add query records for course and enrollment retrieval| - |13/06/2025| 
+| |feature/deletes|141c62708a5e3d2811410cd9e86b77b607b19dcf|feat(events): add assembler to transform event resource to command| - |13/06/2025| 
+| |feature/deletes|e8cd2750364fca2affca95713f15d5b69c241d59|feat(animals): add query records for animal domain operations| - |14/06/2025| 
+| |feature/deletes|d1f4060c4beb98009ec9939a2e6636fb4dab4f63|feat(expenses): add repository and facade for expense management| - |14/06/2025| 
+| |feature/events|6bfa94d353b2e87fde6be1e6734bd1242dccae0b|feat(profiles): add profile command assembler and context facade| - |13/06/2025| 
+| |feature/events|fe880f21afd69948d4746bf54a8aba1edb606f5f|feat(profiles): implement profile command and query services| - |13/06/2025| 
+| |feature/events|5a94acf54a96ae056caf2fa7bfe02d48ae597d57|feat(learning): add query records and value object for student data| - |13/06/2025| 
+| |feature/events|3dd767a6957cfde05bfd6ef47eb960814ede47b0|feat(users): add user resource and controller with CRUD endpoints| - |13/06/2025| 
+| |feature/events|a24e8f3fc4a9d51cb680bed4f1d469f7c133314c|feat(users): add user aggregate and create command| - |13/06/2025| 
+| |feature/events|2414a11e252b59212d36476802bafee4831f9335|feat(events): add event command and aggregate models| - |13/06/2025| 
+| |feature/incomes-expenses|6bfa94d353b2e87fde6be1e6734bd1242dccae0b|feat(profiles): add profile command assembler and context facade| - |13/06/2025|
+| |feature/incomes-expenses|fe880f21afd69948d4746bf54a8aba1edb606f5f|feat(profiles): implement profile command and query services| - |13/06/2025| 
+| |feature/incomes-expenses|8d78d47cc3fcf73de22d2e10ab959193fff95af1|feat(students): add student controller and resource classes| - |13/06/2025| 
+| |feature/incomes-expenses|46017e717882a4e3cca57b4296ba286daf74f5ba|feat(learning): add progress tracking value objects for enrollment| - |13/06/2025| 
+| |feature/incomes-expenses|cafd8fa8323a64e6b5543da6aefcdb5ef4a46cf2|feat(events): add assembler to transform event entity to resource| - |13/06/2025| 
+| |feature/incomes-expenses|044afdad4f56472a97e7ec47b8a83f07505a7252|feat(expenses): implement command and query services for expense management| - |14/06/2025| 
+| |feature/medicalRecords|37455525820ee9676211bb8485c4f90557910167|feat(domain): add auditable base classes for entities and aggregates| - |13/06/2025|
+| |feature/medicalRecords|6607d1da6ebc16f02e68248c487617d675c885df|feat(rest/resources): add resource classes for course, learning path and student| - |13/06/2025| 
+| |feature/medicalRecords|10154dfa2da81d2290e3cd0b5efb9b26997b4e4e|feat(commands): add command records for course, enrollment and student| - |13/06/2025|
+| |feature/medicalRecords|a17041ef6e0dd1303838d526301b042a3fd62706|feat(learning): add course, student and enrollment aggregates| - |13/06/2025|
+| |feature/medicalRecords|a4e8cef24f0f3e309f60c09d565b9581103043e1|refactor(user): simplify user structure and update documentation| - |13/06/2025|
+| |feature/medicalRecords|f9081e0088171c9c3fe3d3f05e81765c13b3524b|feat(expenses): add expense management REST controller and resources| - |14/06/2025|
+| |feature/medicalRecords|a991eaf688381aa4d879d9a16b201ae57bffb02e|feat(users): add profile image support to user resources| - |14/06/2025|
+| |feature/medicalRecords|093dc94424fc07d1f045ac3e11aea87168de3ae2|feat(patients): add patient domain model and commands| - |14/06/2025|
+| |feature/medicalRecords|b6045695fe2f064c2c198c10df8eb279cbe1ac6e|feat(appointments): add query records for appointment retrieval| - |14/06/2025|
+| |feature/patients|763fc5e8c40392bd05533d3578ad181843aac846|feat(rest): add resource assemblers for learning domain| - |13/06/2025|
+| |feature/patients|f5236b90099b1f21756cb5288feed65828f5b134|feat(rest): add student enrollments, courses and enrollments controllers| - |13/06/2025|
+| |feature/patients|85e21c2dd58b3a69ed4bceaccc9b18a5c1e295f8|feat(users): implement user command and query services| - |13/06/2025|
+| |feature/patients|da93f652b1b56b46b478eeece4368637c7898143|feat(animals): add CreateAnimalCommand record for animal creation| - |14/06/2025|
+| |feature/patients|990a582e0b635cb15702021e2cfad558e6031e75|feat(animals): add resource classes for animal management| - |14/06/2025| 
+| |feature/patients|d87705ee2076a86aa090d6fbc1e5233900bc1969|feat(patients): add patient management infrastructure| - |14/06/2025| 
+| |feature/transactions|3164987d62f0534b7ffe1a7f9f1211dc34804a68|feat(transform): add assemblers for course resource transformations| - |13/06/2025|
+| |feature/transactions|f2711eb05483c2e531ea8d587c396a52ffb72800|feat(learning): add command and query services for enrollment and student| - |13/06/2025| 
+| |feature/transactions|7687c3895b52aa224d1b0dda075a093d5e37607c|feat(users): add resource assemblers for user domain| - |13/06/2025| 
+| |feature/transactions|29043481f6cded8dd4282ed064cac72ae8503014|feat(user): add password and role fields to user resources| - |13/06/2025| 
+| |feature/transactions|d4f5070f1294716f33e4bb15d6929b8e5108a5ac|feat(events): add event resource DTOs for REST API| - |13/06/2025| 
+| |feature/transactions|2ea8a1036526bf2796c80089db1b07dd6c4b74de|feat(patients): add resource to entity assemblers for patient domain| - |14/06/2025| 
+| |feature/treatments|371143b6365ea0f316a9eb95bdeed3c02d87e546|feat(profiles): add profile resource classes for REST interface| - |13/06/2025| 
+| |feature/treatments|5b191fbc65a41f984194153e69a06ee81e7e2967|feat(rest): add resource assemblers for learning module| - |13/06/2025| 
+| |feature/treatments|6f8b00ee4d7d9f8019d256324bd844b6f2bfa444|feat(treatments): implement command and query services for treatments| - |15/06/2025| 
+| |feature/treatments|0fe6a7cfe601113f495365233d31334d361637bf|feat(commands): add command records for course and enrollment operations| - |13/06/2025| 
+| |feature/treatments|45eeb2ed833c3994fb24c932307e51f85ff70ee6|feat(treatments): add resource classes for treatment operations| - |15/06/2025| 
+| |feature/treatments|e2816fe25a9be0e2856366482eeeb155711e0894|feat(treatments): add domain model for treatments management| - |15/06/2025| 
+| |feature/users|6391c66962f707a01c70d4a8939efcb910b8e164|feat(users): add user resource and context facade| - |13/06/2025|
+| |feature/users|e32ab161dfbd2f5d3ff415605a1721bde0a01f1b|feat(users): add user domain services and repository interfaces| - |13/06/2025| 
+| |feature/users|a24e8f3fc4a9d51cb680bed4f1d469f7c133314c|feat(users): add user aggregate and create command| - |13/06/2025| 
+| |feature/users|d8bd9daa3e8af99832586ace03e6abb69f0e10f6|feat(users): add role field and rename fullName to name in user resources| - |13/06/2025| 
+| |feature/users|b3bb5ebf74bd40117c8ff4d8070cbd510c66b1ad|feat(users): add role field and email validation to user model| - |13/06/2025| 
+| |feature/users|80484f580e50742b5d1a6d92b7ca29c7808f3477|feat(users): add user update functionality with profile image support| - |13/06/2025|
+
+
 <div id='5.2.3.5.'><h5> 5.2.3.5. Execution Evidence for Sprint Review.</h5></div>
 <div id='5.2.3.6.'><h5> 5.2.3.6. Services Documentation Evidence.</h5></div>
 <div id='5.2.3.7.'><h5> 5.2.3.7. Software Deployment Evidence for Sprint Review.</h5></div>
