@@ -83,6 +83,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Rodrigo Salvador|Desarrollo del Capítulo I: Introducción, Capítulo III: Requirements Specification y Capítulo V: Product Implementation, Validation & Deployment del 5.1 al 5.1.4|
 |Luciana Sanchez|Desarrollo del Capítulo IV: Product Design del 4.1 al 4.4. del documento en formato markdown. Incluyendo diseño del landing page y web application|
 </div>
+
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
 
 **TP**
@@ -97,6 +98,22 @@ Para el desarrollo del informe perteneciente a la entrega TP, se dividió la imp
 |Rodrigo Salvador|Desarrollo de correcciones, Sprint 2 y desarrollo del Frontend Web Applications|
 |Luciana Sanchez|Desarrollo de correcciones del documento, Mejoras del Landing Page y Avance del Sprint 2|
 
+**TB2**
+
+Para el desarrollo del informe perteneciente a la entrega TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+<div align="center">
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nelson Guerrero||
+|María Peña||
+|María Pilares||
+|Rodrigo Salvador|Avance del backend del proyecto y corrección de secciones del frontend. |
+|Luciana Sanchez|Realizó correcciones en diferentes secciones del frontend Web Application, actualizó el informe con el detalle del nuevo sprint |
+</div>
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
 
 **Github Collaboration Insights**
 
