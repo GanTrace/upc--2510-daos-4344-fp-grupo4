@@ -218,13 +218,28 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
 5.2.2. [Sprint 2.](#5.2.2.)<br>
 5.2.2.1. [Sprint Planning 2.](#5.2.2.1.)<br>
-5.2.2.2. [Sprint Backlog 2.](#5.2.2.2.)<br>
-5.2.2.3. [Development Evidence for Sprint Review.](#5.2.2.3.)<br>
-5.2.2.4. [Testing Suite Evidence for Sprint Review.](#5.2.2.4.)<br>
+5.2.2.2. [Aspects leaders and collaborators.](#5.2.2.2.)<br>
+5.2.2.3. [Sprint Backlog 2.](#5.2.2.3.)<br>
+5.2.2.4. [Development Evidence for Sprint Review.](#5.2.2.4.)<br>
 5.2.2.5. [Execution Evidence for Sprint Review.](#5.2.2.5.)<br>
 5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
 5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
 5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
+5.2.3. [Sprint 3.](#5.2.3.)<br>
+5.2.3.1. [Sprint Planning 3.](#5.2.3.1.)<br>
+5.2.3.2. [Aspects leaders and collaborators.](#5.2.3.2.)<br>
+5.2.3.3. [Sprint Backlog 3.](#5.2.3.3.)<br>
+5.2.3.4. [Development Evidence for Sprint Review.](#5.2.3.4.)<br>
+5.2.3.5. [Execution Evidence for Sprint Review.](#5.2.3.5.)<br>
+5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
+5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
+5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
+5.3. [Validation Interviews.](#5.3.)<br>
+5.3.1. [Diseño de entrevistas.](#5.3.1.)<br>
+5.3.2. [Registro de Entrevistas.](#5.3.2.)<br>
+5.3.3. [Evaluaciones según heurísticas.](#5.3.3.)<br>
+5.4. [Video About-the-Product](#5.4.)<br> 
+
 6. [**Conclusiones.**](#6.)<br>
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
@@ -1849,7 +1864,20 @@ Durante este sprint, se siguió la misma estrategia utilizada en el desarrollo d
 - ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.025.png)
 - ![](assets/images/sprint2/Aspose.Words.23428666-1d7b-478b-aa1d-cca9dde1bf61.026.png)
 
-
+<div id='5.2.3.'><h4> 5.2.3. Sprint 3.</h4></div>
+<div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3.</h5></div>
+<div id='5.2.3.2.'><h5> 5.2.3.2. Aspect Leader and Collaborators.</h5></div>
+<div id='5.2.3.3.'><h5> 5.2.3.3. Sprint Backlog 3.</h5></div>
+<div id='5.2.3.4.'><h5> 5.2.3.4. Development Evidence for Sprint Review.</h5></div>
+<div id='5.2.3.5.'><h5> 5.2.3.5. Execution Evidence for Sprint Review.</h5></div>
+<div id='5.2.3.6.'><h5> 5.2.3.6. Services Documentation Evidence.</h5></div>
+<div id='5.2.3.7.'><h5> 5.2.3.7. Software Deployment Evidence for Sprint Review.</h5></div>
+<div id='5.2.3.8.'><h5> 5.2.3.8. Team Collaboration Insights during Sprint.</h5></div>
+<div id='5.3.'><h3> 5.3. Validation Interviews.</h4></div>
+<div id='5.3.1.'><h4> 5.3.1. Diseño de entrevistas.</h5></div>
+<div id='5.3.2.'><h4> 5.3.2. Registro de Entrevistas.</h5></div>
+<div id='5.3.3.'><h4> 5.3.3. Evaluaciones según heurísticas.</h5></div>
+<div id='5.3.'><h3> 5.4. Video About-the-Product.</h4></div>
 
 <div id='6.'><h2> 6. Conclusiones</h2></div>
 
@@ -1883,3 +1911,5 @@ AgroDigital se ha consolidado como una solución tecnológica clave para moderni
 <div id='8.'><h2> 8. Anexos.</h2></div>
 
 Enlace para acceder a la landing page: [https://gantrace.github.io/LandingPage-AgroDigital/] (https://gantrace.github.io/LandingPage-AgroDigital/)
+
+
