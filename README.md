@@ -57,12 +57,17 @@ width=50%"/>
 |2.5|14/05/2025|Guerrero N.|Desarrollo de correcciones en el User Story y Product Backlog|
 |2.6|14/05/2025|Peña M.|Desarrollo de Correcciones del Product Design (Diagramas)|
 |2.7|14/05/2025|Peña M.|Desarrollo del Sprint 2|
+|3.1|12/06/2025|Sanchez L.|Corrección de secciones del frontend|
+|3.2|15/06/2025|Sanvador R.|Inicio del Desarrollo del Backend Web Applications|
+|3.3|19/06/2025|Sanchez L.|Desarrollo del Sprint 3|
+|3.4|20/05/2025|Guerrero N.|Desarrollo de correcciones en el User Story|
 
 ## Project Report Collaboration Insights
 
-URL del repositorio para el reporte del proyecto: (https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4)
-URL del repositorio para el Landing Page: (https://github.com/GanTrace/LandingPage-AgroDigital)
-URL del repositorio para el desarrollo del frontend web applications: (https://github.com/GanTrace/AgroDigital--FrontendApp)
+- URL del repositorio para el reporte del proyecto: (https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4)
+- URL del repositorio para el Landing Page: (https://github.com/GanTrace/LandingPage-AgroDigital)
+- URL del repositorio para el desarrollo del frontend web applications: (https://github.com/GanTrace/AgroDigital--FrontendApp)
+- URL del repositorio para el desarrollo del backend web applications: (https://github.com/GanTrace/AgroDigital-Backend)
 
 **TB1**
 
