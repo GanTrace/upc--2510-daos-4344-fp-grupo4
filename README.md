@@ -2507,8 +2507,9 @@ Escala de Severidad Los errores serán puntuados tomando en cuenta la siguiente 
 |#|Problema|Escala de severidad|Heurística/Principio violado|Tarea evaluada|
 |:-:|:-:|:-:|:-:|:-:|
 |1|Navegación lenta y con muchos pasos|3|Eficiencia y satisfacción del usuario|Navegación entre secciones|
-|2|||E|
+|2|Falta de confirmación tras guardar datos|3|Visibilidad del estado del sistema|Registro de eventos|
 |3|	No hay tutorial o guía al inicio|1|Ayuda y documentación|Primer uso de la app|
+|4|	No se puede editar un dato ya ingresado|4|Control y libertad del usuario|Gestión de animales|
 
 **Descripción de Problemas**
 
@@ -2517,15 +2518,20 @@ Escala de Severidad Los errores serán puntuados tomando en cuenta la siguiente 
 - **Tarea evaluada:** Navegación entre secciones
 - **Recomendación:** Optimizar el flujo de navegación reduciendo la cantidad de clics necesarios entre las secciones clave, implementando opciones de acceso directo.
 
-**Problema #2: **
+**Problema #2: Falta de confirmación tras guardar datos**
 
-- **Tarea evaluada:** 
-- **Recomendación:** 
+- **Tarea evaluada:** Registro de eventos
+- **Recomendación:** Añadir mensajes de confirmación como “Evento registrado con éxito” y, de ser posible, un cambio visual en la interfaz que refuerce ello.
 
 **Problema #3: 	No hay tutorial o guía al inicio**
 
 - **Tarea evaluada:** Primer uso de la app
 - **Recomendación:** Incluir un recorrido inicial con explicaciones paso a paso de las funciones básicas o un botón de ayuda accesible en todo momento.
+
+**Problema #4: 	No se puede editar un dato ya ingresado**
+
+- **Tarea evaluada:** Gestión de animales
+- **Recomendación:** Habilitar una opción de edición para corregir datos después del registro inicial, incluyendo una opción para guardar o cancelar los cambios realizados.
 
 **User Flows a Validar**
 
