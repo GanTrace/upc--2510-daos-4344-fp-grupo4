@@ -2507,6 +2507,8 @@ Escala de Severidad Los errores serán puntuados tomando en cuenta la siguiente 
 |#|Problema|Escala de severidad|Heurística/Principio violado|Tarea evaluada|
 |:-:|:-:|:-:|:-:|:-:|
 |1|Navegación lenta y con muchos pasos|3|Eficiencia y satisfacción del usuario|Navegación entre secciones|
+|2|||E|
+|3|	No hay tutorial o guía al inicio|1|Ayuda y documentación|Primer uso de la app|
 
 **Descripción de Problemas**
 
@@ -2514,6 +2516,16 @@ Escala de Severidad Los errores serán puntuados tomando en cuenta la siguiente 
 
 - **Tarea evaluada:** Navegación entre secciones
 - **Recomendación:** Optimizar el flujo de navegación reduciendo la cantidad de clics necesarios entre las secciones clave, implementando opciones de acceso directo.
+
+**Problema #2: **
+
+- **Tarea evaluada:** 
+- **Recomendación:** 
+
+**Problema #3: 	No hay tutorial o guía al inicio**
+
+- **Tarea evaluada:** Primer uso de la app
+- **Recomendación:** Incluir un recorrido inicial con explicaciones paso a paso de las funciones básicas o un botón de ayuda accesible en todo momento.
 
 **User Flows a Validar**
 
