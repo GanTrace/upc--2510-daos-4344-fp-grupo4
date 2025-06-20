@@ -2029,6 +2029,43 @@ Para este sprint, utilizamos los servicios de la API que nosotros mismos hicimos
 
 **Repositorio del backend en GitHub:** [Github_Backend](https://github.com/GanTrace/AgroDigital-Backend/)
 
+
+**Bounded Context: Animals**
+
+| **Entity** | **Endpoint URL** | **Swagger** |
+|------------|-------------------|-------------|
+| Animals    | api/v1/animals    | <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/bc_animals.jpg?raw=true" alt="" width="650px">|
+
+---
+
+**Bounded Context: Patients**
+
+| **Entity** | **Endpoint URL** | **Swagger** |
+|------------|-------------------|-------------|
+| Patients   | api/v1/patients   | <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/bc_patients.jpg?raw=true" alt="" width="650px"> |
+
+---
+
+**Bounded Context: Treatments**
+
+| **Entity** | **Endpoint URL** | **Swagger** |
+|------------|-------------------|-------------|
+| Treatments    | api/v1/treatments    | <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/bc_treatments.jpg?raw=true" alt="" width="650px"> |
+
+---
+
+**Bounded Context: Users**
+
+| **Entity** | **Endpoint URL** | **Swagger** |
+|------------|-------------------|-------------|
+| Users      | api/v1/users      | <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/bc_users.jpg?raw=true" alt="" width="650px"> |
+
+---
+
+
+
+
+
 <!--EDITANDO -->
 
 
