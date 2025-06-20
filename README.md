@@ -2401,13 +2401,13 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 
 | **Entrevista 3** ||
 |:-:|:-:|
-| Nombre |  |
-|Edad|  |
-|Departamento|  |
-|Distrito|  |
-|Minuto de inicio||
-|Captura de la entrevista||
-|Link de la entrevista| |
+| Nombre | Guillermo Berrospi |
+|Edad| 21 |
+|Departamento| Lima |
+|Distrito| San Juan de Lurigancho |
+|Minuto de inicio| 00:00:01 |
+|Captura de la entrevista| ![ganadero3] 8Imagenes/Entrevistas2/ganadero 3.png) |
+|Link de la entrevista| https://www.youtube.com/watch?v=JY0gvUOtSlE |
 
 <p align="center"><strong>Segmento Veterinarios</strong></p>
 
