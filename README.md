@@ -2493,7 +2493,14 @@ Tareas a Evaluar El alcance de esta evaluación incluye la revisión de la usabi
 
 - Registro de Diagnósticos y Tratamientos: evaluar si el veterinario puede registrar síntomas, prescripciones y observaciones de forma clara y sin errores.
 
+Escala de Severidad Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
+|**Nivel**|**Descripción**|
+|:-:|:-:|
+|1|Problema superficial: Es un inconveniente poco común o fácilmente evitable por parte del usuario. No requiere solución inmediata, a menos que haya tiempo disponible para hacerlo.|
+|2|Problema menor: Puede presentarse con mayor frecuencia o ser algo más complicado de manejar por el usuario. Se recomienda resolverlo, aunque con baja prioridad, en futuras actualizaciones.|
+|3|Problema mayor: Tiende a ocurrir frecuentemente o representa un obstáculo importante para el usuario. Su corrección debe considerarse prioritaria.|
+|4|Problema crítico: Se trata de un error que bloquea el uso normal de la aplicación. Es fundamental solucionarlo antes de lanzar el producto.|
 
 <div id='5.4.'><h3> 5.4.Video About The Product</h3></div>
 
