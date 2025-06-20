@@ -2137,22 +2137,22 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | **Entrevista 1** ||
 |:-:|:-:|
 | Nombre | Josep Melgarejo Quiroz |
-|Edad| 20 |
+|Edad| 23 |
 |Departamento| Lima |
 |Distrito| Huaral |
-|Minuto de inicio||
-|Captura de la entrevista|imagen|
-|Link de la entrevista|link|
+|Minuto de inicio|00:00:10|
+|Captura de la entrevista| ![ganadero1](Imagenes/Entrevistas2/ganadero1.png)|
+|Link de la entrevista|https://www.youtube.com/watch?v=ltvrr0KbXFM |
 
 | **Entrevista 2** ||
 |:-:|:-:|
-| Nombre |  |
-|Edad|  |
-|Departamento|  |
-|Distrito|  |
-|Minuto de inicio||
-|Captura de la entrevista||
-|Link de la entrevista||
+| Nombre | Kiara Gallardo |
+|Edad| 21 |
+|Departamento| Lima |
+|Distrito| San Miguel |
+|Minuto de inicio|00:00:18|
+|Captura de la entrevista|![ganadero2](Imagenes/Entrevistas2/ganadero2.png)|
+|Link de la entrevista|https://www.youtube.com/watch?v=VzDtATVKpZE|
 
 | **Entrevista 3** ||
 |:-:|:-:|
