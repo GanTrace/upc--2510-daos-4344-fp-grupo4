@@ -1506,7 +1506,7 @@ Link del Trello: https://trello.com/b/I1kLkHX3
             <td>Desplegar menú de creación de cuenta al interactuar con botón de creación de "Comienza Ya"</td>
             <td>2</td>
             <td>Rodrigo Salvador</td>
-            <td>To-Do</td>
+            <td>Done</td>
         </tr>
 </table>
 
@@ -1676,7 +1676,7 @@ Link del Trello: https://trello.com/invite/b/6824b282727b39fb321041b0/ATTIce885c
             <td>Implementar botones y cuadros de texto que permitan modificar los datos del animal como su vacunas</td>
             <td>2</td>
             <td>Rodrigo Salvador</td>
-            <td>In Process</td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>US08</td>
@@ -1696,7 +1696,7 @@ Link del Trello: https://trello.com/invite/b/6824b282727b39fb321041b0/ATTIce885c
             <td>Implementar datos que permitean vel el ingreso semanal</td>
             <td>1.5</td>
             <td>Maria Pilares</td>
-            <td>To Review</td>
+            <td>Done</td>
         </tr>
          <tr>
             <td>US10</td>
@@ -1803,7 +1803,7 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 En este sprint logramos, como segunda fase de nuestro producto final, desarrollar nuestra aplicación web utilizando *Angular* y *Angular Material, en conjunto con una API hecha con **JSON Server*.
 
 
-Enlace del Frontend [FrontEnd](https://agrodigital.netlify.app/login)
+Enlace del Frontend [FrontEnd](https://agrodigital.netlify.app/)
 
 ![sesion](Imagenes/Evidence_sprint2/exec_inicio_sesion.png)
 
@@ -2590,6 +2590,8 @@ En resumen, AgroDigital es más que una simple aplicación; es un testimonio del
 
 <div id='8.'><h2> 8. Anexos.</h2></div>
 
-Enlace para acceder a la landing page: [https://gantrace.github.io/LandingPage-AgroDigital/] (https://gantrace.github.io/LandingPage-AgroDigital/)
+Enlace para acceder a la landing page: [LandingPageAgrodigital] (https://gantrace.github.io/LandingPage-AgroDigital/)
+Enlace para acceder al Frontend Web Applications: [AgrodigitalFrontEnd] (https://agrodigital.netlify.app/)
+Enlace para acceder al Backend Web Services: [AgroDigitalBackend] (https://jubilant-freedom-production.up.railway.app/swagger-ui/index.html#/)
 
 
