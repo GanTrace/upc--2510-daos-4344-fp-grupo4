@@ -2027,7 +2027,7 @@ Muestra de nuestra API hecha con Spring Boot:
 
 Para este sprint, utilizamos los servicios de la API que nosotros mismos hicimos con Java en Spring Boot. A continuación, mostramos todos los endpoints realizados por nuestro equipo por cada Bounded Context correctamente documentados en Swagger.
 
-**Repositorio del backend en GitHub::** [Backend](https://github.com/GanTrace/AgroDigital-Backend/)
+**Repositorio del backend en GitHub:** [Github_Backend](https://github.com/GanTrace/AgroDigital-Backend/)
 
 <!--EDITANDO -->
 
@@ -2036,6 +2036,7 @@ Para este sprint, utilizamos los servicios de la API que nosotros mismos hicimos
 
 <!--EDITANDO -->
 
+**Link del despliegue:** [Github_Deploy](https://github.com/GanTrace/AgroDigital-Backend/)
 
 
 
