@@ -2526,10 +2526,10 @@ Escala de Severidad Los errores serán puntuados tomando en cuenta la siguiente 
 
 | **Sección** | **Descripción** |
 |:-:|:-:|
-| Resumen del Video |  |
-|Pauta de secuencias de contenido| 00:00:00: Introducción <br>00:00:10: Features<br>00:01:08: Recorrido del ganadero<br>00:03:45: Recorrido del veterinario<br>00:06:32: Cierre y conclusiones |
-|Captura representativa||
-|Link del video||
+| Resumen del Video | Se muestra el recorrido del usuario y las funcionalidades mas importantes |
+|Pauta de secuencias de contenido| 00:00:00: Landing Page <br>00:00:16: Sign In & Sign Up <br>00:01:08: Recorrido del ganadero |
+|Captura representativa|![ProJECTvIDEO](Imagenes/Entrevistas2/videoaboutheproject.png)|
+|Link del video|https://youtu.be/O_VGVKD9S-Q|
 
 <div id='6.'><h2> 6. Conclusiones</h2></div>
 
