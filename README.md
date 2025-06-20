@@ -1981,9 +1981,31 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 
 
 <div id='5.2.3.5.'><h5> 5.2.3.5. Execution Evidence for Sprint Review.</h5></div>
+
+<!--EDITANDO -->
+
+
 <div id='5.2.3.6.'><h5> 5.2.3.6. Services Documentation Evidence.</h5></div>
+
+<!--EDITANDO -->
+
+
+
+
 <div id='5.2.3.7.'><h5> 5.2.3.7. Software Deployment Evidence for Sprint Review.</h5></div>
+
+<!--EDITANDO -->
+
+
+
+
 <div id='5.2.3.8.'><h5> 5.2.3.8. Team Collaboration Insights during Sprint.</h5></div>
+
+<!--EDITANDO -->
+
+
+
+
 
 <div id='5.3.'><h3> 5.3.Validation Interviews</h3></div>
 
@@ -2134,6 +2156,9 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 |Link de la entrevista||
 
 <div id='5.3.3'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
+
+
+
 
 
 
