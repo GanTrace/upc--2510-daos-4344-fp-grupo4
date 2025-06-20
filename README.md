@@ -2423,13 +2423,13 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 
 | **Entrevista 2** ||
 |:-:|:-:|
-| Nombre |  |
-|Edad|  |
-|Departamento|  |
-|Distrito|  |
-|Minuto de inicio||
-|Captura de la entrevista||
-|Link de la entrevista||
+| Nombre | Fabian Rojas |
+|Edad| 19 |
+|Departamento| Lima |
+|Distrito| Lurigancho |
+|Minuto de inicio| 00:00:00 |
+|Captura de la entrevista| ![Veterinario 2](Imagenes/Entrevistas2/veterinario2.png)|
+|Link de la entrevista| https://youtu.be/eniZkxfaqKA |
 
 | **Entrevista 3** ||
 |:-:|:-:|
