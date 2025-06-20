@@ -1904,6 +1904,22 @@ Durante este sprint, se siguió la misma estrategia utilizada en el desarrollo d
 
 <div id='5.2.3.'><h4> 5.2.3. Sprint 3.</h4></div>
 <div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3.</h5></div>
+
+| Sprint # | Sprint 3   |
+|-------------------------|---------------------------------------|
+| **Sprint Planning Background** |                              |
+| Date | 04 de Junio de 2025    |
+| Time | 15:00 PM |
+| Location | Modalidad remota|
+| Prepared By | Rodrigo Salvador|
+| Attendees (to planning meeting) | Maria Fernanda Peña, Maria Pilares, Luciana Sanchez, Rodrigo Salvador, Nelson Guerrero |
+| Sprint 2 Review Summary  | Se llegó a desplegar la el frontend de AgroDigital, algunas de las correcciones fueron: Mejorar los diagramas de arquitectura, Refinar Landing Page con el botón de call to action, documentación Proceso técnicos, Pulir comunicación, errores ortográficos, Priorizar la coherencia entre artefactos.|
+|Sprint 2 Retrospective Summary |Se evaluó la posibilidad de mejorar el Frontend ya que no desempeñaban algunas funciones. Comenzar con la creación del Back-end creando la estructura de los bounded context y desplegar el front end con sus mejoras. |
+|**Sprint Goal & User Stories** |               |
+|Sprint Goal 3         |En este Sprint, se tiene como objetivo el desarrollar la lógica y funcionalidades principales del backend a nuestra aplicación y realizar su correspondiente despliegue.A lo largo de diferentes reuniones, se asignaron los deberes de cada estudiante con respecto al sprint. Al final del sprint, el back-end debería estar desplegado. |
+|Sprint Velocity 3         |   30    |
+|Sum of Story Points         |    33      |
+
 <div id='5.2.3.2.'><h5> 5.2.3.2. Aspect Leader and Collaborators.</h5></div>
 <div id='5.2.3.3.'><h5> 5.2.3.3. Sprint Backlog 3.</h5></div>
 <div id='5.2.3.4.'><h5> 5.2.3.4. Development Evidence for Sprint Review.</h5></div>
