@@ -2502,6 +2502,28 @@ Escala de Severidad Los errores serán puntuados tomando en cuenta la siguiente 
 |3|Problema mayor: Tiende a ocurrir frecuentemente o representa un obstáculo importante para el usuario. Su corrección debe considerarse prioritaria.|
 |4|Problema crítico: Se trata de un error que bloquea el uso normal de la aplicación. Es fundamental solucionarlo antes de lanzar el producto.|
 
+**Tabla Resumen:** la tabla de resumen muestra los problemas identificados, su nivel de severidad y el principio heurístico o diseño violado.
+
+|#|Problema|Escala de severidad|Heurística/Principio violado|Tarea evaluada|
+|:-:|:-:|:-:|:-:|:-:|
+|1|Navegación lenta y con muchos pasos|3|Eficiencia y satisfacción del usuario|Navegación entre secciones|
+
+**Descripción de Problemas**
+
+**Problema #1: Navegación lenta y con muchos pasos**
+
+- **Tarea evaluada:** Navegación entre secciones
+- **Recomendación:** Optimizar el flujo de navegación reduciendo la cantidad de clics necesarios entre las secciones clave, implementando opciones de acceso directo.
+
+**User Flows a Validar**
+
+|**Segmento Ganaderos**|**Segmento Veterinarios**|
+|:-:|:-:|
+|Registro de un Nuevo Animal: evaluar la facilidad con la que el usuario puede acceder al formulario, completar los datos básicos del animal (nombre, especie, peso, fecha de nacimiento) y guardarlo exitosamente.|Acceso al Historial Médico del Animal: evaluar la facilidad para buscar un animal y revisar su historial clínico completo: diagnósticos, tratamientos, vacunas, etc.|
+|Consulta del Estado del Ganado: evaluar la capacidad del usuario para visualizar su lista de animales, filtrar por especie o condición y entender el estado general de cada uno (vacunas, peso, salud).|Registro de un Diagnóstico o Tratamiento: verificar si el veterinario puede ingresar síntomas, prescripción y recomendaciones de manera rápida y clara durante una visita.|
+|Visualización de Reportes: eEvaluar la comprensión del usuario al ver gráficos de evolución de peso, frecuencia de enfermedades u otros indicadores visuales del hato.|Interacción con el Ganadero: validar si el veterinario puede dejar mensajes, sugerencias o alertas visibles para el ganadero desde la misma plataforma.|
+|Navegación General y Accesibilidad: verificar si el ganadero puede moverse entre pantallas sin perderse, especialmente desde un celular en zonas rurales con poca señal.|Acceso desde Dispositivos Móviles en Campo: verificar si el sistema responde bien desde una tablet o celular, con buena usabilidad y carga rápida en zonas de baja conectividad.|
+
 <div id='5.4.'><h3> 5.4.Video About The Product</h3></div>
 
 | **Sección** | **Descripción** |
