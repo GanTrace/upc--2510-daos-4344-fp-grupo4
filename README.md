@@ -2406,7 +2406,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 |Departamento| Lima |
 |Distrito| San Juan de Lurigancho |
 |Minuto de inicio| 00:00:01 |
-|Captura de la entrevista| ![ganadero3](8Imagenes/Entrevistas2/ganadero 3.png) |
+|Captura de la entrevista| ![ganadero3](Imagenes/Entrevistas2/ganadero 3.png) |
 |Link de la entrevista| https://www.youtube.com/watch?v=JY0gvUOtSlE |
 
 <p align="center"><strong>Segmento Veterinarios</strong></p>
