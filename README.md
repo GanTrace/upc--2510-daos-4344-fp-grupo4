@@ -2464,7 +2464,34 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 <div id='5.3.3'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 
 
+En esta sección se presentan las evaluaciones de usabilidad de la landing page y la aplicación web de servicios de belleza y cuidado personal, basadas en heurísticas y principios de diseño.
 
+**UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture**
+
+**Información del Proyecto**
+
+Carrera: Ingeniería de Software
+Curso: Open Source
+Auditor: Gantrace
+Cliente: Gantrace
+Site o App a Evaluar: AgroDigital
+Tareas a Evaluar El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+**Para el Segmento Ganaderos:**
+
+- Registro de Animales: evaluar la facilidad para registrar un nuevo animal, ingresar datos básicos (nombre, especie, edad, peso) y guardar correctamente la información.
+
+- Visualización del Estado del Ganado: evaluar cómo el usuario puede acceder a la lista de animales registrados, y si entiende fácilmente el estado actual de cada uno.
+
+- Registro de Eventos (vacunas, partos, enfermedades): evaluar la facilidad para registrar eventos clave, seleccionar fechas, escribir observaciones y confirmar que el evento se guardó correctamente.
+
+- Interacción con Reportes: evaluar si el ganadero puede entender reportes visuales de reproducción, historial de salud o financiero.
+
+**Para el Segmento Veterinarios:**
+
+- Visualización del Historial Clínico: evaluar la facilidad para revisar el historial completo de cada animal, incluyendo diagnósticos, tratamientos y visitas anteriores.
+
+- Registro de Diagnósticos y Tratamientos: evaluar si el veterinario puede registrar síntomas, prescripciones y observaciones de forma clara y sin errores.
 
 
 
