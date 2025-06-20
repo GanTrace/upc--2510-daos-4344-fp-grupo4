@@ -2044,7 +2044,46 @@ Para este sprint, utilizamos los servicios de la API que nosotros mismos hicimos
 
 <!--EDITANDO -->
 
+**Distribución de aportes en el informe:**
 
+**URL del repositorio para el Project Report en la organización de GitHub del equipo:** [https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4](https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4)
+
+**¿Cómo se han desarrollado las actividades de elaboración del informe?**
+
+Para el desarrollo del informe en este sprint, optamos por dividirnos el capítulo de la siguiente manera:
+
+| Integrante  | Aporte en el informe                                                                                                                                                       |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Maria       | Sprint 3, Development Evidence for Sprint Review, Validation Interviews.                                                                                           |
+| Rodrigo     | Sprint planning 3, Deployment Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+| Maria Fernanda   | Sprint 3, Development Evidence for Sprint Review, Validation Interviews, Mejora continua en Domain Driven Design Architecture, Heuristics evaluation.              |
+| Luciana  | Validation Interviews, Development Evidence for Sprint Review.                                                                                                      |
+| Nelson        | Sprint 3, Validation Interviews, Video About-the-product.                                                                                                           |
+
+
+
+Durante este sprint, al igual que para el desarrollo de la landing page, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature” para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
+
+
+---
+
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/GithubRepositoryImages/PullRequestTP2.png?raw=true" alt="" width="650px">
+
+
+---
+
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/GithubRepositoryImages/PullGraphTB2.png?raw=true" alt="" width="650px">
+
+
+---
+
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/GithubRepositoryImages/PullGraphTB2(1).png?raw=true" alt="" width="650px">
+
+
+---
 
 
 
