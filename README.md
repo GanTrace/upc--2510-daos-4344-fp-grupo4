@@ -2433,13 +2433,13 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 
 | **Entrevista 3** ||
 |:-:|:-:|
-| Nombre |  |
-|Edad|  |
-|Departamento|  |
-|Distrito|  |
-|Minuto de inicio||
-|Captura de la entrevista||
-|Link de la entrevista||
+| Nombre | Ariana Guillermo |
+|Edad| 28 |
+|Departamento| Arequipa|
+|Distrito| Cayma  |
+|Minuto de inicio| 00:00:01 |
+|Captura de la entrevista| <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/Entrevistas2/vet2.jpg?raw=true" alt="" width="650px">  |
+|Link de la entrevista| https://youtu.be/UjORd-tq15A |
 
 <div id='5.3.3'><h4> 5.3.3.Evaluaciones según heurísticas</h4></div>
 
