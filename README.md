@@ -1994,16 +1994,6 @@ Link del Trello: https://trello.com/invite/b/68550193255724d8867b7a9d/ATTIa7968a
         </tr>
         <tr>
             <td>US06</td>
-            <td>Inicio Sesion</td>
-            <td>UT13</td>
-            <td>Sección "Ingresar Cuenta"</td>
-            <td>Agregar cuadros de texto y botones que permita al usuario poder iniciar sesión el la aplicación web< td>
-            <td>2</td>
-            <td>Rodrigo Salvador</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US06</td>
             <td>Iniciar Sesión</td>
             <td>UT21</td>
             <td>Creación de las validaciones de credenciales</td>
@@ -2062,17 +2052,7 @@ Link del Trello: https://trello.com/invite/b/68550193255724d8867b7a9d/ATTIa7968a
             <td>Maria Pilares</td>
             <td>Done</td>
         </tr>
-         <tr>
-            <td>US10</td>
-            <td>Agregar Diagnóstico</td>
-            <td>UT25</td>
-            <td>Sección de diagnóstico</td>
-            <td>Agregar una tabla para registrar diagnósticos médicos vinculados a los animales.</td>
-            <td>3h</td>
-            <td>Nelson Guerrero</td>
-            <td>Done</td>
-        </tr>
-         <tr>
+        <tr>
             <td>US12</td>
             <td>Programar visita</td>
             <td>UT27</td>
