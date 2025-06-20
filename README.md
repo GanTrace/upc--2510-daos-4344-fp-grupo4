@@ -1921,6 +1921,30 @@ Durante este sprint, se siguió la misma estrategia utilizada en el desarrollo d
 |Sum of Story Points         |    33      |
 
 <div id='5.2.3.2.'><h5> 5.2.3.2. Aspect Leader and Collaborators.</h5></div>
+
+Con el fin de asegurar una distribución clara de responsabilidades y fomentar un trabajo colaborativo efectivo durante el Sprint 3 del proyecto AgroDigital, se identificaron siete aspectos clave del desarrollo:
+- **Modificaciones en el frontend**
+- **Autenticación y autorización (backend)**
+- **Gestión de datos o lógica de negocio**
+- **Integración con base de datos MySQL**
+- **API REST (creación, modificación o mejora de endpoints)**
+- **Despliegue del backend (deploy en entorno productivo o de prueba)**
+- **Documentación**
+
+Para cada uno de estos aspectos, se asignó un **líder (L)** encargado de dirigir los esfuerzos y tomar decisiones técnicas, así como uno o más **colaboradores (C)** encargados de apoyar la ejecución de tareas. La asignación de roles se realizó en función de la experiencia previa de cada integrante y buscando un equilibrio en la carga de trabajo.
+
+**Matriz de Liderazgo y Colaboración**
+
+| Integrante | GitHub  | Modificación en el frontend | Autenticación y autorización | Lógica de negocio y base de datos | API Rest | Deploy Backend | Documentation |
+|------------------------------------|-------------------|-----|-------|------|---|---|----|
+| Sánchez Silva, Luciana Celeste     | `Luccsss`         |   C   |   C   |   C   |   C   |   C   |   C   |
+| Salvador Rodríguez, Rodrigo Jesús  | `Rodrigojsr12`    |   C   |   L   |   L   |   L   |   L   |   C   |
+| Peña Riofrío, María Fernanda       | `mariafep`        |   C   |   C   |   C   |   C   |   C   |   L   |
+| Pilares Pocohuanca, María          | `mariapilares`    |   L   |   C   |   C   |   L   |   C   |   C   |
+| Guerrero Tomás, Nelson Fabrizio    | `Nelsoondev`      |   C   |   C   |   C   |   C   |   C   |   C   |
+
+Esta organización permitió trabajar con enfoque, agilidad y orden en cada aspecto crítico del sprint, fomentando la responsabilidad compartida y la comunicación entre miembros del equipo.
+
 <div id='5.2.3.3.'><h5> 5.2.3.3. Sprint Backlog 3.</h5></div>
 <div id='5.2.3.4.'><h5> 5.2.3.4. Development Evidence for Sprint Review.</h5></div>
 
