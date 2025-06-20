@@ -2073,7 +2073,8 @@ Para este sprint, utilizamos los servicios de la API que nosotros mismos hicimos
 
 <!--EDITANDO -->
 
-**Link del despliegue:** [Github_Deploy](https://github.com/GanTrace/AgroDigital-Backend/)
+**Link del despliegue:** [Github_Deploy](https://jubilant-freedom-production.up.railway.app/swagger-ui/index.html#/)
+Pssd: Actualmente inhabilitado por temas de crédito y por problemas de cors.
 
 
 
