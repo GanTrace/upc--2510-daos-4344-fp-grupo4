@@ -1949,9 +1949,9 @@ Esta organización permitió trabajar con enfoque, agilidad y orden en cada aspe
 
 En el tercer sprint backlog, el equipo terminó de corregir y completar el front-end y se realizó el backend de la aplicación con sus respectivos endpoints. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades. El objetivo principal del sprint era arreglar los bugs en el frontend y construir el backend para que sea funcional.
 
-<img alt="TrelloSprint3" src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint2/TrelloSprint2.jpg?raw=true"> #FALTA
+<img alt="TrelloSprint3" src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/TrelloSprint3.jpg?raw=true" alt="" width="650px">  
 
-Link del Trello: https://trello.com/invite/b/6824b282727b39fb321041b0/ATTIce885c2edbee0ec2381e508ff5a8acd0E62AE026/agrodigital-sprint-2 #FALTA
+Link del Trello: https://trello.com/invite/b/68550193255724d8867b7a9d/ATTIa7968ac22713e956a87c0d73b11184f4EE031BE2/agrodigital-sprint-3 
 
 <table>
         <tr>
