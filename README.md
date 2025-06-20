@@ -2427,19 +2427,19 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 |Distrito|  |
 |Minuto de inicio||
 |Captura de la entrevista||
-|Link de la entrevista||
+|Link de la entrevista| |
 
 <p align="center"><strong>Segmento Veterinarios</strong></p>
 
 | **Entrevista 1** ||
 |:-:|:-:|
-| Nombre |  |
-|Edad|  |
-|Departamento|  |
-|Distrito|  |
-|Minuto de inicio||
-|Captura de la entrevista||
-|Link de la entrevista||
+| Nombre | Marco Rodriguez |
+|Edad| 28 |
+|Departamento| Arequipa |
+|Distrito| Arequipa |
+|Minuto de inicio| 00:00:04|
+|Captura de la entrevista|![ganadero2](Imagenes/Entrevistas2/veterinario1.png)|
+|Link de la entrevista|https://youtu.be/29gs-k9gmdQ|
 
 | **Entrevista 2** ||
 |:-:|:-:|
