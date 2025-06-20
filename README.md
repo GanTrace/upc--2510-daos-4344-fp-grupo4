@@ -1946,8 +1946,156 @@ Para cada uno de estos aspectos, se asignó un **líder (L)** encargado de dirig
 Esta organización permitió trabajar con enfoque, agilidad y orden en cada aspecto crítico del sprint, fomentando la responsabilidad compartida y la comunicación entre miembros del equipo.
 
 <div id='5.2.3.3.'><h5> 5.2.3.3. Sprint Backlog 3.</h5></div>
-<div id='5.2.3.4.'><h5> 5.2.3.4. Development Evidence for Sprint Review.</h5></div>
 
+En el tercer sprint backlog, el equipo terminó de corregir y completar el front-end y se realizó el backend de la aplicación con sus respectivos endpoints. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades. El objetivo principal del sprint era arreglar los bugs en el frontend y construir el backend para que sea funcional.
+
+<img alt="TrelloSprint3" src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint2/Imagenes/Evidence_sprint2/TrelloSprint2.jpg?raw=true"> #FALTA
+
+Link del Trello: https://trello.com/invite/b/6824b282727b39fb321041b0/ATTIce885c2edbee0ec2381e508ff5a8acd0E62AE026/agrodigital-sprint-2 #FALTA
+
+<table>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="7">Sprint 3</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">WorkItem / Task</th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Hours)</th>
+            <th>Assigned To</th>
+            <th>Status(To-do/In-Process/To-Review/Done)</th>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Registrar nuevo animal</td>
+            <td>UT19</td>
+            <td>Sección de animales </td>
+            <td>Agregar una tabla con la información de los animales y permitir el ingreso de nuevos animales</td>
+            <td>3h</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Buscar animal por nombre</td>
+            <td>UT20</td>
+            <td>Búsqueda de animales</td>
+            <td>Implementar la lógica que procese las solicitudes de búsqueda por nombre del animal</td>
+            <td>3h</td>
+            <td>Camila Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Inicio Sesion</td>
+            <td>UT13</td>
+            <td>Sección "Ingresar Cuenta"</td>
+            <td>Agregar cuadros de texto y botones que permita al usuario poder iniciar sesión el la aplicación web< td>
+            <td>2</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Iniciar Sesión</td>
+            <td>UT21</td>
+            <td>Creación de las validaciones de credenciales</td>
+            <td>Implementar la validación de credenciales en el inicio de sesión, incluyendo manejo de errores para credenciales incorrectas.</td>
+            <td>2h</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US16</td>
+            <td>Registrar nuevo usuario</td>
+            <td>UT22</td>
+            <td>Sección de registro</td>
+            <td>Agregar una tabla con la información de los usuarios, incluyendo sus roles y datos básicos.</td>
+            <td>2h</td>
+            <td>Luciana Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Registrar Vacunacióm</td>
+            <td>UT23</td>
+            <td>Sección de vacunación</td>
+            <td>Agregar una tabla con la información de las vacunaciones de los animales y permitir su eliminación.</td>
+            <td>3h</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US08</td>
+            <td>Registrar Transacción</td>
+            <td>UT24</td>
+            <td>Sección de transacciones</td>
+            <td>Implementar la lógica para procesar el movimiento de las transacciones</td>
+            <td>3h</td>
+            <td>Rodrigo Salvador</td>
+            <td>To Review</td>
+        </tr>
+        <tr>
+            <td>US10</td>
+            <td>Agregar Diagnóstico</td>
+            <td>UT25</td>
+            <td>Sección de diagnóstico</td>
+            <td>Agregar una tabla para registrar diagnósticos médicos vinculados a los animales.</td>
+            <td>3h</td>
+            <td>Nelson Guerrero</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US11</td>
+            <td>Filtrar animales enfermis</td>
+            <td>UT26</td>
+            <td>Filtración de animales</td>
+            <td>Implementar la lógica para filtrar y devolver animales con diagnósticos activos o recientes.</td>
+            <td>3h</td>
+            <td>Maria Pilares</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US10</td>
+            <td>Agregar Diagnóstico</td>
+            <td>UT25</td>
+            <td>Sección de diagnóstico</td>
+            <td>Agregar una tabla para registrar diagnósticos médicos vinculados a los animales.</td>
+            <td>3h</td>
+            <td>Nelson Guerrero</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US12</td>
+            <td>Programar visita</td>
+            <td>UT27</td>
+            <td>Sección de visita con el veterinario</td>
+            <td>Agregar una tabla con la información de visitas programadas y sus detalles asociados.</td>
+            <td>3h</td>
+            <td>Maria Fernanda Peña</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US14</td>
+            <td>Ver estadísticas</td>
+            <td>UT28</td>
+            <td>API Endpoint para el manejo y demostración de la visualización de estadísticas.</td>
+            <td>Implementar endpoints que devuelvan estadísticas generales del sistema (animales, diagnósticos, etc.).</td>
+            <td>3h</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+</table>
+
+
+<div id='5.2.3.4.'><h5> 5.2.3.4. Development Evidence for Sprint Review.</h5></div>
 
 Como parte de las evidencias del sprint review, se demuestran mediante una tabla. Como el sprint #3 abarca el desarrollo de la versión final de backend, se muestran algunos commits del repositorio.
 
