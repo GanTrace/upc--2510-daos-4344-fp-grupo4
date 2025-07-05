@@ -2526,10 +2526,10 @@ Escala de Severidad Los errores serán puntuados tomando en cuenta la siguiente 
 
 | **Sección** | **Descripción** |
 |:-:|:-:|
-| Resumen del Video | Se muestra el recorrido del usuario y las funcionalidades mas importantes |
+| Resumen del Video | Descubre AgroDigital, la plataforma web todo-en-uno que digitaliza la gestión ganadera: registra y monitorea tu hato, programa eventos sanitarios, accede al historial clínico, controla tus finanzas y genera reportes en tiempo real, todo desde escritorio o móvil, con la confianza de usuarios como Ricardo, que ya optimizan su productividad y reducen costos gracias a AgroDigital. |
 |Pauta de secuencias de contenido| 00:00:00: Landing Page <br>00:00:16: Sign In & Sign Up <br>00:01:08: Recorrido del ganadero |
 |Captura representativa|![ProJECTvIDEO](Imagenes/Entrevistas2/videoaboutheproject.png)|
-|Link del video|https://youtu.be/O_VGVKD9S-Q|
+|Link del video|https://youtu.be/sKrjYffh9yU|
 
 <div id='6.'><h2> 6. Conclusiones</h2></div>
 
