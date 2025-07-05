@@ -2336,6 +2336,109 @@ Para cada uno de estos aspectos, se asignó un **líder (L)** encargado de dirig
 
 Esta organización permitió trabajar con enfoque, agilidad y orden en cada aspecto crítico del sprint, fomentando la responsabilidad compartida y la comunicación entre miembros del equipo.
 
+
+
+<div id='5.2.4.3.'><h5> 5.2.4.3. Sprint Backlog 4.</h5></div>
+
+En el cuarto sprint backlog, el equipo finalizó de corregir y completar los últimos detalles del front-end y se realizó el backend de la aplicación con sus respectivos endpoints. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades. El objetivo principal del sprint era arreglar los bugs en el frontend y construir el backend para que sea funcional.
+
+Link del Trello: https://trello.com/invite/b/68550193255724d8867b7a9d/ATTIa7968ac22713e956a87c0d73b11184f4EE031BE2/agrodigital-sprint-3 
+
+<table>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="7">Sprint 4</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">WorkItem / Task</th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Hours)</th>
+            <th>Assigned To</th>
+            <th>Status(To-do/In-Process/To-Review/Done)</th>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Registrar Vacunación</td>
+            <td>UT23</td>
+            <td>Sección de vacunación</td>
+            <td>Agregar una tabla con la información de las vacunaciones de los animales y permitir su eliminación.</td>
+            <td>3h</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US08</td>
+            <td>Registrar Transacción</td>
+            <td>UT24</td>
+            <td>Sección de transacciones</td>
+            <td>Implementar la lógica para procesar el movimiento de las transacciones</td>
+            <td>3h</td>
+            <td>Maria Pilares</td>
+            <td>To Review</td>
+        </tr>
+        <tr>
+            <td>US10</td>
+            <td>Agregar Diagnóstico</td>
+            <td>UT25</td>
+            <td>Sección de diagnóstico</td>
+            <td>Agregar una tabla para registrar diagnósticos médicos vinculados a los animales.</td>
+            <td>3h</td>
+            <td>Nelson Guerrero</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US11</td>
+            <td>Filtrar animales enfermos</td>
+            <td>UT26</td>
+            <td>Filtración de animales</td>
+            <td>Implementar la lógica para filtrar y devolver animales con diagnósticos activos o recientes.</td>
+            <td>3h</td>
+            <td>Maria Pilares</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US12</td>
+            <td>Programar visita</td>
+            <td>UT27</td>
+            <td>Sección de visita con el veterinario</td>
+            <td>Agregar una tabla con la información de visitas programadas y sus detalles asociados.</td>
+            <td>3h</td>
+            <td>Maria Fernanda Peña</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>US14</td>
+            <td>Ver estadísticas</td>
+            <td>UT28</td>
+            <td>API Endpoint para el manejo y demostración de la visualización de estadísticas.</td>
+            <td>Implementar endpoints que devuelvan estadísticas generales del sistema (animales, diagnósticos, etc.).</td>
+            <td>3h</td>
+            <td>Rodrigo Salvador</td>
+            <td>Done</td>
+        </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--EDITANDO -->
 
 
