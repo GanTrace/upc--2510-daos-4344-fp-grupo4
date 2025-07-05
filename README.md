@@ -2473,6 +2473,47 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 
 
 
+<div id='5.2.4.5.'><h5> 5.2.4.5. Execution Evidence for Sprint Review.</h5></div>
+
+<!--EDITANDO -->
+En este sprint, logramos como cuarta y última fase de nuestro producto final, desarrollar la API hecha con Java en Spring Boot.
+Muestra de nuestra API hecha con Spring Boot:
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/swagger1.jpg?raw=true" alt="" width="650px">
+
+
+---
+
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/swagger2.jpg?raw=true" alt="" width="650px">
+
+
+---
+
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/swagger3.jpg?raw=true" alt="" width="650px">
+
+
+---
+
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/swagger4.jpg?raw=true" alt="" width="650px">
+
+
+---
+
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/swagger5.jpg?raw=true" alt="" width="650px">
+
+
+---
+
+
+<img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/swagger6.jpg?raw=true" alt="" width="650px">
+
+
+
+
 
 
 
