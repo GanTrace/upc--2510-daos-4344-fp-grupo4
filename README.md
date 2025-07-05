@@ -2561,6 +2561,15 @@ Para este último sprint, utilizamos los servicios de la API que nosotros mismos
 
 
 
+<div id='5.2.4.7.'><h5> 5.2.4.7. Software Deployment Evidence for Sprint Review.</h5></div>
+
+<!--EDITANDO -->
+
+**Link del despliegue:** [Github_Deploy]()
+
+
+---
+
 
 
 
