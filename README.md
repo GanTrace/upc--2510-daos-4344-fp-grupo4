@@ -2572,6 +2572,33 @@ Para este último sprint, utilizamos los servicios de la API que nosotros mismos
 
 
 
+<div id='5.2.4.8.'><h5> 5.2.4.8. Team Collaboration Insights during Sprint.</h5></div>
+
+<!--EDITANDO -->
+
+**Distribución de aportes en el informe:**
+
+**URL del repositorio para el Project Report en la organización de GitHub del equipo:** [https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4](https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4)
+
+**¿Cómo se han desarrollado las actividades de elaboración del informe?**
+
+Para el desarrollo del informe en este sprint, optamos por dividirnos el capítulo de la siguiente manera:
+
+| Integrante  | Aporte en el informe                                                                                                                                                       |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Maria       | Sprint 4, Development Evidence for Sprint Review,, Software Deployment Evidence for Sprint Review, Validation Interviews, Video About-the-product.                                                                                           |
+| Rodrigo     | Sprint planning 4, Deployment Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+| Maria Fernanda   | Sprint 4, Development Evidence for Sprint Review, Validation Interviews, Mejora continua en Domain Driven Design Architecture, Heuristics evaluation.              |
+| Luciana  | Validation Interviews, Development Evidence for Sprint Review.                                                                                                      |
+| Nelson        | Sprint 4, Validation Interviews.                                                                                                           |
+
+
+
+Durante este último sprint, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature” para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
+
+
+---
+
 
 
 
