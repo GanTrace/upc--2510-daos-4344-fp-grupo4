@@ -2290,6 +2290,30 @@ Durante este sprint, al igual que para el desarrollo de la landing page, para pr
 
 
 ---
+<!--EDITANDO -->
+
+<div id='5.2.4.'><h4> 5.2.4. Sprint 4.</h4></div>
+<div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4.</h5></div>
+
+| Sprint # | Sprint 4   |
+|-------------------------|---------------------------------------|
+| **Sprint Planning Background** |                              |
+| Date | 01 de Julio de 2025    |
+| Time | 17:00 PM |
+| Location | Modalidad remota|
+| Prepared By | Maria Pilares|
+| Attendees (to planning meeting) | Maria Fernanda Peña, Maria Pilares, Luciana Sanchez, Rodrigo Salvador, Nelson Guerrero |
+| Sprint 4 Review Summary  | Se llegó a desplegar la el backend de AgroDigital, algunas de las correcciones fueron: Mejorar los diagramas de arquitectura, Refinar Landing Page con el botón de call to action, documentación Proceso técnicos, Pulir comunicación, errores ortográficos, Priorizar la coherencia entre artefactos.|
+|Sprint 4 Retrospective Summary |Se evaluó la posibilidad de mejorar el Frontend ya que no desempeñaban algunas funciones. Comenzar con la creación del Back-end creando la estructura de los bounded context y desplegar el front end con sus mejoras. |
+|**Sprint Goal & User Stories** |               |
+|Sprint Goal 4         |En este Sprint, se tiene como objetivo el desarrollar la lógica y funcionalidades principales del backend a nuestra aplicación y realizar su correspondiente despliegue.A lo largo de diferentes reuniones, se asignaron los deberes de cada estudiante con respecto al sprint. Al final del sprint, el back-end debería estar desplegado. |
+|Sprint Velocity 4         |   30    |
+|Sum of Story Points         |    33      |
+
+
+
+<!--EDITANDO -->
+
 
 
 
