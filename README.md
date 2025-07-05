@@ -2382,7 +2382,7 @@ Link del Trello: https://trello.com/invite/b/68550193255724d8867b7a9d/ATTIa7968a
             <td>Implementar la lógica para procesar el movimiento de las transacciones</td>
             <td>3h</td>
             <td>Maria Pilares</td>
-            <td>To Review</td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>US10</td>
