@@ -2512,6 +2512,54 @@ Muestra de nuestra API hecha con Spring Boot:
 <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/swagger6.jpg?raw=true" alt="" width="650px">
 
 
+---
+
+
+
+
+<div id='5.2.4.6.'><h5> 5.2.4.6. Services Documentation Evidence.</h5></div>
+
+<!--EDITANDO -->
+
+Para este último sprint, utilizamos los servicios de la API que nosotros mismos hicimos con Java en Spring Boot. A continuación, mostramos todos los endpoints realizados por nuestro equipo por cada Bounded Context correctamente documentados en Swagger.
+
+**Repositorio del backend en GitHub:** [Github_Backend](https://github.com/GanTrace/AgroDigital-Backend/)
+
+---
+
+**Bounded Context: Users**
+
+| **Entity** | **Endpoint URL** | **Swagger** |
+|------------|-------------------|-------------|
+| Users      | api/v1/users      | <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/bc_users.jpg?raw=true" alt="" width="650px"> |
+
+---
+
+**Bounded Context: Animals**
+
+| **Entity** | **Endpoint URL** | **Swagger** |
+|------------|-------------------|-------------|
+| Animals    | api/v1/animals    | <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/bc_animals.jpg?raw=true" alt="" width="650px">|
+
+---
+
+**Bounded Context: Treatments**
+
+| **Entity** | **Endpoint URL** | **Swagger** |
+|------------|-------------------|-------------|
+| Treatments    | api/v1/treatments    | <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/bc_treatments.jpg?raw=true" alt="" width="650px"> |
+
+---
+
+**Bounded Context: Patients**
+
+| **Entity** | **Endpoint URL** | **Swagger** |
+|------------|-------------------|-------------|
+| Patients   | api/v1/patients   | <img src="https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4/blob/feature/sprint3/Imagenes/bc_patients.jpg?raw=true" alt="" width="650px"> |
+
+---
+
+
 
 
 
