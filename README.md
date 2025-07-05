@@ -2428,6 +2428,47 @@ Link del Trello: https://trello.com/invite/b/68550193255724d8867b7a9d/ATTIa7968a
 
 
 
+<div id='5.2.4.4.'><h5> 5.2.4.4. Development Evidence for Sprint Review.</h5></div>
+
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla. Como el sprint #4 abarca el desarrollo de la versión final de backend, se muestran algunos commits del repositorio.
+
+|Repository| Branch | Commit id | Commit Message | Commit Message Body | Commited On(Date)|
+|----------|--------|---------- |----------------|-------------------- |------------------|
+|GanTrace/AgroDigital-Backend|feature/animals|b87e348cde72a97e6432109312ff338b872463bb|feat(profiles): add value objects for email, name and address| - |01/07/2025|
+| |feature/incomes-expenses|6bfa94d353b2e87fde6be1e6734bd1242dccae0b|feat(profiles): add profile command assembler and context facade| - |01/07/2025|
+| |feature/incomes-expenses|fe880f21afd69948d4746bf54a8aba1edb606f5f|feat(profiles): implement profile command and query services| - |01/07/2025| 
+| |feature/incomes-expenses|8d78d47cc3fcf73de22d2e10ab959193fff95af1|feat(students): add student controller and resource classes| - |01/07/2025| 
+| |feature/incomes-expenses|46017e717882a4e3cca57b4296ba286daf74f5ba|feat(learning): add progress tracking value objects for enrollment| - |01/07/2025| 
+| |feature/incomes-expenses|cafd8fa8323a64e6b5543da6aefcdb5ef4a46cf2|feat(events): add assembler to transform event entity to resource| - |01/07/2025| 
+| |feature/incomes-expenses|044afdad4f56472a97e7ec47b8a83f07505a7252|feat(expenses): implement command and query services for expense management| - |02/07/2025| 
+| |feature/medicalRecords|37455525820ee9676211bb8485c4f90557910167|feat(domain): add auditable base classes for entities and aggregates| - |01/07/2025|
+| |feature/medicalRecords|6607d1da6ebc16f02e68248c487617d675c885df|feat(rest/resources): add resource classes for course, learning path and student| - |01/07/2025| 
+| |feature/medicalRecords|10154dfa2da81d2290e3cd0b5efb9b26997b4e4e|feat(commands): add command records for course, enrollment and student| - |01/07/2025|
+| |feature/medicalRecords|a17041ef6e0dd1303838d526301b042a3fd62706|feat(learning): add course, student and enrollment aggregates| - |01/07/2025|
+| |feature/medicalRecords|a4e8cef24f0f3e309f60c09d565b9581103043e1|refactor(user): simplify user structure and update documentation| - |01/07/2025|
+| |feature/medicalRecords|f9081e0088171c9c3fe3d3f05e81765c13b3524b|feat(expenses): add expense management REST controller and resources| - |02/07/2025|
+| |feature/medicalRecords|a991eaf688381aa4d879d9a16b201ae57bffb02e|feat(users): add profile image support to user resources| - |02/07/2025|
+| |feature/medicalRecords|093dc94424fc07d1f045ac3e11aea87168de3ae2|feat(patients): add patient domain model and commands| - |02/07/2025|
+| |feature/medicalRecords|b6045695fe2f064c2c198c10df8eb279cbe1ac6e|feat(appointments): add query records for appointment retrieval| - |02/07/2025|
+| |feature/patients|763fc5e8c40392bd05533d3578ad181843aac846|feat(rest): add resource assemblers for learning domain| - |01/07/2025|
+| |feature/patients|f5236b90099b1f21756cb5288feed65828f5b134|feat(rest): add student enrollments, courses and enrollments controllers| - |01/07/2025|
+| |feature/patients|85e21c2dd58b3a69ed4bceaccc9b18a5c1e295f8|feat(users): implement user command and query services| - |01/07/2025|
+| |feature/patients|da93f652b1b56b46b478eeece4368637c7898143|feat(animals): add CreateAnimalCommand record for animal creation| - |02/07/2025|
+| |feature/patients|990a582e0b635cb15702021e2cfad558e6031e75|feat(animals): add resource classes for animal management| - |02/07/2025| 
+| |feature/patients|d87705ee2076a86aa090d6fbc1e5233900bc1969|feat(patients): add patient management infrastructure| - |02/07/2025| 
+| |feature/transactions|3164987d62f0534b7ffe1a7f9f1211dc34804a68|feat(transform): add assemblers for course resource transformations| - |01/07/2025|
+| |feature/transactions|f2711eb05483c2e531ea8d587c396a52ffb72800|feat(learning): add command and query services for enrollment and student| - |02/07/2025| 
+| |feature/transactions|7687c3895b52aa224d1b0dda075a093d5e37607c|feat(users): add resource assemblers for user domain| - |01/07/2025| 
+| |feature/transactions|29043481f6cded8dd4282ed064cac72ae8503014|feat(user): add password and role fields to user resources| - |01/07/2025| 
+| |feature/transactions|d4f5070f1294716f33e4bb15d6929b8e5108a5ac|feat(events): add event resource DTOs for REST API| - |01/07/2025| 
+| |feature/transactions|2ea8a1036526bf2796c80089db1b07dd6c4b74de|feat(patients): add resource to entity assemblers for patient domain| - |02/07/2025| 
+| |feature/treatments|371143b6365ea0f316a9eb95bdeed3c02d87e546|feat(profiles): add profile resource classes for REST interface| - |01/07/2025| 
+| |feature/treatments|5b191fbc65a41f984194153e69a06ee81e7e2967|feat(rest): add resource assemblers for learning module| - |01/07/2025| 
+| |feature/treatments|6f8b00ee4d7d9f8019d256324bd844b6f2bfa444|feat(treatments): implement command and query services for treatments| - |03/07/2025| 
+| |feature/treatments|0fe6a7cfe601113f495365233d31334d361637bf|feat(commands): add command records for course and enrollment operations| - |01/07/2025| 
+| |feature/treatments|45eeb2ed833c3994fb24c932307e51f85ff70ee6|feat(treatments): add resource classes for treatment operations| - |03/07/2025| 
+| |feature/treatments|e2816fe25a9be0e2856366482eeeb155711e0894|feat(treatments): add domain model for treatments management| - |03/07/2025| 
+
 
 
 
