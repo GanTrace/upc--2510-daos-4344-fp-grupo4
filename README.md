@@ -2938,8 +2938,9 @@ En resumen, AgroDigital es más que una simple aplicación; es un testimonio del
 
 <div id='8.'><h2> 8. Anexos.</h2></div>
 
-Enlace para acceder a la landing page: [LandingPageAgrodigital] (https://gantrace.github.io/LandingPage-AgroDigital/)
-Enlace para acceder al Frontend Web Applications: [AgrodigitalFrontEnd] (https://agrodigital.netlify.app/)
-Enlace para acceder al Backend Web Services: [AgroDigitalBackend] ()
-Enlace video about the product: [Video About-the-product](https://youtu.be/sKrjYffh9yU)
+Enlace para acceder a la landing page: ![LandingPageAgrodigital](https://gantrace.github.io/LandingPage-AgroDigital/)
+Enlace para acceder al Frontend Web Applications: ![AgrodigitalFrontEnd](https://agrodigital.netlify.app/)
+Enlace para acceder al Backend Web Services: ![AgroDigitalBackend] ()
+Enlace video about the product: ![Video About-the-product](https://youtu.be/sKrjYffh9yU)
+Enlace video about the team: ![Video About-the-team](https://youtu.be/nEbS0xeoUqU)
 
