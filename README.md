@@ -63,13 +63,25 @@ width=50%"/>
 |3.4|20/06/2025|Guerrero N.|Desarrollo de correcciones en el User Story y Frontend Web Applications|
 |3.5|20/06/2025|Peña M.|Desarrollo del Sprint 3|
 |3.6|20/06/2025|Pilares M.|Desarrollo del Sprint 3|
+|4.1|05/07/2025|Salvador R, Pilares M, Guerrero N, Sanchez L, Peña M.|Desarrollo del Sprint 4|
+
+
 
 ## Project Report Collaboration Insights
 
 URL del repositorio para el reporte del proyecto: (https://github.com/GanTrace/upc--2510-daos-4344-fp-grupo4)
+
 URL del repositorio para el Landing Page: (https://github.com/GanTrace/LandingPage-AgroDigital)
+
 URL del repositorio para el desarrollo del frontend web applications: (https://github.com/GanTrace/AgroDigital--FrontendApp)
+
 URL del repositorio para el desarrollo del Backend Web Services: (https://github.com/GanTrace/AgroDigital-Backend)
+
+URL del deploy para el Landing Page: (https://gantrace.github.io/LandingPage-AgroDigital/)
+
+URL del deploy del frontend web applications: (https://agrodigital.netlify.app/)
+
+URL del repositorio para el desarrollo del Backend Web Services: ()
 
 **TB1**
 
@@ -99,9 +111,9 @@ Para el desarrollo del informe perteneciente a la entrega TP, se dividió la imp
 |Rodrigo Salvador|Desarrollo de correcciones, Sprint 2 y desarrollo del Frontend Web Applications|
 |Luciana Sanchez|Desarrollo de correcciones del documento, Mejoras del Landing Page y Avance del Sprint 2|
 
-**TB3**
+**TB2**
 
-Para el desarrollo del informe perteneciente a la entrega TB3, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+Para el desarrollo del informe perteneciente a la entrega TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
 <div align="center">
 
@@ -112,6 +124,22 @@ Para el desarrollo del informe perteneciente a la entrega TB3, se dividió la im
 |María Pilares|Desarrollo de la documentación del Sprint 3 y correcciones de sprints pasados|
 |Rodrigo Salvador|Desarrollo de mejorías y correcciones en el frontend web applications e inicio del Backend Web Services|
 |Luciana Sanchez|Desarrollo de las validations interviews y documentación del Sprint 3|
+</div>
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
+
+**TF**
+
+Para el desarrollo del informe perteneciente a la entrega TF, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+<div align="center">
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Nelson Guerrero|Desarrollo de las validations interviews, correcciones del Frontend (i18n y footer)|
+|María Peña|Desarrollo de la documentación del Sprint 4 y correcciones de sprints pasados|
+|María Pilares|Desarrollo de la documentación del Sprint 4 y correcciones de sprints pasados|
+|Rodrigo Salvador|Desarrollo de mejorías y correcciones en el frontend web applications y realización completa del Backend Web Services|
+|Luciana Sanchez|Documentación del Sprint 4, Video about the product y about the team|
 </div>
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización GanTrace.
 
@@ -134,6 +162,7 @@ Se explican las ramas más prominentes:
 - **feature-sprint1**: Es representada por el color morado. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
 - **feature-sprint2**: Es representada por el color celeste. Esta rama incluye los artefactos relacionados al sprint 2 en el informe.
 - **feature-sprint3**: Es representada por el color verde. Esta rama incluye los artefactos relacionados al sprint 3 en el informe.
+- **feature-sprint4**: Es representada por el color naranja. Esta rama incluye los artefactos relacionados al sprint 4 en el informe.
 - **release1.0**: Es representada por el color azul. Esta rama incluye los puntos trabajados y corregidos en el proyecto.
 
 ![Branch_Graph](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/main/Imagenes/GithubRepositoryImages/NetworkGraph.jpg)
@@ -159,6 +188,18 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 ![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/PullRequestTP2.png)
 
 **TB2**
+
+![Commit_Graph](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/CommitGraphTB2.png)
+![Commit_Graph](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/CommitGraphTB2(1).png)
+![Commit_Graph](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/CommitGraphTB2(2).png)
+![Commit_Graph_Individual1](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/CommitGraphTB2(2).png)
+
+![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/PullRequestTP.png)
+![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/PullRequestTP2.png)
+![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/PullGraphTB2.png)
+![Pull_Graphs](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/PullGraphTB2(1).png)
+
+**TF**
 
 ![Commit_Graph](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/CommitGraphTB2.png)
 ![Commit_Graph](https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/feature/sprint3/Imagenes/GithubRepositoryImages/CommitGraphTB2(1).png)
@@ -2370,7 +2411,7 @@ Link del Trello: https://trello.com/invite/b/68550193255724d8867b7a9d/ATTIa7968a
             <td>UT23</td>
             <td>Sección de vacunación</td>
             <td>Agregar una tabla con la información de las vacunaciones de los animales y permitir su eliminación.</td>
-            <td>3h</td>
+            <td>4h</td>
             <td>Rodrigo Salvador</td>
             <td>Done</td>
         </tr>
@@ -2380,7 +2421,7 @@ Link del Trello: https://trello.com/invite/b/68550193255724d8867b7a9d/ATTIa7968a
             <td>UT24</td>
             <td>Sección de transacciones</td>
             <td>Implementar la lógica para procesar el movimiento de las transacciones</td>
-            <td>3h</td>
+            <td>4h</td>
             <td>Maria Pilares</td>
             <td>Done</td>
         </tr>
@@ -2390,7 +2431,7 @@ Link del Trello: https://trello.com/invite/b/68550193255724d8867b7a9d/ATTIa7968a
             <td>UT25</td>
             <td>Sección de diagnóstico</td>
             <td>Agregar una tabla para registrar diagnósticos médicos vinculados a los animales.</td>
-            <td>3h</td>
+            <td>4h</td>
             <td>Nelson Guerrero</td>
             <td>Done</td>
         </tr>
@@ -2400,7 +2441,7 @@ Link del Trello: https://trello.com/invite/b/68550193255724d8867b7a9d/ATTIa7968a
             <td>UT26</td>
             <td>Filtración de animales</td>
             <td>Implementar la lógica para filtrar y devolver animales con diagnósticos activos o recientes.</td>
-            <td>3h</td>
+            <td>4h</td>
             <td>Maria Pilares</td>
             <td>Done</td>
         </tr>
@@ -2410,7 +2451,7 @@ Link del Trello: https://trello.com/invite/b/68550193255724d8867b7a9d/ATTIa7968a
             <td>UT27</td>
             <td>Sección de visita con el veterinario</td>
             <td>Agregar una tabla con la información de visitas programadas y sus detalles asociados.</td>
-            <td>3h</td>
+            <td>4h</td>
             <td>Maria Fernanda Peña</td>
             <td>Done</td>
         </tr>
@@ -2420,7 +2461,7 @@ Link del Trello: https://trello.com/invite/b/68550193255724d8867b7a9d/ATTIa7968a
             <td>UT28</td>
             <td>API Endpoint para el manejo y demostración de la visualización de estadísticas.</td>
             <td>Implementar endpoints que devuelvan estadísticas generales del sistema (animales, diagnósticos, etc.).</td>
-            <td>3h</td>
+            <td>4h</td>
             <td>Rodrigo Salvador</td>
             <td>Done</td>
         </tr>
@@ -2890,6 +2931,6 @@ En resumen, AgroDigital es más que una simple aplicación; es un testimonio del
 
 Enlace para acceder a la landing page: [LandingPageAgrodigital] (https://gantrace.github.io/LandingPage-AgroDigital/)
 Enlace para acceder al Frontend Web Applications: [AgrodigitalFrontEnd] (https://agrodigital.netlify.app/)
-Enlace para acceder al Backend Web Services: [AgroDigitalBackend] (https://jubilant-freedom-production.up.railway.app/swagger-ui/index.html#/)
+Enlace para acceder al Backend Web Services: [AgroDigitalBackend] ()
 
 
