@@ -81,7 +81,7 @@ URL del deploy para el Landing Page: (https://gantrace.github.io/LandingPage-Agr
 
 URL del deploy del frontend web applications: (https://agrodigital.netlify.app/)
 
-URL del repositorio para el desarrollo del Backend Web Services: ()
+URL del repositorio para el desarrollo del Backend Web Services: (https://agrodigital-backend-ntz1.onrender.com/swagger-ui/index.html#/)
 
 **TB1**
 
@@ -2291,8 +2291,8 @@ Para este sprint, utilizamos los servicios de la API que nosotros mismos hicimos
 
 <!--EDITANDO -->
 
-**Link del despliegue:** [Github_Deploy](https://jubilant-freedom-production.up.railway.app/swagger-ui/index.html#/)
-Pssd: Actualmente inhabilitado por temas de crédito y por problemas de cors.
+**Link del despliegue:** https://agrodigital-backend-ntz1.onrender.com/swagger-ui/index.html#/
+
 
 
 
@@ -2574,7 +2574,7 @@ Muestra de nuestra API hecha con Spring Boot:
 
 Para este último sprint, utilizamos los servicios de la API que nosotros mismos hicimos con Java en Spring Boot. A continuación, mostramos todos los endpoints realizados por nuestro equipo por cada Bounded Context correctamente documentados en Swagger.
 
-**Repositorio del backend en GitHub:** [Github_Backend](https://github.com/GanTrace/AgroDigital-Backend/)
+**Repositorio del backend en GitHub:** [Github_Backend] (https://github.com/GanTrace/AgroDigital-Backend/)
 
 ---
 
@@ -2616,7 +2616,7 @@ Para este último sprint, utilizamos los servicios de la API que nosotros mismos
 
 <!--EDITANDO -->
 
-**Link del despliegue:** [Github_Deploy](https://agrodigital-backend-ntz1.onrender.com/swagger-ui/)
+**Link del despliegue:** https://agrodigital-backend-ntz1.onrender.com/swagger-ui/index.html#/
 
 
 ---
@@ -2938,9 +2938,9 @@ En resumen, AgroDigital es más que una simple aplicación; es un testimonio del
 
 <div id='8.'><h2> 8. Anexos.</h2></div>
 
-Enlace para acceder a la landing page: [LandingPageAgrodigital](https://gantrace.github.io/LandingPage-AgroDigital/)
-Enlace para acceder al Frontend Web Applications: [AgrodigitalFrontEnd](https://agrodigital.netlify.app/)
-Enlace para acceder al Backend Web Services: [AgroDigitalBackend](https://agrodigital-backend-ntz1.onrender.com/swagger-ui/)
-Enlace video about the product: [Video About-the-product](https://youtu.be/sKrjYffh9yU)
-Enlace video about the team: [Video About-the-team](https://youtu.be/nEbS0xeoUqU)
+Enlace para acceder a la landing page: https://gantrace.github.io/LandingPage-AgroDigital/
+Enlace para acceder al Frontend Web Applications: https://agrodigital.netlify.app/
+Enlace para acceder al Backend Web Services: https://agrodigital-backend-ntz1.onrender.com/swagger-ui/index.html#/
+Enlace video about the product: https://youtu.be/sKrjYffh9yU
+Enlace video about the team: https://youtu.be/nEbS0xeoUqU
 
